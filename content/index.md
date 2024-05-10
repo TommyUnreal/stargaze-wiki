@@ -1,3 +1,10 @@
+---
+title: "Test"
+draft: false
+tags:
+  - 
+---
+
 Každá hráčská postava má 12 hit pointů. Není-li řečeno jinak, postava při zranění označí náhodný hit point. Traitem *Tough* lze získat bonusový 13. hit point. 
 #### Vyřazení, Fate roll a Smrt
 Pokud postava nemá žádný hit point, do kterého by hráč mohl označit zranění, je vyřazená (omráčená, neschopná akcí).
