@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Zranění"
 draft: false
 tags:
   - 
