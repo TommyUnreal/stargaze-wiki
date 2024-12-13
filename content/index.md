@@ -10,8 +10,12 @@
       * [[Synthetix]]
       * [[Turgall Company]]
     * Pravidla
-      * Hráči
-        * [[Zranění]]
+      * [[Action Points (AP)]]
+      * [[Schopnosti]]
+      * [[Souboj]]
+      * [[Traity]]
+      * [[Změna Odstínu Kostky]]
+      * [[Zranění]]
     * Předměty
       * Měny
         * [[Alianční dolar]]
@@ -19,15 +23,17 @@
         * [[Vesmírné kredity]]
       * Technologie
         * Gadgety
+        * Lodní Systémy
+          * [[Přehled systému lodí]]
         * Lodě
-        * Munice
-          * [[10.LC]]
-          * [[13.HC]]
-          * [[HDS]]
-          * [[NSC]]
-          * [[PC]]
-          * [[VGC]]
         * Zbraně
+          * Munice
+            * [[10.LC]]
+            * [[13.HC]]
+            * [[HDS]]
+            * [[NSC]]
+            * [[PC]]
+            * [[VGC]]
           * Pistole & Revolvery
             * [[Turgall P-10 'Teenager']]
     * Resources

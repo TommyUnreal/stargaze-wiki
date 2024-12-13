@@ -1,0 +1,1 @@
+Po utracení 3 Deeds, 10 Person a 20 Fate na jeden daný Skill si postava může trvale změnit kostky Skillu na světlejší odstín kostek. Z černé na šedou (úspěchy jsou hody 3-6), nebo šedé na bílou (úspěchy jsou hody 2-6).

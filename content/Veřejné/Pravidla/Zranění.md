@@ -4,6 +4,9 @@ Každá hráčská postava má 12 hit pointů. Není-li řečeno jinak, postava 
 Pokud postava nemá žádný hit point, do kterého by hráč mohl označit zranění, je vyřazená (omráčená, neschopná akcí).
 Pokud taková postava obdrží další zranění, za každý hit point hází tzv. *Fate Roll* hodem d6. Úspěch je pouze hod s hodnotou 6. Pokud se to podaří, žádný další hit point neobdrží. V opačném případě postava zemře. 
 
+#### Odpočinek a regenerace
+Při každém plném odpočinku se testují případná zranění v Krvácení.  Při 5 a více úspěších odstraň toto zranění. Při 2 a méně obdrží nové náhodné zranění. Testuje se před hodem na regeneraci.
+
 #### Přehled hit pointů
 
 | Název zranění   | Následky                                                                                       | Poznámka                                                                                   |

@@ -15,4 +15,4 @@ tags:
 |    Typ munice    |            [[10.LC]]            |
 |     Nabíjení     |          2 hlavní akce          |
 |     Manévry      |            Hip shot             |
-|     R.P.S.N.     |               54Σ               |
+|       MSRP       |               54Σ               |
