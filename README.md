@@ -1,3 +1,3 @@
 # Stargaze Kampaň Veřejná Wiki
 
-Test.
+Webpage link: [https://tommyunreal.github.io/stargaze-wiki/](https://tommyunreal.github.io/stargaze-wiki/)
