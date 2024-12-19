@@ -1,4 +1,4 @@
-#### Pravidla pro Zamčení v boji na blízko (Engage)
+## Pravidla pro Zamčení v boji na blízko (Engage)
 V boji na blízko se postavy zamykají do tzv. **zámku** (*engage*), pokud jsou ve vzájemném osmiokolí a aspoň jedna z nich provedla útok. Stejný princip platí, pokud postava skončí svůj pohyb v osmiokolí druhé postavy. Velké postavy s větší podstavou mohou být navíc zamčeny do boje na více políčkách a mít větší šanci na zasažení omylem.
 
 Pokud se chce postava z boje **stáhnout** (*disengage*), může tak učinit za 3 akční body (AP) vůči jedné postavě, za 6 AP vůči dvěma atd. 

@@ -3,6 +3,6 @@
 
 
 ---
-### Osobnosti
+## Osobnosti
 
-### Sídla
+## Sídla

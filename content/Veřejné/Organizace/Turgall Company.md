@@ -5,11 +5,11 @@
 
 ---
 
-### Osobnosti
+## Osobnosti
 C.E.O. & Zakladatel - Jason Turgall
 
-### Výrobky
+## Výrobky
 ##### Pistole a revolvery
 - [[Turgall P-10 'Teenager']]
 
-### Sídla
+## Sídla

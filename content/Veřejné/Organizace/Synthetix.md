@@ -11,6 +11,6 @@ tags:
 Firma  tvrdí, že při svých aktivitách dbá na nejpřísnější bezpečnostní a etické normy a spolupracuje s regulačními orgány na zajištění transparentnosti a odpovědnosti.
 
 ---
-### Osobnosti
+## Osobnosti
 
-### Sídla
+## Sídla

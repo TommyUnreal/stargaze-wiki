@@ -4,7 +4,7 @@ tags:
 ---
 
 
-##### Kurz ₳/Σ
+## Kurz ₳/Σ
 Směnný kurz [[Alianční dolar]] za [[Vesmírné kredity]]:
 
 ```chartsview
@@ -36,4 +36,4 @@ options:
   yField: value
 ```
 
-##### Momentální hodnota: **2.03₳ = 1Σ**
+## Momentální hodnota: **2.03₳ = 1Σ**
