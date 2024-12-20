@@ -10,12 +10,17 @@
       * [[Synthetix]]
       * [[Turgall Company]]
     * Pravidla
-      * [[Action Points (AP)]]
-      * [[Schopnosti]]
-      * [[Souboj]]
-      * [[Traity]]
-      * [[Změna Odstínu Kostky]]
-      * [[Zranění]]
+      * Schopnosti & Traity
+        * [[Schopnosti]]
+        * [[Traity]]
+        * [[Změna Odstínu Kostky]]
+      * Souboj
+        * [[Action Points (AP)]]
+        * [[Souboj]]
+        * [[Zranění]]
+      * Testy
+        * [[Artha]]
+        * [[Obstacles]]
     * Předměty
       * Měny
         * [[Alianční dolar]]
@@ -115,11 +120,12 @@
           * Munice
             * [[10.LC]]
             * [[13.HC]]
+            * [[16BX]]
             * [[HDS]]
             * [[NSC]]
             * [[PC]]
             * [[VGC]]
-          * Pistole & Revolvery
+          * Sidearms
             * [[Turgall P-10 'Teenager']]
     * Resources
     * Skupina
