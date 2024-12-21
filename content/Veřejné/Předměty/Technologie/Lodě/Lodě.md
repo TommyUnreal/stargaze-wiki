@@ -27,6 +27,7 @@
       * [[Šifrovací jednotka]]
   * Obranné systémy
       * [[Adaptivní štíty]]
+      * [[Bezpečnostní systém]]
       * [[Deflexní štíty]]
       * [[Klamné systémy]]
       * [[Nárazové štíty]]
@@ -82,8 +83,9 @@
       * [[Railgun]]
       * [[Rakety]]
   * Řídící systémy
-      * [[Crucis rozhraní]]
+      * [[Crusix rozhraní]]
       * [[Gyroskop]]
       * [[Hlavní palubní počítač]]
+      * [[Navigační počítač]]
       * [[Umělá inteligence]]
       * [[Řídicí moduly]]

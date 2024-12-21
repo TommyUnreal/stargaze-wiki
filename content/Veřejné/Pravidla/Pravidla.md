@@ -1,4 +1,5 @@
 * Schopnosti & Traity
+    * [[Kategorie tréninku]]
     * [[Schopnosti]]
     * [[Traity]]
     * [[Změna Odstínu Kostky]]
