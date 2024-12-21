@@ -68,6 +68,7 @@
             * Podpůrné systémy
               * [[Dispečer dronů]]
               * [[Hangár]]
+              * [[Hasící systém]]
               * [[Laboratoř]]
               * [[Medicínská jednotka]]
               * [[Nákladový prostor]]
@@ -112,10 +113,11 @@
               * [[Railgun]]
               * [[Rakety]]
             * Řídící systémy
+              * [[Crucis rozhraní]]
               * [[Gyroskop]]
               * [[Hlavní palubní počítač]]
-              * [[Nouzové řídicí moduly]]
               * [[Umělá inteligence]]
+              * [[Řídicí moduly]]
         * Zbraně
           * Munice
             * [[10.LC]]

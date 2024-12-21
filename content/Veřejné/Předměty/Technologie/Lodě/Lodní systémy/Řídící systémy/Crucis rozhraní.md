@@ -1,0 +1,1 @@
+Umožňuje pilotovat loď myslí, vyžaduje ale kybernetický implantát.
