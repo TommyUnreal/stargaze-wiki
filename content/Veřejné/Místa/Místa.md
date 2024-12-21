@@ -1,0 +1,3 @@
+* Lokace
+* Planety
+* Systémy
