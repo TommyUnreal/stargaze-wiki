@@ -11,9 +11,9 @@
       * [[Turgall Company]]
     * Pravidla
       * Schopnosti & Traity
-        * [[Kategorie tréninku]]
         * [[Schopnosti]]
         * [[Traity]]
+        * [[Trénink schopností]]
         * [[Změna Odstínu Kostky]]
       * Souboj
         * [[Action Points (AP)]]
