@@ -46,7 +46,7 @@
             * [[Bateriové záložní systémy]]
             * [[Distribuční soustava]]
             * [[Hlavní Reaktor]]
-            * [[RAM]]
+            * [[RES]]
             * [[Solární panely]]
         * Komunikační systémy
             * [[ISU]]
@@ -100,6 +100,7 @@
             * [[Sondy]]
             * [[Spektrální analyzátor]]
         * Systémy podpory života (Life Support)
+            * [[Cryokomora]]
             * [[Generátor umělé atmosféry]]
             * [[Gravitační generátor]]
             * [[Systém čištění vody a odpadu]]
@@ -109,9 +110,9 @@
             * [[Jammer]]
             * [[Konvenční zbraně]]
             * [[Laserové kanóny]]
-            * [[Miny]]
+            * [[Odpalovač raket]]
             * [[Railgun]]
-            * [[Rakety]]
+            * [[Vypouštěč Min]]
         * Řídící systémy
             * [[Crusix rozhraní]]
             * [[Gyroskop]]

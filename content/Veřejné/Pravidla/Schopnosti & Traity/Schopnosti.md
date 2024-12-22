@@ -115,7 +115,7 @@ ___
 - **Technologie:** Gadget (nějaký mounted big gun)
 - **Stat:** Perception
 - **Doba tréninku:** 63R, 126D, 252C  
-- Dělostřelectvo zahrnuje ovládání baterií na lodích, raketometů a pozemních houfnic. Je nezbytná pro efektivní nasazení těžké výzbroje. Slouží také pro střelbu z velkých lodních zbraní, jako jsou Děla, Mortary, [[Railgun]] či [[Rakety]].
+- Dělostřelectvo zahrnuje ovládání baterií na lodích, raketometů a pozemních houfnic. Je nezbytná pro efektivní nasazení těžké výzbroje. Slouží také pro střelbu z velkých lodních zbraní, jako jsou Děla, Mortary, [[Railgun]] či [[Odpalovač raket]].
 ---
 ##### Crew (Posádka)
 - **Technologie:** Ne
@@ -351,11 +351,26 @@ ___
 - **Doba tréninku:** 63R, 126D, 252C
 - Řemeslo představuje umění ruční výroby předmětů, jako je zpracování dřeva, kovářství, truhlařina, zpracování kůže či výroba šperků. Hráči si volí specializaci z těchto oblastí.
 ---
+##### Cyberimplants (Kybernetické implantáty)
+- **Technologie:** Cyberimplants kit
+- **Stat:** Perception/Agility
+- **Doba tréninku:** 84R, 168D, 336C
+- Dovednost _Cyberimplants_ umožňuje postavě efektivně ovládat a instalovat Kybernetické implantáty. Také může opravovat kybernetické implantáty u ostatních. Tato dovednost zahrnuje znalosti biomechaniky, diagnostiky a údržby, stejně jako schopnost přesně manipulovat s citlivými technologiemi.
+  - Ob 1 - Diagnostika základního problému nebo kontrola stavu implantátu.
+  - Ob 1 - První kostka integrity.
+  - Ob 2 - Druhá kostka integrity.
+  - Ob 4 - Třetí kostka integrity, Ob +2 za každou další.
+  - Ob 3 - Instalace nebo odstranění běžných implantátů.
+  - Ob 5 - Instalace nebo odstranění vysoce pokročilých implantátů, včetně experimentálních modelů.
+---
 ##### Engineering (Inženýrství)
 - **Technologie:** Ano, přesné měřicí nástroje
 - **Stat:** Perception
 - **Doba tréninku:** 84R, 168D, 336C
-- Inženýři jsou vzdělaní odborníci s hlubokými znalostmi potřebnými pro návrh a stavbu komplexních struktur, jako jsou velké budovy, vesmírné lodě či stanice.
+- Inženýři jsou vzdělaní odborníci s hlubokými znalostmi potřebnými pro návrh a konstrukci elektrických zařízení, terminálů a počítačů.
+  - Ob 1 - První kostka integrity.
+  - Ob 2 - Druhá kostka integrity.
+  - Ob 4 - Třetí kostka integrity, Ob +2 za každou další.
 ---
 ##### Excavation (Těžba)
 - **Technologie:** Ano, nástroje
@@ -367,13 +382,13 @@ ___
 - **Technologie:** Ano, výbušniny
 - **Stat:** Perception/Agility
 - **Doba tréninku:** 63R, 126D, 252C
-- Dovednost Výbušniny zahrnuje techniky demolice budov, vozidel a živých cílů pomocí výbušných zařízení. Postava může pomocí výbušnin ničit stroje, majetek nebo opevnění. K nastražení výbušniny je třeba buď samostatná scéna pro její umístění, nebo využití specializovaných akcí v bojových scénách. Úspěchy nad základní obtížností lze využít ke zvýšení poškození nebo k zacílení specifického místa. Na vesmírných lodích s příslušným systémem se používá k pokládání [[Miny|min]].
+- Dovednost Výbušniny zahrnuje techniky demolice budov, vozidel a živých cílů pomocí výbušných zařízení. Postava může pomocí výbušnin ničit stroje, majetek nebo opevnění. K nastražení výbušniny je třeba buď samostatná scéna pro její umístění, nebo využití specializovaných akcí v bojových scénách. Úspěchy nad základní obtížností lze využít ke zvýšení poškození nebo k zacílení specifického místa. Na vesmírných lodích s příslušným systémem se používá k pokládání [[Vypouštěč Min|min]].
 ---
 ##### Fabrication (Výroba)
 - **Technologie:** Ano, dílna
 - **Stat:** Perception/Agility
 - **Doba tréninku:** 84R, 168D, 336C
-- Výroba se používá k přeměně surovin na funkční stroje nebo užitečný průmyslový materiál. Postava s touto dovedností může konstruovat zařízení podle popisu v kapitole *Technology Burner.
+- Výroba se používá k přeměně surovin na funkční stroje nebo užitečný průmyslový materiál. Postava s touto dovedností může konstruovat zařízení podle popisu v kapitole *Technology Burner.*
 ---
 ##### Forgery (Padělání)
 - **Technologie:** Ano, writing kit/printer/terminál
@@ -522,7 +537,7 @@ ___
 - **Technologie:** Ano, na údržbu Munitions Kit, na výrobu materiál a dílnu.
 - **Stat:** Perception/Agility
 - **Doba tréninku:** 63R, 126D, 252C
-- Schopnost výroby munice a výbušnin. Při absolutním neúspěchu (žádný úspěch) dojde k selhání (např. exploze). Typické testy:
+- Schopnost výroby munice a výbušnin. Při absolutním neúspěchu (žádný úspěch) dojde k selhání (např. exploze). **Vztahuje se také na údržbu střelných zbraní.** Typické testy:
   - Ob 1 - První kostka integrity.
   - Ob 2 - Druhá kostka integrity.
   - Ob 4 - Třetí kostka integrity, Ob +2 za každou další.
@@ -575,7 +590,7 @@ ___
   - Ob 4 - Málo známá fakta.
 ---
 ##### Cryonics (Kryonika)
-- **Technologie:** Ano, kryonická komora
+- **Technologie:** Ano, [[Cryokomora|Kryokomora]]]
 - **Stat:** Perception
 - **Doba tréninku:** 28R, 56D, 112C
 - Kryonika je věda o zmrazování organismů za účelem zabránění stárnutí nebo rozkladu, což umožňuje mezihvězdné cesty trvající desetiletí. 
@@ -847,7 +862,7 @@ ___
 - Tato dovednost zahrnuje znalost procesu pro zpracování surovin nebo dílů na hotové produkty, zvláště ve velkém průmyslovém měřítku.
 ---
 ##### Strategy Games (Strategické hry)
-- **Technologie:** Hra
+- **Technologie:** Hra, [[Klamné systémy]]
 - **Stat:** Will/Perception
 - **Doba tréninku:** 14R, 28D, 56C
 - Postava s touto dovedností je dobře obeznámena se strategickými hrami populárními na její planetě. Testujte tuto dovednost, kdykoli se účastníte strategické hry. Ideálně by měl být test proveden proti jiné dovednosti _Strategy Games_. Pokud soupeř tuto dovednost nemá, testujte jeho vůli s dvojnásobnou překážkou.

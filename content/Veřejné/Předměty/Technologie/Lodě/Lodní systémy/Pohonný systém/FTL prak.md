@@ -2,6 +2,9 @@
 aliases:
   - FLT slinger
 ---
+**Schopnost pro ovládání:** *Pilot, Helm*
+**Schopnosti pro opravy:**  *Fusion Dynamics*
+
 [[FTL prak]] (Faster-Than-Light Prak) je pokročilá technologie umožňující vystřelit vesmírné lodě na extrémně vzdálené trasy rychlostí přesahující rychlost světla. Tato technologie je přístupná pouze vysoce specializovaným vesmírným stanicím a některým [[Dreadnought]]ům, které mají dostatečný energetický výkon a technologické vybavení. Tato technologie je považována za jeden z vrcholů vesmírného inženýrství, symbolizující pokrok i nebezpečí moderního cestování mezi hvězdami.
 
 ## Princip
