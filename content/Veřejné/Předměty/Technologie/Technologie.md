@@ -1,4 +1,7 @@
 * Gadgety
+* Komunikace
+    * [[ISU Node]]
+    * [[ISUM]]
 * Lodě
   * Dělení lodí
     * Klasifikace podle schopnosti cestování
@@ -92,7 +95,7 @@
         * [[Navigační počítač]]
         * [[Umělá inteligence]]
         * [[Řídicí moduly]]
-* Zbraně
+* Osobní Zbraně
   * Munice
       * [[10.LC]]
       * [[13.HC]]

@@ -2,6 +2,7 @@
 tags: 
 aliases:
   - Informační synchronizační jednotka
+  - Information Synchronization Unit
 ---
 **Schopnost pro ovládání:** *Signals*
 **Schopnosti pro opravy:**  *Engineering, Shipwright*

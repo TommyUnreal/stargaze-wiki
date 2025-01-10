@@ -1,4 +1,6 @@
 * Lore
+  * Sumáře
+      * [[Aktuální systém]]
 * Místa
   * Lokace
   * Planety
@@ -27,6 +29,9 @@
       * [[Vesmírné kredity]]
   * Technologie
     * Gadgety
+    * Komunikace
+        * [[ISU Node]]
+        * [[ISUM]]
     * Lodě
       * Dělení lodí
         * Klasifikace podle schopnosti cestování
@@ -120,7 +125,7 @@
             * [[Navigační počítač]]
             * [[Umělá inteligence]]
             * [[Řídicí moduly]]
-    * Zbraně
+    * Osobní Zbraně
       * Munice
           * [[10.LC]]
           * [[13.HC]]
@@ -133,3 +138,6 @@
           * [[Turgall P-10 'Teenager']]
 * Resources
 * Skupina
+* Terminus Technicus
+    * [[Lagrangeovy body]]
+    * [[Stabilní orbita]]
