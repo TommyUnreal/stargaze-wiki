@@ -1,15 +1,33 @@
 * Lore
-  * Sumáře
-      * [[Aktuální systém]]
+  * Historie světa
+  * Náboženství a víry
+  * Politické frakce
+      * [[Aliance Centrálních Planet]]
+  * Rasy a druhy
+  * Významné konflikty
 * Místa
+  * Kolonie
   * Lokace
+  * Nebezpečné zóny
+  * Obchodní uzly
   * Planety
   * Systémy
-* NPCs
+  * Vesmírné anomálie
+  * Významná vesmírná stanoviště
 * Organizace
-    * [[N.A.S.E.]]
-    * [[Synthetix]]
-    * [[Turgall Company]]
+  * Alianční organizace a složky
+      * [[Alianční Armáda]]
+      * [[Alianční úřad pro vyšetřování]]
+  * Místní Organizace
+  * Náboženské řády
+  * Obchodní gildy
+  * Pašerácké kartely
+  * Pirátské frakce
+  * Technologické korporace
+      * [[N.A.S.E.]]
+      * [[Synthetix]]
+      * [[Turgall Company]]
+  * Žoldnéřské skupiny
 * Pravidla
   * Schopnosti & Traity
       * [[Schopnosti]]
@@ -28,7 +46,7 @@
       * [[Směnné Kurzy]]
       * [[Vesmírné kredity]]
   * Technologie
-    * Gadgety
+    * AI & Robotika
     * Komunikace
         * [[ISU Node]]
         * [[ISUM]]
@@ -125,6 +143,9 @@
             * [[Navigační počítač]]
             * [[Umělá inteligence]]
             * [[Řídicí moduly]]
+  * Vybavení
+    * Gadgety
+    * Kyberimplantáty
     * Osobní Zbraně
       * Munice
           * [[10.LC]]
@@ -136,6 +157,7 @@
           * [[VGC]]
       * Sidearms
           * [[Turgall P-10 'Teenager']]
+    * Zbroje & Skafanry
 * Resources
 * Skupina
 * Terminus Technicus

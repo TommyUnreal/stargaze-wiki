@@ -1,1 +1,0 @@
-Žádné nové sumáře nejsou k dispozici.
