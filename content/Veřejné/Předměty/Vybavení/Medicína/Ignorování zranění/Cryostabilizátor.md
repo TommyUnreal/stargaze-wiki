@@ -1,0 +1,4 @@
+**Schopnost pro použití:** _Cryonics_ 
+**Na jedno použití.**
+
+Pokročilé zařízení využívající kryogenní technologii pro stabilizaci kriticky zraněných osob. Udrží při životě postavu, která utrpěla Mortal Wounds, pokud je Cryostabilizátor aplikován bezprostředně po souboji/zranění. Obstacle na Cryonics se rovná počtu mortal wounds (záporných HP). Při úspěšném hodu postava nezemře, ale upadne do kryokómatu. Pro úplné vyléčení je nutné nejprve probuzení pomocí Kryoniky (Obstacle 2) a následné ošetření pomocí Surgery (minimální obstacle se rovná počtu původních mortal wounds pro dosažení stabilizovaného stavu).

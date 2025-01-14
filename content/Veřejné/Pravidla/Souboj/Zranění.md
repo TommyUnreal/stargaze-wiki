@@ -16,8 +16,8 @@ Při každém plném odpočinku se testují případná zranění v Krvácení. 
 | Šrámy           | Bez následků.                                                                                  |                                                                                            |
 | Dominantní paže | -1D na akce vyžadující zručnost ruky.                                                          |                                                                                            |
 | Submisivní paže | -1D na akce vyžadující zručnost obou rukou.                                                    |                                                                                            |
-| Pravá noha      | -1 obnova AP/kolo.                                                                             |                                                                                            |
-| Levá noha       | -1 obnova AP/kolo.                                                                             |                                                                                            |
+| Pravá noha      | -2 obnova AP/kolo.                                                                             |                                                                                            |
+| Levá noha       | -2 obnova AP/kolo.                                                                             |                                                                                            |
 | Dýchání         | 1/6 šance na ztrátu obnovy AP.                                                                 |                                                                                            |
 | H. Krvácení     | Při vyčerpání více než poloviny AP testuj Health Ob. 3, při neúspěchu obdržíš náhodné zranění. | Testuje se také vždy při odpočinku. Při 5 a více úspěších odstraň toto zranění.            |
 | F. Krvácení     | Při vyčerpání více než poloviny AP testuj Forte Ob. 3, při neúspěchu obdržíš náhodné zranění.  | Testuje se také vždy při odpočinku. Při 5 a více úspěších odstraň toto zranění.            |
