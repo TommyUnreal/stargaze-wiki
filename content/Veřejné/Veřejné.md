@@ -1,3 +1,9 @@
+* Hráčská sekce
+  * NPCs
+  * Poznámky
+  * Sumáře
+      * [[Aktuální systém]]
+  * Zápisy
 * Lore
   * Historie světa
   * Náboženství a víry
