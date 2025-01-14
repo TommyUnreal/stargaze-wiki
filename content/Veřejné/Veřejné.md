@@ -143,6 +143,11 @@
             * [[Navigační počítač]]
             * [[Umělá inteligence]]
             * [[Řídicí moduly]]
+    * Osobní létací systémy
+        * [[Hoverpack]]
+        * [[Hybridní létací systém]]
+        * [[Jetpack]]
+        * [[Rocketpack]]
   * Vybavení
     * Gadgety
     * Kyberimplantáty
@@ -161,5 +166,15 @@
 * Resources
 * Skupina
 * Terminus Technicus
+    * [[Bariérový Efekt]]
+    * [[Cold Start]]
+    * [[Deep Dark Mód]]
+    * [[Delta V]]
+    * [[EVA]]
+    * [[Ghost Echo]]
+    * [[Hard Burn]]
     * [[Lagrangeovy body]]
+    * [[Mass Lock]]
+    * [[Orbitální Synchronizace]]
     * [[Stabilní orbita]]
+    * [[Warp Wake]]

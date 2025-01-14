@@ -1,0 +1,4 @@
+**Schopnost pro ovládání:** _Pilot_
+**Schopnosti pro opravy:** _Repair, Shipwright_
+
+Hoverpack využívá [[Repulzory|repulzorovou technologii]] k vytvoření anti-gravitačního efektu. Má zabudovaný naváděcí systém pro detekci centra gravitace a automatické nastavení repulzorů. Umožňuje velmi stabilní vznášení a precizní manévrování v nízkých výškách, obvykle do 100 metrů nad povrchem. Je energeticky nejúspornější ze všech osobních létacích systémů, ale jeho použití je omezeno na oblasti s dostatečně silným gravitačním polem. Oproti [[Jetpack|jetpacku]] nebo [[Rocketpack|rocketpacku]] je také výrazně pomalejší, obvykle v řádu jednotek km/h.
