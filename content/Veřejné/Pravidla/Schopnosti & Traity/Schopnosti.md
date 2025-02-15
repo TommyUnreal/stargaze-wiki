@@ -72,7 +72,7 @@
 - **Doba tréninku:** 63R, 126D, 252C
 - Sečné zbraně zahrnují čepele a nástroje navržené k sekání, bodání nebo řezání. Patří sem meče, šavle, dýky, mačety a bojové nože. Jsou efektivní v boji na blízko, kde kombinují rychlost a přesnost útoku s ničivou silou.
 ---
-##### Cold weapons (Sečné zbraně)
+##### Blunt weapons (Tupé zbraně)
 - **Technologie:** Gadget (např. kladiva, palcáty, sekery, kopí)
 - **Stat:** Power
 - **Doba tréninku:** 63R, 126D, 252C
@@ -408,7 +408,7 @@ ___
 - **Technologie:** Repair kit
 - **Stat:** Perception/Agility
 - **Doba tréninku:** 63R, 126D, 252C
-- Oprava je používána k opravám poškozených vozidel, případně [[Alpha-Class|vznášedel]].
+- Oprava je používána k opravám poškozených vozidel, případně [[Alpha-Class|vznášedel]] a většiny ne moc komplexních zařízení.
   - Ob 1 - První kostka integrity.
   - Ob 2 - Druhá kostka integrity.
   - Ob 4 - Třetí kostka integrity, Ob +2 za každou další.

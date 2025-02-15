@@ -3,7 +3,7 @@ aliases:
   - ABI
   - Alliance Bureau of Investigation
 ---
-*ABI* je elitní vyšetřovací a zpravodajská služba [[Aliance Centrálních Planet|Aliance]], která operuje v utajení a zaměřuje se na vnitřní bezpečnost a závažnou kriminalitu. Na rozdíl od [[Alianční Armáda|Alianční Armády]] pracuje primárně v civilu a specializuje se na složité případy ohrožující stabilitu Aliance.
+![[ABI.png|inlL|150]] *ABI* je elitní vyšetřovací a zpravodajská služba [[Aliance Centrálních Planet|Aliance]], která operuje v utajení a zaměřuje se na vnitřní bezpečnost a závažnou kriminalitu. Na rozdíl od [[Alianční Armáda|Alianční Armády]] pracuje primárně v civilu a specializuje se na složité případy ohrožující stabilitu Aliance.
 
 ### Působnost
 ABI se zaměřuje především na:
