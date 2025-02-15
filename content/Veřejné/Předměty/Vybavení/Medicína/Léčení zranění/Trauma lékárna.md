@@ -1,4 +1,4 @@
-**Schopnost pro použití:** _First Aid_
+**Schopnost pro použití:** _First Aid_ (slouží jako First Aid Kit)
 **Zásoby se nevyčerpají na hod:** _2+_
 
 Vysokokapacitní, odolné pouzdro vybavené pokročilým, ale praktickým zdravotnickým materiálem. Navrženo pro zvládání těžkých traumat a kritických situací v nepřátelském prostředí. K nalezení ve vojenských základnách, u špičkových průzkumných týmů nebo jednotek rychlé reakce. Umožňuje stabilizaci i velmi vážných zranění přímo v terénu.

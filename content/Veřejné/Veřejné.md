@@ -31,6 +31,9 @@
   * Pirátské frakce
   * Technologické korporace
       * [[N.A.S.E.]]
+      * [[NexCore Industries]]
+      * [[QuantumForge]]
+      * [[Stellar]]
       * [[Synthetix]]
       * [[Turgall Company]]
   * Žoldnéřské skupiny
@@ -55,7 +58,7 @@
     * AI & Robotika
     * Komunikace
         * [[ISU Node]]
-        * [[ISUM]]
+        * [[ISUMUP]]
     * Lodě
       * Dělení lodí
         * Klasifikace podle schopnosti cestování
@@ -156,6 +159,8 @@
         * [[Rocketpack]]
   * Vybavení
     * Gadgety
+        * [[Datablock]]
+        * [[Datapad]]
     * Kyberimplantáty
     * Medicína
       * Ignorování zranění
@@ -167,12 +172,12 @@
           * [[Synaptogeny]]
       * Léčení zranění
           * [[Adrenalinová injekce]]
-          * [[Osobní lékárna]]
+          * [[Krizová lékárna]]
           * [[Polní lékárna]]
           * [[Regenerační Aerosol]]
           * [[Rekonstituční Kompozit]]
           * [[Trauma Stabilizátor]]
-          * [[Trauma lékárnička]]
+          * [[Trauma lékárna]]
       * Stimulanty
           * [[Metabolický modulátor]]
           * [[Motorický stimulant]]
@@ -205,5 +210,6 @@
     * [[Lagrangeovy body]]
     * [[Mass Lock]]
     * [[Orbitální Synchronizace]]
+    * [[První kontakt]]
     * [[Stabilní orbita]]
     * [[Warp Wake]]

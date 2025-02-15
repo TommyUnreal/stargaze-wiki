@@ -1,4 +1,4 @@
-![[Turgall.png|inlL|100]][[Turgall Company]] je výrobce zbraní a vojenské techniky.
+![[Turgall.png|inlL|150]][[Turgall Company]] je výrobce zbraní a vojenské techniky.
 
 
 

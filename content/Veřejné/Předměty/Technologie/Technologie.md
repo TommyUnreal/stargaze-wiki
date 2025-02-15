@@ -1,7 +1,7 @@
 * AI & Robotika
 * Komunikace
     * [[ISU Node]]
-    * [[ISUM]]
+    * [[ISUMUP]]
 * Lodě
   * Dělení lodí
     * Klasifikace podle schopnosti cestování

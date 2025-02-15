@@ -7,12 +7,12 @@
     * [[Synaptogeny]]
 * Léčení zranění
     * [[Adrenalinová injekce]]
-    * [[Osobní lékárna]]
+    * [[Krizová lékárna]]
     * [[Polní lékárna]]
     * [[Regenerační Aerosol]]
     * [[Rekonstituční Kompozit]]
     * [[Trauma Stabilizátor]]
-    * [[Trauma lékárnička]]
+    * [[Trauma lékárna]]
 * Stimulanty
     * [[Metabolický modulátor]]
     * [[Motorický stimulant]]

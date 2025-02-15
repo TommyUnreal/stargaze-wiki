@@ -1,4 +1,4 @@
-**Schopnost pro použití:** *First Aid*
+**Schopnost pro použití:** *First Aid* (slouží jako First Aid Kit)
 **Zásoby se nevyčerpají na hod:** *4+*
 
 Kompaktní, lehká a přenosná lékárnička. Ideální pro menší zranění a naléhavé situace. Běžně k nalezení v osobní výbavě, záchranných modulech nebo survival kitech.

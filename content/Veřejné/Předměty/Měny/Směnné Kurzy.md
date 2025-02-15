@@ -17,15 +17,15 @@ type: Line
 #- chart data    -#
 #-----------------#
 data:
-  - label: 1-3164
+  - label: 1-3162
     value: 2.11
-  - label: " 2-3164"
+  - label: " 2-3162"
     value: 2.12
-  - label: " 3-3164"
+  - label: " 3-3162"
     value: 2.07
-  - label: " 4-3164"
+  - label: " 4-3162"
     value: 2.05
-  - label: " "
+  - label: " 5-3162"
     value: 2.03
 
 #-----------------#

@@ -48,5 +48,5 @@ Pro další výpočty použij https://burningwheel-dice.herokuapp.com/
 Hráči mohou zvýšit své šance pomocí:
 - **Extra času:** Má-li postava 2-3 násobek času na vykonání činnosti, může získat +1🎲 za pečlivý přístup.
 - **Výhody:** Využití prostředí nebo nástrojů.
-- **Pomoci:** Podpora od ostatních postav.
+- **Pomoci jiných postav:** Podpora od ostatních postav. Jiné postavy musejí mít schopnost naučenou a musí být fyzicky možné, aby pomáhali. Za každou pomáhající postavu a pak za každou druhou získáš +1🎲 (tzn. 1-2 pomáhající +1🎲, 3-4 pomáhající +2🎲, atd.)
 - **[[Artha|Arthy]]:** Speciální zdroje zlepšující výsledky.

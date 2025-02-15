@@ -1,4 +1,4 @@
-**Schopnost pro použití:** _First Aid_ 
+**Schopnost pro použití:** _First Aid_ (slouží jako First Aid Kit)
 **Zásoby se nevyčerpají na hod:** _3+_
 
 Větší a specializovanější varianta lékárny, často používaná polními mediky nebo pokročilými průzkumníky. Obsahuje poloautomatické nástroje pro ošetření vážnějších zranění. Díky pokročilejšímu vybavení umožňuje efektivnější ošetření v terénu, ale vyžaduje odbornější znalosti pro správné využití všech nástrojů.

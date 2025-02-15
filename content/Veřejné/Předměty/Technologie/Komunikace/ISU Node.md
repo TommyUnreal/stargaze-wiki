@@ -2,7 +2,7 @@
 aliases:
   - Synchronizační stanice
 ---
-ISU Node je autonomní vesmírná stanice navržená pro synchronizaci Informačních synchronizačních jednotek ([[ISU]]). Tyto stanice tvoří páteřní infrastrukturu pro šíření dat mezi hvězdnými systémy, včetně kritických aktualizací databází a [[ISUM]] zpráv.
+ISU Node je autonomní vesmírná stanice navržená pro synchronizaci Informačních synchronizačních jednotek ([[ISU]]). Tyto stanice tvoří páteřní infrastrukturu pro šíření dat mezi hvězdnými systémy, včetně kritických aktualizací databází a [[ISUMUP]] zpráv.
 
 ### Konstrukce
 ISU Node je kompaktní automatizovaná stanice vybavená výkonnými komunikačními systémy a datovými úložišti. Většinou se jedná o válcovité nebo sférické konstrukce o průměru 10-15 metrů, napájené kombinací [[Solární panely|solárních panelů]] a malých [[Hlavní Reaktor|fúzních reaktorů]]. Stanice jsou navrženy pro maximální životnost a minimální údržbu.
@@ -12,7 +12,7 @@ Nody jsou strategicky umístěny v obydlených systémech, typicky na [[Stabiln�
 
 ### Funkce
 - Automatická synchronizace s [[ISU]] jednotek lodí v dosahu
-- Archivace a distribuce [[ISUM]] zpráv
+- Archivace a distribuce [[ISUMUP]] zpráv
 - Distribuce bezpečnostních varování a kritických informací
 - Monitoring lodní dopravy v systému
 

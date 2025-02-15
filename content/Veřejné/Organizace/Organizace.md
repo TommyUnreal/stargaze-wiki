@@ -8,6 +8,9 @@
 * Pirátské frakce
 * Technologické korporace
     * [[N.A.S.E.]]
+    * [[NexCore Industries]]
+    * [[QuantumForge]]
+    * [[Stellar]]
     * [[Synthetix]]
     * [[Turgall Company]]
 * Žoldnéřské skupiny

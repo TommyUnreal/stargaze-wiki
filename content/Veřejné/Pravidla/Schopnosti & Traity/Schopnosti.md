@@ -606,7 +606,7 @@ ___
     Eugenika zahrnuje proces zlepšování genetických vlastností lidí a dalších ras skrze kontrolované selektivní šlechtění a genetickou manipulaci. Eugenici jsou experti na lidský genom a často provádějí experimenty. Dovednost také umožňuje klonování lidských těl.
 ---
 ##### First Aid (První pomoc)
-- **Technologie:** First Aid Kit ([[Osobní lékárna]], [[Medkit]])
+- **Technologie:** First Aid Kit ([[Krizová lékárna]], [[Polní lékárna]], [[Trauma lékárna]])
 - **Stat:** Perception/Agility
 - **Doba tréninku:** 63R, 126D, 252C
 - První pomoc je dovednost získaná vojáky v poli, kteří jsou nuceni ošetřovat své zraněné. Poskytuje základní znalosti anatomie a předpokládá zdravý rozum.
