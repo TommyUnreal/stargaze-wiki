@@ -334,7 +334,7 @@ ___
 - **Technologie:** Armorer Kit, Dílna
 - **Stat:** Perception/Agility
 - **Doba tréninku:** 63R, 126D, 252C
-- Zbrojíř navrhuje, vyrábí, udržuje a opravuje zbraně a zbroje. Tuto dovednost lze využít k opravě poškozeného vybavení, jako profesi pro doplnění peněz či k přidání technologických vylepšení k existujícím zbraním a zbrojím. Obtížnost použití této dovednosti závisí na složitosti technologických vlastností, které se opravují nebo přidávají. Zbrojíř nedokáže opravovat kovové díly.
+- Zbrojíř navrhuje, vyrábí, udržuje a opravuje zbraně a zbroje. Tuto dovednost lze využít k opravě poškozeného vybavení, jako profesi pro doplnění peněz či k přidání technologických vylepšení k existujícím zbraním a zbrojím. Obtížnost použití této dovednosti závisí na složitosti technologických vlastností, které se opravují nebo přidávají.
   - Ob 1 - První kostka integrity.
   - Ob 2 - Druhá kostka integrity.
   - Ob 4 - Třetí kostka integrity, Ob +2 za každou další.
