@@ -1,0 +1,4 @@
+[[První kontakt]] je termín používaný k označení okamžiku, kdy lidé navázali první komunikaci s prozatím neobjevenou či nepopsanou mimozemskou civilizací. Pokud je známo, první historicky zaznamenaný první kontakt byl uskutečněn lidmi až po jejich kolonizace v galaxii Stargaze. V Mléčné Dráze nebyl objeven žádný mimozemský druh, alespoň tak to tvrdí historie do okamžiku, kdy kolonizační lodě opustili Zemi.
+
+## Důsledky
+Objevení mimozemských ras mělo dalekosáhlé důsledky pro lidskou společnost. Otevřel nové možnosti obchodu a technologické výměny, ale také přinesl nové výzvy a hrozby. Postupem času se ukázalo, že nová galaxie je plná rozmanitých a často konfliktních civilizací, což vedlo k vytvoření složitých aliancí a rivalit.

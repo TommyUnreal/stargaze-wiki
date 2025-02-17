@@ -1,0 +1,22 @@
+* Ignorování zranění
+    * [[Analgetika]]
+    * [[Cryostabilizátor]]
+    * [[Koagulanty]]
+    * [[Miorelaxanty]]
+    * [[Oxigenátory]]
+    * [[Synaptogeny]]
+* Léčení zranění
+    * [[Adrenalinová injekce]]
+    * [[Krizová lékárna]]
+    * [[Polní lékárna]]
+    * [[Regenerační Aerosol]]
+    * [[Rekonstituční Kompozit]]
+    * [[Trauma Stabilizátor]]
+    * [[Trauma lékárna]]
+* Stimulanty
+    * [[Metabolický modulátor]]
+    * [[Motorický stimulant]]
+    * [[Myoaktivátor]]
+    * [[Neuroenhancer]]
+    * [[Nootropikum]]
+    * [[Rychlosteroidy]]
