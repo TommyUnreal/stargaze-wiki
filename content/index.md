@@ -46,7 +46,9 @@
         * [[Změna Odstínu Kostky]]
       * Souboj
         * [[Action Points (AP)]]
+        * [[Odměna za Souboj]]
         * [[Souboj]]
+        * [[Vyřazení & Smrt]]
         * [[Zranění]]
       * Testy
         * [[Artha]]

@@ -4,110 +4,110 @@
 - **Technologie:** Gadget (např. pistole, revolver)
 - **Stat:** Agility
 - **Doba tréninku:** 63R, 126D, 252C
-- Pistole jsou malé, lehké zbraně určené pro boj na krátkou vzdálenost. Díky své kompaktní velikosti jsou snadno přenosné a rychle použitelné. Patří sem různé typy, jako pistole s poloautomatickým mechanismem, revolvery, kapesní pistole nebo pistole s tlumičem. Jsou ideální pro rychlou obranu, nenápadné operace nebo boj v uzavřených prostorách.
+- <font color="#fac08f">Pistole jsou malé, lehké zbraně určené pro boj na krátkou vzdálenost. Díky své kompaktní velikosti jsou snadno přenosné a rychle použitelné. Patří sem různé typy, jako pistole s poloautomatickým mechanismem, revolvery, kapesní pistole nebo pistole s tlumičem. Jsou ideální pro rychlou obranu, nenápadné operace nebo boj v uzavřených prostorách.</font>
 ---
 ##### Longarms (Pušky)
 - **Technologie:** Gadget (např. útočná puška, lovecká puška)
 - **Stat:** Agility/Perception
 - **Doba tréninku:** 63R, 126D, 252C
-- Pušky jsou všestranné zbraně s větším dosahem a přesností než pistole. Hodí se pro střední až dlouhou vzdálenost a zahrnují typy jako útočné pušky, karabiny, lovecké pušky nebo pušky s možností střelby dávkami. Jsou ideální pro taktické operace, kde je potřeba kombinace přesnosti a palebné síly. 
+- <font color="#fac08f">Pušky jsou všestranné zbraně s větším dosahem a přesností než pistole. Hodí se pro střední až dlouhou vzdálenost a zahrnují typy jako útočné pušky, karabiny, lovecké pušky nebo pušky s možností střelby dávkami. Jsou ideální pro taktické operace, kde je potřeba kombinace přesnosti a palebné síly. </font>
 ---
 ##### Shotguns (Brokovnice)
 - **Technologie:** Gadget (např. pumpovací brokovnice, poloautomatické brokovnice)
 - **Stat:** Agility/Power
 - **Doba tréninku:** 63R, 126D, 252C
-- Brokovnice jsou ničivé zbraně na krátkou vzdálenost, dle typu schopné zasáhnout velké cíle nebo více nepřátel najednou. Zahrnují typy jako pumpovací brokovnice, poloautomatické brokovnice nebo kompaktní brokovnice pro boj v budovách. Jsou oblíbené při obléhání, na blízko a v situacích, kde je důležitá maximální destrukce na krátké vzdálenosti.
+- <font color="#fac08f">Brokovnice jsou ničivé zbraně na krátkou vzdálenost, dle typu schopné zasáhnout velké cíle nebo více nepřátel najednou. Zahrnují typy jako pumpovací brokovnice, poloautomatické brokovnice nebo kompaktní brokovnice pro boj v budovách. Jsou oblíbené při obléhání, na blízko a v situacích, kde je důležitá maximální destrukce na krátké vzdálenosti.</font>
 ---
 ##### SMGs (Samopaly)
 - **Technologie:** Gadget (např. kompaktní samopal, UZI)
 - **Stat:** Agility
 - **Doba tréninku:** 63R, 126D, 252C
-- Samopaly jsou lehké automatické zbraně navržené pro vysokou rychlost střelby na krátké až střední vzdálenosti. Patří sem kompaktní samopaly, osobní obranné zbraně (PDW) nebo miniaturní samopaly. Jsou ideální pro boj v městském prostředí, v pohybu nebo tam, kde je klíčová rychlost a flexibilita.
+- <font color="#fac08f">Samopaly jsou lehké automatické zbraně navržené pro vysokou rychlost střelby na krátké až střední vzdálenosti. Patří sem kompaktní samopaly, osobní obranné zbraně (PDW) nebo miniaturní samopaly. Jsou ideální pro boj v městském prostředí, v pohybu nebo tam, kde je klíčová rychlost a flexibilita.</font>
 ---
 ##### Heavy Weapons (Těžké zbraně)
 - **Technologie:** Gadget (např. minigun, railgun)
 - **Stat:** Agility/Power
 - **Doba tréninku:** 63R, 126D, 252C
-- Těžké zbraně zahrnují arzenál s vysokou kadencí střelby a destruktivní silou. Patří sem kulomety, těžké automatické pušky nebo zbraně pro potlačovací palbu. Tyto zbraně jsou ideální pro krycí palbu, ničení vozidel nebo opevnění a dlouhotrvající střety, kde je potřeba maximální palebná síla. 
+- <font color="#fac08f">Těžké zbraně zahrnují arzenál s vysokou kadencí střelby a destruktivní silou. Patří sem kulomety, těžké automatické pušky nebo zbraně pro potlačovací palbu. Tyto zbraně jsou ideální pro krycí palbu, ničení vozidel nebo opevnění a dlouhotrvající střety, kde je potřeba maximální palebná síla. </font>
 ---
 ##### Sniper (Odstřelovačky)
 - **Technologie:** Gadget (např. sniper rifle)
 - **Stat:** Agility/Perception
 - **Doba tréninku:** 63R, 126D, 252C
-- Odstřelovačské zbraně jsou určeny pro přesnou střelbu na dlouhou vzdálenost. Zahrnují odstřelovačské pušky, lovecké pušky s optikou nebo speciální antimateriálové pušky. Tyto zbraně excelují v tichých operacích, eliminaci vysoce prioritních cílů a podpoře z dálky.
+- <font color="#fac08f">Odstřelovačské zbraně jsou určeny pro přesnou střelbu na dlouhou vzdálenost. Zahrnují odstřelovačské pušky, lovecké pušky s optikou nebo speciální antimateriálové pušky. Tyto zbraně excelují v tichých operacích, eliminaci vysoce prioritních cílů a podpoře z dálky.</font>
 ---
 ##### Energy Weapons (Energetické zbraně)
 - **Technologie:** Gadget (např. laserová puška, plazmová pistole, disruptor)
 - **Stat:** Agility/Perception
 - **Doba tréninku:** 63R, 126D, 252C
-- Energetické zbraně využívají pokročilé technologie k projekci světelných nebo energetických paprsků. Patří sem laserové pistole, plazmové pušky, disruptory a další zbraně budoucnosti. Tyto zbraně často ignorují tradiční obranu, jsou velmi přesné a mohou způsobovat sekundární efekty, jako jsou popáleniny nebo omráčení. Na vesmírných lodích s příslušnou výbavou se používá ke střelbě z [[Laserové kanóny|laserových kanónů]].
+- <font color="#fac08f">Energetické zbraně využívají pokročilé technologie k projekci světelných nebo energetických paprsků. Patří sem laserové pistole, plazmové pušky, disruptory a další zbraně budoucnosti. Tyto zbraně často ignorují tradiční obranu, jsou velmi přesné a mohou způsobovat sekundární efekty, jako jsou popáleniny nebo omráčení. Na vesmírných lodích s příslušnou výbavou se používá ke střelbě z</font> [[Laserové kanóny|laserových kanónů]].
 ---
 ##### Launchers (Odpalovače)
 - **Technologie:** Gadget (např. raketomet, granátomet)
 - **Stat:** Agility/Power
 - **Doba tréninku:** 63R, 126D, 252C
-- Odpalovače zahrnují zbraně, které vystřelují výbušné střely. Patří sem raketomety, přenosné granátomety nebo hybridní odpalovací systémy. Jsou ideální pro ničení skupin nepřátel, vozidel nebo obranných struktur.
+- <font color="#fac08f">Odpalovače zahrnují zbraně, které vystřelují výbušné střely. Patří sem raketomety, přenosné granátomety nebo hybridní odpalovací systémy. Jsou ideální pro ničení skupin nepřátel, vozidel nebo obranných struktur.</font>
 ---
 ##### Primitive Weapons (Primitivní zbraně)
 - **Technologie:** Gadget (např. luk, ruční prak, kuš vrhač harpun)
 - **Stat:** Agility
 - **Doba tréninku:** 63R, 126D, 252C
-- Primitivní zbraně zahrnují tradiční projektilové zbraně, které nevyužívají moderní technologie. Patří sem luky, kuše, vrhací kopí a podobné zbraně. Jsou tiché, spolehlivé a obvykle umožňují snadnou výrobu munice, což je činí ideálními pro přežití a nenápadné operace. **Používá se také pro vystřelení kotvičky.**
+- <font color="#fac08f">Primitivní zbraně zahrnují tradiční projektilové zbraně, které nevyužívají moderní technologie. Patří sem luky, kuše, vrhací kopí a podobné zbraně. Jsou tiché, spolehlivé a obvykle umožňují snadnou výrobu munice, což je činí ideálními pro přežití a nenápadné operace.</font> **Používá se také pro vystřelení kotvičky.**
 ---
 ##### Primitive Weapons (Primitivní zbraně)
 - **Technologie:** Gadget (např. gravitační manipulátor, bio-organické zbraně)
 - **Stat:** Perception/Power
 - **Doba tréninku:** 63R, 126D, 252C
-- Exotické zbraně zahrnují futuristické technologie, které se neřídí běžnými pravidly. Patří sem gravitační manipulátory, bio-organické zbraně, railguny nebo hybridní systémy. Tyto zbraně často poskytují unikátní efekty, jako je ovládání gravitace, adaptivní munice nebo extrémní průraznost.
+- <font color="#fac08f">Exotické zbraně zahrnují futuristické technologie, které se neřídí běžnými pravidly. Patří sem gravitační manipulátory, bio-organické zbraně, railguny nebo hybridní systémy. Tyto zbraně často poskytují unikátní efekty, jako je ovládání gravitace, adaptivní munice nebo extrémní průraznost.</font>
 ---
 ##### Brawling (Boj beze zbraně)
 - **Technologie:** Ne
 - **Stat:** Agility/Power
 - **Doba tréninku:** 63R, 126D, 252C
-- Boj beze zbraně zahrnuje údery a chvaty bez použití jakýchkoliv zbraní. Patří sem pěstní souboje, kopy, údery lokty a další techniky. Může zahrnovat i použití improvizovaných prostředků, jako je rozbitá láhev nebo kovová trubka. Tato kategorie je ideální pro boj zblízka, kdy zbraně nejsou k dispozici, nebo pro tiché zneškodnění nepřátel.
+- <font color="#fac08f">Boj beze zbraně zahrnuje údery a chvaty bez použití jakýchkoliv zbraní. Patří sem pěstní souboje, kopy, údery lokty a další techniky. Může zahrnovat i použití improvizovaných prostředků, jako je rozbitá láhev nebo kovová trubka. Tato kategorie je ideální pro boj zblízka, kdy zbraně nejsou k dispozici, nebo pro tiché zneškodnění nepřátel.</font>
 ---
 ##### Cold weapons (Sečné zbraně)
 - **Technologie:** Gadget (např. meč, dýka, katana)
 - **Stat:** Agility
 - **Doba tréninku:** 63R, 126D, 252C
-- Sečné zbraně zahrnují čepele a nástroje navržené k sekání, bodání nebo řezání. Patří sem meče, šavle, dýky, mačety a bojové nože. Jsou efektivní v boji na blízko, kde kombinují rychlost a přesnost útoku s ničivou silou.
+- <font color="#fac08f">Sečné zbraně zahrnují čepele a nástroje navržené k sekání, bodání nebo řezání. Patří sem meče, šavle, dýky, mačety a bojové nože. Jsou efektivní v boji na blízko, kde kombinují rychlost a přesnost útoku s ničivou silou.</font>
 ---
 ##### Blunt weapons (Tupé zbraně)
 - **Technologie:** Gadget (např. kladiva, palcáty, sekery, kopí)
 - **Stat:** Power
 - **Doba tréninku:** 63R, 126D, 252C
-- Drtivé zbraně zahrnují zbraně navržené k rozdrcení nebo rozbití cílů. Patří sem válečná kladiva, palcáty, obouruční sekery, obušky, hole a bojové kyje ale také zbraně určené k bodání jako je kopí. Tyto zbraně jsou oblíbené při průlomech a ve fyzických střetech, kde záleží na maximální destrukci.
+- <font color="#fac08f">Drtivé zbraně zahrnují zbraně navržené k rozdrcení nebo rozbití cílů. Patří sem válečná kladiva, palcáty, obouruční sekery, obušky, hole a bojové kyje ale také zbraně určené k bodání jako je kopí. Tyto zbraně jsou oblíbené při průlomech a ve fyzických střetech, kde záleží na maximální destrukci.</font>
 ---
 ##### Throwing (Vrhací zbraně)
 - **Technologie:** Gadget (např. vrhací nože, shurikeny, granáty, kámen)
 - **Stat:** Agility/Perception
 - **Doba tréninku:** 63R, 126D, 252C
-- Vrhací zbraně zahrnují všechny zbraně určené k hodu na krátkou až střední vzdálenost. Patří sem vrhací nože, shurikeny, granáty, vrhací kopí nebo improvizované předměty, jako jsou kameny či lahve. Jsou oblíbené při boji z pohybu, překvapení nepřítele nebo při použití speciální munice (např. výbušné nebo kouřové granáty).
+- <font color="#fac08f">Vrhací zbraně zahrnují všechny zbraně určené k hodu na krátkou až střední vzdálenost. Patří sem vrhací nože, shurikeny, granáty, vrhací kopí nebo improvizované předměty, jako jsou kameny či lahve. Jsou oblíbené při boji z pohybu, překvapení nepřítele nebo při použití speciální munice (např. výbušné nebo kouřové granáty).</font>
 ---
 ##### Dodge (Úhýbání)
 - **Technologie:** Ne
 - **Stat:** Agility
 - **Doba tréninku:** 63R, 126D, 252C  
-- Úhýbání je základní obrannou technikou zaměřenou na vyhýbání se útokům zblízka nebo pomalým projektilům, jako jsou vrhací zbraně. Spočívá v rychlém pohybu těla mimo dráhu útoku. Tato dovednost vyžaduje vysokou flexibilitu a okamžité reakce, takže ji využijí zejména lehce vybavení bojovníci s vysokou pohyblivostí. Úspěšné zvládnutí úhybů umožňuje zcela zamezit zranění v kritických situacích.
+- <font color="#fac08f">Úhýbání je základní obrannou technikou zaměřenou na vyhýbání se útokům zblízka nebo pomalým projektilům, jako jsou vrhací zbraně. Spočívá v rychlém pohybu těla mimo dráhu útoku. Tato dovednost vyžaduje vysokou flexibilitu a okamžité reakce, takže ji využijí zejména lehce vybavení bojovníci s vysokou pohyblivostí. Úspěšné zvládnutí úhybů umožňuje zcela zamezit zranění v kritických situacích.</font>
 ---
 ##### Cover (Krytí)
 - **Technologie:** Ne
 - **Stat:** Perception
 - **Doba tréninku:** 63R, 126D, 252C    
-- Krytí je obranná technika využívající prostředí k ochraně před střelbou a rychlými projektily. Schopnost efektivně se krýt vyžaduje schopnost rychle vyhodnotit situaci, najít vhodnou překážku (např. zeď, vozidlo nebo pevnou bariéru) a správně ji využít. Tato dovednost je klíčová při střetnutích na delší vzdálenost nebo při bojích ve městském prostředí. Mistr krytí dokáže minimalizovat zranění i v extrémních podmínkách.
+- <font color="#fac08f">Krytí je obranná technika využívající prostředí k ochraně před střelbou a rychlými projektily. Schopnost efektivně se krýt vyžaduje schopnost rychle vyhodnotit situaci, najít vhodnou překážku (např. zeď, vozidlo nebo pevnou bariéru) a správně ji využít. Tato dovednost je klíčová při střetnutích na delší vzdálenost nebo při bojích ve městském prostředí. Mistr krytí dokáže minimalizovat zranění i v extrémních podmínkách.</font>
 ___
 ##### Armor Training (Výcvik se zbrojí)
 - **Technologie:** Gadget (2 a více kusů zbroje)
 - **Stat:** Forte
 - **Doba tréninku:** 63R, 126D, 252C  
-- Tento výcvik se zaměřuje na efektivní využití zbroje k minimalizaci zranění v boji. Bojovník trénovaný v této dovednosti dokáže nosit více kusů těžké výbavy bez ztráty pohyblivosti a účinně využívat jejich ochranné vlastnosti. Tato dovednost zahrnuje správné vrstvení zbroje, údržbu materiálu a strategické rozmístění ochranných prvků na zranitelných místech. Ideální pro těžce obrněné válečníky, kteří se spoléhají na odolnost vůči fyzickým útokům.
+- <font color="#fac08f">Tento výcvik se zaměřuje na efektivní využití zbroje k minimalizaci zranění v boji. Bojovník trénovaný v této dovednosti dokáže nosit více kusů těžké výbavy bez ztráty pohyblivosti a účinně využívat jejich ochranné vlastnosti. Tato dovednost zahrnuje správné vrstvení zbroje, údržbu materiálu a strategické rozmístění ochranných prvků na zranitelných místech. Ideální pro těžce obrněné válečníky, kteří se spoléhají na odolnost vůči fyzickým útokům.</font>
 - **Každé dvě úrovně dovednosti umožňují k obranému hodu přidat další kus zbroje. Tzn. exponent 2 - celkem 2 kusy zbroje, exponent 4 - celkem 3 kusy zbroje atd.**
 ___
 ##### Command (Velení)
 - **Technologie:** Ne
 - **Stat:** Will
 - **Doba tréninku:** 84R, 168D, 336C
-- Velení představuje schopnost rozhodování během zlomku vteřiny a kompetenci v efektivním přenosu těchto rozhodnutí na podřízené na bojišti. Tato dovednost se často používá při manévrech v rámci přestřelek a bitev.
+- <font color="#fac08f">Velení představuje schopnost rozhodování během zlomku vteřiny a kompetenci v efektivním přenosu těchto rozhodnutí na podřízené na bojišti. Tato dovednost se často používá při manévrech v rámci přestřelek a bitev.</font>
 - **V boji dává speciální akci, jinému spojenci (v line of sight, který je schopen přijmout příkaz, např. není ohlušen) vykonat jednu libovolnou akci. Tuto akci ale zaplatí ze svých AP Velitel. Spojenec může vykonání akce odmítnout (AP ale budou utraceny). Pro test se použije nižší ze dvou exponentů - Command velitele a schopnosti spojence. Velitel hází test, může využívat Arthy a také svůj odstín kostek.** 
 ---
 ## Vesmírná loď

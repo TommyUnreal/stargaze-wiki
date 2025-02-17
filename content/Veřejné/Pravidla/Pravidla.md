@@ -5,6 +5,7 @@
     * [[Změna Odstínu Kostky]]
 * Souboj
     * [[Action Points (AP)]]
+    * [[Vyřazení & Smrt]]
     * [[Zranění]]
 * Testy
     * [[Artha]]
