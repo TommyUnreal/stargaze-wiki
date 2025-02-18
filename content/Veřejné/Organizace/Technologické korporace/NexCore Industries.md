@@ -13,3 +13,5 @@ NexCore Industries byla založena technologickou vizionářkou Elarou Crey, kter
 ### Elara Crey
 Elara Crey i přes pokročilý věk téměř 170 let je stále jednou z nejvlivnějších osobností v galaxii. Její schopnost předvídat technologické trendy a inovovat ji učinila ikonou technologického světa. I když už není v představenstvu společnosti, stále má velký vliv na její směřování. 
 
+## Sídla
+- Centrála na [[Emporia II]].

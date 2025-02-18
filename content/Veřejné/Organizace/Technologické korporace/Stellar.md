@@ -7,3 +7,6 @@ Stellar byla založena bývalým astronautem a inženýrem Marcusem Rylanem, kte
 ### Marcus Rylan (ex CEO) 
 † 28. prosince 3156
 Marcus Rylan byl charismatický vůdce a vizionář, který se proslavil svými průkopnickými misemi do hlubokého vesmíru, včetně několika [[První kontakt|prvních kontaktů]]. Jeho zkušenosti a znalosti mu umožnily vytvořit společnost, která vyrábí produkty pro nezávislé posádky. Přestože byl veřejně známý svým důrazem na etiku a transparentnost, někteří kritici poukazují na to, že jeho společnost často využívá svou pozici k ovlivňování kolonizačních projektů v okrajových systémech.
+
+## Sídla
+- Centrála na [[Hyperion VI]].

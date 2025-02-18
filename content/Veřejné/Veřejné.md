@@ -6,7 +6,10 @@
   * Zápisy
 * Lore
   * Historie světa
+      * [[Osidlování Stargaze Galaxie]]
+      * [[Vznik Aliance Centrálních Planet]]
   * Náboženství a víry
+      * [[Strážci Polaris]]
   * Politické frakce
       * [[Aliance Centrálních Planet]]
   * Rasy a druhy
@@ -17,7 +20,17 @@
   * Nebezpečné zóny
   * Obchodní uzly
   * Planety
+    * Alianční Planety
+        * [[Anastasis I]]
+        * [[Emporia II]]
+        * [[Hyperion VI]]
+        * [[Lucentia IV]]
   * Systémy
+    * Alianční Systémy
+        * [[Anastasis]]
+        * [[Emporia]]
+        * [[Hyperion]]
+        * [[Lucentia]]
   * Vesmírné anomálie
   * Významná vesmírná stanoviště
 * Organizace
@@ -214,3 +227,4 @@
     * [[První kontakt]]
     * [[Stabilní orbita]]
     * [[Warp Wake]]
+    * [[Zlatá zóna]]

@@ -13,3 +13,4 @@ C.E.O. & Zakladatel - Jason Turgall
 - [[Turgall P-10 'Teenager']]
 
 ## Sídla
+- Centrála na [[Lucentia IV]].

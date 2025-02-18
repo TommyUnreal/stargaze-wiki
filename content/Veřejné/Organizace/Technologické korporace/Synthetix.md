@@ -18,3 +18,4 @@ Pod vedením charismatického zakladatele a CEO Ronalda Reddeckera se společnos
 Vizionářský podnikatel, přezdívaný *Red Ron*, ve věku pouhých 35 let vybudoval ze *Synthetixu* biotechnologického giganta. Jeho schopnost předvídat trendy v odvětví a strategicky skupovat perspektivní startupy vedla k vytvoření rozsáhlého konglomerátu, který nyní začíná zasahovat do dalších oblastí od medicíny přes vojenský průmysl až po robotiku. Přestože je veřejně známý svým důrazem na etické standardy a spolupráci s regulačními orgány, někteří kritici poukazují na to, že pod povrchem profesionální fasády může být realita složitější.
 
 ## Sídla
+- Centrála na [[Anastasis I]].

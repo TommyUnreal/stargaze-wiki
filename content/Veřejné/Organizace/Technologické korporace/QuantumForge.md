@@ -7,3 +7,6 @@ tags:
 ## Osobnosti
 ### Dr. Kael Armitage (CTO)
 Dr. Kael Armitage je hlavním technologickým ředitelem QuantumForge a jedním z nejuznávanějších odborníků na technologii v Stargaze galaxii. Jeho práce na šifrovacích technologiích mu přinesla mnoho ocenění, ale také kritiku za údajnou spolupráci s vojenskými organizacemi. 
+
+## Sídla
+- Centrála na [[Emporia II]].

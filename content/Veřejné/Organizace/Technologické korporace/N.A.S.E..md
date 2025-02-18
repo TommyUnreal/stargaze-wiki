@@ -8,3 +8,4 @@
 ## Osobnosti
 
 ## Sídla
+- Centrála na [[Emporia II]].
