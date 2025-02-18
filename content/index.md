@@ -60,7 +60,9 @@
       * Souboj
         * [[Action Points (AP)]]
         * [[Odměna za Souboj]]
+        * [[Regenerace]]
         * [[Souboj]]
+        * [[Speciální útoky a jejich efekty]]
         * [[Vyřazení & Smrt]]
         * [[Zranění]]
       * Testy

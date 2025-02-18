@@ -1,7 +1,7 @@
-Na počátku 23. století stálo lidstvo na prahu největšího dobrodružství ve své historii. Země, jediný domov lidské rasy, čelila množství výzev - od klimatických změn přes přelidnění až po vyčerpávání zdrojů. Mezi vědeckou komunitou rostlo přesvědčení, že budoucnost lidstva leží mezi hvězdami - ne pouze v naší sluneční soustavě, ale v jiné galaxii, daleko od problémů, které sužovaly Zemi.
+Na počátku 23. století stálo lidstvo na prahu největšího dobrodružství ve své historii. Solární systém _Země_, jediný domov lidské rasy, čelil množství výzev - od klimatických změn přes přelidnění až po vyčerpávání zdrojů. Mezi vědeckou komunitou rostlo přesvědčení, že budoucnost lidstva leží mezi hvězdami - ne pouze v naší sluneční soustavě, ale v jiné galaxii, daleko od problémů, které sužovaly Zemi.
 
 ## Projekt Exodus
-V roce 2234 vznikl ambiciózní plán známý jako Projekt Exodus. Konsorcium vedené korporací [[QuantumForge]] a dalšími průmyslovými giganty začalo s konstrukcí pěti mezigalaktických kolonizačních lodí. Každá z nich měla být soběstačným světem, schopným přepravit více než 12.000 pečlivě vybraných kolonistů do nového domova.
+V roce 2234 vznikl ambiciózní plán známý jako _Projekt Exodus_. Konsorcium vedené korporací [[QuantumForge]] a dalšími průmyslovými giganty začalo s konstrukcí pěti mezigalaktických kolonizačních lodí. Každá z nich měla být soběstačným plavidlem, schopným přepravit více než 12.000 pečlivě vybraných kolonistů do nového domova.
 
 Stavba lodí trvala téměř 70 let. Vznikly plavidla bezprecedentní velikosti, vybavená nejmodernějšími technologiemi své doby. Každá loď dostala jméno podle starověkých symbolů naděje: _Aurora_, _Phoenix_, _Helios_, _Nova_ a _Polaris_. Do jejich konstrukce byly zabudovány pokročilé systémy umělé inteligence, které měly řídit celou misi během dlouhé cesty mezigalaktickým prostorem.
 

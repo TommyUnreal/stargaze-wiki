@@ -13,7 +13,7 @@ Pokud postava má schopnost *being learned*, potřebuje trénovat s jinou postav
 ## Délka tréninku
 Obyčejný člověk je obvykle schopen se soustředit na trénink pouze 6-8 hodin denně (8 pokud nemá jiné povinnosti). Následující tabulka ukazuje kolik dnů tréninku je třeba na určitý test a případně postup mezi úrovněmi. **Pozor!** Příliš jednotvárný trénink může mít špatné důsledky na lidskou psychiku. 
 
-Čas strávený zotavováním se z úrazu nemůže být využit pro trénink. **Pokud je postava [[Zranění|zraněná]] větším než zraněním bez následků** při začátku období nečinnosti, věnuje tento čas **léčení místo trénování**.
+Čas strávený zotavováním se z úrazu nemůže být využit pro trénink. **Pokud je postava [[Zranění|zraněná]] větším než zraněním bez následků** při začátku období nečinnosti, věnuje tento čas **[[Regenerace|léčení]] místo trénování**.
 
 | Disciplína  | Routine | Difficult | Challenging |
 | ----------- | ------- | --------- | ----------- |

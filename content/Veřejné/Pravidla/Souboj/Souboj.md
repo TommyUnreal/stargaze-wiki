@@ -72,12 +72,14 @@
 
 ### Obrana
 1. Obránce se rozhodne typ obrany:
-  - Dodge (1 AP)* + Případně brnění*
-  - Cover (1 AP) *+ Případně brnění*
+  - Dodge (1 AP) *+ případně Armor/Barrier
+  - Cover (1 AP) *+ případně Armor/Barrier*
   - Pasivní obrana = Pouze brnění (0 AP)
 2. Hází kostky za zvolenou obranu.
 3. Hází kostky za použitelné části brnění (každý kus max. 1× za kolo).
 4. Spočítá celkový počet úspěchů z obrany a brnění.
+
+V případě nepřímého útoku (plamenomet, požár, exploze, emp, rázová vlna, ...) použij pravidla pro [[Speciální útoky a jejich efekty]]. Také zde jsou popsány statusy speciálních efektů (oheň, plazma, EMP, šrapnely, ...) 
 
 ### Vyhodnocení
 - **Výsledné zranění = úspěchy útoku - úspěchy obrany - úspěchy brnění.**

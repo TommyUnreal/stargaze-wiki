@@ -3,7 +3,7 @@ Každá hráčská postava má 12 hit pointů. Není-li řečeno jinak, postava 
 ## Vyřazení & Smrt
  Viz kapitola [[Vyřazení & Smrt]].
 ## Odpočinek a regenerace
-Při každém plném odpočinku se testují případná zranění v Krvácení.  Při 5 a více úspěších odstraň toto zranění. Při 2 a méně obdrží nové náhodné zranění. **Testuje se před hodem na regeneraci.**
+Při každém plném odpočinku se testují případná zranění v Krvácení.  Při 5 a více úspěších odstraň toto zranění. Při 2 a méně obdrží nové náhodné zranění. **Testuje se před hodem na [[Regenerace|regeneraci]].**
 
 ## Přehled hit pointů
 

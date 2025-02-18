@@ -1,0 +1,1 @@
+Odměnou pro hráče a jejich postavy za dokončený souboj je tzv. burza odměn.

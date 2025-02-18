@@ -97,11 +97,18 @@
 - <font color="#fac08f">Krytí je obranná technika využívající prostředí k ochraně před střelbou a rychlými projektily. Schopnost efektivně se krýt vyžaduje schopnost rychle vyhodnotit situaci, najít vhodnou překážku (např. zeď, vozidlo nebo pevnou bariéru) a správně ji využít. Tato dovednost je klíčová při střetnutích na delší vzdálenost nebo při bojích ve městském prostředí. Mistr krytí dokáže minimalizovat zranění i v extrémních podmínkách.</font>
 ___
 ##### Armor Training (Výcvik se zbrojí)
-- **Technologie:** Gadget (2 a více kusů zbroje)
+- **Technologie:** Gadget (2 a více kusů zbroje nebo [[Nárazové štíty|osobních nárazových štítů]])
 - **Stat:** Forte
 - **Doba tréninku:** 63R, 126D, 252C  
 - <font color="#fac08f">Tento výcvik se zaměřuje na efektivní využití zbroje k minimalizaci zranění v boji. Bojovník trénovaný v této dovednosti dokáže nosit více kusů těžké výbavy bez ztráty pohyblivosti a účinně využívat jejich ochranné vlastnosti. Tato dovednost zahrnuje správné vrstvení zbroje, údržbu materiálu a strategické rozmístění ochranných prvků na zranitelných místech. Ideální pro těžce obrněné válečníky, kteří se spoléhají na odolnost vůči fyzickým útokům.</font>
 - **Každé dvě úrovně dovednosti umožňují k obranému hodu přidat další kus zbroje. Tzn. exponent 2 - celkem 2 kusy zbroje, exponent 4 - celkem 3 kusy zbroje atd.**
+___
+##### Barriers (Energetické štíty)
+- **Technologie:** Gadget (2 a více kusů [[Deflexní štíty|osobních deflexních štítů]])
+- **Stat:** Will
+- **Doba tréninku:** 63R, 126D, 252C  
+- <font color="#fac08f">Barriers představuje schopnost ovládat a maximalizovat účinnost energetických štítů proti různým formám energetických a speciálních útoků. Zahrnuje znalost načasování aktivace štítů, správné směrování energie a optimální konfiguraci štítových frekvencí proti různým typům hrozeb. Tato dovednost je klíčová pro přežití v moderním boji, kde konvenční zbroj nemusí poskytovat dostatečnou ochranu.</font>
+- **Každé dvě úrovně dovednosti umožňují k obranému hodu přidat další další energetický štít. Tzn. exponent 2 - celkem 2 kusy, exponent 4 - celkem 3 kusy atd.**
 ___
 ##### Command (Velení)
 - **Technologie:** Ne
