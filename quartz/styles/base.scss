@@ -67,6 +67,11 @@ ul,
 
 strong {
   font-weight: $semiBoldWeight;
+  color: var(--text_strong);
+}
+
+em {
+  color: var(--text_em);
 }
 
 a {

@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Stargaze Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "cs-CZ",
+    baseUrl: "https://tommyunreal.github.io/stargaze-wiki/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -24,32 +24,36 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Roboto Condensed", // Clean and modern font for headers
+        body: "Roboto Condensed", // Serif font for body text, great for readability
+        code: "Fira Code", // Monospaced font for code, with good readability
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#ffffff", // Pure white background for light mode
+          lightgray: "#f5f5f5", // Very light gray for subtle contrasts
+          gray: "#7a7a7a", // Medium gray for secondary text
+          darkgray: "#4e4e4e", // Dark gray for primary text
+          dark: "#2b2b2b", // Almost black for strong contrasts
+          secondary: "#3a6ea5", // Muted blue for accents, like a calm sky
+          tertiary: "#a53a6e", // Muted purple for tertiary elements
+          highlight: "rgba(58, 110, 165, 0.1)", // Subtle blue highlight
+          textHighlight: "#a53a6e88", // Subtle purple text highlight
+          text_em: "#228b22", // Green color for emphasized text
+          text_strong: "#333333", // Slightly darker than normal text for strong emphasis
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1a1a1a", // Dark background for dark mode
+          lightgray: "#2a2a2a", // Slightly lighter gray for subtle contrasts
+          gray: "#7a7a7a", // Medium gray for secondary text
+          darkgray: "#d4d4d4", // Light gray for primary text
+          dark: "#ebebec", // Almost white for strong contrasts
+          secondary: "#4fc3f7", // Soft blue for accents, like a star
+          tertiary: "#ff6f00", // Muted orange for tertiary elements
+          highlight: "rgba(79, 195, 247, 0.1)", // Subtle blue highlight
+          textHighlight: "#ff6f0088", // Subtle orange text highlight
+		  text_em: "#92bd92", // Green color for emphasized text
+		  text_strong: "#cccccc", // Slightly lighter than normal text for strong emphasis
         },
       },
     },
