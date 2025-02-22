@@ -29,4 +29,4 @@ Populární je také "Teorie Strážců", podle které _Polaris_ záměrně změ
 
 S postupem času se původní osadníci rozšířili i do okolních systémů, ale centrální čtyři planety si zachovaly své výsadní postavení. Staly se centry správy, obchodu a technologického rozvoje, zatímco vzdálenější kolonie se často specializovaly na těžbu surovin nebo zemědělskou produkci.
 
-V roce 3162, je Stargaze galaxie domovem miliard lidí. Z původních kolonií vyrostly prosperující světy a lidská civilizace se rozšířila do desítek či možná stovek hvězdných systémů. Přesto zůstává příběh původní kolonizace důležitou součástí kolektivní paměti lidstva, připomínající odvahu a vizi těch, kteří se vydali na cestu do neznáma, aby zajistili budoucnost našeho druhu.
+V roce 3162, je Stargaze galaxie domovem stovek milionů lidí. Z původních kolonií vyrostly prosperující světy a lidská civilizace se rozšířila do desítek či možná stovek hvězdných systémů. Přesto zůstává příběh původní kolonizace důležitou součástí kolektivní paměti lidstva, připomínající odvahu a vizi těch, kteří se vydali na cestu do neznáma, aby zajistili budoucnost našeho druhu.
