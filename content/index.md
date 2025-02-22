@@ -216,11 +216,19 @@
             * [[10.LC]]
             * [[13.HC]]
             * [[16BX]]
+            * [[20mm granát]]
             * [[HDS]]
             * [[NSC]]
             * [[PC]]
             * [[VGC]]
           * Sidearms
+            * [[ADS C-15 'Rookie']]
+            * [[ADS C-30 Pro]]
+            * [[ADS M-45G 'Diplomat']]
+            * [[ADS R-60]]
+            * [[ADS S-100]]
+            * [[ADS S-25 'Vyhazovač']]
+            * [[ADS S-50P]]
             * [[Turgall P-10 'Teenager']]
         * Zbroje & Skafanry
     * Resources

@@ -16,6 +16,24 @@ Jedním z charakteristických prvků _Aegis Defense Systems_ je ikonický design
 ## Osobnosti
 ### Hadrian Volkov
 Současný CEO a hlavní stratég společnosti. Bývalý generál [[Alianční Armáda|Alianční Armády]], který do firmy přinesl vojenskou preciznost a efektivní řízení.
+### Marcus Walsh
+Vedoucí vývoje brokovnic.
+### Sarah Chen
+Vedoucí vývoje kompaktních zbraní.
+
+## Výrobky
+##### Sidearms (Pistole a revolvery)
+- pistole [[ADS M-45G 'Diplomat'|ADS M-45G]] "Diplomat"
+- revolver [[ADS R-60]]
+
+##### SMG
+- [[ADS C-15 'Rookie'|ADS C-15]] "Rookie"
+- [[ADS C-30 Pro]]
+
+##### Shotguns (Brokovnice)
+- [[ADS S-25 'Vyhazovač'|ADS S-25]] "Vyhazovač"
+- [[ADS S-50P]]
+- [[ADS S-100]]
 
 ## Sídla
 

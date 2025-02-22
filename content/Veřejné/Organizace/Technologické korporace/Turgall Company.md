@@ -18,7 +18,7 @@ Původní C.E.O. & Zakladatel.
 Konstruktér a minoritní vlastník. Je vnukem Jasona Turgalla a konstruktérem dnes již ikonického revolveru _P-10 Teenager_.
 
 ## Výrobky
-##### Pistole a revolvery
+##### Sidearms (Pistole a revolvery)
 - [[Turgall P-10 'Teenager']]
 
 ## Sídla
