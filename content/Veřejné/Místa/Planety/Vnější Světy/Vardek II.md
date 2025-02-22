@@ -1,0 +1,1 @@
+Sídlo společnosti _Blackstar_ vybudované roku _3138_, 4 lety před vyvrcholením soudních sporů [[Blackstar]] a [[Aliance Centrálních Planet]]. Od roku _3142_ je oficiální sídlem společnosti.

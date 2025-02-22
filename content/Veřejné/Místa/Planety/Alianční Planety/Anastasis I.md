@@ -16,3 +16,4 @@ Společnost na _Anastasis_ je silně ovlivněna vojenskou přítomností. Místn
 - **Zbrojní výzkumné centrum** - Vývoj pokročilých vojenských technologií.
 - **Památník hrdinů** - Monumentální komplex připomínající padlé vojáky a konflikty.
 - Centrála [[Synthetix]].
+- Hlavní výrobní komplex a centrála [[Aegis Defense Systems]]

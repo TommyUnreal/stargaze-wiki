@@ -7,6 +7,8 @@
 * Pašerácké kartely
 * Pirátské frakce
 * Technologické korporace
+    * [[Aegis Defense Systems]]
+    * [[Blackstar]]
     * [[N.A.S.E.]]
     * [[NexCore Industries]]
     * [[QuantumForge]]

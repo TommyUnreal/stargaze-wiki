@@ -20,3 +20,4 @@ Emporská kultura je dynamická a kosmopolitní, s důrazem na podnikavost a ino
 - Centrála [[N.A.S.E.]].
 - Centrála [[QuantumForge]].
 - Centrála [[NexCore Industries|NexCore]].
+- Hlavní výrobní komplex [[Aegis Defense Systems]]

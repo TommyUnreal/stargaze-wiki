@@ -3,3 +3,5 @@
     * [[Emporia II]]
     * [[Hyperion VI]]
     * [[Lucentia IV]]
+* Vnější Světy
+    * [[Vardek II]]

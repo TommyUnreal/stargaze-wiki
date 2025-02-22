@@ -8,6 +8,8 @@
       * [[Emporia II]]
       * [[Hyperion VI]]
       * [[Lucentia IV]]
+  * Vnější Světy
+      * [[Vardek II]]
 * Systémy
   * Alianční Systémy
       * [[Anastasis]]

@@ -25,6 +25,8 @@
         * [[Emporia II]]
         * [[Hyperion VI]]
         * [[Lucentia IV]]
+    * Vnější Světy
+        * [[Vardek II]]
   * Systémy
     * Alianční Systémy
         * [[Anastasis]]
@@ -43,6 +45,8 @@
   * Pašerácké kartely
   * Pirátské frakce
   * Technologické korporace
+      * [[Aegis Defense Systems]]
+      * [[Blackstar]]
       * [[N.A.S.E.]]
       * [[NexCore Industries]]
       * [[QuantumForge]]
