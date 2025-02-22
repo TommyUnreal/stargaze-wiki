@@ -1,0 +1,1 @@
+Pokud střelec ve stejném kole vybaví tuto zbraň z rychlého slotu (obvykle 3AP, viz [[Action Points (AP)]]) a vystřelí, jsou mu tyto 3 AP vráceny.

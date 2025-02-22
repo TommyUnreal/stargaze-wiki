@@ -51,6 +51,9 @@
       * [[Turgall Company]]
   * Žoldnéřské skupiny
 * Pravidla
+  * Perky
+      * [[Hip Shot]]
+    * Zbraňové perky
   * Schopnosti & Traity
       * [[Schopnosti]]
       * [[Traity]]

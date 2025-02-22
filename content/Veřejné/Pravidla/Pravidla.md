@@ -1,3 +1,6 @@
+* Perky
+    * [[Hip Shot]]
+  * Zbraňové perky
 * Schopnosti & Traity
     * [[Schopnosti]]
     * [[Traity]]

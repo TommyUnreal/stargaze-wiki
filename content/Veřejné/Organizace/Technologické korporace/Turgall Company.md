@@ -7,6 +7,7 @@
 
 ## Osobnosti
 C.E.O. & Zakladatel - Jason Turgall
+Konstruktér a minoritní vlastník - Marcus Turgall je vnukem Jasona Turgalla.
 
 ## Výrobky
 ##### Pistole a revolvery
