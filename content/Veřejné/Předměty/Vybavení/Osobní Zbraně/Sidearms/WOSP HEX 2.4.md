@@ -10,7 +10,7 @@ aliases:
 
 ![[WOSP HEX 2.4.jpeg|inlR|250]]_WOSP HEX 2.4_ (Handgun Experimental) je šestiranný revolver, který dokazuje, že i komplexnější zbraně lze vyrobit pomocí WOSP filozofie. Původní design i přepracování na verzi _2.0_ pochází od autorky pod přezdívkou _MechanicQueen_, která jej vyvinula po třech letech experimentování s různými revolverovými mechanismy.
 
-První plány se objevily v roce 3148 a okamžitě vzbudily kontroverzi i v rámci WOSP komunity - mnozí považovali revolver za příliš složitý pro domácí výrobu. _MechanicQueen_ však dokázala, že se správnými výrobními postupy lze zbraň sestavit pomocí součástek z běžných průmyslových robotů.
+První plány se objevily v roce 3148 a okamžitě vzbudily kontroverzi i v rámci WOSP komunity - mnozí považovali revolver za příliš složitý pro domácí výrobu. _MechaQueen_ však dokázala, že se správnými výrobními postupy lze zbraň sestavit pomocí součástek z běžných průmyslových robotů.
 
 Unikátní je použití upravených ozubených kol z průmyslových servomotorů pro rotační mechanismus bubínku. Tento systém, přezdívaný "robot's heart", se stal předmětem obdivu mezi zbrojními inženýry.
 

@@ -16,7 +16,7 @@ Zlomový okamžik přišel s postavou známou pouze pod přezdívkou "_Ghostsmit
 ## Technologie a distribuce
 WOSP designy jsou charakteristické svým důrazem na modulárnost a snadnou opravu. Všechny zbraně sdílejí perk [[WOSP Design]], který umožňuje jejich opravu i v polních podmínkách s minimem nástrojů. 
 
-síť WOSP připomíná spíše organismus než organizaci. Plány se šíří prostřednictvím zakódovaných [[Datablock|datablocků]], které na první pohled obsahují nevinná průmyslová schémata. Pouze ti, kdo znají správné dešifrovací klíče, dokáží v technických výkresech ventilačních systémů nebo těžebních zařízení rozpoznat návody na sestavení zbraní.
+Síť WOSP připomíná spíše organismus než organizaci. Plány se šíří prostřednictvím zakódovaných [[Datablock|datablocků]], které na první pohled obsahují nevinná průmyslová schémata. Pouze ti, kdo znají správné dešifrovací klíče, dokáží v technických výkresech ventilačních systémů nebo těžebních zařízení rozpoznat návody na sestavení zbraní.
 
 ## Reakce společnosti a vliv
 Přestože [[Aliance Centrálních Planet|Aliance]] oficiálně klasifikuje [[WOSP|WOSP]] jako teroristickou organizaci, realita jejich vlivu je komplexnější. Pro mnoho kolonistů na okrajových světech představují WOSP designy jedinou dostupnou formu ochrany. Zároveň se jejich plány nevyhnutelně dostávají do rukou kriminálních organizací, což vyvolává intenzivní debaty o morálních důsledcích "demokratizace" přístupu ke zbraním.
@@ -26,10 +26,10 @@ Ironií osudu se některé WOSP inovace v oblasti modularity a opravitelnosti st
 ### Ghostsmith
 Legendární zakladatel moderních WOSP designů zůstává i po letech jednou z nejzáhadnějších postav podsvětí. První zmínky se o něm objevily během krize na okrajových světech v roce 3137. Jejich styl psaní a hluboká znalost průmyslových procesů naznačují, že pravděpodobně pracovali jako inženýr ve zbrojním průmyslu.
 
-### MechanicQueen
-Designérka a aktivistka _MechanicQueen_ vstoupila do WOSP komunity v roce 3142 a rychle si získala respekt svými inovativními řešeními pro využití průmyslových součástek. Její největším přínosem bylo objevení způsobu, jak přeměnit běžné servomotory z těžebních i domácích robotů na spolehlivé střelné mechanismy.
+### MechaQueen
+Designérka a aktivistka _MechaQueen_ vstoupila do WOSP komunity v roce 3142 a rychle si získala respekt svými inovativními řešeními pro využití průmyslových součástek. Její největším přínosem bylo objevení způsobu, jak přeměnit běžné servomotory z těžebních i domácích robotů na spolehlivé střelné mechanismy.
 
-Na rozdíl od mnoha WOSP designérů, kteří se soustředí na jednoduchost,_ _MechanicQueen_ prosazuje sofistikovanější přístup. Její designy často využívají složitější mechanismy, ale vždy s důrazem na součástky, které lze najít v každém průmyslovém komplexu. Její slavný výrok "Každý robot je zbrojní továrna, která na to ještě nepřišla." se stal mantrou mnoha WOSP následovníků.
+Na rozdíl od mnoha WOSP designérů, kteří se soustředí na jednoduchost,_ _MechaQueen_ prosazuje sofistikovanější přístup. Její designy často využívají složitější mechanismy, ale vždy s důrazem na součástky, které lze najít v každém průmyslovém komplexu. Její slavný výrok "Každý robot je zbrojní továrna, která na to ještě nepřišla." se stal mantrou mnoha WOSP následovníků.
 
 Analýza jejích technických dokumentů naznačuje hlubokou znalost automatizačních systémů používaných v těžebním průmyslu. Některé zdroje spekulují, že by mohlo jít o bývalou inženýrku některé z velkých těžebních korporací.
 
