@@ -8,18 +8,18 @@ aliases: []
 
 Uvedena na trh v roce 3136, tato zbraň byla výsledkem spolupráce s elitními policejními jednotkami. Hlavní konstruktér _Marcus Walsh_ se zaměřil na vytvoření univerzální platformy schopné uplatnit se v různorodých podmínkách. Patentovaný systém nabíjení minimalizuje riziko zaseknutí při používání různých typů munice.
 
-|     Výrobce      |    [[Aegis Defense Systems]]    |
-| :--------------: | :-----------------------------: |
-|      Skill       |             Shotgun             |
-|     Kvalita      | <font color="#00b050">+0</font> |
-|    Integrita     |               5/5               |
-|     Dostřel      |          5 -> 8 -> 11           |
-| Počet ran/nábojů |               6/6               |
-|    Typ munice    |            [[16BX]]             |
-|     Výstřel      |              5 AP               |
-|     Nabíjení     |              8 AP               |
-|       Perk       |                                 |
-|       MSRP       |              1300Σ              |
+|          Výrobce          |    [[Aegis Defense Systems]]    |
+| :-----------------------: | :-----------------------------: |
+|           Skill           |             Shotgun             |
+|          Kvalita          | <font color="#00b050">+0</font> |
+|         Integrita         |               5/5               |
+|          Dostřel          |          5 -> 8 -> 11           |
+|     Počet ran/nábojů      |               6/6               |
+|        Typ munice         |            [[16BX]]             |
+|          Výstřel          |              5 AP               |
+| Nabíjení z rychlého slotu |              8 AP               |
+|           Perk            |                                 |
+|           MSRP            |              1300Σ              |
 
 ## Fun facts
 - Má integrovaný systém počítání vystřelených nábojů.

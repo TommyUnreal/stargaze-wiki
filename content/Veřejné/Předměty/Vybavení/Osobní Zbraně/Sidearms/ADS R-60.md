@@ -8,18 +8,18 @@ aliases: []
 
 Unikátní systém rychlého přebití pomocí vystřelovacího válce umožňuje zkrátit čas potřebný k nabití všech komor. Masivní rám z vysokopevnostní slitiny zajišťuje dlouhou životnost a minimální opotřebení.
 
-|     Výrobce      |    [[Aegis Defense Systems]]    |
-| :--------------: | :-----------------------------: |
-|      Skill       |            Sidearms             |
-|     Kvalita      | <font color="#00b050">+0</font> |
-|    Integrita     |               4/4               |
-|     Dostřel      |          8 -> 12 -> 16          |
-| Počet ran/nábojů |               6/6               |
-|    Typ munice    |            [[10.LC]]            |
-|     Výstřel      |              4 AP               |
-|     Nabíjení     |         3 + 2/náboj AP          |
-|       Perk       |                                 |
-|       MSRP       |              880Σ               |
+|          Výrobce          |    [[Aegis Defense Systems]]    |
+| :-----------------------: | :-----------------------------: |
+|           Skill           |            Sidearms             |
+|          Kvalita          | <font color="#00b050">+0</font> |
+|         Integrita         |               4/4               |
+|          Dostřel          |          8 -> 12 -> 16          |
+|     Počet ran/nábojů      |               6/6               |
+|        Typ munice         |            [[10.LC]]            |
+|          Výstřel          |              4 AP               |
+| Nabíjení z rychlého slotu |         3 + 2/náboj AP          |
+|           Perk            |                                 |
+|           MSRP            |              880Σ               |
 
 ## Fun facts
 - Přezdívá se jí "*poslední slovo*" v diplomatických jednáních.

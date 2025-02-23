@@ -1,0 +1,1 @@
+Schopnost *Jury-Rigging* (Provizorní oprava) má vždy výhodu +1🎲. Stejně tak mají výhodu +1🎲 na údržbu zbraní pomoví *Munitions* (Munice). Navíc není třeba mít kompletní Munitions Kit, postaší zcela základní nářadí. Pokud používáš Munitions Kit, nelze jej při těchto opravách vyčerpat. 

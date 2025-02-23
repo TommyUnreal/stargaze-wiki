@@ -11,18 +11,18 @@ Vývoj začal s cílem vytvořit nejlepší samopal ve své třídě. Tým veden
 
 Zbraň využívá proprietární systém elektronické kontroly kadence a modulární konstrukci umožňující rychlou rekonfiguraci podle potřeb uživatele. Integrovaný taktický rail systém podporuje širokou škálu příslušenství.
 
-|     Výrobce      |    [[Aegis Defense Systems]]    |
-| :--------------: | :-----------------------------: |
-|      Skill       |               SMG               |
-|     Kvalita      | <font color="#00b050">+1</font> |
-|    Integrita     |               5/5               |
-|     Dostřel      |          9 -> 12 -> 16          |
-| Počet ran/nábojů |              30/30              |
-|    Typ munice    |            [[10.LC]]            |
-|     Výstřel      |              4 AP               |
-|     Nabíjení     |              8 AP               |
-|       Perk       |                                 |
-|       MSRP       |              1550Σ              |
+|          Výrobce          |    [[Aegis Defense Systems]]    |
+| :-----------------------: | :-----------------------------: |
+|           Skill           |               SMG               |
+|          Kvalita          | <font color="#00b050">+1</font> |
+|         Integrita         |               5/5               |
+|          Dostřel          |          9 -> 12 -> 16          |
+|     Počet ran/nábojů      |              30/30              |
+|        Typ munice         |            [[10.LC]]            |
+|          Výstřel          |              4 AP               |
+| Nabíjení z rychlého slotu |              8 AP               |
+|           Perk            |                                 |
+|           MSRP            |              1550Σ              |
 
 ## Fun facts
 - Marketingový slogan zněl: "Pro ty, kdo neakceptují kompromisy".

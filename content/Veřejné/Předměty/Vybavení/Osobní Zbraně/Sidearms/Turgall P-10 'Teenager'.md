@@ -13,18 +13,18 @@ Revolver byl uveden na trh v roce 3122 společností [[Turgall Company]] jako od
 
 Původní model měl problémy s přehříváním při rychlé střelbě, což bylo vyřešeno v roce 3124 přidáním dodatečných ventilačních otvorů. Od té doby prošla zbraň pouze kosmetickými úpravami, což svědčí o kvalitě původního designu.
 
-|     Výrobce      |       [[Turgall Company]]       |
-|:----------------:|:-------------------------------:|
-|      Skill       |            Sidearms             |
-|     Kvalita      | <font color="#00b050">+1</font> |
-|    Integrita     |               5/5               |
-|     Dostřel      |          6 -> 9 -> 13           |
-| Počet ran/nábojů |               5/5               |
-|    Typ munice    |            [[10.LC]]            |
-|     Výstřel      |              4 AP               |
-|     Nabíjení     |         4 + 2/náboj AP          |
-|       Perk       |          [[Hip Shot]]           |
-|       MSRP       |              450Σ               |
+|          Výrobce          |       [[Turgall Company]]       |
+| :-----------------------: | :-----------------------------: |
+|           Skill           |            Sidearms             |
+|          Kvalita          | <font color="#00b050">+1</font> |
+|         Integrita         |               5/5               |
+|          Dostřel          |          6 -> 9 -> 13           |
+|     Počet ran/nábojů      |               5/5               |
+|        Typ munice         |            [[10.LC]]            |
+|          Výstřel          |              4 AP               |
+| Nabíjení z rychlého slotu |         4 + 2/náboj AP          |
+|           Perk            |          [[Hip Shot]]           |
+|           MSRP            |              450Σ               |
 
 ## Fun facts
 - Existuje fanouškovský klub "_Teenage Rebels_", který sdružuje majitele těchto revolverů.

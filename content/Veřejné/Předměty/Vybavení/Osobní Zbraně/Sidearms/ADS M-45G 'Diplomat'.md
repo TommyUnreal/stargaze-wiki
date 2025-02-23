@@ -14,18 +14,18 @@ Zbraň využívá patentovaný systém tlumení zpětného rázu, který umožň
 
 _ADS M-45G_ je modifikovaná verze populární M-45 doplněná o podvěsný granátomet. Tato úprava vznikla na základě požadavků speciálních jednotek, které potřebovaly kompaktní multifunkční zbraň pro operace v uzavřených prostorech. Granátomet je kompatibilní se standardními 20mm granáty včetně _slzného plynu_, _omračujících granátů_ a _světlic_. Speciální tlumič zpětného rázu minimalizuje vliv výstřelu granátu na přesnost následné střelby.
 
-|     Výrobce      |    [[Aegis Defense Systems]]    |
-|:----------------:|:-------------------------------:|
-|      Skill       |            Sidearms             |
-|     Kvalita      | <font color="#00b050">+0</font> |
-|    Integrita     |               4/4               |
-|     Dostřel      |          7 -> 10 -> 14          |
-| Počet ran/nábojů |        10/10 + 1 granát         |
-|    Typ munice    |   [[10.LC]], [[20mm granát]]    |
-|     Výstřel      |              4 AP               |
-|     Nabíjení     |              8 AP               |
-|       Perk       |                                 |
-|       MSRP       |              1200Σ              |
+|          Výrobce          |    [[Aegis Defense Systems]]    |
+| :-----------------------: | :-----------------------------: |
+|           Skill           |            Sidearms             |
+|          Kvalita          | <font color="#00b050">+0</font> |
+|         Integrita         |               4/4               |
+|          Dostřel          |          7 -> 10 -> 14          |
+|     Počet ran/nábojů      |        10/10 + 1 granát         |
+|        Typ munice         |   [[10.LC]], [[20mm granát]]    |
+|          Výstřel          |              4 AP               |
+| Nabíjení z rychlého slotu |              8 AP               |
+|           Perk            |                                 |
+|           MSRP            |              1200Σ              |
 
 ## Fun facts
 - Přezdívá se jí "*poslední slovo*" v diplomatických jednáních.

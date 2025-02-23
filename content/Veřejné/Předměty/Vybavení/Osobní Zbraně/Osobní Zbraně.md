@@ -7,12 +7,16 @@
     * [[NSC]]
     * [[PC]]
     * [[VGC]]
-* Sidearms
+* SMGs
     * [[ADS C-15 'Rookie']]
     * [[ADS C-30 Pro]]
-    * [[ADS M-45G 'Diplomat']]
-    * [[ADS R-60]]
+* Shotguns
     * [[ADS S-100]]
     * [[ADS S-25 'Vyhazovač']]
     * [[ADS S-50P]]
+* Sidearms
+    * [[ADS M-45G 'Diplomat']]
+    * [[ADS R-60]]
     * [[Turgall P-10 'Teenager']]
+    * [[WOSP HEX 2.4]]
+    * [[WOSP HUB 3.0]]

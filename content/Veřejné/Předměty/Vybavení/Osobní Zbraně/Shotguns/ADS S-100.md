@@ -10,18 +10,18 @@ Vývoj začal v roce 3137 jako odpověď na požadavky kolonizačních jednotek 
 
 Masivní bubnový zásobník využívá patentovaný rotační mechanismus minimalizující riziko zaseknutí. Zbraň je vybavena pokročilým systémem chlazení pro dlouhodobou střelbu a computerizovaným zaměřovačem.
 
-|     Výrobce      |    [[Aegis Defense Systems]]    |
-| :--------------: | :-----------------------------: |
-|      Skill       |             Shotgun             |
-|     Kvalita      | <font color="#00b050">+0</font> |
-|    Integrita     |               6/6               |
-|     Dostřel      |          5 -> 8 -> 11           |
-| Počet ran/nábojů |              21/21              |
-|    Typ munice    |            [[16BX]]             |
-|     Výstřel      |              5 AP               |
-|     Nabíjení     |              16 AP              |
-|       Perk       |                                 |
-|       MSRP       |              3600Σ              |
+|          Výrobce          |    [[Aegis Defense Systems]]    |
+| :-----------------------: | :-----------------------------: |
+|           Skill           |             Shotgun             |
+|          Kvalita          | <font color="#00b050">+0</font> |
+|         Integrita         |               6/6               |
+|          Dostřel          |          5 -> 8 -> 11           |
+|     Počet ran/nábojů      |              21/21              |
+|        Typ munice         |            [[16BX]]             |
+|          Výstřel          |              5 AP               |
+| Nabíjení z rychlého slotu |              16 AP              |
+|           Perk            |                                 |
+|           MSRP            |              3600Σ              |
 
 ## Fun facts
 - Populární mezi lovci velkých mimozemských predátorů.

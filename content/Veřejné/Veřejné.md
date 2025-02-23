@@ -8,10 +8,12 @@
   * Historie světa
       * [[Osidlování Stargaze Galaxie]]
       * [[Vznik Aliance Centrálních Planet]]
+      * [[WOSP Aktivismus]]
   * Náboženství a víry
       * [[Strážci Polaris]]
   * Politické frakce
       * [[Aliance Centrálních Planet]]
+      * [[WOSP]]
   * Rasy a druhy
   * Významné konflikty
 * Místa
@@ -56,8 +58,9 @@
   * Žoldnéřské skupiny
 * Pravidla
   * Perky
-      * [[Hip Shot]]
     * Zbraňové perky
+        * [[Hip Shot]]
+        * [[WOSP Design]]
   * Schopnosti & Traity
       * [[Schopnosti]]
       * [[Traity]]
@@ -218,15 +221,19 @@
           * [[NSC]]
           * [[PC]]
           * [[VGC]]
-      * Sidearms
+      * SMGs
           * [[ADS C-15 'Rookie']]
           * [[ADS C-30 Pro]]
-          * [[ADS M-45G 'Diplomat']]
-          * [[ADS R-60]]
+      * Shotguns
           * [[ADS S-100]]
           * [[ADS S-25 'Vyhazovač']]
           * [[ADS S-50P]]
+      * Sidearms
+          * [[ADS M-45G 'Diplomat']]
+          * [[ADS R-60]]
           * [[Turgall P-10 'Teenager']]
+          * [[WOSP HEX 2.4]]
+          * [[WOSP HUB 3.0]]
     * Zbroje & Skafanry
 * Resources
 * Skupina

@@ -1,6 +1,7 @@
 * Perky
-    * [[Hip Shot]]
   * Zbraňové perky
+      * [[Hip Shot]]
+      * [[WOSP Design]]
 * Schopnosti & Traity
     * [[Schopnosti]]
     * [[Traity]]
