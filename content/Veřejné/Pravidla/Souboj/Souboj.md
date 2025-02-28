@@ -43,4 +43,72 @@
 - Kouzla a speciální schopnosti: obvykle 5 AP, nebo dle schopnosti.
 
 #### Obranné akce (Defensive Actions)
-- [[Schopnosti]].
+- [[Schopnosti|Dodge (Úhýbání)]] (proti útokům zblízka/pomalým projektilům): 1 AP.
+	- Uhýbání pomalým projektilům, jako jsou např. šípy nebo vrhací zbraně je možné, poskytuje ale nevýhodu -1🎲.
+- [[Schopnosti|Cover (Krytí)]] (proti střelbě/rychlým projektilům): 1 AP. 
+	- Kryt se musí nacházet na stejném, nebo vedlejším volném políčku.
+		- **Úplný kryt** znamená, že postava může schovat za kryt (snadno a rychle) více než 2/3 těla. Tento hod je bez postihu. Např. *vysoká betonová zeď, mohutný strom, převrácený stůl.*
+		- **Částečný kryt** znamená, že postava může schovat za kryt (snadno a rychle) více než 1/3 těla. Tento hod je s postihem -2🎲. Např. *Auto či vznášedlo, zeď do úrovně pasu, strom, policejní štít.*
+		- **Bez krytu** znamená, že postava může schovat za kryt (snadno a rychle) méně než 1/3 těla. Tento hod je s postihem -4🎲. Např. *Tenký sloup, keř, malý štít.*
+	- Každý ubráněný bod zranění snižuje integritu krytu.
+- Pasivní obrana (pouze brnění): 0 AP. Lze použít společně s [[Schopnosti|Cover (Krytí)]] nebo [[Schopnosti|Dodge (Úhýbání)]]. 
+
+#### Manipulace s vybavením
+- Změna zbraně: 5 AP.
+- Sebrání předmětu: 2 AP.
+- Použití předmětu: 5 AP (3 AP z rychlého slotu).
+- Přebíjení: 3-20 AP (dle zbraně).
+
+#### Free akce
+- Krátká komunikace.
+- Pasivní využití brnění.
+- Vyřazení ze souboje.
+
+## Útok a obrana
+### Útok
+1. Útočník zaplatí AP cenu útoku.
+2. Hází kostky podle své útočné dovednosti.
+3. Spočítá úspěchy (4-6 na černých kostkách).
+
+### Obrana
+1. Obránce se rozhodne typ obrany:
+  - Dodge (1 AP) *+ případně [[Schopnosti|Armor Training (Výcvik se zbrojí)]] nebo [[Schopnosti|Barriers (Energetické štíty)]]
+  - Cover (1 AP) *+ případně  [[Schopnosti|Armor Training (Výcvik se zbrojí)]] nebo [[Schopnosti|Barriers (Energetické štíty)]]
+  - Pasivní obrana = Pouze brnění, tzn. [[Schopnosti|Armor Training (Výcvik se zbrojí)]] nebo [[Schopnosti|Barriers (Energetické štíty)]] (0 AP)
+2. Hází kostky za zvolenou obranu.
+3. Hází kostky za použitelné části brnění (každý kus max. 1× za kolo).
+4. Spočítá celkový počet úspěchů z obrany a brnění.
+
+V případě nepřímého útoku (plamenomet, požár, exploze, emp, rázová vlna, ...) použij pravidla pro [[Speciální útoky a jejich efekty]]. Také zde jsou popsány statusy speciálních efektů (oheň, plazma, EMP, šrapnely, ...) 
+
+### Vyhodnocení
+- **Výsledné zranění = úspěchy útoku - úspěchy obrany - úspěchy brnění.**
+- Padne-li na poslední kostce 1 (nebo na libovolné kostce brnění 1), vybavení obdrží -1 bod integrity. Výbava s integritou 0 nelze použít.
+
+### Příležitostné & Připravené útoky
+#### Příležitostný útok
+- Každá postava vybavená zbraní na blízko může použít příležitostný útok na postavu, která odchází ze zamčení v boji nebo probíhá jejím osmiokolím  během pohybu. **Tento útok se provede vybavenou zbraní na blízko a stojí o 2 AP méně než standardní útok.**
+
+#### Připravený útok
+- Připravený útok se platí dopředu předtím, než je provedem. Mezi přípravou a provedením nesmí být provedená jiná akce. **Tento útok se provede vybavenou zbraní na první nepřátelskou postavu ve výhledu a stojí o 2 AP více než standardní útok.**
+
+#### Pravidla pro Zamčení v boji na blízko (Engage)
+- V boji na blízko se postavy zamykají do tzv. **zámku** (*engage*), pokud jsou ve vzájemném osmiokolí a aspoň jedna z nich provedla útok. Stejný princip platí, pokud postava skončí svůj pohyb v osmiokolí druhé postavy. Velké postavy s větší podstavou mohou být navíc zamčeny do boje na více políčkách a mít větší šanci na zasažení omylem.
+
+- Pokud se chce postava z boje **stáhnout** (*disengage*), může tak učinit za 3 akční body (AP) vůči jedné postavě, za 6 AP vůči dvěma atd. 
+
+- Střelba na postavu, která je zamčená v boji na blízko, je riskantní – pokud střelec netrefí, může omylem zasáhnout jinou zamčenou postavu. Velikost tohoto zásahu je pak určená podle rozdílu úspěchů vůči základu skillu a výhod (ne arthy). Postavy s větší podstavou zamčené do boje na více políčkách mají větší šanci na zasažení omylem (každé takové políčko ve výhledu se počítá jako možné k zásahu).
+
+#### Útok sekundární zbraní na blízko
+- Útok sekundární zbraní na blízko je považován za útok s nevýhodou, stojí ale o 1 AP méně. Předtím je nutné provést primární útok.
+
+## Útěk ze souboje
+Pokud je postava natolik vzdálená, že dosáhnout její pozice volným pohybem by stálo alespoň 10 AP (~10 metrů), může použít akci opuštění boje (5 AP).
+- Pokud postavu chce někdo z nepřátel sledovat, házejí si oba versus test na _Speed_ (nepřátel může být více). Za každých 10 metrů vzdálenosti navíc obdrží nepřátelé postih -1🎲. 
+- Pokud alespoň jeden z nepřátel uspěje, vznikne pro utíkajícího a pronásledující nová instance boje. Na detailech se domluv s GM.
+- Pokud uspěje obránce hodu (utíkající), podařilo se mu utéci z boje, aniž by měl nepřátelé hned za sebou a souboj pro něj tímto končí.
+
+## Odměna za Souboj
+Viz kapitola [[Odměna za Souboj]].
+## Vyřazení & Smrt
+ Viz kapitola [[Vyřazení & Smrt]].

@@ -1,7 +1,10 @@
 Action Points (AP) umožňují hráčům provádět různé akce během svého tahu. AP představují dynamiku a tempo hry, což nutí hráče strategicky plánovat své tahy.
 
 ## Generování AP
-Každá postava získává nové AP na začátku každého kola. Počet AP je dán součtem hodnot atributů [[Atributy]] ve slotu Dýchání a hodí 1).
+Každá postava získává nové AP na začátku každého kola. Počet AP je dán součtem hodnot atributů [[Atributy|Speed]] a nejvyššího základního atributu ([[Atributy|Perception]], [[Atributy|Will]], [[Atributy|Power]], [[Atributy|Forte]], [[Atributy|Agility]], [[Atributy|Speed]]).
+
+## Rozsah AP
+- **Minimální AP:** 0 (např. pokud postava má [[Zranění]] ve slotu Dýchání a hodí 1).
 - **Maximální AP:** Není pevně stanovené, ale soft maximum je mezi 16-20 AP.
 - **Průměrné AP:** Běžné hodnoty atributů se pohybují kolem 4-5, což znamená 8-10 AP za kolo.
 

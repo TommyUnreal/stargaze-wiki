@@ -18,11 +18,15 @@ def process_links_in_md_file(file_path):
     # Read the content of the .md file
     with open(file_path, "r", encoding="utf-8") as file:
         content = file.read()
-    
-    # Regular expression to match [[Page#Section|Display]] links
-    # This will find any text within [[]] that contains # and optionally |
-    modified_content = re.sub(r'\[\[([^#\]]+)#[^|]*(\|[^\]]+)?\]\]', r'[[\1\2]]', content)
-    
+
+    # Regular expression to match [[Page#Section|Display]] or [[Page#Section]]
+    # If the third part (|Display) is missing, move the second part (#Section) to the third part
+    modified_content = re.sub(
+        r'\[\[([^#\]]+)#([^|\]]+)(\|[^\]]+)?\]\]',
+        lambda match: f"[[{match.group(1)}|{match.group(2)}]]" if not match.group(3) else f"[[{match.group(1)}{match.group(3)}]]",
+        content
+    )
+
     # Write the modified content back to the file if changes were made
     if modified_content != content:
         with open(file_path, "w", encoding="utf-8") as file:
