@@ -3,7 +3,8 @@ import re
 import shutil
 
 def copy_files(source_dirs, destination_dir):
-    shutil.rmtree(destination_dir)
+    if os.path.exists(destination_dir):
+        shutil.rmtree(destination_dir)
 
     if not os.path.exists(destination_dir):
         os.makedirs(destination_dir)
@@ -12,6 +13,21 @@ def copy_files(source_dirs, destination_dir):
         destination_path = os.path.join(destination_dir, os.path.basename(source_dir))
         shutil.copytree(source_dir, destination_path)
         print(f"Copied {source_dir} to {destination_path}")
+
+def process_links_in_md_file(file_path):
+    # Read the content of the .md file
+    with open(file_path, "r", encoding="utf-8") as file:
+        content = file.read()
+    
+    # Regular expression to match [[Page#Section|Display]] links
+    # This will find any text within [[]] that contains # and optionally |
+    modified_content = re.sub(r'\[\[([^#\]]+)#[^|]*(\|[^\]]+)?\]\]', r'[[\1\2]]', content)
+    
+    # Write the modified content back to the file if changes were made
+    if modified_content != content:
+        with open(file_path, "w", encoding="utf-8") as file:
+            file.write(modified_content)
+        print(f"Processed links in {file_path}")
 
 def process_md_file(file_path):
     # Read the content of the .md file
@@ -28,6 +44,9 @@ def process_md_file(file_path):
         # Write the modified content back to the file
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(content)
+    
+    # Now process the links in the file
+    process_links_in_md_file(file_path)
 
 def generate_folder_content(root_dir, current_dir, base_level=0):
     content = []
@@ -76,6 +95,14 @@ def create_folder_indexes(destination_dir, top_dir):
                     pass
                 print(f"Created empty index file: {index_path}")
 
+def process_all_md_links(destination_dir):
+    for root, dirs, files in os.walk(destination_dir):
+        for file in files:
+            if file.endswith(".md"):
+                file_path = os.path.join(root, file)
+                process_links_in_md_file(file_path)
+                print(f"Processed links in {file_path}")
+
 def generate_index_md(destination_dir, top_dir):
     def shortest_path(file_path):
         return file_path.replace("\\", "/").split("/")[-1][:-3]
@@ -100,6 +127,12 @@ def main():
     destination_dir = "C:/Program Files/stargaze-wiki/content"
 
     copy_files(source_dirs, destination_dir)
+    
+    # Process all MD files to fix links
+    for rel_dir in source_dirs_rel:
+        dir_path = os.path.join(destination_dir, rel_dir)
+        process_all_md_links(dir_path)
+        
     for rel_dir in source_dirs_rel:
         generate_index_md(destination_dir, rel_dir)
         # Add this line to create folder indexes
