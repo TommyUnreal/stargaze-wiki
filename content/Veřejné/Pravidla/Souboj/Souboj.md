@@ -41,17 +41,17 @@
 #### Útočné akce (Attack Actions)
 - Základní útok: 3-7 AP (dle zbraně)
 - Kouzla a speciální schopnosti: obvykle 5 AP, nebo dle schopnosti.
-- 
+
 #### Obranné akce (Defensive Actions)
-- Dodge (proti útokům zblízka/pomalým projektilům): 1 AP.
+- [[Schopnosti#Dodge (Úhýbání)]] (proti útokům zblízka/pomalým projektilům): 1 AP.
 	- Uhýbání pomalým projektilům, jako jsou např. šípy nebo vrhací zbraně je možné, poskytuje ale nevýhodu -1🎲.
-- Cover (proti střelbě/rychlým projektilům): 1 AP. 
+- [[Schopnosti#Cover (Krytí)]] (proti střelbě/rychlým projektilům): 1 AP. 
 	- Kryt se musí nacházet na stejném, nebo vedlejším volném políčku.
 		- **Úplný kryt** znamená, že postava může schovat za kryt (snadno a rychle) více než 2/3 těla. Tento hod je bez postihu. Např. *vysoká betonová zeď, mohutný strom, převrácený stůl.*
 		- **Částečný kryt** znamená, že postava může schovat za kryt (snadno a rychle) více než 1/3 těla. Tento hod je s postihem -2🎲. Např. *Auto či vznášedlo, zeď do úrovně pasu, strom, policejní štít.*
 		- **Bez krytu** znamená, že postava může schovat za kryt (snadno a rychle) méně než 1/3 těla. Tento hod je s postihem -4🎲. Např. *Tenký sloup, keř, malý štít.*
 	- Každý ubráněný bod zranění snižuje integritu krytu.
-- Pasivní obrana (pouze brnění): 0 AP. Lze použít společně s Cover nebo Dodge. 
+- Pasivní obrana (pouze brnění): 0 AP. Lze použít společně s [[Schopnosti#Cover (Krytí)]] nebo [[Schopnosti#Dodge (Úhýbání)]]. 
 
 #### Manipulace s vybavením
 - Změna zbraně: 5 AP.
@@ -72,9 +72,9 @@
 
 ### Obrana
 1. Obránce se rozhodne typ obrany:
-  - Dodge (1 AP) *+ případně Armor/Barrier
-  - Cover (1 AP) *+ případně Armor/Barrier*
-  - Pasivní obrana = Pouze brnění (0 AP)
+  - Dodge (1 AP) *+ případně [[Schopnosti#Armor Training (Výcvik se zbrojí)]] nebo [[Schopnosti#Barriers (Energetické štíty)]]
+  - Cover (1 AP) *+ případně  [[Schopnosti#Armor Training (Výcvik se zbrojí)]] nebo [[Schopnosti#Barriers (Energetické štíty)]]
+  - Pasivní obrana = Pouze brnění, tzn. [[Schopnosti#Armor Training (Výcvik se zbrojí)]] nebo [[Schopnosti#Barriers (Energetické štíty)]] (0 AP)
 2. Hází kostky za zvolenou obranu.
 3. Hází kostky za použitelné části brnění (každý kus max. 1× za kolo).
 4. Spočítá celkový počet úspěchů z obrany a brnění.

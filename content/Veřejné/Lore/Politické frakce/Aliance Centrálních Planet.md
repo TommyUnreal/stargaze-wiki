@@ -15,7 +15,7 @@ Páteří ekonomiky je jednotná měna [[Alianční dolar]], existující ve fyz
 Občanství je automaticky udělováno osobám narozeným v Alianci. Ostatní mohou projít procesem naturalizace prostřednictvím oficiálních *občanských programů*. Základní práva občanů vycházejí z tradic západních civilizací Země, ačkoliv jejich skutečné uplatňování může být různé.
 
 ### Bezpečnost
-[[Alianční Armáda]] slouží jako kombinovaná vojensko-policejní síla, zajišťující pořádek v centrálních systémech. Kromě standardních vojenských operací poskytuje také podporu při katastrofách a plní policejní funkce. Vnitřní bezpečnost je dodatečně zajištěna sítí utajených organizací, např. [[AFI]].
+[[Alianční Armáda]] slouží jako kombinovaná vojensko-policejní síla, zajišťující pořádek v centrálních systémech. Kromě standardních vojenských operací poskytuje také podporu při katastrofách a plní policejní funkce. Vnitřní bezpečnost je dodatečně zajištěna sítí utajených organizací, např. [[Alianční úřad pro vyšetřování|ABI]].
 
 ## Současné výzvy
 

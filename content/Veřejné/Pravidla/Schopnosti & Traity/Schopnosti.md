@@ -215,7 +215,7 @@ ___
 - **Technologie:** Ano, nástroje
 - **Stat:** Perception/Agility
 - **Doba tréninku:** 84R, 168D, 336C
-- Stavitel lodí je mistr řemeslník schopný navrhovat a řídit výstavbu a opravy vesmírných plavidel. To zahrnuje konstrukci [[Trup|trupu]], subsystémů (např. [[ABS]], [[Přistávací systém]], [[Hasící systém]], ...) a pohonných jednotek (např. [[Orbitální pohon]] nebo [[FTL]]) — vše, co se týká lodního designu kromě návrhu energetického zařízení lodi. Dovednost _Shipwright_ je považována za _Fabrication_ (Výroba) a _Repair_ (Opravy) týkající se lodí.
+- Stavitel lodí je mistr řemeslník schopný navrhovat a řídit výstavbu a opravy vesmírných plavidel. To zahrnuje konstrukci [[Trup|trupu]], subsystémů (např. [[ABS]], [[Přistávací systém]], [[Hasící systém]], ...) a pohonných jednotek (např. [[Orbitální pohon]] nebo [[FTL]]) — vše, co se týká lodního designu kromě návrhu energetického zařízení lodi. Dovednost _Shipwright_ je považována za  [[#Fabrication (Výroba)]] a [[#Repair (Oprava)]] týkající se lodí.
   - Ob 1 - První kostka integrity.
   - Ob 2 - Druhá kostka integrity.
   - Ob 4 - Třetí kostka integrity, Ob +2 za každou další.
@@ -230,7 +230,7 @@ ___
 - **Technologie:** Barva
 - **Stat:** Will/Perception
 - **Doba tréninku:** 28R, 56D, 112C
-- _Smuggling_ je používáno k vytváření operací navržených k obcházení dovednosti _Security_ (Bezpečnost) a bezpečnostních systémů. Může být použito k vytváření tajných komor ve vozidlech či lodích a k využívání živých tvorů jako mul pro pašování regulovaných nebo karanténních položek na planetu. V rámci hry používá postava dovednost _Smuggling_ v testech proti _Security_ (skenery a prohledávání) nebo _Observation_ (osobní nebo palubní inspekce).
+- _Smuggling_ je používáno k vytváření operací navržených k obcházení dovednosti [[#Security (Bezpečnost)]] (Bezpečnost) a bezpečnostních systémů. Může být použito k vytváření tajných komor ve vozidlech či lodích a k využívání živých tvorů jako mul pro pašování regulovaných nebo karanténních položek na planetu. V rámci hry používá postava dovednost _Smuggling_ v testech proti [[#Security (Bezpečnost)]] (skenery a prohledávání) nebo [[#Observation (Hledání)|Observation]] (osobní nebo palubní inspekce).
 ---
 ##### Vehicular Weapons (Montované zbraně)
 - **Technologie:** Ano, vhodná zbraň
@@ -242,7 +242,7 @@ ___
 - **Technologie:** Ne
 - **Stat:** Speed
 - **Doba tréninku:** 14R, 28D, 56C
-- Tato dovednost se používá místo _Speed_ pro manévrování v prostředí nulové nebo nízké gravitace. Jakýkoli test, který by byl proveden na stat _Speed_, je místo toho prováděn pomocí dovednosti _Zero G_. To znamená, že ve versus testech v nulové gravitaci bude _Speed_ mít dvojnásobnou překážku vůči _Zero G_.
+- Tato dovednost se používá místo [[Atributy#Speed]] pro manévrování v prostředí nulové nebo nízké gravitace. Jakýkoli test, který by byl proveden na stat [[Atributy#Speed]], je místo toho prováděn pomocí dovednosti _Zero G_. To znamená, že ve versus testech v nulové gravitaci bude [[Atributy#Speed]] mít dvojnásobnou překážku vůči _Zero G_.
 ---
 ## Společenské
 ##### Bargaining (Smlouvání)
@@ -279,13 +279,13 @@ ___
 - **Technologie:** Ne
 - **Stat:** Will
 - **Doba tréninku:** 63R, 126D, 252C
-- Výslýchání umožňuje získat informace od neochotných subjektů pomocí specifické logiky. Úspěšný výslech znamená, že postava obdrží hledané informace dle svého záměru. Testováno proti aktuálnímu exponentu _Will_ vyslýchané postavy. Pokud má oběť přesvědčení, která jí brání v prozrazení hledané informace, GM může uvalit situací podmíněné postihy.
+- Výslýchání umožňuje získat informace od neochotných subjektů pomocí specifické logiky. Úspěšný výslech znamená, že postava obdrží hledané informace dle svého záměru. Testováno proti aktuálnímu exponentu [[Atributy#Will]] vyslýchané postavy. Pokud má oběť přesvědčení, která jí brání v prozrazení hledané informace, GM může uvalit situací podmíněné postihy.
 ---
 ##### Intimidation (Zastrašování)
 - **Technologie:** Ne
 - **Stat:** Will
 - **Doba tréninku:** 14R, 28D, 56C
-- Zastrašování je verbální a neverbální komunikace hrozby. Používá se k vyvolání váhání u jiné postavy. Testováno proti Ob určenému podle *Will* oběti. Úspěch vyžaduje okamžitý _Steel test_ cílové postavy, přičemž dodatečné úspěchy z _Intimidation_ zvyšují Ob jejího váhání. Případné modifikace:
+- Zastrašování je verbální a neverbální komunikace hrozby. Používá se k vyvolání váhání u jiné postavy. Testováno proti Ob určenému podle [[Atributy#Will]] oběti. Úspěch vyžaduje okamžitý _[[Atributy#Steel]] test_ cílové postavy, přičemž dodatečné úspěchy z _Intimidation_ zvyšují Ob jejího váhání. Případné modifikace:
  - Jsi postava vyššího postavení: +1🎲.
  - Viditelná hrozba (např. nabitá zbraň, divoký vzhled): +1🎲.
  - Jsi postava nižšího postavení: +1 Ob.
@@ -307,7 +307,7 @@ ___
 - **Technologie:** Ne
 - **Stat:** Will
 - **Doba tréninku:** 42R, 84D, 168C
-- Přesvědčování je umění přesvědčit někoho, aby jednal ve váš prospěch, protože je to v jeho vlastním zájmu. Tato dovednost často zahrnuje výměnu výhod—což je velmi odlišné od _Falsehood_ (Lži) nebo _Oratory_ (Oratoria). _Persuasion_ pečlivě vytváří návrh, se kterým cíl souhlasí. A s trochou štěstí si bude myslet, že to byl jeho vlastní nápad.
+- Přesvědčování je umění přesvědčit někoho, aby jednal ve váš prospěch, protože je to v jeho vlastním zájmu. Tato dovednost často zahrnuje výměnu výhod—což je velmi odlišné od [[#Falsehood (Lhaní)]] nebo [[#Oratory (Oratoria)]]. _Persuasion_ pečlivě vytváří návrh, se kterým cíl souhlasí. A s trochou štěstí si bude myslet, že to byl jeho vlastní nápad.
 ---
 ##### Rhetoric (Rétorika)
 - **Technologie:** Ne
@@ -325,7 +325,7 @@ ___
 - **Technologie:** Ne, případně Torture kit
 - **Stat:** Will/Forte
 - **Doba tréninku:** 42R, 84D, 168C
-- _Mučení_ je jakýkoli čin, při němž je cíleně způsobena těžká muka, ať už fyzická nebo psychologická, jako prostředek k zastrašení, odstrašení, pomstě, trestu nebo získání informací či přiznání. V této hře _Mučení_ nevede nutně k získání spolehlivých informací od oběti. To je úkol pro _Interrogation_ (Výslech). _Mučení_ se používá k vytvoření bolesti a škod na oběti ve formě vlastností. Týrání se provádí podobně jako _Duel of Wits_, ale s několika významnými úpravami:
+- _Mučení_ je jakýkoli čin, při němž je cíleně způsobena těžká muka, ať už fyzická nebo psychologická, jako prostředek k zastrašení, odstrašení, pomstě, trestu nebo získání informací či přiznání. V této hře _Mučení_ nevede nutně k získání spolehlivých informací od oběti. To je úkol pro [[#Interrogation (Výslýchání)]]. _Mučení_ se používá k vytvoření bolesti a škod na oběti ve formě vlastností. Týrání se provádí podobně jako _Duel of Wits_, ale s několika významnými úpravami:
   - Oběť musí být zajata, a proto nemůže odejít.
   - _Mučení_ je jediná platná dovednost pro tento konflikt. Pokud ji nemá, může oběť použít svůj _Will_ jako dovednost.
   - Mučitel může aplikovat vlastnosti jako _Maimed_ (Zmrzačený), _Broken_ (Zlomený), _Blind_ (Slepý), _Disfigured_ (Zohavený), _Sickly_ (Chorobný) nebo jiné podobné vlastnosti. Oběť může stanovit své sázky tak, že na sebe aplikuje nějakou vlastnost. Kompromisy mění závažnost nebo povahu vlastností.
@@ -334,7 +334,7 @@ ___
 - **Technologie:** Ne
 - **Stat:** Perception
 - **Doba tréninku:** 42R, 84D, 168C
-- _Ugly Truth_ fuguje podobně jako *Persuation*, ale narozdíl od něj nehledá výhodnou situaci pro obě strany. Argumentem pro protistranu je nepříjemná pravda, která může nastat když na podmínky nepřistoupí. Je to jedinečná schopnost redukovat situaci nebo argument na jeho holý, hrubý a těžko unesitelný základ: "Pokud se to nedozvím, je skoro jisté, že tví přátelé zemřou.", "Dlužíš místním gangsterům tolik peněz, že stačí říct tvoje jméno nahlas a do deseti vteřin budou tři bušit na dveře."
+- _Ugly Truth_ fuguje podobně jako [[#Persuasion (Přesvědčování)]], ale narozdíl od něj nehledá výhodnou situaci pro obě strany. Argumentem pro protistranu je nepříjemná pravda, která může nastat když na podmínky nepřistoupí. Je to jedinečná schopnost redukovat situaci nebo argument na jeho holý, hrubý a těžko unesitelný základ: "Pokud se to nedozvím, je skoro jisté, že tví přátelé zemřou.", "Dlužíš místním gangsterům tolik peněz, že stačí říct tvoje jméno nahlas a do deseti vteřin budou tři bušit na dveře."
 ---
 ## Technické (Řemeslné)
 ##### Armorer (Zbrojíř)
@@ -401,7 +401,7 @@ ___
 - **Technologie:** Ano, writing kit/printer/terminál
 - **Stat:** Perception/Agility
 - **Doba tréninku:** 42R, 84D, 168C
-- Padělání je schopnost bezchybně napodobit dokumenty, podpisy a pečeti – elektronicky nebo ručně. Tato dovednost je klíčová pro mnohé kriminální plány, zejména ty zahrnující podvodné podpisy. Test na Padělání určuje obtížnost pro dovednosti Observation nebo Security při odhalování padělků.
+- Padělání je schopnost bezchybně napodobit dokumenty, podpisy a pečeti – elektronicky nebo ručně. Tato dovednost je klíčová pro mnohé kriminální plány, zejména ty zahrnující podvodné podpisy. Test na Padělání určuje obtížnost pro dovednosti [[#Observation (Hledání)|Observation]] nebo Security při odhalování padělků.
 ---
 ##### Jury-Rigging (Provizorní oprava)
 - **Technologie:** Základní nářadí (kit není třeba)
@@ -455,7 +455,7 @@ ___
 - **Technologie:** Ne
 - **Stat:** Will
 - **Doba tréninku:** 63R, 126D, 252C
-- Nenápadnost je schopnost upravit své chování tak, aby postava splynula s davem a zůstala nepovšimnuta. Testováno proti schopnosti _Observation_ (místo ní lze použít _Perception_ s dvojnásobným postihovým Ob). Případné penalizace:
+- Nenápadnost je schopnost upravit své chování tak, aby postava splynula s davem a zůstala nepovšimnuta. Testováno proti schopnosti [[#Observation (Hledání)|Observation]] (místo ní lze použít [[Atributy#Perception]] s dvojnásobným postihovým Ob). Případné penalizace:
   - Okázalé nebo nevhodné oblečení: +1 Ob.
   - Postava se nachází nad/pod svou společenskou úrovní: +1 Ob.
   - Postava není z daného regionu: +1 Ob.
@@ -465,10 +465,10 @@ ___
 - **Technologie:** Ne
 - **Stat:** Speed
 - **Doba tréninku:** 84R, 168D, 336C
-- Infiltrace je schopnost využít kamufláž, přírodní prostředí, světlo, stín a tichý pohyb k nepozorovanému přesunu. Testováno proti schopnosti _Observation_ (nebo _Perception_ s dvojnásobným postihovým Ob). Výhody a nevýhody:
+- Infiltrace je schopnost využít kamufláž, přírodní prostředí, světlo, stín a tichý pohyb k nepozorovanému přesunu. Testováno proti schopnosti [[#Observation (Hledání)|Observation]] (nebo [[Atributy#Perception]] s dvojnásobným postihovým Ob). Výhody a nevýhody:
   - Výhody: Bonusové kostky za tmu, déšť nebo krycí zvuky.
   - Nevýhody: Zvýšený Ob za jasné světlo, naprosté ticho, nebo překážky (např. suché listí).
-  - Lze použít také k obcházení bezpečnostních systémů, jako jsou alarmy nebo kamery (_Security_ vs _Infiltration_).
+  - Lze použít také k obcházení bezpečnostních systémů, jako jsou alarmy nebo kamery ([[#Security (Bezpečnost)|Security]] vs. _Infiltration_).
 ---
 ##### Meditation (Meditace)
 - **Technologie:** Ne
@@ -476,17 +476,23 @@ ___
 - **Doba tréninku:** 42R, 84D, 168C
 - Meditace může být použita jako Fork pro jakoukoli jinou dovednost, pokud postava před testem stráví scénu meditací.
 ---
+##### Observation (Hledání)
+- **Technologie:** Ne 
+- **Stat:** Perception
+- **Doba tréninku:** 42R, 84D, 168C
+- - Dovednost _Observation_ se používá k odhalení skrytých nebo ukrytých postav. Tato dovednost se testuje v protitestech proti dovednostem, jako je [[Schopnosti#Inconspicuous (Nenápadnost)|Inconspicuous]] , [[#Infiltration (Infiltrace)|Infiltration]] nebo [[#Sleight of Hand (Finty rukou)|Sleight of Hand]]. Poznámka: _Observation_ se používá pouze v těchto specifických situacích. Nepoužívejte ji pro standardní testy [[Atributy#Perception]][[Atributy#Perception]] — například k odhalení slabin v brnění, k zaznamenání detailů vlajky nebo k hledání únikové cesty.
+---
 ##### Physical Training (Tělesný trénink)
 - **Technologie:** Ne
 - **Stat:** Power/Speed
 - **Doba tréninku:** 28R, 56D, 112C
-- Tato dovednost se používá, když postava musí vykonávat testy pro lezení, plavání nebo dlouhé běhy. Pokud je _Physical Training_ použit v testu proti _Speed_ (Rychlost) nebo _Power_ (Síla), postava bez této dovednosti trpí dvojnásobným postihovým Ob.
+- Tato dovednost se používá, když postava musí vykonávat testy pro lezení, plavání nebo dlouhé běhy. Pokud je _Physical Training_ použit v testu proti [[Atributy#Speed]] nebo [[Atributy#Power]], postava bez této dovednosti trpí dvojnásobným postihovým Ob.
 ---
 ##### Sleight of Hand (Finty rukou)
 - **Technologie:** Ne
 - **Stat:** Agility
 - **Doba tréninku:** 63R, 126D, 252C
-- Dovednost _Sleight of Hand_ umožňuje postavě provádět drobné triky s malými předměty v rukou. Také umožňuje postavě nenápadně umisťovat a odebírat předměty z kapes jiných osob. Pro kapesní krádež nebo podobné triky lze provést test proti sobě: _Sleight of Hand_ versus _Observation_. Pokud cíl nemá dovednost _Observation_, použije se _Perception_ s dvojnásobnou překážkou. GM může uvalit situací podmíněné postihy.
+- Dovednost _Sleight of Hand_ umožňuje postavě provádět drobné triky s malými předměty v rukou. Také umožňuje postavě nenápadně umisťovat a odebírat předměty z kapes jiných osob. Pro kapesní krádež nebo podobné triky lze provést test proti sobě: _Sleight of Hand_ versus [[#Observation (Hledání)|Observation]]. Pokud cíl nemá dovednost [[#Observation (Hledání)|Observation]], použije se [[Atributy#Perception]] s dvojnásobnou překážkou. GM může uvalit situací podmíněné postihy.
 ---
 ##### Soldiering (Vojenský výcvik)
 - **Technologie:** Ano (např. láhve, nástroje na kopání, stany, příkazy atd.)
@@ -494,6 +500,7 @@ ___
 - **Doba tréninku:** 14R, 28D, 56C
 - Tato dovednost pokrývá všechny neuvěřitelně nudné drobnosti být vojákem — pochodování, kopání latrín, stavění stanů, armádní procedury a vyřizování záležitostí s veliteli.
 ---
+
 ## Přežití
 ##### Almanac (Almanach)
 - **Technologie:** Ne
@@ -564,7 +571,7 @@ ___
 - **Technologie:** Ne
 - **Stat:** Perception
 - **Doba tréninku:** 28R, 56D, 112C
-- Průzkum zahrnuje prozkoumání oblasti a zaznamenávání souřadnic a měření jejích výrazných rysů. Tato dovednost může být v některých případech použita jako Fork pro _Observation_ (Pozorování) nebo pro _Infiltration_ (Infiltrace).
+- Průzkum zahrnuje prozkoumání oblasti a zaznamenávání souřadnic a měření jejích výrazných rysů. Tato dovednost může být v některých případech použita jako Fork pro [[#Observation (Hledání)|Observation]] nebo pro [[#Infiltration (Infiltrace)|Infiltration]].
 ---
 ##### Riding (Jízda)
 - **Technologie:** Potřebujete zvíře
@@ -629,12 +636,12 @@ ___
 - **Technologie:** Ne
 - **Stat:** Perception
 - **Doba tréninku:** 84R, 168D, 336C
-- Psychologové umí dešifrovat křehké závoje emocí, lží, jasnosti a účelu. Psychologie je oblastí související s dovednostmi jako _Oratory_ (Oratoria), _Persuasion_ (Přesvědčování), _Command_ (Povel), _Falsehood_ (Lži), _Seduction_ (Svádění), _Suasion_ (Oslovení), _Rhetoric_ (Rétorika), _Intimidation_ (Zastrašování), _Interrogation_ (Výslech), _Etiquette_ (Etiketa), _Ugly Truth_ (Ošklivá pravda) a _Soothing Platitudes_ (Uklidňující fráze). Může být použita k pomoci těmto dovednostem u jiné postavy. Psychologie může být také použita k čtení emocionálního stavu jiné postavy a k určení jejích vlastností. **Před hody musí hráč postavy vyhlásit svůj záměr a nastavit překážku pro tuto akci. Psycholog si může vybrat, kterou vlastnost chce zjistit.** Pokud postava psychologa vlastní _Bright Mark_ (Jasný znak) nebo _Mule_ (Mul), dovednost psychologie nabízí silnější možnosti. Testy:
+- Psychologové umí dešifrovat křehké závoje emocí, lží, jasnosti a účelu. Psychologie je telepatická síla oblastí související s dovednostmi jako _Oratory_ (Oratoria), _Persuasion_ (Přesvědčování), [[#Command (Velení)|Command]], _Falsehood_ (Lži), _Seduction_ (Svádění), _Suasion_ (Oslovení), _Rhetoric_ (Rétorika), _Intimidation_ (Zastrašování), _Interrogation_ (Výslech), _Etiquette_ (Etiketa), _Ugly Truth_ (Ošklivá pravda) a _Soothing Platitudes_ (Uklidňující fráze). Může být použita k pomoci těmto dovednostem u jiné postavy. Psychologie může být také použita k čtení emocionálního stavu jiné postavy a k určení jejích vlastností. **Před hody musí hráč postavy vyhlásit svůj záměr a nastavit překážku pro tuto akci. Psycholog si může vybrat, kterou vlastnost chce zjistit.** Pokud postava psychologa vlastní _Bright Mark_ (Jasný znak) nebo _Mule_ (Mul), dovednost psychologie nabízí silnější možnosti. Testy:
   - Ob 1 - Zjištění, zda je subjekt živý nebo mrtvý.
   - Ob 2 - Čtení skryté nálady.
   - Ob 3 - Zjištění vlastnosti postavy.
   - Ob 3 - Čtení životního příběhu.
-  - Ob 3 - Detekce _Naiven_ (Naivní).
+  - Ob 3 - Detekce jiného vědomí.
   - Ob 4 - Zjištění schopností postavy.
   - Ob 4 - Zjištění záměru osoby.
   - Ob 5 - Detekce přítomnosti konexe. 
@@ -725,13 +732,13 @@ ___
 - **Technologie:** Ne
 - **Stat:** Will
 - **Doba tréninku:** 84R, 168D, 336C
-- Instruktáž umožňuje postavě vyučovat jinou postavu své Schopnosti. Pokud je test úspěšný, student získá test směrem k vylepšení vyučované schopnosti. Pokud test selže, čas je považován pouze za praxi. Vyučování trvá $15 - Will_(učitel) - Will_(student)$ dní, minimálně však 1 den. Ob je dán tím, jak vysoký check chce studentovi předat. Má-li učitel Cryptography 3 a Instruction 4, může učit *Cryptography Ob 3*. Pro studenta s Cryptography 2 to bude *Challenging* check, pro studenta s Cryptography 5 to bude *Routine*.
+- Instruktáž umožňuje postavě vyučovat jinou postavu své Schopnosti. Pokud je test úspěšný, student získá test směrem k vylepšení vyučované schopnosti. Pokud test selže, čas je považován pouze za praxi. Vyučování trvá $15 - Will_(učitel) - Will_(student)$ dní, minimálně však 1 den. Ob je dán tím, jak vysoký check chce studentovi předat. Má-li učitel Cryptography 3 a Instruction 4, může učit [[#Cryptography (Kryptografie)|Cryptography]]  _Ob 3_. Pro studenta s Cryptography 2 to bude *Challenging* check, pro studenta s Cryptography 5 to bude *Routine*.
 ---
 ##### Journalism (Žurnalistika)
 - **Technologie:** Datapad, Writing Kit, ...
 - **Stat:** Perception
 - **Doba tréninku:** 42R, 84D, 168C
-- Žurnalistika zahrnuje sběr, psaní, editaci a prezentaci zpráv (psaných i vizuálních). Na rozdíl od _Propaganda_ předstírá, že je pravdivá, a opírá se o fakta ověřená z více zdrojů. Testy _Žurnalistiky_ jsou prováděny proti převládajícímu planetárnímu postoji:
+- Žurnalistika zahrnuje sběr, psaní, editaci a prezentaci zpráv (psaných i vizuálních). Na rozdíl od [[#Propaganda (Propaganda)|Propaganda]] předstírá, že je pravdivá, a opírá se o fakta ověřená z více zdrojů. Testy _Žurnalistiky_ jsou prováděny proti převládajícímu planetárnímu postoji:
   - Ob 6 - Ignorance.
   - Ob 5 - Hysterický strach.
   - Ob 4 - Lhostejnost.
@@ -856,6 +863,12 @@ ___
 - **Doba tréninku:** 14R, 28D, 56C
 - Tato dovednost zahrnuje přípravu a distribuci potravin v průmyslových nebo maloobchodních prostředích. Stravování je běžné zaměstnání mnoha svobodných občanů. 
 ---
+##### Investigative Logic (Vyšetřování)
+- **Technologie:** Ne 
+- **Stat:** Will/Perception
+- **Doba tréninku:** 63R, 126D, 252C
+- Tato dovednost se typicky používá při vyšetřování míst činů, analyzování výpovědí nebo shromažďování dat. Ve hře funguje jako dovednost „najít stopu“: Může být použita v protitestech proti dovednostem jako [[#Infiltration (Infiltrace)|Infiltration]], [[#Smuggling (Pašování)|Smuggling]] nebo [[#Security Rigging (Bezpečnostní manipulace)|Security Rigging]] k prokázání souvislosti mezi dvěma či více událostmi. Např. test _Investigative Logic_ s obtížností 3 (Ob 3) je třeba provést k propojení výstřelu se zbraní, která jej provedla.
+---
 ##### Logistics (Logistika)
 - **Technologie:** Ano, nástroje (komplexní výpočty vyžadují počítačové nebo technologické asistenty).
 - **Stat:** Perception
@@ -903,7 +916,6 @@ Protože všechny skilly tohoto typu používají stejnou mechaniku a jsou samy 
 ##### Divination
 ##### Doctrine
 ##### Iron Artifice
-##### Investigative Logic
 ##### Psychohistory
 ##### Squad Support Weapons
 ##### Suasion

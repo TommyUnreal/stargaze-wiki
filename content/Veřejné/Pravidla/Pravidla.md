@@ -3,6 +3,7 @@
       * [[Hip Shot]]
       * [[WOSP Design]]
 * Schopnosti & Traity
+    * [[Atributy]]
     * [[Schopnosti]]
     * [[Traity]]
     * [[Trénink schopností]]

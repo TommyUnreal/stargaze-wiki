@@ -4,7 +4,7 @@ tags:
   - SMG
 aliases: []
 ---
-![[ADS C-15.jpeg|inlR|250]]_ADS C-15_ "_Rookie_" je kompaktní samopal navržený jako cenově dostupná alternativa pro bezpečnostní agentury a soukromé uživatele. I přes svou nižší cenu nabízí solidní výkon a spolehlivost typickou pro produkty ADS.
+![[ADS C-15.jpeg]]_ADS C-15_ "_Rookie_" je kompaktní samopal navržený jako cenově dostupná alternativa pro bezpečnostní agentury a soukromé uživatele. I přes svou nižší cenu nabízí solidní výkon a spolehlivost typickou pro produkty ADS.
 
 Zbraň byla uvedena na trh v roce 3123 jako odpověď na poptávku po levnějším samopalu pro civilní trh. Konstrukční tým vedený _Sarah Chen_ se zaměřil na zjednodušení výrobního procesu při zachování klíčových kvalit.
 

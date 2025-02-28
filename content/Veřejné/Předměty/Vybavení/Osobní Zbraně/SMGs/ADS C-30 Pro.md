@@ -5,7 +5,7 @@ tags:
 aliases:
   - ADS C-30
 ---
-![[ADS C-15.jpeg|inlR|250]]_ADS C-30_ představuje vrchol vývoje kompaktních samopalů v portfoliu [[Aegis Defense Systems|ADS]]. Tato prémiová zbraň kombinuje nejmodernější technologie s maximální spolehlivostí a přesností.
+![[ADS C-30 Pro.jpeg|inlR|250]]_ADS C-30_ představuje vrchol vývoje kompaktních samopalů v portfoliu [[Aegis Defense Systems|ADS]]. Tato prémiová zbraň kombinuje nejmodernější technologie s maximální spolehlivostí a přesností.
 
 Vývoj začal s cílem vytvořit nejlepší samopal ve své třídě. Tým vedený legendární konstruktérkou _Sarah Chen_ implementoval řadu inovativních řešení včetně pokročilého systému řízení zpětného rázu.
 
