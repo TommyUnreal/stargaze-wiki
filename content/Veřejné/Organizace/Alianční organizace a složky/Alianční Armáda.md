@@ -13,3 +13,25 @@ Alianční Armáda se dělí na několik hlavních složek:
 
 ### Vybavení
 *AA* disponuje nejmodernější vojenskou technikou včetně bitevních [[Křižník|křižníků]], [[Stíhač|stíhacích letounů]], bojových robotů a pokročilých zbraňových systémů. Díky silné podpoře alianční vlády má přístup k nejnovějším technologiím a vývoji.
+
+## Hodnosti
+##### Vojáci
+Vojín ve výcviku
+Vojín
+Svobodník
+Desátník
+Četař
+Rotmistr
+Praporčík
+Nadpraporčík
+
+##### Důstojníci
+Poručík
+Nadporučík
+Kapitán
+Major
+Podplukovník
+Plukovník
+Generálmajor
+Generál
+Armádní generál

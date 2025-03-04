@@ -8,7 +8,7 @@ aliases:
 ---
 ![[ADS M-45G.jpeg|inlR|250]]_ADS M-45_, známá jako "_Diplomat_", je spolehlivá poloautomatická pistole, která se stala standardní výbavou diplomatického sboru a ochranky VIP osob. Její elegantní design skrývá robustní konstrukci schopnou vydržet i ty náročnější podmínky.
 
-Pistole byla představena v roce 3139 jako odpověď na požadavky diplomatické ochranky na zbraň, která by kombinovala diskrétnost s výkonem. Konstruktérský tým pod vedením _Sarah Chen_ strávil dva roky vývojem zbraně, která by splňovala tyto protichůdné požadavky.
+Pistole byla představena v roce 3139 jako odpověď na požadavky diplomatické ochranky na zbraň, která by kombinovala diskrétnost s výkonem. Konstruktérský tým pod vedením  _Sarah Chen_ strávil dva roky vývojem zbraně, která by splňovala tyto protichůdné požadavky.
 
 Zbraň využívá patentovaný systém tlumení zpětného rázu, který umožňuje přesnou střelbu i při rychlém sledu výstřelů. Modulární konstrukce umožňuje snadnou údržbu a přizpůsobení různým uživatelským preferencím.
 
