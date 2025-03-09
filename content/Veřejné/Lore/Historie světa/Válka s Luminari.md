@@ -13,7 +13,7 @@ Na pozadí [[Luminari]] zahájili konzultace s ostatními rasami. [[Zephyrové]]
 
 To se ovšem pro [[Aliance Centrálních Planet|Alianci]] ukázalo jako klíčové. Díky rychlé spolupráci špičkových odborníků se podařilo rychle identifikovat komunikační vzorce a mohla začít první výměna informací. Díky tomu [[Aliance Centrálních Planet|Aliance]] získala nejenom pochopení, jak komunikovat s nově objevenými rasami, ale také základní poznatky o kulturách, kterým čelí.
 
-## #### Počátek války
+## Počátek války
 [[Luminari]] nejprve vyslali flotilu, která měla lidské kolonie zastrašit. Požadovali okamžité stažení všech obyvatel z planet, které byly podle nich v neutrální zóně. Tento požadavek byl však pro lidi nesplnitelný. 
 
 [[Aliance Centrálních Planet]], která spravovala lidské světy, se odmítla vzdát už vybudovaných kolonií, což _Luminari_ považovali za vyhlášení války. Jejich flotila provedla sérii ničivých útoků na strategické alianční planety, což donutilo lidstvo odpovědět – tak začal otevřený konflikt.

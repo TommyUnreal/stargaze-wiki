@@ -76,7 +76,7 @@
 - **Technologie:** Gadget (např. kladiva, palcáty, sekery, kopí)
 - **Stat:** Power
 - **Doba tréninku:** 63R, 126D, 252C
-- <font color="#fac08f">Drtivé zbraně zahrnují zbraně navržené k rozdrcení nebo rozbití cílů. Patří sem válečná kladiva, palcáty, obouruční sekery, obušky, hole a bojové kyje ale také zbraně určené k bodání jako je kopí. Tyto zbraně jsou oblíbené při průlomech a ve fyzických střetech, kde záleží na maximální destrukci.</font>
+- <font color="#fac08f">Drtivé zbraně zahrnují zbraně navržené k rozdrcení nebo rozbití cílů. Patří sem válečná kladiva, palcáty, obouruční sekery, obušky, hole a bojové kyje. Tyto zbraně jsou oblíbené při průlomech a ve fyzických střetech, kde záleží na maximální destrukci.</font>
 ---
 ##### Throwing (Vrhací zbraně)
 - **Technologie:** Gadget (např. vrhací nože, shurikeny, granáty, kámen)
@@ -866,7 +866,7 @@ ___
 ---
 ##### Investigative Logic (Vyšetřování)
 - **Technologie:** Ne 
-- **Stat:** Will/Perception
+- **Stat:** Perception/Will
 - **Doba tréninku:** 63R, 126D, 252C
 - Tato dovednost se typicky používá při vyšetřování míst činů, analyzování výpovědí nebo shromažďování dat. Ve hře funguje jako dovednost „najít stopu“: Může být použita v protitestech proti dovednostem jako [[#Infiltration (Infiltrace)|Infiltration]], [[#Smuggling (Pašování)|Smuggling]] nebo [[#Security Rigging (Bezpečnostní manipulace)|Security Rigging]] k prokázání souvislosti mezi dvěma či více událostmi. Např. test _Investigative Logic_ s obtížností 3 (Ob 3) je třeba provést k propojení výstřelu se zbraní, která jej provedla.
 ---

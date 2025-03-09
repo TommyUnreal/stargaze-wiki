@@ -34,7 +34,7 @@
 #### Pohyb (Movement)
 - Pohyb o jedno políčko (1x1 m): 1 AP.
 - Diagonální pohyb (každé druhé políčko): 2 AP.
-- Stažení z boje (Disengage): 3 AP za každého protivníka.
+- Stažení z boje (Disengage): 5 AP za prvního protivníka a 1 AP za každého dalšího.
 - Zvednutí se ze země: 3 AP.
 - Opuštění boje: 5 AP.
 
@@ -47,9 +47,9 @@
 	- Uhýbání pomalým projektilům, jako jsou např. šípy nebo vrhací zbraně je možné, poskytuje ale nevýhodu -1🎲.
 - [[Schopnosti|Cover (Krytí)]] (proti střelbě/rychlým projektilům): 1 AP. 
 	- Kryt se musí nacházet na stejném, nebo vedlejším volném políčku.
-		- **Úplný kryt** znamená, že postava může schovat za kryt (snadno a rychle) více než 2/3 těla. Tento hod je bez postihu. Např. *vysoká betonová zeď, mohutný strom, převrácený stůl.*
-		- **Částečný kryt** znamená, že postava může schovat za kryt (snadno a rychle) více než 1/3 těla. Tento hod je s postihem -2🎲. Např. *Auto či vznášedlo, zeď do úrovně pasu, strom, policejní štít.*
-		- **Bez krytu** znamená, že postava může schovat za kryt (snadno a rychle) méně než 1/3 těla. Tento hod je s postihem -4🎲. Např. *Tenký sloup, keř, malý štít.*
+		- **Úplný kryt** znamená, že postava může schovat za kryt (snadno a rychle) více než 2/3 těla z pohledu útoku ze směru útočníka. Tento hod je bez postihu. Např. *vysoká betonová zeď, mohutný strom, převrácený stůl.*
+		- **Částečný kryt** znamená, že postava má v osmiokolí kryt, za který  může schovat (snadno a rychle) více než 2/3 těla. Tento hod je s postihem -2🎲.
+		- **Bez krytu** znamená, že postava nemá v osmiokolí vhodný kryt, nebo nemá či nechce použít AP na hod. Tento hod je s postihem -4🎲 a základ nemůže jít do kladných čísel, tzn. *Cover* 6 stejně poskytuje 0 kostek. Např. *Tenký sloup, keř, malý štít.*
 	- Každý ubráněný bod zranění snižuje integritu krytu.
 - Pasivní obrana (pouze brnění): 0 AP. Lze použít společně s [[Schopnosti|Cover (Krytí)]] nebo [[Schopnosti|Dodge (Úhýbání)]]. 
 
@@ -87,7 +87,7 @@ V případě nepřímého útoku (plamenomet, požár, exploze, emp, rázová vl
 
 ### Příležitostné & Připravené útoky
 #### Příležitostný útok
-- Každá postava vybavená zbraní na blízko může použít příležitostný útok na postavu, která odchází ze zamčení v boji nebo probíhá jejím osmiokolím  během pohybu. **Tento útok se provede vybavenou zbraní na blízko a stojí o 2 AP méně než standardní útok.**
+- Každá postava vybavená zbraní na blízko může použít příležitostný útok na postavu, která odchází ze zamčení v boji nebo probíhá jejím osmiokolím během pohybu. **Tento útok se provede vybavenou zbraní na blízko a stojí o 2 AP méně než standardní útok.**
 
 #### Připravený útok
 - Připravený útok se platí dopředu předtím, než je provedem. Mezi přípravou a provedením nesmí být provedená jiná akce. **Tento útok se provede vybavenou zbraní na první nepřátelskou postavu ve výhledu a stojí o 2 AP více než standardní útok.**
