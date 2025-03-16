@@ -32,7 +32,7 @@
 ---
 ##### Sniper (Odstřelovačky)
 - **Technologie:** Gadget (např. sniper rifle)
-- **Stat:** Agility/Perception
+- **Stat:** Perception/Agility
 - **Doba tréninku:** 63R, 126D, 252C
 - <font color="#fac08f">Odstřelovačské zbraně jsou určeny pro přesnou střelbu na dlouhou vzdálenost. Zahrnují odstřelovačské pušky, lovecké pušky s optikou nebo speciální antimateriálové pušky. Tyto zbraně excelují v tichých operacích, eliminaci vysoce prioritních cílů a podpoře z dálky.</font>
 ---
@@ -44,7 +44,7 @@
 ---
 ##### Launchers (Odpalovače)
 - **Technologie:** Gadget (např. raketomet, granátomet)
-- **Stat:** Agility/Power
+- **Stat:** Power/Perception
 - **Doba tréninku:** 63R, 126D, 252C
 - <font color="#fac08f">Odpalovače zahrnují zbraně, které vystřelují výbušné střely. Patří sem raketomety, přenosné granátomety nebo hybridní odpalovací systémy. Jsou ideální pro ničení skupin nepřátel, vozidel nebo obranných struktur.</font>
 ---
@@ -54,7 +54,7 @@
 - **Doba tréninku:** 63R, 126D, 252C
 - <font color="#fac08f">Primitivní zbraně zahrnují tradiční projektilové zbraně, které nevyužívají moderní technologie. Patří sem luky, kuše, vrhací kopí a podobné zbraně. Jsou tiché, spolehlivé a obvykle umožňují snadnou výrobu munice, což je činí ideálními pro přežití a nenápadné operace.</font> **Používá se také pro vystřelení kotvičky.**
 ---
-##### Primitive Weapons (Primitivní zbraně)
+##### Speciál Weapons (Speciální zbraně)
 - **Technologie:** Gadget (např. gravitační manipulátor, bio-organické zbraně)
 - **Stat:** Perception/Power
 - **Doba tréninku:** 63R, 126D, 252C
@@ -157,9 +157,9 @@ ___
 - **Stat:** Perception
 - **Doba tréninku:** 84R, 168D, 336C
 - Tato dovednost představuje technické znalosti nezbytné pro pilotování velkých vesmírných lodí, včetně válečných lodí, osobních přepravních a nákladních plavidel ([[Korveta|korvety]], [[Křižník|křižníky]] a [[Dreadnought|dreadnoughty]]). Používá se při honičkách, útěcích a při specifických manévrech.
-- Tyto lodě jsou obvykle vybavené [[Crusix rozhraní]], které umožňuje pilotovat loď myslí. Bez tohoto napojení mají všechny hody na schopnost _Helm_ automaticky Ob +2.
-  - Ob 1 - Přistání na přistávací rampě. 
-  - Ob 2 - Dokovací manévr ve vesmíru.
+- Tyto lodě jsou obvykle vybavené [[Crusix rozhraní]], které umožňuje pilotovat loď myslí. S tímto napojením mají všechny hody na schopnost _Helm_ automaticky Ob -2.
+  - Ob 3 - Přistání na přistávací rampě. 
+  - Ob 4 - Dokovací manévr ve vesmíru.
 ---
 ##### Navigation (Navigace)
 - **Technologie:** Ano, [[navigační počítač]] nebo podobný systém
@@ -183,9 +183,9 @@ ___
 - **Stat:** Perception/Agility
 - **Doba tréninku:** 63R, 126D, 252C
 - Dovednost Pilot se používá pro ovládání atmosférických a malých vesmírných plavidel ([[Stíhač|stíhače]] a [[Člun|čluny]], plus [[Alpha-Class|vznášedla]] a [[Eta-Class|raketoplány]] všech velikostí) nikoli povrchových vozidel. Používá se při honičkách, útěcích a při specifických manévrech.
-- Tyto lodě mohou být vybavené [[Crusix rozhraní]], které umožňuje pilotovat loď myslí. Bez tohoto napojení mají všechny hody na schopnost _Pilot_ automaticky Ob +1.
-  - Ob 1 - Přistání na přistávací rampě. 
-  - Ob 2 - Dokovací manévr ve vesmíru.
+- Tyto lodě mohou být vybavené [[Crusix rozhraní]], které umožňuje pilotovat loď myslí. S tímto napojením mají všechny hody na schopnost _Pilot_ automaticky Ob -1.
+  - Ob 2 - Přistání na přistávací rampě. 
+  - Ob 3 - Dokovací manévr ve vesmíru.
 ---
 ##### Security (Bezpečnost)
 - **Technologie:** Ano, např. [[Bezpečnostní systém]]
