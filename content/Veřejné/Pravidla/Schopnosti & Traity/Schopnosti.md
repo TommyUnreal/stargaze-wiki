@@ -315,6 +315,12 @@ ___
 - **Doba tréninku:** 42R, 84D, 168C
 - Rétorika je forma diskurzu zaměřená na předávání myšlenek, idejí a konceptů ve snaze vyhrát argumentaci. **Hráčova řeč musí obsahovat vyprávění příběhu nebo živý popis a zároveň metaforu, analogii nebo alegorii.** Jinak není považována za *Rhetorics* ale jiný skill.
 ---
+##### Seduction (Svádění)
+- **Technologie:** Ne
+- **Stat:** Will
+- **Doba tréninku:** 42R, 84D, 168C
+- Svádění zahrnuje získávání informací nebo přesvědčování subjektu k určitému jednání manipulací sexuální touhy a záměru. To nutně neznamená pohlavní styk. Tato dovednost může být použita v _Duel of Wits_ jako hlavní schopnost, ale jen pokud je v sázce emocionální vydírání nebo sexuální vztah.
+---
 ##### Soothing Platitudes (Utišující fráze)
 - **Technologie:** Ne
 - **Stat:** Will
@@ -374,7 +380,7 @@ ___
 - **Technologie:** Ano, přesné měřicí nástroje
 - **Stat:** Perception
 - **Doba tréninku:** 84R, 168D, 336C
-- Inženýři jsou vzdělaní odborníci s hlubokými znalostmi potřebnými pro návrh a konstrukci elektrických zařízení, terminálů a počítačů.
+- Inženýři jsou vzdělaní odborníci s hlubokými znalostmi potřebnými pro návrh a konstrukci elektrických zařízení, terminálů a počítačů. *Slouží k propojování drátků pod panely.*
   - Ob 1 - První kostka integrity.
   - Ob 2 - Druhá kostka integrity.
   - Ob 4 - Třetí kostka integrity, Ob +2 za každou další.

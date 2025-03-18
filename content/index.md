@@ -52,6 +52,7 @@
       * Místní Organizace
       * Náboženské řády
       * Obchodní gildy
+        * [[Naskarská obchodní gilda]]
       * Pašerácké kartely
       * Pirátské frakce
       * Technologické korporace
