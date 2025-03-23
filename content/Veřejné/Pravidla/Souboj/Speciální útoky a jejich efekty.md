@@ -28,12 +28,12 @@ Nepřímé útoky zasahují oblast bez nutnosti přímého zásahu cíle. Jejich
     - Příklad: Plamenomet, Požár, Extrémní teplota.
     - Jako první [[Zranění|zranění]] vždy způsobí Bolesti.
     - Obrana při nepřímém útoku: [[Atributy|Forte]]/2 + [[Schopnosti|Barriers (Energetické štíty)]].
-    - 
+    
 - **Plazma**
 	- Příklad: Plazmový oblak, Únik z reaktoru, Plazmový výboj.
 	- Způsobuje jak popáleniny, tak radiační poškození. Tzn. Jako první [[Zranění|zranění]] vždy způsobí Bolesti a až do plného uzdravení dává postih na [[Regenerace|regeneraci]] -2🎲.
 	- Obrana: [[Atributy|Forte]]/2 + [[Schopnosti|Barriers (Energetické štíty)]].
-	-
+	
 - **Kryogenický útok**
     - Základní stat: Forte.
     - Příklad: Kryogenická zóna, Zmrazovací paprsek.

@@ -36,7 +36,7 @@ Duel of Codes je mechanika pro simulaci hackování počítačových systémů. 
 #### Defensive Routing (Defenzivní přesměrování)
 **Test:** *Security Rigging* 
 **Popis:** Hacker přesměruje svou datovou stopu přes několik serverů. 
-**Účinek:** _Obrana_. Proti oponentově akci se provede test a úspěchy se odečtou od jeho hodu. Poskytuje imunitu proti _Power Surge_.
+**Účinek:** _Obrana_. Proti oponentově akci se provede test a úspěchy se odečtou od jeho hodu. Poskytuje imunitu proti [[#Power Surge (Výboj)]].
 #### Exploit Execution (Provedení exploitu)
 **Test:** *Security Rigging*
 **Popis:** Hacker objeví a využije kritickou zranitelnost. 
@@ -44,19 +44,19 @@ Duel of Codes je mechanika pro simulaci hackování počítačových systémů. 
 #### Signal Masking (Maskování signálu)
 **Test:** *Signals*
 **Popis:** Hacker skrývá svou digitální stopu. 
-**Účinek:** _Obrana_. Úspěchy se odečtou od útočné akce Systému. Úspěšná obrana přidá +1 k Času Hackera. Poskytuje imunitu proti _Power Surge_.
+**Účinek:** _Obrana_. Úspěchy se odečtou od útočné akce Systému. Úspěšná obrana přidá +1 k Času Hackera. Poskytuje imunitu proti [[#Power Surge (Výboj)]].
 #### Patch Analysis (Analýza záplat)
 **Test:** *Security* / *Science* 
 **Popis:** Hacker analyzuje systémové záplaty a hledá slabá místa. 
-**Účinek:** _Útok/Obrana_. Rozdělte kostky na dva pooly. Obranné úspěchy se odečtou od útoku Systému, útočné úspěchy fungují jako *Code Injection*.
+**Účinek:** _Útok/Obrana_. Rozdělte kostky na dva pooly. Obranné úspěchy se odečtou od útoku Systému, útočné úspěchy fungují jako [[#Code Injection (Injekce kódu)]].
 #### Deep Scan (Hluboký sken)
 **Test:** *Science*
 **Popis:** Hacker provede důkladnou analýzu systémových procesů. 
-**Účinek:** _Speciální_. Versus test proti jakékoliv akci Systému. Pokud je úspěšný, Hacker získá +1🎲 na své další akce a také se dozví seznam Nodů v systému. Poskytuje imunitu proti _Honeypot_.
+**Účinek:** _Speciální_. Versus test proti jakékoliv akci Systému. Pokud je úspěšný, Hacker získá +1🎲 na své další akce a také se dozví seznam Nodů v systému. Poskytuje imunitu proti [[#Honeypot (Návnada)]].
 #### System Misdirection (Systémové odvedení pozornosti)
 **Test:** *Engineering*
 **Popis:** Hacker odvede pozornost systému falešnými hrozbami. 
-**Účinek:** _Obrana_. Úspěchy se odečtou od útočné akce Systému. Poskytuje imunitu proti _Counter-Measure_. Úspěch umožňuje volný zásah v příští akci.
+**Účinek:** _Obrana_. Úspěchy se odečtou od útočné akce Systému. Poskytuje imunitu proti [[#Counter-Measure (Protiopatření)]]. Úspěch umožňuje volný zásah v příští akci.
 #### Short Circuit (Zkrat)
 **Test:** *Engineering* / *Jury-Rigging*
 **Popis:** Hacker zkratuje nějaký z podsystémů.
@@ -64,7 +64,7 @@ Duel of Codes je mechanika pro simulaci hackování počítačových systémů. 
 #### Manual Override
 **Test:** *Jury-Rigging*
 **Popis:** Hacker ručně převede ovládání některých podsystémů.
-**Účinek:** _Útok_. Úspěchy se odečtou od Síly Systému. Je-li útok úspěšní, dá 1 zranění navíc. Je-li provedena proti *System Lockdown*, hacker ztratí dvě akce. Je-li provedena proti *Power Surge*, Hacker obdrží 2 body [[Zranění]].
+**Účinek:** _Útok_. Úspěchy se odečtou od Síly Systému. Je-li útok úspěšní, dá 1 zranění navíc. Je-li provedena proti [[#System Lockdown (Uzamčení systému)]], hacker ztratí dvě akce. Je-li provedena proti [[#Power Surge (Výboj)]], Hacker obdrží 2 body [[Zranění]].
 
 ### Akce Systému
 #### Autorecovery (Automatická Obnova)

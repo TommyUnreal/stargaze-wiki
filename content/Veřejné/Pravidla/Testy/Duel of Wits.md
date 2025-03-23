@@ -49,7 +49,7 @@ A jejich použití při roleplay:
  - *Suasion*: Nabídnutí falešného kompromisu ze svatých textů.
  - *Persuasion*: Cílené apelování na emoce nebo události.
 **Popis:** Mluvčí naláká oponenta do pasti, kde zdánlivě diskutuje o falešném bodu, než odhalí skrytý útok.
-**Účinek:** *Obrana*. Proti oponentově akci se provede test schopnosti a úspěchy se odečtou od jeho hodu dovednosti. Automaticky ruší akci *Rebuttal* a následně umožňuje volný zásah.
+**Účinek:** *Obrana*. Proti oponentově akci se provede test schopnosti a úspěchy se odečtou od jeho hodu dovednosti. Automaticky ruší akci [[#Rebuttal]] a následně umožňuje volný zásah.
 #### Incite (Provokace)
 **Test:** 
 - *Interrogation*: Ostrý výslech.
@@ -70,7 +70,7 @@ A jejich použití při roleplay:
 - *Falsehood*: Vymyšlené příklady.
 - *Ugly Truth*: Šokující prohlášení k rozptýlení.
 **Popis:** Mluvčí přednese nesouvisející nebo bizarní argument, aby zmátl oponenta.
-**Účinek:** *Speciální/obrana*. Versus test proti jakékoliv obráncově akci, včetně *Obfuscate*. Poskytuje +2🎲 proti *Dismiss*. Pokud je test nerozhodný, oponentova současná akce je zastavena. Je-li mluvčí úspěšný, oponent má -1 úspěch pro svou další akci.
+**Účinek:** *Speciální/obrana*. Versus test proti jakékoliv obráncově akci, včetně [[#Obfuscate (Zamlžení)]]. Poskytuje +2🎲 proti [[#Dismiss (Odmítnutí)]]. Pokud je test nerozhodný, oponentova současná akce je zastavena. Je-li mluvčí úspěšný, oponent má -1 úspěch pro svou další akci.
 #### Point
 **Test:** 
 - *Interrogation*: Série otázek vedoucích k nevyhnutelnému závěru.
@@ -91,11 +91,12 @@ A jejich použití při roleplay:
 - *Suasion*: Otočení argumentu mluvčího pomocí citací svatých textů.
 - *Persuasion*: Klidné vyvrácení argumentů.
 **Popis:** Mluvčí nechá obránce říci jeho argument, poté jej vyvrátí a provede vlastní útok.
-**Účinek:** Útok/Obrana. Proti *Point* nebo *Dismiss* si rozděl kostky na dva pooly, úspěchy z obrany se odečtou od úspěchů oponenta. Úspěchy z protiútoku fungují jako *Point*.
+**Účinek:** Útok/Obrana. Proti [[#Point]] nebo [[#Dismiss (Odmítnutí)]] si rozděl kostky na dva pooly, úspěchy z obrany se odečtou od úspěchů oponenta. Úspěchy z protiútoku fungují jako [[#Point]]
+.
 
 ### Volley to Volley (Průběh Výměny)
 - Jakmile hráči vyberou své akce pro *výměnu*, předají se nezávislému hráči a ten je vyvolává postupně pro každý *volej*.
-- Pro každý volej se nejprve ohlásí akce, určí se, kdo mluví první (obvykle *Point* a *Dismiss* se říkají před *Rebuttalem*, *Feint* a *Obfuscate* přerušují), a poté hráči zahrají své manévry (roleplaying).
+- Pro každý volej se nejprve ohlásí akce, určí se, kdo mluví první (obvykle [[#Point]] a [[#Dismiss (Odmítnutí)]] se říkají před [[#Rebuttal]], [[#Feint (Klam)]] a [[#Obfuscate (Zamlžení)]] přerušují), a poté hráči zahrají své manévry (roleplaying).
 - GM má právo udělit nevýhodu, pokud je manévr pouze ohlášen bez hraní role.
 - Po odehrání *voleje* se vyhodnotí výsledky testů a odečtou se body *Síly Argumentu*.
 
@@ -103,7 +104,7 @@ A jejich použití při roleplay:
 - Když Síla Argumentu jedné strany klesne na nulu či pod, duel končí. Strana s nulovou Sílou Argumentu může dokončit svou akci pro tento *volej*, ale další voleje se nehrají.
 
 ### Vítězství, Prohra, Kompromis
-- Na počátku určené podmínky vítězného *Prohlášení Záměru* musí být splněny všemi zúčastněnými stranami.
+- Na počátku určené podmínky vítězného [[#State Your Case (Prohlášení Záměru)]] musí být splněny všemi zúčastněnými stranami.
 #### Kompromis
  - Úroveň kompromisu, kterou musí vítěz nabídnout, závisí na počtu kostek, o které přišel ze své původní Síly Argumentu:
 	 - **Žádný Kompromis** (vítěz ztratil max. 1 bod *Síly Argumentu*)

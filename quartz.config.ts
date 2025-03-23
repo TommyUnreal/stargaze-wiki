@@ -40,7 +40,11 @@ const config: QuartzConfig = {
           highlight: "rgba(58, 110, 165, 0.1)", // Subtle blue highlight
           textHighlight: "#a53a6e88", // Subtle purple text highlight
           text_em: "#228b22", // Green color for emphasized text
-          text_strong: "#333333", // Slightly darker than normal text for strong emphasis
+          text_strong: "#00aa00", // Slightly darker than normal text for strong emphasis
+          text_h1: "#006400",       // Dark green
+          text_h2: "#228B22",       // Forest green
+          text_h3: "#2E8B57",       // Sea green
+          text_h4: "#3CB371",       // Medium sea green
         },
         darkMode: {
           light: "#1a1a1a", // Dark background for dark mode
@@ -52,8 +56,12 @@ const config: QuartzConfig = {
           tertiary: "#ff6f00", // Muted orange for tertiary elements
           highlight: "rgba(79, 195, 247, 0.1)", // Subtle blue highlight
           textHighlight: "#ff6f0088", // Subtle orange text highlight
-		  text_em: "#92bd92", // Green color for emphasized text
-		  text_strong: "#cccccc", // Slightly lighter than normal text for strong emphasis
+          text_em: "#92bd92", // Green color for emphasized text
+          text_strong: "#eeee66", // Slightly lighter than normal text for strong emphasis
+          text_h1: "#90EE90",       // Light green
+          text_h2: "#7CFC00",       // Lawn green
+          text_h3: "#32CD32",       // Lime green
+          text_h4: "#00FF7F",       // Spring green
         },
       },
     },

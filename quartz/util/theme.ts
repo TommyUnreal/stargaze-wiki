@@ -55,7 +55,10 @@ ${stylesheet.join("\n\n")}
   --textHighlight: ${theme.colors.lightMode.textHighlight};
   --text_em: ${theme.colors.lightMode.text_em};
   --text_strong: ${theme.colors.lightMode.text_strong};
-
+  --text-h1: ${theme.colors.lightMode.text_h1};
+  --text-h2: ${theme.colors.lightMode.text_h2};
+  --text-h3: ${theme.colors.lightMode.text_h3};
+  --text-h4: ${theme.colors.lightMode.text_h4};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
@@ -74,6 +77,10 @@ ${stylesheet.join("\n\n")}
   --textHighlight: ${theme.colors.darkMode.textHighlight};
   --text_em: ${theme.colors.darkMode.text_em};
   --text_strong: ${theme.colors.darkMode.text_strong};
+  --text-h1: ${theme.colors.darkMode.text_h1};
+  --text-h2: ${theme.colors.darkMode.text_h2};
+  --text-h3: ${theme.colors.darkMode.text_h3};
+  --text-h4: ${theme.colors.darkMode.text_h4};
 }
 `
 }
