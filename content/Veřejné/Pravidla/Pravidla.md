@@ -16,4 +16,6 @@
     * [[Zranění]]
 * Testy
     * [[Artha]]
+    * [[Duel of Codes]]
+    * [[Duel of Wits]]
     * [[Obstacles]]

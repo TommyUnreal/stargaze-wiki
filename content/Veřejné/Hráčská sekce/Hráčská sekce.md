@@ -1,5 +1,6 @@
 * NPCs
 * Poznámky
+    * [[Aktuální burza odměn]]
 * Sumáře
     * [[Aktuální systém]]
 * Znalosti

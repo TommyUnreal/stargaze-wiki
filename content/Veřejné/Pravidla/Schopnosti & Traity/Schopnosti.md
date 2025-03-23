@@ -313,7 +313,13 @@ ___
 - **Technologie:** Ne
 - **Stat:** Will
 - **Doba tréninku:** 42R, 84D, 168C
-- Rétorika je forma diskurzu zaměřená na předávání myšlenek, idejí a konceptů ve snaze vyhrát argumentaci. **Hráčova řeč musí obsahovat vyprávění příběhu nebo živý popis a zároveň metaforu, analogii nebo alegorii.** Jinak není považována za *Rhetorics* ale jiný skill.
+- Rétorika je forma diskurzu zaměřená na předávání myšlenek, idejí a konceptů ve snaze vyhrát argumentaci. Jedná se o znalosti logických kliček a argumentačních faulů. Pouze pro použití v [[Duel of Wits]].
+---
+##### Suasion (Přikázání)
+- **Technologie:** Ne
+- **Stat:** Will
+- **Doba tréninku:** 42R, 84D, 168C
+- Přikázání je způsob apelu na věřící a duše smrtelníků.
 ---
 ##### Seduction (Svádění)
 - **Technologie:** Ne
@@ -331,7 +337,7 @@ ___
 - **Technologie:** Ne, případně Torture kit
 - **Stat:** Will/Forte
 - **Doba tréninku:** 42R, 84D, 168C
-- _Mučení_ je jakýkoli čin, při němž je cíleně způsobena těžká muka, ať už fyzická nebo psychologická, jako prostředek k zastrašení, odstrašení, pomstě, trestu nebo získání informací či přiznání. V této hře _Mučení_ nevede nutně k získání spolehlivých informací od oběti. To je úkol pro [[#Interrogation (Výslýchání)]]. _Mučení_ se používá k vytvoření bolesti a škod na oběti ve formě vlastností. Týrání se provádí podobně jako _Duel of Wits_, ale s několika významnými úpravami:
+- _Mučení_ je jakýkoli čin, při němž je cíleně způsobena těžká muka, ať už fyzická nebo psychologická, jako prostředek k zastrašení, odstrašení, pomstě, trestu nebo získání informací či přiznání. V této hře _Mučení_ nevede nutně k získání spolehlivých informací od oběti. To je úkol pro [[#Interrogation (Výslýchání)]]. _Mučení_ se používá k vytvoření bolesti a škod na oběti ve formě vlastností. Týrání se provádí podobně jako [[Duel of Wits]], ale s několika významnými úpravami:
   - Oběť musí být zajata, a proto nemůže odejít.
   - _Mučení_ je jediná platná dovednost pro tento konflikt. Pokud ji nemá, může oběť použít svůj _Will_ jako dovednost.
   - Mučitel může aplikovat vlastnosti jako _Maimed_ (Zmrzačený), _Broken_ (Zlomený), _Blind_ (Slepý), _Disfigured_ (Zohavený), _Sickly_ (Chorobný) nebo jiné podobné vlastnosti. Oběť může stanovit své sázky tak, že na sebe aplikuje nějakou vlastnost. Kompromisy mění závažnost nebo povahu vlastností.
@@ -642,7 +648,7 @@ ___
 - **Technologie:** Ne
 - **Stat:** Perception
 - **Doba tréninku:** 84R, 168D, 336C
-- Psychologové umí dešifrovat křehké závoje emocí, lží, jasnosti a účelu. Psychologie je telepatická síla oblastí související s dovednostmi jako _Oratory_ (Oratoria), _Persuasion_ (Přesvědčování), [[#Command (Velení)|Command]], _Falsehood_ (Lži), _Seduction_ (Svádění), _Suasion_ (Oslovení), _Rhetoric_ (Rétorika), _Intimidation_ (Zastrašování), _Interrogation_ (Výslech), _Etiquette_ (Etiketa), _Ugly Truth_ (Ošklivá pravda) a _Soothing Platitudes_ (Uklidňující fráze). Může být použita k pomoci těmto dovednostem u jiné postavy. Psychologie může být také použita k čtení emocionálního stavu jiné postavy a k určení jejích vlastností. **Před hody musí hráč postavy vyhlásit svůj záměr a nastavit překážku pro tuto akci. Psycholog si může vybrat, kterou vlastnost chce zjistit.** Pokud postava psychologa vlastní _Bright Mark_ (Jasný znak) nebo _Mule_ (Mul), dovednost psychologie nabízí silnější možnosti. Testy:
+- Psychologové umí dešifrovat křehké závoje emocí, lží, jasnosti a účelu. Psychologie je telepatická síla oblastí související s dovednostmi jako _Oratory_ (Oratoria), _Persuasion_ (Přesvědčování), [[#Command (Velení)|Command]], _Falsehood_ (Lži), _Seduction_ (Svádění), _Suasion_ (Vyjednávání), _Rhetoric_ (Rétorika), _Intimidation_ (Zastrašování), _Interrogation_ (Výslech), _Etiquette_ (Etiketa), _Ugly Truth_ (Ošklivá pravda) a _Soothing Platitudes_ (Uklidňující fráze). Může být použita k pomoci těmto dovednostem u jiné postavy. Psychologie může být také použita k čtení emocionálního stavu jiné postavy a k určení jejích vlastností. **Před hody musí hráč postavy vyhlásit svůj záměr a nastavit překážku pro tuto akci. Psycholog si může vybrat, kterou vlastnost chce zjistit.** Pokud postava psychologa vlastní _Bright Mark_ (Jasný znak) nebo _Mule_ (Mul), dovednost psychologie nabízí silnější možnosti. Testy:
   - Ob 1 - Zjištění, zda je subjekt živý nebo mrtvý.
   - Ob 2 - Čtení skryté nálady.
   - Ob 3 - Zjištění vlastnosti postavy.
@@ -759,7 +765,7 @@ ___
 - **Technologie:** Ne
 - **Stat:** Perception
 - **Doba tréninku:** 42R, 84D, 168C
-- Existují tři hlavní větve právního studia: církevní právo, alianční právo, pirátský kodex. Hráč si musí zvolit jednu z možností. Při hájení případů je doporučeno použít _Duel of Wits_. V příslušném soudním prostředí lze použít jako primární dovednost.
+- Existují tři hlavní větve právního studia: církevní právo, alianční právo, pirátský kodex. Hráč si musí zvolit jednu z možností. Při hájení případů je doporučeno použít [[Duel of Wits]]. V příslušném soudním prostředí lze použít jako primární dovednost.
   - Ob 1 - Podání žaloby.
   - Ob 2 - Určení legality.
   - Ob 4 - Zrušení lehkých obvinění.
@@ -925,6 +931,5 @@ Protože všechny skilly tohoto typu používají stejnou mechaniku a jsou samy 
 ##### Iron Artifice
 ##### Psychohistory
 ##### Squad Support Weapons
-##### Suasion
 ##### Tactics
 ##### Vaylen Philosophy

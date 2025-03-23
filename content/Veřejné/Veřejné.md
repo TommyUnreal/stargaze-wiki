@@ -1,6 +1,7 @@
 * Hráčská sekce
   * NPCs
   * Poznámky
+      * [[Aktuální burza odměn]]
   * Sumáře
       * [[Aktuální systém]]
   * Znalosti
@@ -83,6 +84,8 @@
       * [[Zranění]]
   * Testy
       * [[Artha]]
+      * [[Duel of Codes]]
+      * [[Duel of Wits]]
       * [[Obstacles]]
 * Předměty
   * Měny
