@@ -21,7 +21,7 @@ Hrdinské postavy (PC a NPC se statusem Hrdina) mají speciální pravidla:
 - Zranění vždy směřuje do náhodného volného slotu popsaného v kapitole [[Zranění]]. Při zaplnění všech slotů jsou vyřazeni.
 - Pokud není kam umístit zranění:
     1. Musí zaplatit [[Artha|bod persony]] pro aktivaci _Will to Live_.
-    2. Následuje test [[Atributy|Health]] s obtížností rovnou zápornému počtu hit pointů.
+    2. Následuje test [[Atributy|Health]] s obtížností rovnou zápornému počtu hit pointů. Obdržené "záporné HP" se sčítají, dokud není postava uzdravena.
 	    - Úspěch = postava přežije, ale je vyřazena.
 		- Neúspěch = postava umírá.
 

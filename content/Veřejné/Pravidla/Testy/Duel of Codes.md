@@ -44,7 +44,7 @@ Duel of Codes je mechanika pro simulaci hackování počítačových systémů. 
 #### Signal Masking (Maskování signálu)
 **Test:** *Signals*
 **Popis:** Hacker skrývá svou digitální stopu. 
-**Účinek:** _Obrana_. Úspěchy se odečtou od útočné akce Systému. Úspěšná obrana přidá +1 k Času Hackera. Poskytuje imunitu proti [[#Power Surge (Výboj)]].
+**Účinek:** _Obrana_. Úspěchy se odečtou od útočné akce Systému. Úspěšná obrana přidá +2 k Času Hackera. Poskytuje imunitu proti [[#Power Surge (Výboj)]].
 #### Patch Analysis (Analýza záplat)
 **Test:** *Security* / *Science* 
 **Popis:** Hacker analyzuje systémové záplaty a hledá slabá místa. 
@@ -56,7 +56,7 @@ Duel of Codes je mechanika pro simulaci hackování počítačových systémů. 
 #### System Misdirection (Systémové odvedení pozornosti)
 **Test:** *Engineering*
 **Popis:** Hacker odvede pozornost systému falešnými hrozbami. 
-**Účinek:** _Obrana_. Úspěchy se odečtou od útočné akce Systému. Poskytuje imunitu proti [[#Counter-Measure (Protiopatření)]]. Úspěch umožňuje volný zásah v příští akci.
+**Účinek:** _Obrana_. Úspěchy se odečtou od útočné akce Systému. Poskytuje imunitu proti [[#Counter-Measure (Protiopatření)]]. Úspěch umožňuje volný zásah v příští akci. Úspěch proti Counter-Measure dva volné zásahy v příští akci.
 #### Short Circuit (Zkrat)
 **Test:** *Engineering* / *Jury-Rigging*
 **Popis:** Hacker zkratuje nějaký z podsystémů.
@@ -100,7 +100,7 @@ Duel of Codes je mechanika pro simulaci hackování počítačových systémů. 
 **Test:** Security 
 **Node:** Bezpečnostní modul / AI
 **Popis:** Systém spustí aktivní protiopatření. 
-**Účinek:** _Útok_. Úspěchy se odečtou od Síly Hackera.
+**Účinek:** _Útok_. Úspěchy se odečtou od času Hackera.
 #### Honeypot (Návnada)
 **Test:** Security
 **Node:** AI
