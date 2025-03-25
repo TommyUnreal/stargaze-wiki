@@ -6,14 +6,14 @@ Duel of Codes je mechanika pro simulaci hackování počítačových systémů. 
 - **Security**: [[#Patch Analysis (Analýza záplat)]]
 - **Science**: [[#Patch Analysis (Analýza záplat)]], [[#Deep Scan (Hluboký sken)]]
 - **Engineering**: [[#System Misdirection (Systémové odvedení pozornosti)]], [[#Short Circuit (Zkrat)]]
-- **Jurry-Riging**: [[#Short Circuit (Zkrat)]], [[#Manual Override]]
+- **Jury-Rigging**: [[#Short Circuit (Zkrat)]], [[#Manual Override]]
 ## Pravidla
 ### State Your Case (Prohlášení záměru)
 - Hacker musí definovat svůj cíl (např. získat data, převzít kontrolu nad subsystémem, zanechat zadní vrátka).
 - GM definuje, co se stane, pokud Systém vyhraje (např. spustí alarm, zablokuje účet, zavolá bezpečnostní personál). U systémů se sílou 5 a vyšší může být skrytý.
 
 ### Timeframe (Čas na hackování)
- - Hacker provede test statu *Perception* a počet úspěchů přičte k exponentu *Security Rigging*. Výsledek představuje  jeho čas na proniknutí do systému před tím, než bude odhalen nebo vyhozen.
+ - Hacker provede test statu *Perception* a počet úspěchů přičte k exponentu *Security Rigging*. Výsledek představuje  jeho čas na proniknutí do systému před tím, než bude odhalen nebo vyhozen. Po každé vyhodnocené dvojici akcí klesne čas o jedna.
 
 ### System's Strength
 - Určí základní exponent *Security* systému. Připočte +1 za každý vybavený *Node*.
@@ -109,7 +109,7 @@ Duel of Codes je mechanika pro simulaci hackování počítačových systémů. 
 #### Power Surge (Výboj)
 **Test:** Security
 **Node:** Zdroj energie
-**Popis:** Systém záměrně nechá projít útok, ale vyšle zpětný výboj. **Účinek:** _Speciální_. Systém ignoruje útok Hackera, ale způsobí fyzické [[Zranění]]. a odečte z Času Hackera.
+**Popis:** Systém záměrně nechá projít útok, ale vyšle zpětný výboj. **Účinek:** _Speciální_. Systém ignoruje útok Hackera, ale způsobí fyzické [[Zranění]]. a odečte z 1 času Hackera.
 
 ## Vyhodnocení
 - Pokud Síla Systému klesne na 0 nebo níže před vypršením Času, Hacker získává to, co bylo stanoveno v Prohlášení záměru.
