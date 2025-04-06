@@ -1,0 +1,3 @@
+Systém Tasian, nacházející se na okraji centrálních světů Aliance Centrálních Planet, je nenápadným, avšak klíčovým bodem v mezihvězdném prostoru. Ačkoliv samotný systém obsahuje několik planet, žádná z nich není obyvatelná. Skutečným centrem zájmu je zde *Tasian XII*, a především jeho jediný větší měsíc – [[Mergtara]]. 
+
+Systém má jediný [[ISU Node]] obíhající kolem Mergtary v [[Lagrangeovy body|lagrangeovy bodě]] na oběžné dráze *Tasianu XII*. V systému se nenachází [[FTL prak]].

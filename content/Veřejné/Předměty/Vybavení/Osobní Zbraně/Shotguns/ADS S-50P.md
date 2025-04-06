@@ -10,7 +10,7 @@ Uvedena na trh v roce 3136, tato zbraň byla výsledkem spolupráce s elitními 
 
 |          Výrobce          |    [[Aegis Defense Systems]]    |
 | :-----------------------: | :-----------------------------: |
-|           Skill           |             Shotgun             |
+|           Skill           |            Shotguns             |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               5/5               |
 |          Dostřel          |          5 -> 8 -> 11           |
@@ -18,7 +18,7 @@ Uvedena na trh v roce 3136, tato zbraň byla výsledkem spolupráce s elitními 
 |        Typ munice         |            [[16BX]]             |
 |          Výstřel          |              5 AP               |
 | Nabíjení z rychlého slotu |              8 AP               |
-|           Perk            |                                 |
+|           Perk            |        [[Close Spread]]         |
 |           MSRP            |              1300Σ              |
 
 ## Fun facts

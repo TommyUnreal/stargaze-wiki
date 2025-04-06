@@ -11,7 +11,7 @@ Zbraň byla vyvinuta v roce 3125 jako reakce na rostoucí poptávku po kompaktn�
 
 |          Výrobce          |    [[Aegis Defense Systems]]    |
 | :-----------------------: | :-----------------------------: |
-|           Skill           |             Shotgun             |
+|           Skill           |            Shotguns             |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               3/3               |
 |          Dostřel          |           4 -> 6 -> 8           |
@@ -19,7 +19,7 @@ Zbraň byla vyvinuta v roce 3125 jako reakce na rostoucí poptávku po kompaktn�
 |        Typ munice         |            [[16BX]]             |
 |          Výstřel          |              5 AP               |
 | Nabíjení z rychlého slotu |         2 + 2/náboj AP          |
-|           Perk            |                                 |
+|           Perk            |        [[Close Spread]]         |
 |           MSRP            |              690Σ               |
 
 ## Fun facts

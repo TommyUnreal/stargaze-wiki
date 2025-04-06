@@ -32,3 +32,17 @@ Hlavní designérka, jejíž návrhy jsou zaměřené na snadnou produkci a níz
 ## Sídla
 - [[Vardek II]] – hlavní výrobní centrum a současná korporátní základna.
 - **Továrny na okrajových světech** – decentralizovaná produkce pro snížení zásahů aliančních úřadů.
+
+## Výrobky
+##### Sidearms (Pistole a revolvery)
+- pistole [[Blackstar E1]]
+- revolver [[Blackstar R6]]
+
+##### Energy Weapons (Energetické zbraně)
+- disruptor [[Blackstar P2]]
+
+##### Shotguns (Brokovnice)
+- kompaktní brokovnice [[Blackstar S4]]
+
+##### Longarms (Pušky)
+- útočká puška [[Blackstar AR5]]

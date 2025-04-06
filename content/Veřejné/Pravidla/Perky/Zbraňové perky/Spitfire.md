@@ -1,0 +1,1 @@
+Zbraň vystřelí v režimu bez tepelné regulace. Získá +2🎲 k útoku, ale v dalším kole nemůžeš střílet (zbraň se přehřeje a musíš ji „profouknout“). Navíc automaticky ztratí jeden bod integrity. Pokud na poslední kostce padne 1, ztratí bod integrity podle standardních pravidel. 

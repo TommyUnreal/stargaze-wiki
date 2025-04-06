@@ -21,7 +21,7 @@ Zbraň využívá proprietární systém elektronické kontroly kadence a modul�
 |        Typ munice         |            [[10.LC]]            |
 |          Výstřel          |              4 AP               |
 | Nabíjení z rychlého slotu |              8 AP               |
-|           Perk            |                                 |
+|           Perk            |            [[Dávka]]            |
 |           MSRP            |              1550Σ              |
 
 ## Fun facts

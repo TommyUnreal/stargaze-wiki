@@ -45,7 +45,18 @@ Bezpečnostní analytici se domnívají, že _Red_Engineer_ by mohl být býval�
 ## Designy
 ##### Sidearms (Pistole a revolvery)
 - [[WOSP HUB 3.0]] by _Ghostsmith_
-- [[WOSP HEX 2.4]] by _MechanicQueen_
+- [[WOSP HEX 2.4]] by _MechaQueen_
+##### Shotguns (Brokovnice)
+- [[WOSP SAW 4.2]] by _PhanTom_
+##### Energy Weapons (Energetické zbraně)
+- [[WOSP PUB 1.0]] by _Ghostsmith_
+- [[WOSP PAT 2.1]] by _Whisp_ & _Ghostsmith_
+##### SMGs 
+ - [[WOSP LAC 3.5]] by _Alice Sprinsteenová_
+ - [[WOSP LUX 5.0]] by _MechaQueen_ & _ShadowTech_
+##### Longarms (Pušky)
+ - [[WOSP RIG 3.0]] by *TheFarmer*
+ - [[WOSP RAW 7.0]] by _MechaQueen_
 ## Klasifikační systém
 
 _WOSP_ používá unikátní systém třípísmenných zkratek, které nejen označují typ zbraně, ale nesou v sobě i skrytý význam. Každá zkratka tvoří slovo související s městským prostředím nebo průmyslem, což umožňuje maskovat technickou dokumentaci jako běžné průmyslové manuály.

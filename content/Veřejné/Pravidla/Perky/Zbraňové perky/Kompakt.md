@@ -1,0 +1,1 @@
+Pokud ihned po výstřelu uděláš pohyb alespoň o 3 políčka, dostaneš zpět 1 [[Action Points (AP)|AP]].

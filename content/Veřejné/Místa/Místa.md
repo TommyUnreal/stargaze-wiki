@@ -1,5 +1,6 @@
 * Kolonie
 * Lokace
+    * [[Mergtara]]
 * Nebezpečné zóny
 * Obchodní uzly
 * Planety
@@ -16,5 +17,7 @@
       * [[Emporia]]
       * [[Hyperion]]
       * [[Lucentia]]
+  * Okrajové Systémy
+      * [[Tasian]]
 * Vesmírné anomálie
 * Významná vesmírná stanoviště

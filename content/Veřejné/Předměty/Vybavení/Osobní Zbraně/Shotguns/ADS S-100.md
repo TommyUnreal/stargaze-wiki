@@ -12,7 +12,7 @@ Masivní bubnový zásobník využívá patentovaný rotační mechanismus minim
 
 |          Výrobce          |    [[Aegis Defense Systems]]    |
 | :-----------------------: | :-----------------------------: |
-|           Skill           |             Shotgun             |
+|           Skill           |            Shotguns             |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               6/6               |
 |          Dostřel          |          5 -> 8 -> 11           |
@@ -20,7 +20,7 @@ Masivní bubnový zásobník využívá patentovaný rotační mechanismus minim
 |        Typ munice         |            [[16BX]]             |
 |          Výstřel          |              5 AP               |
 | Nabíjení z rychlého slotu |              16 AP              |
-|           Perk            |                                 |
+|           Perk            |        [[Close Spread]]         |
 |           MSRP            |              3600Σ              |
 
 ## Fun facts

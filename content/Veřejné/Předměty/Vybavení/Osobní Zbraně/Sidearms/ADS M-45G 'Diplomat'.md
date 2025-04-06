@@ -5,6 +5,7 @@ tags:
 aliases:
   - Diplomat
   - ADS M-45G
+  - ADS M-45
 ---
 ![[ADS M-45G.jpeg|inlR|250]]_ADS M-45_, známá jako "_Diplomat_", je spolehlivá poloautomatická pistole, která se stala standardní výbavou diplomatického sboru a ochranky VIP osob. Její elegantní design skrývá robustní konstrukci schopnou vydržet i ty náročnější podmínky.
 

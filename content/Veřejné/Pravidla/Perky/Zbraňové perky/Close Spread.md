@@ -1,0 +1,1 @@
+Pokud střelec vystřelí ze zbraně na vzdálenost 3 metry a méně, získá +1🎲 k útoku.

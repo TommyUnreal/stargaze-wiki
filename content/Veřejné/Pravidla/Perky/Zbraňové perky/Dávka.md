@@ -1,0 +1,1 @@
+Střelec vystřelí ze zbraně a spotřebuje 3 náboje namísto jednoho, získá +1🎲 k útoku. Cena útoku je dražší o 1 [[Action Points (AP)|AP]].

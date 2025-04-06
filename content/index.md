@@ -28,6 +28,7 @@
     * Místa
       * Kolonie
       * Lokace
+        * [[Mergtara]]
       * Nebezpečné zóny
       * Obchodní uzly
       * Planety
@@ -44,6 +45,8 @@
           * [[Emporia]]
           * [[Hyperion]]
           * [[Lucentia]]
+        * Okrajové Systémy
+          * [[Tasian]]
       * Vesmírné anomálie
       * Významná vesmírná stanoviště
     * Organizace
@@ -69,7 +72,14 @@
     * Pravidla
       * Perky
         * Zbraňové perky
+          * [[Close Spread]]
+          * [[Dávka]]
           * [[Hip Shot]]
+          * [[Hot Barrel]]
+          * [[Kompakt]]
+          * [[Shaky But Loud]]
+          * [[Spitfire]]
+          * [[Trigger & Pray]]
           * [[WOSP Design]]
       * Schopnosti & Traity
         * [[Atributy]]
@@ -227,12 +237,21 @@
             * [[Nootropikum]]
             * [[Rychlosteroidy]]
         * Osobní Zbraně
+          * Energy Weapons
+            * [[Blackstar P2]]
+            * [[WOSP PAT 2.1]]
+            * [[WOSP PUB 1.0]]
+          * Longarms
+            * [[Blackstar AR5]]
+            * [[WOSP RAW 7.0]]
+            * [[WOSP RIG 3.0]]
           * Munice
             * [[10.LC]]
             * [[13.HC]]
             * [[16BX]]
             * [[20mm granát]]
             * [[HDS]]
+            * [[IC]]
             * [[NSC]]
             * [[PC]]
             * [[VGC]]
@@ -240,15 +259,21 @@
             * [[ADS S-100]]
             * [[ADS S-25 'Vyhazovač']]
             * [[ADS S-50P]]
+            * [[Blackstar S4]]
+            * [[WOSP SAW 4.2]]
           * Sidearms
             * [[ADS M-45G 'Diplomat']]
             * [[ADS R-60]]
+            * [[Blackstar E1]]
+            * [[Blackstar R6]]
             * [[Turgall P-10 'Teenager']]
             * [[WOSP HEX 2.4]]
             * [[WOSP HUB 3.0]]
           * SMGs
             * [[ADS C-15 'Rookie']]
             * [[ADS C-30 Pro]]
+            * [[WOSP LAC 3.5]]
+            * [[WOSP LUX 5.0]]
         * Zbroje & Skafanry
     * Resources
     * Skupina

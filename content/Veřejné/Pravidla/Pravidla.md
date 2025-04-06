@@ -1,6 +1,13 @@
 * Perky
   * Zbraňové perky
+      * [[Close Spread]]
+      * [[Dávka]]
       * [[Hip Shot]]
+      * [[Hot Barrel]]
+      * [[Kompakt]]
+      * [[Shaky But Loud]]
+      * [[Spitfire]]
+      * [[Trigger & Pray]]
       * [[WOSP Design]]
 * Schopnosti & Traity
     * [[Atributy]]

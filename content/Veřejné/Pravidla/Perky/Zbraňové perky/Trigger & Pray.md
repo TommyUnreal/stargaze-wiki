@@ -1,0 +1,1 @@
+Pokud při útoku na poslední kostce padne 1, zbraň zraní střelce za 1 bod [[Zranění]]. Toto ale automaticky přidá +1 úspěch k útoku.
