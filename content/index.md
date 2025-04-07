@@ -1,6 +1,17 @@
   * Veřejné
     * Hráčská sekce
       * NPCs
+        * Hyperion
+          * [[Lina Mashinkar]]
+        * Mergtara
+          * [[Billy]]
+          * [[Dekk Holtz]]
+          * [[Knarggl Sulfirx]]
+          * [[P.E.T.]]
+          * [[Tapita Kryxová]]
+          * [[Tetka Mal]]
+        * Ostatní
+          * [[Arthur]]
       * Poznámky
         * [[Aktuální burza odměn]]
       * Sumáře
@@ -8,6 +19,7 @@
       * Znalosti
         * [[Navigace ve Stargaze galaxii]]
       * Zápisy
+        * [[«001»]]
     * Lore
       * Historie světa
         * [[Osidlování Stargaze Galaxie]]
@@ -276,7 +288,10 @@
             * [[WOSP LUX 5.0]]
         * Zbroje & Skafanry
     * Resources
-    * Skupina
+      * Loga
+      * NPCs
+      * Wiki
+      * Zbraně
     * Terminus Technicus
       * [[Bariérový Efekt]]
       * [[Cold Start]]

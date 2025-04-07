@@ -1,4 +1,4 @@
-Za každý proces léčení na lůžku, věnovaný regeneraci si postava může provést [[Atributy|Health]] test. Výsledek tohoto testu, zaokrouhlený dolů se rovná počtu uzdravených životů. Hod je otevřený! **Hráč nemusí dopředu určit kolik zranění chce léčit.** Pacient je schopen dalšího hodu na regeneraci za $(10 - Test\ Forte)\ dní$. Nevylučuje se s [[Schopnosti|Surgery (Chirurgie)]], viz [[Schopnosti]].
+Za každý proces léčení na lůžku, věnovaný regeneraci si postava může provést [[Atributy|Health]] test. Výsledek tohoto testu děleno dvěma, zaokrouhlený dolů se rovná počtu uzdravených životů. Hod je otevřený! **Hráč nemusí dopředu určit kolik zranění chce léčit.** Pacient je schopen dalšího hodu na regeneraci za $(10 - Test\ Forte)\ dní$. Nevylučuje se s [[Schopnosti|Surgery (Chirurgie)]], viz [[Schopnosti]].
 
 Následující okolnosti zvyšují či snižují šance na úspěšnou regeneraci:
 

@@ -2,6 +2,7 @@ import os
 import re
 import shutil
 
+
 def copy_files(source_dirs, destination_dir):
     if os.path.exists(destination_dir):
         shutil.rmtree(destination_dir)
@@ -11,8 +12,19 @@ def copy_files(source_dirs, destination_dir):
 
     for source_dir in source_dirs:
         destination_path = os.path.join(destination_dir, os.path.basename(source_dir))
+        # Instead of direct copytree, we'll process files while copying
         shutil.copytree(source_dir, destination_path)
         print(f"Copied {source_dir} to {destination_path}")
+
+def remove_gm_dm_sections(text):
+    match = re.search(r'^#+\s+.*(?:GM|DM).*', text, re.IGNORECASE | re.MULTILINE)
+    if match:
+        # Return only the content before the match
+        return text[:match.start()].rstrip()
+    else:
+        # No GM or DM heading found, return the original text
+        return text
+
 
 def process_links_in_md_file(file_path):
     # Read the content of the .md file
@@ -22,16 +34,23 @@ def process_links_in_md_file(file_path):
     # Regular expression to match [[Page#Section|Display]] or [[Page#Section]]
     # If the third part (|Display) is missing, move the second part (#Section) to the third part
     modified_content = re.sub(
-        r'\[\[([^#\]]+)#([^|\]]+)(\|[^\]]+)?\]\]',
-        lambda match: f"[[{match.group(1)}|{match.group(2)}]]" if not match.group(3) else f"[[{match.group(1)}{match.group(3)}]]",
-        content
+        r"\[\[([^#\]]+)#([^|\]]+)(\|[^\]]+)?\]\]",
+        lambda match: (
+            f"[[{match.group(1)}|{match.group(2)}]]"
+            if not match.group(3)
+            else f"[[{match.group(1)}{match.group(3)}]]"
+        ),
+        remove_gm_dm_sections(content),
     )
 
     # Write the modified content back to the file if changes were made
+
     if modified_content != content:
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(modified_content)
+
         print(f"Processed links in {file_path}")
+
 
 def process_md_file(file_path):
     # Read the content of the .md file
@@ -39,18 +58,27 @@ def process_md_file(file_path):
         first_line = file.readline()
         content = file.read()
 
+    # Remove GM/DM sections first
+    content = remove_gm_dm_sections(first_line + content)
+
+    # Then process tags
+    lines = content.split("\n")
+    first_line = lines[0] if lines else ""
+    remaining_content = "\n".join(lines[1:]) if len(lines) > 1 else ""
+
     if "#" in first_line and "# " not in first_line:
         tags_match = [tag.strip() for tag in first_line.split("#")]
         prefix = "---\ntags:\n"
         prefix += "".join([f"  - {tag}\n" for tag in tags_match if tag])
         prefix += "---\n\n"
-        content = prefix + content
+        content = prefix + remaining_content
         # Write the modified content back to the file
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(content)
-    
+
     # Now process the links in the file
     process_links_in_md_file(file_path)
+
 
 def generate_folder_content(root_dir, current_dir, base_level=0):
     content = []
@@ -61,31 +89,40 @@ def generate_folder_content(root_dir, current_dir, base_level=0):
             indent = "  " * level
             content.append(f"{indent}* {item}")
             # Recursively get content for subdirectories
+
             subdir_content = generate_folder_content(root_dir, full_path, level + 1)
             content.extend(subdir_content)
-        elif item.endswith(".md") and item != "index.md" and not item.endswith(os.path.basename(current_dir) + ".md"):
+        elif (
+            item.endswith(".md")
+            and item != "index.md"
+            and not item.endswith(os.path.basename(current_dir) + ".md")
+        ):
             indent = "  " * (level + 1)
             file_name = item[:-3]  # Remove .md extension
             content.append(f"{indent}* [[{file_name}]]")
     return content
 
+
 def should_create_index(folder_path):
     # Check if folder has any .md files (excluding index.md and folder's own .md)
+
     folder_name = os.path.basename(folder_path)
-    md_files = [f for f in os.listdir(folder_path)
-                if f.endswith(".md")
-                and f != "index.md"
-                and f != f"{folder_name}.md"]
+    md_files = [
+        f
+        for f in os.listdir(folder_path)
+        if f.endswith(".md") and f != "index.md" and f != f"{folder_name}.md"
+    ]
     return len(md_files) == 0
+
 
 def create_folder_indexes(destination_dir, top_dir):
     for root, dirs, files in os.walk(os.path.join(destination_dir, top_dir)):
         if root == destination_dir:
             continue
-
         folder_name = os.path.basename(root)
         if should_create_index(root):
             # Generate content starting from this folder
+
             content = generate_folder_content(root, root)
             if content:  # Only create file if there's content to write
                 index_path = os.path.join(root, f"{folder_name}.md")
@@ -94,10 +131,12 @@ def create_folder_indexes(destination_dir, top_dir):
                 print(f"Created index file: {index_path}")
             else:
                 # Create empty file for folders with no content
+
                 index_path = os.path.join(root, f"{folder_name}.md")
                 with open(index_path, "w", encoding="utf-8") as file:
                     pass
                 print(f"Created empty index file: {index_path}")
+
 
 def process_all_md_links(destination_dir):
     for root, dirs, files in os.walk(destination_dir):
@@ -107,11 +146,14 @@ def process_all_md_links(destination_dir):
                 process_links_in_md_file(file_path)
                 print(f"Processed links in {file_path}")
 
+
 def generate_index_md(destination_dir, top_dir):
     def shortest_path(file_path):
         return file_path.replace("\\", "/").split("/")[-1][:-3]
 
-    with open(os.path.join(destination_dir, "index.md"), "w", encoding="utf-8") as index_file:
+    with open(
+        os.path.join(destination_dir, "index.md"), "w", encoding="utf-8"
+    ) as index_file:
         for root, dirs, files in os.walk(os.path.join(destination_dir, top_dir)):
             level = root.replace(destination_dir, "").count(os.sep)
             indent = "  " * level
@@ -119,10 +161,13 @@ def generate_index_md(destination_dir, top_dir):
             subindent = "  " * (level + 1)
             for file in files:
                 if file.endswith(".md"):
-                    file_path = os.path.relpath(os.path.join(root, file), destination_dir)
+                    file_path = os.path.relpath(
+                        os.path.join(root, file), destination_dir
+                    )
                     index_file.write(f"{subindent}* [[{shortest_path(file_path)}]]\n")
                     if not file.endswith("index.md"):
                         process_md_file(os.path.join(root, file))
+
 
 def main():
     main_dir = r"G:\.shortcut-targets-by-id\0B3tLbsCYv4OVZHZPLVZQV1lDbVE\vyprávěčka\Project  Stargaze\Obsidian Vault\Stargaze"
@@ -131,16 +176,18 @@ def main():
     destination_dir = "C:/Program Files/stargaze-wiki/content"
 
     copy_files(source_dirs, destination_dir)
-    
+
     # Process all MD files to fix links
+
     for rel_dir in source_dirs_rel:
         dir_path = os.path.join(destination_dir, rel_dir)
         process_all_md_links(dir_path)
-        
     for rel_dir in source_dirs_rel:
         generate_index_md(destination_dir, rel_dir)
         # Add this line to create folder indexes
+
         create_folder_indexes(destination_dir, rel_dir)
+
 
 if __name__ == "__main__":
     main()

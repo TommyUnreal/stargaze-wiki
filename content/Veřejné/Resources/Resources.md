@@ -1,0 +1,4 @@
+* Loga
+* NPCs
+* Wiki
+* Zbraně
