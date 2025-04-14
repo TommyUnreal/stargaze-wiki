@@ -1,0 +1,3 @@
+![[Cuprithorax.jpeg|inlL|250]]
+
+Tato baculatá, segmentovaná larva se vyznačuje jasným odstínem bílé s nápadným posetím duhově červených ostnů podél zad. Z úst jí vystupuje jediný, hrozivě vyhlížející červený zub, zatímco její drobné černé oči neustále těkají kolem, jako by neustále vyhodnocovaly okolí. Larva se pohybuje překvapivě rychlým, vlnivým pohybem, poháněným desítkami drobných segmentovaných nožek. Její tělo je pozoruhodně odolné, schopné odolat mírnému tlaku a dokonce i menším nárazům. Používá se jako potravinová přísada, jelikož obsahuje vysoké množství kapsaicinu.

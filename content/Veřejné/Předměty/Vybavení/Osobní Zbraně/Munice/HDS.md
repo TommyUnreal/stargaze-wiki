@@ -2,6 +2,8 @@
 tags:
   - munice
   - HDS
+aliases:
+  - High-density supercapacitor
 ---
 
 

@@ -1,3 +1,4 @@
+* Bestiář
 * Loga
 * NPCs
 * Wiki

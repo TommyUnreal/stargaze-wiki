@@ -1,11 +1,17 @@
   * Veřejné
     * Hráčská sekce
+      * Bestiář
+        * Hmyz
+          * [[Cuprithorax]]
+        * Roboti
+          * [[A.L.T.I.]]
       * NPCs
         * Hyperion
           * [[Lina Mashinkar]]
         * Mergtara
           * [[Billy]]
           * [[Dekk Holtz]]
+          * [[Esmeralda]]
           * [[Knarggl Sulfirx]]
           * [[P.E.T.]]
           * [[Tapita Kryxová]]
@@ -20,6 +26,8 @@
         * [[Navigace ve Stargaze galaxii]]
       * Zápisy
         * [[«001»]]
+        * [[«002»]]
+        * [[«003»]]
     * Lore
       * Historie světa
         * [[Osidlování Stargaze Galaxie]]
@@ -288,6 +296,7 @@
             * [[WOSP LUX 5.0]]
         * Zbroje & Skafanry
     * Resources
+      * Bestiář
       * Loga
       * NPCs
       * Wiki

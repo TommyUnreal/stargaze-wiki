@@ -4,7 +4,7 @@ tags:
   - SMG
   - wosp
 aliases:
-  - LAC 3.5
+  - LUX 5.0
 ---
 > _Poznámka archivisty: Tento dokument je určen pouze pro výzkumné účely. Jakékoliv praktické použití uvedených informací může být trestným činem._
 

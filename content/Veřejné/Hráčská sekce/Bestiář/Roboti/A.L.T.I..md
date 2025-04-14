@@ -1,0 +1,5 @@
+![[A.L.T.I..jpeg|inlL|250]]
+
+Robot *A.L.T.I. D6* připomíná tvarem svého těla letající talíř, s hladkým, kovově stříbrným povrchem. Na spodní straně jsou umístěny čtyři slabé [[Repulzory|repulozory]] s teleskopickými přistávacími nožkami, které mu umožňují stabilní vznášení a přesné přistání i na nerovném povrchu. Z jeho těla se vysunuje jedno multifunkční mechanické rameno vybavené diagnostickými nástroji a mikropájkou. Jeho centrální jádro obsahuje umělou inteligenci, která mu umožňuje autonomně skenovat struktury, detekovat závady a provádět drobné opravy ve výškách, kam by se lidé dostávali obtížně.
+
+Je poháněný jednou [[HDS]] a vybavený **malým laserovým řezákem** - běžně používaným pro přesné opravy, ale v případě ohrožení  může být použit jako zbraň. **Oslňující záblesk** reflektoru je intenzivní světelný výboj, který dočasně oslepí nepřátele.

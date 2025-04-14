@@ -2,6 +2,8 @@
 tags:
   - munice
   - PC
+aliases:
+  - Plasma Cell
 ---
 
 
