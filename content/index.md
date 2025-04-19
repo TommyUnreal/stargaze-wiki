@@ -76,6 +76,7 @@
       * Místní Organizace
       * Náboženské řády
       * Obchodní gildy
+        * [[ECM]]
         * [[Naskarská obchodní gilda]]
       * Pašerácké kartely
       * Pirátské frakce
@@ -89,6 +90,8 @@
         * [[Synthetix]]
         * [[Turgall Company]]
       * Žoldnéřské skupiny
+        * [[Popelavá Legie]]
+        * [[Rudí jestřáby]]
     * Pravidla
       * Perky
         * Zbraňové perky
