@@ -8,6 +8,7 @@
       * [[Shaky But Loud]]
       * [[Spitfire]]
       * [[Trigger & Pray]]
+      * [[Ultrasonic Cut]]
       * [[WOSP Design]]
 * Schopnosti & Traity
     * [[Atributy]]

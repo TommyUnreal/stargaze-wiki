@@ -1,0 +1,1 @@
+Pokud se cíl brání brněním, je vždy poškozeno také pokud na poslední kostce padne 1-3.

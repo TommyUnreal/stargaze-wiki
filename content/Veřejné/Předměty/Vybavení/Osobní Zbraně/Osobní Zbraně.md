@@ -1,3 +1,5 @@
+* Cold weapons
+    * [[Pouliční Vibronůž]]
 * Energy Weapons
     * [[Blackstar P2]]
     * [[WOSP PAT 2.1]]

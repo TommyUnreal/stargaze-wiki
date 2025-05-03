@@ -103,6 +103,7 @@
           * [[Shaky But Loud]]
           * [[Spitfire]]
           * [[Trigger & Pray]]
+          * [[Ultrasonic Cut]]
           * [[WOSP Design]]
       * Schopnosti & Traity
         * [[Atributy]]
@@ -260,6 +261,8 @@
             * [[Nootropikum]]
             * [[Rychlosteroidy]]
         * Osobní Zbraně
+          * Cold weapons
+            * [[Pouliční Vibronůž]]
           * Energy Weapons
             * [[Blackstar P2]]
             * [[WOSP PAT 2.1]]
