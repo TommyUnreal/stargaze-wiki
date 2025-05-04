@@ -25,9 +25,10 @@
       * Znalosti
         * [[Navigace ve Stargaze galaxii]]
       * Zápisy
-        * [[«001»]]
-        * [[«002»]]
-        * [[«003»]]
+        * [[«001» Úplné dno]]
+        * [[«002» Bioavataři]]
+        * [[«003» Slepičí úlet]]
+        * [[«004» Úklidová četa]]
     * Lore
       * Historie světa
         * [[Osidlování Stargaze Galaxie]]
