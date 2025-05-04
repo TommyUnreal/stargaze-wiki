@@ -9,16 +9,16 @@ A jejich použití při roleplay:
 ## Pravidla
 ### State Your Case (Prohlášení Záměru)
 - Aby Duel of Wits začal, musí alespoň dvě postavy chtít obhajovat své názory či cíle.
-- Každá strana stručně vysvětlí svůj názor a proč má pravdu. Tomu se říká **Prohlášení Záměru**. Hráči se dohodnou na podmínkách: "Když vyhraju já, ty uděláš X. Když vyhraješ ty, já udělám Y." Podmínky by měly být rozumné a dosažitelné. Příklad: **Hráč:** *Když vyhraji, stráž pustí celou skupinu do města.* **GM:** *Když vyhraje stráž, zatkne mluvící postavu a zbytek skupiny nevpustí.*
-- Pokud se hráči nedohodnou, mohou změnit podmínky, odejít od diskuze nebo eskalovat konflikt násilím. Jakmile se hráči rozhodnou odejít, nesmí už argumentovat. Jinak GM může Duel of Wits vynutit.
+- Každá strana stručně vysvětlí svůj názor a proč má pravdu. Tomu se říká **Prohlášení Záměru**. Hráči se dohodnou na podmínkách: "Když vyhraju já, ty uděláš X. Když vyhraješ ty, já udělám Y." Podmínky by měly být rozumné a dosažitelné. Příklad: **Hráč:** *Když vyhraji, stráž pustí celou skupinu do města.* **Vypravěč:** *Když vyhraje stráž, zatkne mluvící postavu a zbytek skupiny nevpustí.*
+- Pokud se hráči nedohodnou, mohou změnit podmínky, odejít od diskuze nebo eskalovat konflikt násilím. Jakmile se hráči rozhodnou odejít, nesmí už argumentovat. Jinak Vypravěč může Duel of Wits vynutit.
 
 ### Body of Argument (Síla Argumentu)
 - Jakmile jsou názory jasné, každý hráč provede test schopnosti *Persuasion, Rhetoric, Oratory, Interrogation* nebo speciální dovednosti pro *Duel of Wits*.
 - Počet úspěchů z tohoto testu se přičte k exponentu *Will* postavy. Výsledné číslo je *Síla Argumentu* pro tento duel. V duelu toto číslo reprezentuje hit pointy.
-- **Big Deal:** Pokud je debata velmi důležitá, může GM místo hodu kostkou sečíst exponent _Will_ a _exponent dovednosti_.
+- **Big Deal:** Pokud je debata velmi důležitá, může Vypravěč místo hodu kostkou sečíst exponent _Will_ a _exponent dovednosti_.
 - **Not a Big Deal:** Pokud je debata o maličkosti, použije se pouze exponent _Will_ jako Síla Argumentu.
 - **Traits a Conditions:** Různé vlastnosti a podmínky mohou ovlivnit Sílu Argumentu.
-- **Volitelná Pravidla - Síla Charakterových Rysů:** GM může povolit hráčům přidat relevantní charakterové rysy jako bonus k Síle Argumentu (+1 úspěch za každý rys).
+- **Volitelná Pravidla - Síla Charakterových Rysů:** Vypravěč může povolit hráčům přidat relevantní charakterové rysy jako bonus k Síle Argumentu (+1 úspěch za každý rys).
 
 ### The Verbal Duel (Slovní Souboj)
 - Hráči tajně naplánují sekvenci tří akcí. Každá akce a reakce oponenta probíhá v krátkém časovém úseku zvaném *volej* (= salva). Tři voleje tvoří _výměnu_.

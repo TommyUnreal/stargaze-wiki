@@ -74,6 +74,8 @@
       * Alianční organizace a složky
         * [[Alianční Armáda]]
         * [[Alianční úřad pro vyšetřování]]
+      * Gangsteři
+        * [[Light Eaters]]
       * Místní Organizace
       * Náboženské řády
       * Obchodní gildy

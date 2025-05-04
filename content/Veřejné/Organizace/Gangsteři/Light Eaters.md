@@ -1,0 +1,1 @@
+Celé 70. - 74. patro [[Mergtara|Mergtary]] je pod jejich "ochranou".
