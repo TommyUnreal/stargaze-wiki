@@ -17,6 +17,7 @@ Design využívá upravené hydraulické písty z běžných zemědělských str
 |          Výrobce          |            [[WOSP]]             |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Longarms             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+1</font> |
 |         Integrita         |               1/1               |
 |          Dostřel          |         14 -> 18 -> 22          |

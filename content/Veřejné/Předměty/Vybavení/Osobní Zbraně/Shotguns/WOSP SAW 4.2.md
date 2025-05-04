@@ -18,6 +18,7 @@ Nejzajímavějším prvkem designu je použití ventilů z průmyslových chladi
 |          Výrobce          |             [[WOSP]]              |
 | :-----------------------: | :-------------------------------: |
 |           Skill           |             Shotguns              |
+|          Obrana           |           Armor / Cover           |
 |          Kvalita          |  <font color="#00b050">+0</font>  |
 |         Integrita         |                1/1                |
 |          Dostřel          |            4 -> 7 -> 9            |

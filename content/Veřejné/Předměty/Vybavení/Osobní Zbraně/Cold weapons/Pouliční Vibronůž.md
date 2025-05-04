@@ -11,6 +11,7 @@ V [[Aliance Centrálních Planet|Alianci]] je vibronůž považován za zakázan
 |  Výrobce   |                  domácí výroba                   |
 | :--------: | :----------------------------------------------: |
 |   Skill    |                   Cold Weapons                   |
+|   Obrana   |                  Armor / Dodge                   |
 |  Kvalita   | +0 (<font color="#ee3333">-1</font> bez baterie) |
 | Integrita  |                       3/3                        |
 |   Dosah    |                        1                         |

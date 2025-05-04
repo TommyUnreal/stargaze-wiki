@@ -11,6 +11,7 @@ Unikátní systém rychlého přebití pomocí vystřelovacího válce umožňuj
 |          Výrobce          |    [[Aegis Defense Systems]]    |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Sidearms             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               4/4               |
 |          Dostřel          |          8 -> 12 -> 16          |

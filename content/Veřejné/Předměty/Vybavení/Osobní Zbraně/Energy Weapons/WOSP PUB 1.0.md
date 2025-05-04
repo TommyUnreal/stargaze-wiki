@@ -17,6 +17,7 @@ Výsledkem je zbraň, která dokáže vyprodukovat jednorázový, extrémně vý
 |          Výrobce          |                                    [[WOSP]]                                    |
 | :-----------------------: | :----------------------------------------------------------------------------: |
 |           Skill           |                                 Energy Weapons                                 |
+|          Obrana           |                                Barriers / Cover                                |
 |          Kvalita          | <font color="#00b050">+1</font><br>1. výstřel bez postihu, pak s postihem -1🎲 |
 |         Integrita         |                                      2/2                                       |
 |          Dostřel          |                                 10 -> 12 -> 15                                 |

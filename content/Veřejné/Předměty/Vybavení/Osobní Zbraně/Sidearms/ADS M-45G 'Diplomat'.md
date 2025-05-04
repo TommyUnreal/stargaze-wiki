@@ -18,6 +18,7 @@ _ADS M-45G_ je modifikovaná verze populární M-45 doplněná o podvěsný gran
 |          Výrobce          |    [[Aegis Defense Systems]]    |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Sidearms             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               4/4               |
 |          Dostřel          |          7 -> 10 -> 14          |

@@ -15,6 +15,7 @@ Pozoruhodné je použití částí z orbitálních komunikačních antén jako s
 |          Výrobce          |            [[WOSP]]             |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Longarms             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+2</font> |
 |         Integrita         |               1/1               |
 |          Dostřel          |         16 -> 20 -> 25          |

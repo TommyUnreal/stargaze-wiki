@@ -2,9 +2,11 @@
   * Zbraňové perky
       * [[Close Spread]]
       * [[Dávka]]
+      * [[Fragile]]
       * [[Hip Shot]]
       * [[Hot Barrel]]
       * [[Kompakt]]
+      * [[Paralyzer]]
       * [[Shaky But Loud]]
       * [[Spitfire]]
       * [[Trigger & Pray]]

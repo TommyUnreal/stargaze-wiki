@@ -11,6 +11,7 @@ Uvedena na trh v roce 3136, tato zbraň byla výsledkem spolupráce s elitními 
 |          Výrobce          |    [[Aegis Defense Systems]]    |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Shotguns             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               5/5               |
 |          Dostřel          |          5 -> 8 -> 11           |

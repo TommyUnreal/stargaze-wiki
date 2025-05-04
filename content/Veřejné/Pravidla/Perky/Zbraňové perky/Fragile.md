@@ -1,0 +1,1 @@
+Zbraň je poškozena, pokud na poslední kostce padne 1, 2 nebo 3.

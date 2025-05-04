@@ -107,3 +107,8 @@ Pokud je postava natolik vzdálená, že dosáhnout její pozice volným pohybem
 - Pokud postavu chce někdo z nepřátel sledovat, házejí si oba versus test na _Speed_ (nepřátel může být více). Za každých 10 metrů vzdálenosti navíc obdrží nepřátelé postih -1🎲. 
 - Pokud alespoň jeden z nepřátel uspěje, vznikne pro utíkajícího a pronásledující nová instance boje. Na detailech se domluv s GM.
 - Pokud uspěje obránce hodu (utíkající), podařilo se mu utéci z boje, aniž by měl nepřátelé hned za sebou a souboj pro něj tímto končí.
+
+## Odměna za Souboj
+Viz kapitola [[Odměna za Souboj]].
+## Vyřazení & Smrt
+ Viz kapitola [[Vyřazení & Smrt]].

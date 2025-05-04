@@ -54,7 +54,7 @@
 - **Doba tréninku:** 63R, 126D, 252C
 - <font color="#fac08f">Primitivní zbraně zahrnují tradiční projektilové zbraně, které nevyužívají moderní technologie. Patří sem luky, kuše, vrhací kopí a podobné zbraně. Jsou tiché, spolehlivé a obvykle umožňují snadnou výrobu munice, což je činí ideálními pro přežití a nenápadné operace.</font> **Používá se také pro vystřelení kotvičky.**
 ---
-##### Speciál Weapons (Speciální zbraně)
+##### Special Weapons (Speciální zbraně)
 - **Technologie:** Gadget (např. gravitační manipulátor, bio-organické zbraně)
 - **Stat:** Perception/Power
 - **Doba tréninku:** 63R, 126D, 252C
@@ -824,3 +824,112 @@ ___
 - **Doba tréninku:** 42R, 84D, 168C
 - Účetnictví zahrnuje zpracování finančních transakcí. Hráč může provést otevřený test se svým Účetnictvím, aby skryl nebo zamaskoval transakce. Jeho úspěchy se počítají jako překážka pro manipulaci, která má být odhalena. 
 ---
+##### Administration (Správa Organizace)
+- **Technologie:** Ne
+- **Stat:** Perception
+- **Doba tréninku:** 42R, 84D, 168C
+- Zahrnuje správu oddělení nebo organizace – řízení zaměstnanců, podřízených a hmotných aktiv.
+---
+##### Body Service (Osobní péče)
+- **Technologie:** Body Service Kit
+- **Stat:** Will/Agility
+- **Doba tréninku:** 42R, 84D, 168C
+- Osobní péče zahrnuje služby v oblasti hygieny a pohody klienta: stříhání vlasů, kosmetika, masáže apod.
+---
+##### Bureaucracy (Byrokracie)
+- **Technologie:** Ne
+- **Stat:** Will/Perception
+- **Doba tréninku:** 14R, 28D, 56C
+- Byrokracie zahrnuje znalost hierarchií a struktur v rámci kodifikovaných vládních organizací. Dovednost umožňuje postavám orientovat se v těchto strukturách, plnit úkoly nebo ovlivňovat chod byrokracie. Často zahrnuje vyplňování formulářů, hledání zákonných kliček a uplácení znuděných úředníků. Dovednost se používá například pro:
+  - Ob 1 - Vyplnění formuláře (ve třech kopiích).
+  - Ob 2 - Zdržení byrokratických procesů.
+  - Ob 3 - Smazání byrokratické stopy (lze zjistit, že chybí).
+  - Ob 4 - Zamaskování byrokratické stopy.
+---
+##### Child Rearing (Výchova dětí)
+- **Technologie:** Ne
+- **Stat:** Will
+- **Doba tréninku:** 14R, 28D, 56C
+- Výchova dětí je disciplína zaměřená na lepší vychovávání dětí s cílem vštípit jim správné hodnoty a chování. Tato dovednost může být použita jako Instruktáž, Vaření nebo Ošetření ran, ale pouze při práci s dětmi.
+---
+##### Cooking (Vaření)
+- **Technologie:** Cooking Kit
+- **Stat:** Perception
+- **Doba tréninku:** 14R, 28D, 56C
+- Vaření zahrnuje přípravu masa, zeleniny a obilí k jídlu.
+---
+##### Estate Management (Správa statku)
+- **Technologie:** Ne
+- **Stat:** Perception
+- **Doba tréninku:** 42R, 84D, 168C
+- Správa statku zahrnuje řízení aspektů hospodářství, jako jsou pracovníci, zvířata, vybavení a plánování.
+---
+##### Farming (Zemědělství)
+- **Technologie:** Znalosti ne, práce Ano
+- **Stat:** Perception
+- **Doba tréninku:** 63R, 126D, 252C
+- Zemědělství zahrnuje rozsáhlé znalosti o výsadbě, sázení a sklizni plodin.
+---
+##### Food Service (Stravování)
+- **Technologie:** Ano, profesionální kuchyně/provoz
+- **Stat:** Perception/Agility
+- **Doba tréninku:** 14R, 28D, 56C
+- Tato dovednost zahrnuje přípravu a distribuci potravin v průmyslových nebo maloobchodních prostředích. Stravování je běžné zaměstnání mnoha svobodných občanů. 
+---
+##### Investigative Logic (Vyšetřování)
+- **Technologie:** Ne 
+- **Stat:** Perception/Will
+- **Doba tréninku:** 63R, 126D, 252C
+- Tato dovednost se typicky používá při vyšetřování míst činů, analyzování výpovědí nebo shromažďování dat. Ve hře funguje jako dovednost „najít stopu“: Může být použita v protitestech proti dovednostem jako [[#Infiltration (Infiltrace)|Infiltration]], [[#Smuggling (Pašování)|Smuggling]] nebo [[#Security Rigging (Bezpečnostní manipulace)|Security Rigging]] k prokázání souvislosti mezi dvěma či více událostmi. Např. test _Investigative Logic_ s obtížností 3 (Ob 3) je třeba provést k propojení výstřelu se zbraní, která jej provedla.
+---
+##### Logistics (Logistika)
+- **Technologie:** Ano, nástroje (komplexní výpočty vyžadují počítačové nebo technologické asistenty).
+- **Stat:** Perception
+- **Doba tréninku:** 14R, 28D, 56C
+- Logistika pokrývá aspekty vojenských operací zahrnující zásobování, distribuci, údržbu a nahrazování materiálu a personálu.
+---
+##### Manufacture (Výroba)
+- **Technologie:** Ano, továrna.
+- **Stat:** Perception
+- **Doba tréninku:** 14R, 28D, 56C
+- Tato dovednost zahrnuje znalost procesu pro zpracování surovin nebo dílů na hotové produkty, zvláště ve velkém průmyslovém měřítku.
+---
+##### Strategy Games (Strategické hry)
+- **Technologie:** Hra, [[Klamné systémy]]
+- **Stat:** Will/Perception
+- **Doba tréninku:** 14R, 28D, 56C
+- Postava s touto dovedností je dobře obeznámena se strategickými hrami populárními na její planetě. Testujte tuto dovednost, kdykoli se účastníte strategické hry. Ideálně by měl být test proveden proti jiné dovednosti _Strategy Games_. Pokud soupeř tuto dovednost nemá, testujte jeho vůli s dvojnásobnou překážkou.
+---
+##### Streetwise (Moudrost ulice)
+- **Technologie:** Ne
+- **Stat:** Perception
+- **Doba tréninku:** 63R, 126D, 252C
+- _Streetwise_ je etiketa městských ulic. Když postava vstupuje do čtvrti nebo městské oblasti, kde má "vyšší hodnost", může zpochybnit věrohodnost vetřelce. Vytvořte test proti sobě mezi dovednostmi obou postav. Vítěz získá výhodu +1🎲 k dalšímu testu proti poraženému. Tato dovednost může také fungovat jako navigace pro městská centra, umožňující postavám najít místa nebo kontakty, která zná pouze místní obyvatel.
+---
+## Wises (Znalosti)
+Následující popis platí pro všechny dovednosti končící na „-wise“. Některé dovedností v Burning Empires jsou ve skutečnosti „moudrosti“. Jsou to dovednosti znalostí, trivií a zkušeností. Jejich názvy popisují jejich oblast působnosti – hráči se rozhodují o jejich relevanci.
+
+Protože všechny skilly tohoto typu používají stejnou mechaniku a jsou samy vysvětlující svým názvem/titulkem, neexistuje žádný úplný seznam seznam.
+
+##### Anything-Wise
+- **Technologie:** Ne
+- **Stat:** Perception
+- **Doba tréninku:** 14R, 28D, 56C
+- Většinou jsou moudrosti poměrně samy vysvětlující – jejich názvy říkají vše. Následující jsou obecné překážky dovedností použitelné na všechny moudrosti: Obecné znalosti o tématu.
+  - Ob 1 - Zajímavý fakt
+  - Ob 2 - Základní znalosti (~ týdny studia)
+  - Ob 3 - Pokročilé znalosti (~ měsíce studia)
+  - Ob 4 - Neobvyklé znalosti (~ roky studia)
+  - Ob 5 - Velké detaily (~ zná jen odborník)
+  - Ob 6 - Bizarní nebo nejasné věci
+  - Ob 7 - Přesahující momentální výzkum/data
+---
+## Chybějící schopnosti
+##### Demonology
+##### Divination
+##### Doctrine
+##### Iron Artifice
+##### Psychohistory
+##### Squad Support Weapons
+##### Tactics
+##### Vaylen Philosophy

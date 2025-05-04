@@ -16,6 +16,7 @@ Rozšířený zásobník na 18 nábojů představuje hlavní prodejní výhodu, 
 |          Výrobce          |          [[Blackstar]]          |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Sidearms             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#ee3333">-1</font> |
 |         Integrita         |               5/5               |
 |          Dostřel          |          5 -> 8 -> 12           |

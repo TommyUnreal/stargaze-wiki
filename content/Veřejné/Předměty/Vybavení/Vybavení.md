@@ -65,4 +65,6 @@
       * [[Turgall P-10 'Teenager']]
       * [[WOSP HEX 2.4]]
       * [[WOSP HUB 3.0]]
+  * Special Weapons
+      * [[TX-12]]
 * Zbroje & Skafanry

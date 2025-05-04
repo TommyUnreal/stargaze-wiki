@@ -14,6 +14,7 @@ Zbraň využívá proprietární systém elektronické kontroly kadence a modul�
 |          Výrobce          |    [[Aegis Defense Systems]]    |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |               SMG               |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+1</font> |
 |         Integrita         |               5/5               |
 |          Dostřel          |          9 -> 12 -> 16          |

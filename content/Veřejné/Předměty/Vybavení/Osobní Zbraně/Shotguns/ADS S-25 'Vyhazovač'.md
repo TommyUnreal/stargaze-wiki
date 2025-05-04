@@ -12,6 +12,7 @@ Zbraň byla vyvinuta v roce 3125 jako reakce na rostoucí poptávku po kompaktn�
 |          Výrobce          |    [[Aegis Defense Systems]]    |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Shotguns             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               3/3               |
 |          Dostřel          |           4 -> 6 -> 8           |

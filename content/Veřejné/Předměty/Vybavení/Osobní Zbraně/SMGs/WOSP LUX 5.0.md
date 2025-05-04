@@ -17,6 +17,7 @@ Nejpozoruhodnějším aspektem zbraně je inovativní systém chlazení hlavně 
 |          Výrobce          |            [[WOSP]]             |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |              SMGs               |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               2/2               |
 |          Dostřel          |          6 -> 10 -> 14          |

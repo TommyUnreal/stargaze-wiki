@@ -15,6 +15,7 @@ S4 používá jednoduchý přebíjecí mechanismus, který je náchylný k zasek
 |          Výrobce          |          [[Blackstar]]          |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Shotguns             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#ee3333">-1</font> |
 |         Integrita         |               3/3               |
 |          Dostřel          |          4 -> 6 -> 10           |

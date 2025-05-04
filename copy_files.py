@@ -17,7 +17,8 @@ def copy_files(source_dirs, destination_dir):
         print(f"Copied {source_dir} to {destination_path}")
 
 def remove_gm_dm_sections(text):
-    match = re.search(r'^#+\s+.*(?:GM|DM).*', text, re.IGNORECASE | re.MULTILINE)
+    #match = re.search(r'^#+\s+.*(?:GM|DM).*', text, re.IGNORECASE | re.MULTILINE)
+    match = re.search(r'^#+\s+.*(?:GM).*', text, re.MULTILINE)
     if match:
         # Return only the content before the match
         return text[:match.start()].rstrip()

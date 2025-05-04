@@ -22,7 +22,7 @@ Viz [[Odměna za Souboj]]
 | 79  | 2          | Nález drobného obnosu (Vesmírné Kredity) - **d6 x 5Σ**             |
 | 62  | 2          | +1 **Persona**                                                     |
 | 64  | 2          | +1 **Persona**                                                     |
-| 9   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
 | 63  | 2          | +1 **Persona**                                                     |
+| 51  | 2          | **Challenging check** (shopnost/stat nemusely být použity v souboji) |
 
 ### Nejnovější

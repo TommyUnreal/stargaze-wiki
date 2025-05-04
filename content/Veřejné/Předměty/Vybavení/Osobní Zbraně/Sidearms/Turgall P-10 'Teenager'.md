@@ -16,6 +16,7 @@ Původní model měl problémy s přehříváním při rychlé střelbě, což b
 |          Výrobce          |       [[Turgall Company]]       |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Sidearms             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+1</font> |
 |         Integrita         |               5/5               |
 |          Dostřel          |          6 -> 9 -> 13           |

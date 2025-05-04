@@ -16,6 +16,7 @@ AR5 používá jednoduchý mechanismus s přímým odběrem plynů, který je zn
 |          Výrobce          |                   [[Blackstar]]                   |
 | :-----------------------: | :-----------------------------------------------: |
 |           Skill           |                     Longarms                      |
+|          Obrana           |                   Armor / Cover                   |
 |          Kvalita          |          <font color="#00b050">+0</font>          |
 |         Integrita         |                        4/4                        |
 |          Dostřel          |                  12 -> 15 -> 20                   |

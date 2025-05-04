@@ -17,6 +17,7 @@ Unikátní je použití pružiny z běžného průmyslového ventilu jako hlavn�
 |          Výrobce          |            [[WOSP]]             |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Sidearms             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               1/1               |
 |          Dostřel          |          9 -> 12 -> 15          |

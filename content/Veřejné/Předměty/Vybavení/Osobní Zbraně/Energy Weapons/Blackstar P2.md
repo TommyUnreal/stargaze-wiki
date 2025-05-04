@@ -15,6 +15,7 @@ P2 používá standardní HDS články, ale trpí častými problémy s přehř�
 |          Výrobce          |          [[Blackstar]]           |
 | :-----------------------: | :------------------------------: |
 |           Skill           |          Energy Weapons          |
+|          Obrana           |         Barriers / Cover         |
 |          Kvalita          | <font color="#ee3333">-1</font>  |
 |         Integrita         |               4/4                |
 |          Dostřel          |          9 -> 11 -> 14           |

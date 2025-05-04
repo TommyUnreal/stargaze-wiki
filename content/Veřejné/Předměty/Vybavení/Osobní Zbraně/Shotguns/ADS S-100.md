@@ -13,6 +13,7 @@ Masivní bubnový zásobník využívá patentovaný rotační mechanismus minim
 |          Výrobce          |    [[Aegis Defense Systems]]    |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Shotguns             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               6/6               |
 |          Dostřel          |          5 -> 8 -> 11           |

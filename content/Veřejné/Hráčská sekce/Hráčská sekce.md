@@ -16,6 +16,7 @@
       * [[Tetka Mal]]
   * Ostatní
       * [[Arthur]]
+      * [[Valerius]]
 * Poznámky
     * [[Aktuální burza odměn]]
 * Sumáře

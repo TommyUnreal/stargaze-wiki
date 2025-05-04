@@ -17,6 +17,7 @@ Klíčovým prvkem designu je _Ghostsmithův_ "tepelný rozptylovač" ve verzi P
 |          Výrobce          |            [[WOSP]]             |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |         Energy Weapons          |
+|          Obrana           |        Barriers / Cover         |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               1/1               |
 |          Dostřel          |         10 -> 13 -> 16          |

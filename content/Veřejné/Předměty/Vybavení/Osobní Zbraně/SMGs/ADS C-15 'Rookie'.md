@@ -13,6 +13,7 @@ Teleskopická pažba umožňuje kompaktní přepravu. Jednoduchý blowback syst�
 |          Výrobce          |    [[Aegis Defense Systems]]    |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |               SMG               |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               3/3               |
 |          Dostřel          |          8 -> 10 -> 14          |

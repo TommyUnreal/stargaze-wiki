@@ -17,6 +17,7 @@ Unikátním prvkem designu je inovativní způsob výroby hlavně recyklací hyd
 |          Výrobce          |            [[WOSP]]             |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |              SMGs               |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               1/1               |
 |          Dostřel          |          6 -> 9 -> 12           |

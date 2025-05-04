@@ -18,6 +18,7 @@
           * [[Tetka Mal]]
         * Ostatní
           * [[Arthur]]
+          * [[Valerius]]
       * Poznámky
         * [[Aktuální burza odměn]]
       * Sumáře
@@ -100,9 +101,11 @@
         * Zbraňové perky
           * [[Close Spread]]
           * [[Dávka]]
+          * [[Fragile]]
           * [[Hip Shot]]
           * [[Hot Barrel]]
           * [[Kompakt]]
+          * [[Paralyzer]]
           * [[Shaky But Loud]]
           * [[Spitfire]]
           * [[Trigger & Pray]]
@@ -303,6 +306,8 @@
             * [[ADS C-30 Pro]]
             * [[WOSP LAC 3.5]]
             * [[WOSP LUX 5.0]]
+          * Special Weapons
+            * [[TX-12]]
         * Zbroje & Skafanry
     * Resources
       * Bestiář

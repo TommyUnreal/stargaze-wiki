@@ -17,6 +17,7 @@ Unikátní je použití upravených ozubených kol z průmyslových servomotorů
 |          Výrobce          |            [[WOSP]]             |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Sidearms             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+0</font> |
 |         Integrita         |               1/1               |
 |          Dostřel          |          8 -> 11 -> 13          |

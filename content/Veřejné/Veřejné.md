@@ -17,6 +17,7 @@
         * [[Tetka Mal]]
     * Ostatní
         * [[Arthur]]
+        * [[Valerius]]
   * Poznámky
       * [[Aktuální burza odměn]]
   * Sumáře
@@ -99,9 +100,11 @@
     * Zbraňové perky
         * [[Close Spread]]
         * [[Dávka]]
+        * [[Fragile]]
         * [[Hip Shot]]
         * [[Hot Barrel]]
         * [[Kompakt]]
+        * [[Paralyzer]]
         * [[Shaky But Loud]]
         * [[Spitfire]]
         * [[Trigger & Pray]]
@@ -300,6 +303,8 @@
           * [[Turgall P-10 'Teenager']]
           * [[WOSP HEX 2.4]]
           * [[WOSP HUB 3.0]]
+      * Special Weapons
+          * [[TX-12]]
     * Zbroje & Skafanry
 * Resources
   * Bestiář

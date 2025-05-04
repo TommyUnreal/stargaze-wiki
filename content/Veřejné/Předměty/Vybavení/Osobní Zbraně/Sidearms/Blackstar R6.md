@@ -15,6 +15,7 @@ R6 využívá zjednodušený bubínkový mechanismus, který byl kritizován pro
 |          Výrobce          |          [[Blackstar]]          |
 | :-----------------------: | :-----------------------------: |
 |           Skill           |            Sidearms             |
+|          Obrana           |          Armor / Cover          |
 |          Kvalita          | <font color="#00b050">+1</font> |
 |         Integrita         |               4/4               |
 |          Dostřel          |         14 -> 18 -> 22          |
