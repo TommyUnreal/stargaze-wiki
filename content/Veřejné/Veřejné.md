@@ -15,6 +15,7 @@
         * [[P.E.T.]]
         * [[Tapita Kryxová]]
         * [[Tetka Mal]]
+        * [[Thay Jinroe]]
     * Ostatní
         * [[Arthur]]
         * [[Valerius]]
@@ -29,6 +30,8 @@
       * [[«002» Bioavataři]]
       * [[«003» Slepičí úlet]]
       * [[«004» Úklidová četa]]
+      * [[«005» Setkání u kávy]]
+      * [[«006» Synovec]]
 * Lore
   * Historie světa
       * [[Osidlování Stargaze Galaxie]]
@@ -298,6 +301,7 @@
       * Sidearms
           * [[ADS M-45G 'Diplomat']]
           * [[ADS R-60]]
+          * [[Blackstar A6]]
           * [[Blackstar E1]]
           * [[Blackstar R6]]
           * [[Turgall P-10 'Teenager']]

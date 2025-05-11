@@ -1,5 +1,18 @@
 _Mergtara_ je těžební měsíc obíhající kolem planety Tasian XII v systému [[Tasian]]. 
 
+##### Zajímavosti na jednotlivých úrovních
+
+| Podlaží | Popis                                                                                               |
+| ------- | --------------------------------------------------------------------------------------------------- |
+| 1.      | Kanceláře a centrála [[ECM\|E.C.M.]]                                                                |
+| 11.     | Přistávací plošina Lobbura Necka                                                                    |
+| 12.     | Největší Market                                                                                     |
+| 27.     | [[Tapita Kryxová\|paní Kryxová]], [[Knarggl Sulfirx\|Knarggl]], [[Dekk Holtz\|Dekk]], [[Tetka Mal]] |
+| 29.     | stará šachta s [[Cuprithorax\|Cuprithoraxy]], skupinka squaterů                                     |
+| 41.     | Billyho Bistro                                                                                      |
+| 60.     | Sklad údržby [[ECM\|E.C.M.]] "*60-UP*"                                                              |
+| 61.     | Oprava těžkých strojů + kanceláře [[ECM\|E.C.M.]], Rosso Café                                       |
+
 ##### Povrch a Obyvatelé
 Podmínky na povrchu Mergtary jsou náročné. Gravitace je sice podobná zemské, ale panuje zde řídká a toxická atmosféra, která vyžaduje použití dýchacích přístrojů pro delší pobyt venku. Existence magnetického pole alespoň částečně chrání před kosmickým zářením. Tyto drsné podmínky přispěly k rozhodnutí vybudovat hlavní sídlo pod povrchem.
 

@@ -14,6 +14,7 @@
       * [[P.E.T.]]
       * [[Tapita Kryxová]]
       * [[Tetka Mal]]
+      * [[Thay Jinroe]]
   * Ostatní
       * [[Arthur]]
       * [[Valerius]]
@@ -28,3 +29,5 @@
     * [[«002» Bioavataři]]
     * [[«003» Slepičí úlet]]
     * [[«004» Úklidová četa]]
+    * [[«005» Setkání u kávy]]
+    * [[«006» Synovec]]

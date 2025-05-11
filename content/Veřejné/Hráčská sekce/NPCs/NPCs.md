@@ -8,6 +8,7 @@
     * [[P.E.T.]]
     * [[Tapita Kryxová]]
     * [[Tetka Mal]]
+    * [[Thay Jinroe]]
 * Ostatní
     * [[Arthur]]
     * [[Valerius]]

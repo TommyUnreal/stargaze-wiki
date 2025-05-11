@@ -22,7 +22,7 @@ Podle délky a obtížnosti souboje obdrží hráči určité množství zkušen
 | 85-87 | 5          | Oklepání se. Odstraň si 1 zranění obdržené v tomto souboji.                   |
 | 88-90 | 2          | Náhradní součástky. **Oprav 1 Integrity vybavení poškozeného v bitvě.**       |
 | 91-92 | 5          | Nález zásob. **Obnov nedávno ztracený kit.**                                  |
-| 93-95 | 5          | Postřeh. **+5 AP do první akce příštího souboje.**                            |
+| 93-95 | 3          | Postřeh. **+5 AP do první akce příštího souboje.**                            |
 | 96-97 | 5          | Nalezení klíče, přístupového čipu či karty.                                   |
 | 98-99 | 2          | Stopy. **+2🎲 na sledování stop z místa boje.**                               |
 | 100   | 1          | +2🎲 na příští [[Duel of Wits]] *volej* kde vytáhneš tento boj jako argument. |

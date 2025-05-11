@@ -32,6 +32,7 @@
 * Sidearms
     * [[ADS M-45G 'Diplomat']]
     * [[ADS R-60]]
+    * [[Blackstar A6]]
     * [[Blackstar E1]]
     * [[Blackstar R6]]
     * [[Turgall P-10 'Teenager']]
