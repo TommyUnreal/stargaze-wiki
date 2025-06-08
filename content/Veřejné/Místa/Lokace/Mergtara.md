@@ -5,10 +5,14 @@ _Mergtara_ je těžební měsíc obíhající kolem planety Tasian XII v systém
 | Podlaží | Popis                                                                                               |
 | ------- | --------------------------------------------------------------------------------------------------- |
 | 1.      | Kanceláře a centrála [[ECM\|E.C.M.]]                                                                |
-| 11.     | Přistávací plošina Lobbura Necka                                                                    |
+| 11.     | Přistávací plošina Lobbura Necka, Bar "Poslední Kapka"                                              |
 | 12.     | Největší Market                                                                                     |
+| 13.     | IT oddělení [[ECM\|E.C.M.]]                                                                         |
+| 23.     | Outlet s oblečením                                                                                  |
 | 27.     | [[Tapita Kryxová\|paní Kryxová]], [[Knarggl Sulfirx\|Knarggl]], [[Dekk Holtz\|Dekk]], [[Tetka Mal]] |
 | 29.     | stará šachta s [[Cuprithorax\|Cuprithoraxy]], skupinka squaterů                                     |
+| 33.     | Bar Proxima (doupě Šum)                                                                             |
+| 40.     | Šrotová Ulička (Reillyho krámek)                                                                    |
 | 41.     | Billyho Bistro                                                                                      |
 | 60.     | Sklad údržby [[ECM\|E.C.M.]] "*60-UP*"                                                              |
 | 61.     | Oprava těžkých strojů + kanceláře [[ECM\|E.C.M.]], Rosso Café                                       |

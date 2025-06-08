@@ -6,6 +6,7 @@
     * [[Esmeralda]]
     * [[Knarggl Sulfirx]]
     * [[P.E.T.]]
+    * [[Riley Varza]]
     * [[Tapita Kryxová]]
     * [[Tetka Mal]]
     * [[Thay Jinroe]]

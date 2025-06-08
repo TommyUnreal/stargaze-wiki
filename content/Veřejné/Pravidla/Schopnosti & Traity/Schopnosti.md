@@ -115,7 +115,7 @@ ___
 - **Stat:** Will
 - **Doba tréninku:** 84R, 168D, 336C
 - <font color="#fac08f">Velení představuje schopnost rozhodování během zlomku vteřiny a kompetenci v efektivním přenosu těchto rozhodnutí na podřízené na bojišti. Tato dovednost se často používá při manévrech v rámci přestřelek a bitev.</font>
-- **V boji dává speciální akci, jinému spojenci (v line of sight, který je schopen přijmout příkaz, např. není ohlušen) vykonat jednu libovolnou akci. Tuto akci ale zaplatí ze svých AP Velitel. Spojenec může vykonání akce odmítnout (AP ale budou utraceny). Pro test se použije nižší ze dvou exponentů - Command velitele a schopnosti spojence. Velitel hází test, může využívat Arthy a také svůj odstín kostek.** 
+- **V boji dává speciální akci, jinému spojenci (v line of sight, který je schopen přijmout příkaz, např. není ohlušen) vykonat jednu libovolnou akci. Tuto akci ale zaplatí ze svých AP Velitel. Spojenec může vykonání akce odmítnout (AP ale budou utraceny). Command lze použít pouze 1× za kolo. Pro test se použije nižší ze dvou exponentů - Command velitele a schopnosti spojence. Velitel hází test, může využívat Arthy a také svůj odstín kostek.** 
 ---
 ## Vesmírná loď
 ##### Artillery (Dělostřelectvo)
@@ -419,7 +419,7 @@ ___
 - **Technologie:** Základní nářadí (kit není třeba)
 - **Stat:** Will/Agility
 - **Doba tréninku:** 42R, 84D, 168C
-- Provizorní oprava umožňuje postavě dočasně obnovit funkčnost technologie nebo vozidla pro jeden test. Typické použití:
+- Provizorní oprava umožňuje postavě dočasně obnovit funkčnost technologie nebo vozidla pro jeden souboj či situaci. Typické použití:
   - Ob určen na základě stavu technologie (Ob 3 nebo více).
   - U vozidel lze opravit _Integrity_ na 1D pro jeden test. Obstacle odpovídá počtu ztracených _Integrity_ kostek mínus jedna.
 ---

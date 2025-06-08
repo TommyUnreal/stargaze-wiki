@@ -23,7 +23,7 @@ Výsledkem je zbraň, která dokáže vyprodukovat jednorázový, extrémně vý
 |          Dostřel          |                                 10 -> 12 -> 15                                 |
 |     Počet ran/nábojů      |                                      3/1                                       |
 |        Typ munice         |                                     [[IC]]                                     |
-|          Výstřel          |                         4 AP, max 1 výstřel za 2 kola                          |
+|          Výstřel          |                         4 AP, max 1 výstřel za 1 kolo                          |
 | Nabíjení z rychlého slotu |                                      8 AP                                      |
 |           Perk            |                                [[WOSP Design]]                                 |
 |           MSRP            |                                      120Σ                                      |
