@@ -32,7 +32,7 @@ Duel of Codes je mechanika pro simulaci hackování počítačových systémů. 
 #### Code Injection (Injekce kódu)
 **Test:** *Security Rigging* 
 **Popis:** Hacker se pokusí vložit zlomyslný kód do systému. 
-**Účinek:** _Útok_. Úspěchy se odečtou od Síly Systému.
+**Účinek:** _Útok_. Zásahy se odečtou od Síly Systému.
 #### Defensive Routing (Defenzivní přesměrování)
 **Test:** *Security Rigging* 
 **Popis:** Hacker přesměruje svou datovou stopu přes několik serverů. 
