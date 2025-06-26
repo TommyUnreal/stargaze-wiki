@@ -5,15 +5,15 @@ Viz [[Odměna za Souboj]]
 | Řádek | Hod | Cena [exp] | Popis                                                              |
 | ----- | --- | ---------- | ------------------------------------------------------------------ |
 | 1     | 93  | 3          | Postřeh. **+5 AP do první akce příštího souboje.**                 |
-| 2     | 87  | 5          | Oklepání se. Odstraň si 1 zranění obdržené v tomto souboji.        |
+| 2     |     |            |                                                                    |
 | 3     | 46  | 5          | **Difficult check** (shopnost/stat nemusely být použity v souboji) |
 | 4     | 57  | 2          | +1 **Fate**                                                        |
-| 5     | 20  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)         |
+| 5     |     |            |                                                                    |
 | 6     | 86  | 5          | Oklepání se. Odstraň si 1 zranění obdržené v tomto souboji.        |
-| 7     | 10  | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 8     | 67  | 1          | +1 zaznamenaný **Fate** (k vybrané schopnosti)                     |
-| 9     | 39  | 5          | **Challenging check** (shopnost/stat byly použity v souboji)       |
-| 10    | 20  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)         |
+| 7     |     |            |                                                                    |
+| 8     |     |            |                                                                    |
+| 9     |     |            |                                                                    |
+| 10    |     |            |                                                                    |
 | 11    | 24  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)         |
 | 12    | 53  | 2          | +1 **Fate**                                                        |
 | 13    | 34  | 5          | **Challenging check** (shopnost/stat byly použity v souboji)       |

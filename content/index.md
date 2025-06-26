@@ -99,6 +99,7 @@
         * [[Popelavá Legie]]
         * [[Rudí jestřáby]]
     * Pravidla
+      * [[Verze 1.1 Změny v souboji]]
       * Perky
         * Zbraňové perky
           * [[Close Spread]]

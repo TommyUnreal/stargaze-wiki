@@ -129,6 +129,7 @@
       * [[Duel of Codes]]
       * [[Duel of Wits]]
       * [[Obstacles]]
+    * [[Verze 1.1 Změny v souboji]]
 * Předměty
   * Měny
       * [[Alianční dolar]]
