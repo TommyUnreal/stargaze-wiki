@@ -21,5 +21,8 @@ Konstruktér a minoritní vlastník. Je vnukem Jasona Turgalla a konstruktérem 
 ##### Sidearms (Pistole a revolvery)
 - [[Turgall P-10 'Teenager']]
 
+##### Longarms
+- [[Turgall Horizon]]
+
 ## Sídla
 - Centrála na [[Lucentia IV]].

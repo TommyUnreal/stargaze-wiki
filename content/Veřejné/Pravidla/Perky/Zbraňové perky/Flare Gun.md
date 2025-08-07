@@ -1,0 +1,1 @@
+Všechny postavy, které mohou být oslněny ve vzdálenosti do 15 metrů od dopadu světlice si hází test Perception 4. Pokud neuspějí jinak ztrácejí polovinu obnovy AP v příštím kole.

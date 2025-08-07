@@ -1,0 +1,1 @@
+Úspěšný zásah touto zbraní **odebere cíli 1 AP** ([[Action Points (AP)]]), pokud má cíl k dispozici alespoň 1 AP.

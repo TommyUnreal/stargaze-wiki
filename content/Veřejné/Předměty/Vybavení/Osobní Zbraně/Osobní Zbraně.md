@@ -1,4 +1,5 @@
 * Cold weapons
+    * [[Blackstar Blood Razor]]
     * [[Pouliční Vibronůž]]
 * Energy Weapons
     * [[Blackstar P2]]
@@ -6,6 +7,7 @@
     * [[WOSP PUB 1.0]]
 * Longarms
     * [[Blackstar AR5]]
+    * [[Turgall Horizon]]
     * [[WOSP RAW 7.0]]
     * [[WOSP RIG 3.0]]
 * Munice
@@ -39,4 +41,5 @@
     * [[WOSP HEX 2.4]]
     * [[WOSP HUB 3.0]]
 * Special Weapons
+    * [[Beacon 2 by Stellar]]
     * [[TX-12]]

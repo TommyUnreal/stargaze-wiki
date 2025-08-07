@@ -1,0 +1,1 @@
+Pokud se zbraň rozbije při útoku (integrita klesne na 0), můžeš tento perk použít jako Call-On na chladné zbraně a přehodit traitory.
