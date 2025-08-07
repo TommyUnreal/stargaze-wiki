@@ -1,6 +1,6 @@
 * Gavrel V
+    * [[Krysodýl]]
     * [[Mechokvětka]]
-    * [[Plíživec]]
 * Hmyz
     * [[Cuprithorax]]
 * Roboti

@@ -1,7 +1,7 @@
 * Bestiář
   * Gavrel V
+      * [[Krysodýl]]
       * [[Mechokvětka]]
-      * [[Plíživec]]
   * Hmyz
       * [[Cuprithorax]]
   * Roboti
@@ -25,6 +25,7 @@
   * Ostatní
       * [[Arthur]]
       * [[Kathrine]]
+      * [[Razz Vilgour]]
       * [[Valerius]]
 * Poznámky
     * [[Aktuální burza odměn]]
