@@ -19,7 +19,7 @@
           * [[Lobbur Necko]]
           * [[P.E.T.]]
           * [[Rattus]]
-          * [[Riley Varza]]
+          * [[Riley Varza (†)]]
           * [[Tapita Kryxová]]
           * [[Tetka Mal]]
           * [[Thay Jinroe]]
@@ -28,7 +28,10 @@
           * [[Arthur]]
           * [[Kathrine]]
           * [[Razz Vilgour]]
+          * [[Thalion Grayman]]
           * [[Valerius]]
+        * Ostrov Sirén
+          * [[Solomon Garr]]
       * Poznámky
         * [[Aktuální burza odměn]]
       * Sumáře
@@ -52,7 +55,7 @@
         * [[Nebulaři]]
         * [[Vortexani]]
         * [[Zephyrové]]
-      * Významné konflikty
+        * Významné konflikty
     * Místa
       * Kolonie
       * Lokace
@@ -74,6 +77,8 @@
           * [[Hyperion]]
           * [[Lucentia]]
         * Okrajové Systémy
+          * [[Gavrel]]
+          * [[Gloomwell]]
           * [[Tasian]]
       * Vesmírné anomálie
       * Významná vesmírná stanoviště
@@ -90,6 +95,7 @@
         * [[Naskarská obchodní gilda]]
       * Pašerácké kartely
       * Pirátské frakce
+        * [[Sirény]]
       * Technologické korporace
         * [[Aegis Defense Systems]]
         * [[Blackstar]]

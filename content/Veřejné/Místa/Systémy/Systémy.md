@@ -4,4 +4,6 @@
     * [[Hyperion]]
     * [[Lucentia]]
 * Okrajové Systémy
+    * [[Gavrel]]
+    * [[Gloomwell]]
     * [[Tasian]]

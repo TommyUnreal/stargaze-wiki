@@ -2,9 +2,8 @@
 tags:
   - 13HC
   - Longarm
-  - wosp
 aliases:
-  - RAW 7.0
+  - Horizon
 ---
 
 ![[Turgall Horizon.jpg|inlR|250]]_Turgall Horizon_ je robustní páková puška navržená pro lovce, průzkumníky a kolonisty na okrajových světech. Je ceněna pro svou spolehlivost v extrémních podmínkách a schopnost skolit i velkou a obrněnou zvěř díky silnému náboji [[13.HC]].

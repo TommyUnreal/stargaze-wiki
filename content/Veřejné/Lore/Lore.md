@@ -12,5 +12,5 @@
     * [[Luminari]]
     * [[Nebulaři]]
     * [[Vortexani]]
+  * Významné konflikty
     * [[Zephyrové]]
-* Významné konflikty

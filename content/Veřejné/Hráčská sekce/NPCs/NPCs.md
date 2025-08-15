@@ -8,7 +8,7 @@
     * [[Lobbur Necko]]
     * [[P.E.T.]]
     * [[Rattus]]
-    * [[Riley Varza]]
+    * [[Riley Varza (†)]]
     * [[Tapita Kryxová]]
     * [[Tetka Mal]]
     * [[Thay Jinroe]]
@@ -17,4 +17,7 @@
     * [[Arthur]]
     * [[Kathrine]]
     * [[Razz Vilgour]]
+    * [[Thalion Grayman]]
     * [[Valerius]]
+* Ostrov Sirén
+    * [[Solomon Garr]]

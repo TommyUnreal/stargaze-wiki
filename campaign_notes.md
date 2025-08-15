@@ -1,8 +1,31 @@
-# 2025-06-24.md
+# Veřejné\Hráčská sekce\Bestiář\Gavrel V\Krysodýl.md
 
 ---
 
-*(Empty file)*
+## GM section
+
+![[Plíživec.jpg|inlL|250]]
+
+*Plíživec* je predátor dokonale přizpůsobený světu Gavrel V. Jeho tělo je štíhlé a svalnaté, připomínající křížence mezi velkým ještěrem a savcem, což mu umožňuje neslyšně se pohybovat v hustém podrostu i mezi skalami. Je pokrytý tuhou, tmavou srstí, která pohlcuje světlo a poskytuje mu dokonalé maskování ve stínech, jež vrhá všudypřítomný bioluminiscenční mech. Jeho hlava je úzká a dravá, s čelistí plnou ostrých, **aligátorům podobných zubů**, schopných drtit kosti i krystalickou kůru místních stromů.
+
+Jeho hlavní loveckou strategií je útok ze zálohy. Využívá kontrastního osvětlení planety, kde se skrývá v hlubokých stínech na hranici zářících ploch mechu. Díky své tmavé srsti je ve tmě prakticky neviditelný a čeká, až se kořist přiblíží, načež provede bleskový výpad.
+
+Je vybavený sadou smrtících schopností. Jeho **aligátoří čelisti** představují drtivý útok na blízko. Díky schopnosti **stínového plížení** se dokáže téměř zneviditelnit, pokud se nachází ve stínu nebo v šeru, což mu dává obrovskou výhodu při prvním útoku. Jeho **tuhá srst a kůže** mu poskytují přirozenou ochranu proti fyzickým útokům.
+
+
+# Veřejné\Hráčská sekce\Bestiář\Gavrel V\Mechokvětka.md
+
+---
+
+## GM section
+
+![[Mechokvětka.jpg|inlL|250]]
+
+*Mechokvětka* je malý, plachý býložravec a primární zdroj potravy pro [[Krysodýl|Plíživce]]. Toto šestinohé stvoření velikosti zajíce se dokonale adaptovalo na život na pláních a v lesích Gavrelu V. Jeho hlavní obranou je pasivní kamufláž.
+
+Na zádech mu roste symbiotická forma bioluminiscenčního mechu, která je k nerozeznání od toho, jenž pokrývá planetu. Když se *Mechokvětka* nehybně přitiskne k zemi, aby se pásla na níže rostoucím mechu, její záda se stanou součástí světélkující krajiny. To ji činí téměř neviditelnou pro predátory, kteří se spoléhají na zrak. Má velké, tmavé oči, které jí umožňují vidět v šeru, a neustále nervózně těká okolím, aby včas zpozorovala nebezpečí.
+
+[[Krysodýl]] je jedním z mála predátorů, kteří se naučili tuto kamufláž odhalit. Neloví Mechokvětku zrakem, ale čichem a sluchem, a útočí ze stínů, kam světlo mechu nedosáhne.
 
 
 # Veřejné\Hráčská sekce\Bestiář\Hmyz\Cuprithorax.md
@@ -345,6 +368,25 @@ aliases: []
 
 ##### Affiliation
 - Je členem [[Strážci Polaris]].
+
+
+# Veřejné\Hráčská sekce\NPCs\Ostatní\Razz Vilgour.md
+
+---
+
+![[Razz Vilgour.jpeg|inlL|250]] Razz Vilgour je pirátka a pravá ruka kapitána na těžce upravené nákladní fregatě *Stray Dog*. Díky svým znalostem elektroniky má silnou pozici v posádce. S [[Falkon - Iskandar Mashinkar|Iskandarem]] se zná z dětství a ze studií na **Helios Institutu**, kde byli blízcí přátelé. Když ho potkala na planetě [[Gavrel V]], dělala, že ho nezná, ale později mu i skupině v soukromí pomohla.
+
+## GM Section
+
+Razz zná [[Falkon - Iskandar Mashinkar|Iskandara]] z dětství, kdy na něj mířila taserem, aby neprozradil jejich skrýš. Později spolu studovali a Razz na sebe vzala vinu za krádež školní lodi, aby Iško neměl problémy. I když se teď živí jako pirátka, je loajální k přátelům z minulosti, což dokazuje, že Iškovi pomohla a vyslechla si, co se mu stalo. Razz je inteligentní, houževnatá a loajální, i když je na pirátské dráze. Zjevně se dokáže rychle přizpůsobit situaci a chránit sebe i ty, na kterých jí záleží.
+
+##### Vzhled
+Razz je asi 35 let stará. Má kybernetické implantáty na obličeji, tetování a piercingy. Jedna polovina hlavy je vyholenou, na druhé má dlouhé červené vlasy. Nosí pirátskou uniformu.
+
+##### Vystupování
+- **Pro posádku:** Chladná, věcná, rázná. Mluví stručně a autoritativně, aby si udržela respekt. Neprojevuje zbytečné emoce a působí jako efektivní profesionálka.
+    
+- **Pro blízké (např. Iška):** Uvolněnější, přátelská, ale stále s jistým cynismem. Může se vrátit ke starým vtipům a způsobu mluvy, který spolu měli, ale zároveň dává najevo, že její pirátská kariéra ji změnila. Má silný, přímý, možná trochu sarkastický tón.
 
 
 # Veřejné\Hráčská sekce\NPCs\Ostatní\Valerius.md
@@ -1370,6 +1412,9 @@ Konstruktér a minoritní vlastník. Je vnukem Jasona Turgalla a konstruktérem 
 ##### Sidearms (Pistole a revolvery)
 - [[Turgall P-10 'Teenager']]
 
+##### Longarms
+- [[Turgall Horizon]]
+
 ## Sídla
 - Centrála na [[Lucentia IV]].
 
@@ -1480,6 +1525,13 @@ Pokud střelec vystřelí ze zbraně na vzdálenost 3 metry a méně, získá +1
 Střelec vystřelí ze zbraně a spotřebuje 3 náboje namísto jednoho, získá +1🎲 k útoku. Cena útoku je dražší o 1 [[Action Points (AP)|AP]].
 
 
+# Veřejné\Pravidla\Perky\Zbraňové perky\Flare Gun.md
+
+---
+
+Všechny postavy, které mohou být oslněny ve vzdálenosti do 15 metrů od dopadu světlice si hází test Perception 4. Pokud neuspějí jinak ztrácejí polovinu obnovy AP v příštím kole.
+
+
 # Veřejné\Pravidla\Perky\Zbraňové perky\Fragile.md
 
 ---
@@ -1508,6 +1560,20 @@ Pokud si mezi výstřely neudělal jinou akci, od 3. rány všechny útoky mají
 ---
 
 Pokud ihned po výstřelu uděláš pohyb alespoň o 3 políčka, dostaneš zpět 1 [[Action Points (AP)|AP]].
+
+
+# Veřejné\Pravidla\Perky\Zbraňové perky\Nepohodlná čepel.md
+
+---
+
+Pokud se zbraň rozbije při útoku (integrita klesne na 0), můžeš tento perk použít jako Call-On na chladné zbraně a přehodit traitory.
+
+
+# Veřejné\Pravidla\Perky\Zbraňové perky\Ochromující střela.md
+
+---
+
+Úspěšný zásah touto zbraní **odebere cíli 1 AP** ([[Action Points (AP)]]), pokud má cíl k dispozici alespoň 1 AP.
 
 
 # Veřejné\Pravidla\Perky\Zbraňové perky\Paralyzer.md
@@ -4941,6 +5007,32 @@ Nootropikum zlepšující mentální výkon a psychickou odolnost. Poskytuje +1�
 Steroidní přípravek optimalizující svalovou práci a výbušnou sílu. Poskytuje +1🎲 na Power a všechny schopnosti, které jej využívají jako primární stat. Může způsobit zvýšené pocení.
 
 
+# Veřejné\Předměty\Vybavení\Osobní Zbraně\Cold weapons\Blackstar Blood Razor.md
+
+---
+
+---
+tags: 
+aliases:
+  - BBR
+---
+![[Blackstar Blood Razor.jpg|inlR|250]]*Blackstar Blood Razor*, s hovorovým označením "*BBR*", je nechvalně proslulá vesmírná mačeta, která se stala symbolem brutální efektivity a bezohledné nadvlády mezi pirátskými posádkami a žoldáky na okrajových světech. Ačkoliv je [[Blackstar|Blackstar Arms]] primárně známá výrobou střelných zbraní, BBR představuje jejich vpád na trh chladných zbraní, přinášející firemní filozofii "kvantity nad kvalitou" i do kontaktního boje.
+
+Vyvinuta přibližně v polovině 32. století, kdy **Blackstar Arms** agresivně expandovala na trhy mimo kontrolu **Aliance Centrálních Planet**, byla BBR navržena jako levná a snadno vyrobitelná zbraň pro boj zblízka. Její čepel je často vyrobena z recyklovaných materiálů a levných slitin, což snižuje výrobní náklady, ale zároveň ovlivňuje její životnost. Přesto je dostatečně robustní na to, aby vydržela drsné zacházení typické pro pirátské nájezdy a potyčky v nulové gravitaci.
+
+|  Výrobce   |          [[Blackstar]]          |
+| :--------: | :-----------------------------: |
+|   Skill    |          Cold Weapons           |
+|   Obrana   |          Armor / Dodge          |
+|  Kvalita   | <font color="#ee3333">-1</font> |
+| Integrita  |               2/2               |
+|   Dosah    |                1                |
+| Typ munice |                -                |
+|    Útok    |              5 AP               |
+|    Perk    |      [[Nepohodlná čepel]]       |
+|    MSRP    |              100Σ               |
+
+
 # Veřejné\Předměty\Vybavení\Osobní Zbraně\Cold weapons\Pouliční Vibronůž.md
 
 ---
@@ -5119,6 +5211,46 @@ AR5 používá jednoduchý mechanismus s přímým odběrem plynů, který je zn
 
 ## Fun facts
 Zbraň získala přezdívku "Warlord" díky své popularity mezi regionálními veliteli ve válkách na vnějších světech. Extrémní zpětný ráz při plně automatické střelbě vedl k vývoji speciálního výcviku mezi žoldáckými jednotkami, známého jako "Warlord stance", který minimalizuje riziko zranění střelce.
+
+
+# Veřejné\Předměty\Vybavení\Osobní Zbraně\Longarms\Turgall Horizon.md
+
+---
+
+---
+tags:
+  - 13HC
+  - Longarm
+  - wosp
+aliases:
+  - RAW 7.0
+---
+
+![[Turgall Horizon.jpg|inlR|250]]_Turgall Horizon_ je robustní páková puška navržená pro lovce, průzkumníky a kolonisty na okrajových světech. Je ceněna pro svou spolehlivost v extrémních podmínkách a schopnost skolit i velkou a obrněnou zvěř díky silnému náboji [[13.HC]].
+
+Zbraň byla představena v roce 3141 společností [[Turgall Company|Turgall Company]] jako jejich další vstup na trh dlouhých zbraní. Horizon byla navržena tak, aby naplnila filozofii firmy: kombinaci tradičního řemesla, odolných materiálů a designu inspirovaného historickými zbraněmi ze Země. Puška si rychle získala popularitu na méně osídlených světech, kde je snadná údržba a hrubá síla důležitější než kadence střelby.
+
+Tělo zbraně je vyrobeno z vysoce kvalitních slitin a leštěných kovů, což zaručuje odolnost vůči korozi a poškození. Přestože se jedná o mechanicky jednoduchou zbraň, její precizní zpracování jí zajišťuje mimořádnou přesnost.
+
+|          Výrobce          |            [[Turgall Company]]  |
+| :-----------------------: | :-----------------------------: |
+|           Skill           |            Longarms             |
+|          Obrana           |          Armor / Cover          |
+|          Kvalita          | <font color="#00b050">+2</font> |
+|         Integrita         |               6/6               |
+|          Dostřel          |         15 -> 25 -> 40          |
+|     Počet ran/nábojů      |               6/6               |
+|        Typ munice         |            [[13.HC]]            |
+|          Výstřel          |              6 AP               |
+| Nabíjení z rychlého slotu |         8 AP                    |
+|           Perk            |                                 |
+|           MSRP            |              1950Σ              |
+ 
+## Zajímavosti
+
+Kvůli silnému zpětnému rázu náboje [[13.HC]] je pažba vybavena pokročilým systémem tlumení, který je často mylně považován za energetický článek.
+
+Ačkoliv je [[Turgall Company]] dodavatelem pro [[Aliance Centrálních Planet|Alianční Armádu]], model *Horizon* nebyl nikdy oficiálně přijat do výzbroje. Zůstává primárně civilní a loveckou zbraní.
 
 
 # Veřejné\Předměty\Vybavení\Osobní Zbraně\Longarms\WOSP RAW 7.0.md
@@ -5994,6 +6126,39 @@ Nejpozoruhodnějším aspektem zbraně je inovativní systém chlazení hlavně 
  
 ## Historie a vývoj
 LUX 5.0 se stal symbolem organizovaného odporu v několika konfliktních zónách na okraji Aliance. Bezpečnostní složky [[Aliance Centrálních Planet|Aliance]] považují LUX 5.0 za nejnebezpečnější z běžně dostupných WOSP designů kvůli kombinaci relativní jednoduchosti výroby a vysoké bojové účinnosti. Tato zbraň se také nápadně blíží kvalitou a účinností armádním zbraním.
+
+
+# Veřejné\Předměty\Vybavení\Osobní Zbraně\Special Weapons\Beacon 2 by Stellar.md
+
+---
+
+---
+tags: 
+aliases:
+  - Maják 2
+---
+![[Beacon 2 by Stellar.jpg|inlR|250]]**Beacon 2 by Stellar**, často označovaná jako "Maják 2", je vylepšená a robustnější dvouranná světlicová pistole, představující novou generaci signalizačního vybavení od společnosti **Stellar**. Specializací firmy **Stellar** je výroba high-tech zařízení pro průzkum vesmíru a kolonizaci, a Beacon 2 je dokonalým příkladem jejich filozofie "budget friendly" produktů, které jsou dostupné i pro nezávislé mise a projekty. Společnost byla založena v roce 3088 a je známá svými robustními a spolehlivými produkty.
+
+Beacon 2 se vyznačuje jednoduchou, ale robustní konstrukcí s dvojicí hlavní, která umožňuje rychlé vypálení dvou světlic za sebou. Je navržena tak, aby se snadno ovládala i v rukavicích a v nouzových situacích. Materiály použité při výrobě jsou sice cenově dostupné, ale zároveň zaručují vysokou odolnost proti opotřebení, nárazům a nepříznivým vlivům prostředí vesmíru. V porovnání s původním modelem Beacon nabízí vylepšenou odolnost a delší životnost.
+
+Kromě své primární signalizační funkce může být Beacon 2 nouzově použita i k odstrašení divoké zvěře nebo jako dočasné oslepující světlo proti útočníkům v boji zblízka, ačkoliv není primárně navržena jako útočná zbraň. Její spolehlivost a jednoduchost obsluhy si získala důvěru bezpočtu průzkumníků, kteří se na ni spoléhají v nejkritičtějších momentech.
+
+|          Výrobce          |           [[Stellar]]           |
+| :-----------------------: | :-----------------------------: |
+|           Skill           |         Special Weapons         |
+|          Obrana           |          Armor / Cover          |
+|          Kvalita          | <font color="#00b050">+1</font> |
+|         Integrita         |               2/2               |
+|          Dostřel          |           3 -> 5 -> 7           |
+|     Počet ran/nábojů      |               2/2               |
+|        Typ munice         |      Stellar Vacuum Flare       |
+|          Výstřel          |              5 AP               |
+| Nabíjení z rychlého slotu |              8 AP               |
+|           Perk            |          [[Flare Gun]]          |
+|           MSRP            |              350Σ               |
+
+## Fun facts
+Stellar Beacon 2 slouží primárně jako nouzové signalizační zařízení, schopné vystřelit světlice, které jsou viditelné na obrovské vzdálenosti, a to i v drsných atmosférách nebo ve vakuu.
 
 
 # Veřejné\Předměty\Vybavení\Osobní Zbraně\Special Weapons\TX-12.md
@@ -6922,7 +7087,7 @@ NPCs:
   - Syna
   - "[[Rattus]]"
 ---
-;**9. května 3162** - cca 18hodin
+**9. května 3162** - cca 18hodin
 Iško prohlédne [[Riley Varza|Rileyho]] a uvidí, že jej gorila zranila jeho koleno. Než se [[Falkon - Iskandar Mashinkar|Iško]] bude moci pustit do opravy kolenního implantátu, bude to chtít chirurga. Nikoho jinýho než [[Tetka Mal|Tetku Mal]] kdo by to zvládl neznají.
 
 Při přestupu mezi výtahy potkají podivného týpka v kápi a dlouhým strništěm. Ten jim slibuje pomoc a sleduje je až do 28. patra, kde se mu ztratí a odjedou za tetkou. Ránu sice zašije a popovídá si s Iškem, co je rozbitého na implantátu, ale zranění neodstraní. Takže [[Falkon - Iskandar Mashinkar|Iško]] ještě zatáhne 70Σ za [[Regenerační Aerosol]], ten už zabere a noha se zcelí dostatečně, aby Iško mohl přejít na opravu implantátu. Tetka: "*Aspoň, že jsou vaše návštěvy kratší a kratší. Nic ve zlém. Nic ve zlém.*"
@@ -7034,6 +7199,7 @@ Lokace:
   - "[[Veřejné/Místa/Lokace/Mergtara]]"
 NPCs:
   - "[[Kathrine]]"
+  - "[[Valerius]]"
 ---
 **11. května 3162** - 15:30
 Jak klesají, propuká na patrech pod nehodou chaos. Lidé začínají přibíhat k zábradlí a zjišťovat, co se děje. Klesají na výškové plošině (vznášedlo) a když vidí, kolik pozornosti to přitahuje, rozhodnou se přistát na 31. podlaží. [[Kathrine]]: "*Loď máme nahoře. Můžeme vás vzít pryč.*" - Tobi: "*My utéct jen tak nemůžeme.*" Rozhodnou se zaparkovat na jedné ze střech, aby vznášedlo nebylo vidět z ulice. Řídí Vikram (Ob. 2) -> úspěšně přistane na střeše. Jeden ze [[Strážci Polaris|Strážců]] je ale vyřazený (a podle Kathrine potřebuje odpočívat). Kathrine loď parkuje na 4. podlaží. Tobiho napadne, že by mohli její lodí naskenovat 1. patro a najít [[Valerius|Valeriovo]] vznášedlo od QF.
@@ -7071,3 +7237,134 @@ Plán je, že Kathrine poletí pryč z měsíce a po cestě je vysadí na Valeri
 Po tichém výsadku z _Polárky_ se tým pustil do práce: zatímco Vikram s Iškem sabotovali obrannou věž, Tobi jistil Rileyho, který se pustil do otevírání dveří Valeriova bytu. Jenže pancéřované dveře se otevíraly příliš pomalu a za nimi už čekala připravená past. V rychlé a brutální přestřelce Valerius svým revolverem Blackstar vyřadil Tobiho. Vikram sice stihl pomstít jeho pád a zastřelit bodyguarda, ale vzápětí ho sám Valerius zblízka poslal k zemi. Osamocený Iško, tváří v tvář hlavni Valeriova revolveru, zvedl ruce nad hlavu, což zpečetil zvuk padajícího samopalu a Rileyho roztřesený hlas z úkrytu: „_Vzdáváme se, pane!_“.
 
 V Iškovo uchu se ozve Anya: "*Neznáme se...*" a zapískání jak někde odpálí vysílač se kterým jste spojení.
+
+
+# Vypravěč\Zápisy\«012» Ztroskotání.md
+
+---
+
+---
+Game Date: 16. července 2025
+Space Date: 11. května 3162
+Lokace:
+  - "[[Veřejné/Místa/Lokace/Mergtara]]"
+NPCs:
+  - "[[Valerius]]"
+  - "[[Riley Varza]]"
+---
+**11. května 3162, 21:00**
+
+V bytě č. 61 na prvním podlaží [[Veřejné/Místa/Lokace/Mergtara|Mergtary]] se karta obrátila. [[Valerius]], zadýchaný, ale triumfující, drží skupinu v šachu svou pistolí [[Blackstar R6]]. _"Zajímavý pokus,"_ pronese klidně, zatímco přivolává bezpečnostní složky. _"Svoje neshody jsme mohli vyřešit i jinak."_
+
+Po zajetí v bytě č. 61 je skupina odvedena do malé, chladné místnosti bez oken. Jsou připoutáni k kovovým židlím. Vstoupí Valerius, tentokrát bez svého elegantního saka, v jednoduché černé korporátní uniformě. Není agresivní, jeho tón je klidný, téměř vědecký. Nesnaží se je fyzicky mučit; jeho zbraní je psychologický nátlak a pocit naprosté beznaděje, který vyvolává.
+
+Skupině se podaří úspěšně zalhat o osudu [[Thay Jinroe]], ale přiznají svou spojitost s [[Arthur|Arthurem]] a práci pro [[Billy|Billyho]]. Valerius je s informacemi spokojen a dokonce přemýšlí o spolupráci. Nařizuje Dr. Lirchovovi provést sken mozku, aby zjistil příčinu jejich ztráty paměti.
+
+**12. května 3162, 10:00**
+
+Po operaci, během které jsou skupině ošetřena zranění a pod kůži implantovány sledovací čipy s omezeným dosahem, přichází Dr. Lirchov s šokujícím objevem.
+
+> **Lirchov** _"Pane Valeriusi, musíte to vidět. Je to... Zvláštní."_ _(Valerius přichází a pohlédne na data na monitoru.)_ 
+> **Valerius:** _"Vysvětlete."_ 
+> **Lirchov:** _"Na jejich synapsích jsem objevil nestabilní izotop uhlíku. Je ho velké množství."_ 
+> **Valerius:** _"C-19?"_ 
+> **Lirchov:** _"Ano... Ale jak to víte? Jsou... jsou to živé, stabilní nosiče. Vskutku podivné..."_ 
+> **Valerius:** _"Výborně, doktore. Kdo další viděl tato data?"_ 
+> **Lirchov:** _"Nikdo. Hned jak jsem to potvrdil, volal jsem vás. Je to příliš citlivé..."_ 
+> **Valerius:** _"Správné rozhodnutí."_
+> 
+> [[Valerius]] beze slova vytáhne svůj revolver [[Blackstar R6]] a střelí vědce do hlavy. Poté chladnokrevně popraví i spoutaného [[Riley Varza]], aby nezůstali žádní svědci. Přivolané ostraze nařídí přichystat loď se třemi [[Cryokomora|kryokomorami]] a zinscenuje [[Riley Varza|Rileyho]] jako vraha, který byl při potyčce zneškodněn.
+> 
+> **Valerius:** _"Ostraha? Pošlete sem úklidovou jednotku. Jeden ze zajatců mi ukradl pistoli a zastřelil doktora Lirchova. Naštěstí se mi jej poté podařilo zneškodnit. A sežeňte mi loď se třemi kryokomorami."_
+
+Pod těžkou stráží je skupina eskortována do doků, kde je převezme šestičlenná posádka pašeráků. Valerius, tlačen časem, si najal loď ve špatném technickém stavu s jediným cílem: co nejrychleji dopravit cenný náklad na tajnou stanici *Epsilon-7*. Hráči ještě před zmrazením zaslechnou útržky rozhovorů posádky o nespolehlivém napájení a nebezpečné trase přes meteorický roj u planety [[Gavrel V]].
+
+Následující dva týdny pro ně přestanou existovat. Jejich vnímání se obnovuje jen v krátkých, chaotických záblescích: tlumené dunění nárazů, kvílivý alarm, pocit dekomprese a zvuk trhajícího se kovu. Posledním vjemem je oslepující záblesk a pád do absolutní tmy.
+
+**27. května 3162, 13:00**
+
+Skupina se probouzí v troskách nákladového prostoru pašerácké lodi na neznámé planetě. První se z poškozeného kryopodu dostane [[Vojta - Vikram Vox|Vikram]], který následně pomůže [[Domča - Tobias Flynn|Tobimu]]. Společně se jim po chvíli podaří nouzově otevřít i [[Falkon - Iskandar Mashinkar|Iškův]] zaklíněný pod.
+
+Při průzkumu trosek [[Vojta - Vikram Vox|Vikram]] obere mrtvého pašeráka a získá:
+- Pašerácký kabát, okované boty, batoh (rozbitý datapad, 1x svačina, 68Σ)
+- Jury-Rigging Toolkit, Lockpicking Toolkit
+- Nabitý revolver [[WOSP HEX 2.4]]
+
+[[Domča - Tobias Flynn|Tobi]] mezitím otevře zamčenou skříňku, ve které najdou:
+- Nouzovou světlici [[Beacon 2 by Stellar]]
+- Zbraně: [[Blackstar Blood Razor]], [[Turgall Horizon]]
+- Vybavení: Duraplastový kyrys, cestovní batoh, 6x zásoby (včetně vody), First Aid Kit, Survival Toolkit
+    
+Při útěku z nestabilního vraku se [[Domča - Tobias Flynn|Tobi]] zraní, ale [[Falkon - Iskandar Mashinkar|Iško]] ho okamžitě ošetří. V dálce, několik desítek kilometrů před sebou, vidí stoupat další sloup kouře – pravděpodobně místo dopadu zbytku lodi.
+
+Večer postaví provizorní přístřešek z kůry a mechu. [[Vojta - Vikram Vox|Vikram]] seká mačetou větve, [[Domča - Tobias Flynn|Tobi]] krájí velké kusy mechu, [[Falkon - Iskandar Mashinkar|Iško]] staví přístřešek. Během stavby se [[Falkon - Iskandar Mashinkar|Iško]] poškrábe o ostré krystaly na místní floře. Krátce poté jsou svědky mohutné exploze – zbytek vraku, který opustili, vybuchl.
+
+V noci tma poletují broučci, noční motýly a dokonce i nějací netopíří, co je loví. Hlídky u ohně - střídají si kabát, je jen 5-10°C. 
+
+První noc se střídají na hlídce u ohně. [[Falkon - Iskandar Mashinkar|Iško]] si všimne, že planeta právě prolétá hustým meteorickým rojem. [[Vojta - Vikram Vox|Vikram]] při prohledávání mechu poblíž tábora najde ztracený zásobník.
+
+**Past z mechu.** Bioluminiscenční mech na okraji tábora začne pulzovat v novém, lákavém vzoru. Zdá se to uklidňující. Postava s vysokým *Survival* nebo *Observation* si však může všimnout (nebo ty jí můžeš napovědět), že rytmus je až příliš dokonalý a že tvar světelné skvrny se nepatrně změnil. Je to past. Jeden ze Stínových Plíživců leží nehybně na zemi a napodobuje světlo mechu, aby vylákal jednoho z nich z bezpečí ohně do smrtícího objetí čekající smečky.
+
+
+> **Popis planety [[Gavrel V]]:**
+> - zelenomodrá obloha
+> - dva měsíce, meteorické roje, dopadající meteority
+> - střídající se den a noc, cca 14-10 hodin
+> - denní teplota kolem 21°C, noční kolem 7°C
+> - řidší dýchatelná atmosféra (asi jako v 2500 m.n.m.), gravitace lehce přes 10 m/s2
+> - planeta v procesu [[Systém pro terraformaci|terraformace]]: fauna a flóra funkční, ale velmi málo rozmanitá, pečlivě vyvážený ekosystém sestavený těmi nejlepšími genetickými algortmy
+>   - podloží z modrého a černého kamene 
+>   - směs zelených trav a fialových bioluminiscenčních mechů
+>   - málo rozvětvené stromy s modrozeleným listím, na kůže krystalizuje pryskyřice do extrémně tvrdých krystalů, které připomínají kámen
+>   - keř modrých trsy listů
+>   - carnivor: [[Krysodýl]], noční netopýr
+>   - herbivor: [[Mechokvětka]], hmyz, noční motýly 
+
+> **Závěry:**
+> - Hvězda, kterou Gavrel V obíhá, má **odlišné spektrum světla než naše Slunce**. Mohla by být mírně chladnější (oranžová/červená), což by nutilo rostliny vyvinout pigmenty (jako fykocyanin), které lépe absorbují červené a žluté světlo a odrážejí modrou a zelenou.
+> - Fialový bioluminiscenční mech pravděpodobně využívá **chemiluminiscenci** poháněnou minerály z modrého kamenného podloží (možná na bázi mědi, jako je azurit). Jeho světlo není jen na okrasu – je to základní prvek nočního ekosystému.
+> - Atmosféra je stále příliš řídká, aby většinu menších těles spálila. To potvrzuje i údaj o atmosféře jako ve 2500 m.n.m.
+> - Dopady jsou součástí plánu. Meteority mohou na planetu **"zasévat" vzácné kovy a minerály**, které jsou nezbytné pro další fázi terraformace nebo budoucí těžbu. Planeta je v podstatě "zúrodňována" vesmírným bombardováním.
+> - Dva měsíce způsobují komplexnější slapové jevy, které mohou ovlivňovat počasí a vytvářet silnější přílivy a odlivy, pokud by na planetě existovaly větší vodní plochy.
+> - **Není zde žádná půda:** Podklad je tvořen zvětralým modrým a černým kamenem a tenkou vrstvou biomasy z odumřelých mechů a trav. Vše je umělé.
+> - **Magnetické pole:** Řidší atmosféra a bombardování meteority naznačuje slabší magnetické pole. To znamená vyšší úroveň kosmické radiace během dne, což by mohlo způsobovat poruchy v nezastíněné elektronice a dlouhodobě představovat zdravotní riziko.
+> - **Absence velkých vodních ploch:** Žádná zmínka o řekách nebo jezerech. Voda je pravděpodobně vázána v podzemních rezervoárech, v mechu a v malých potůčcích. To znamená, že najít větší zdroj vody je klíčový survival úkol.
+> - **Ticho:** Kvůli nízké biodiverzitě a řidší atmosféře, která hůře nese zvuk, může být na planetě nepřirozené, až znepokojivé ticho, přerušované jen větrem a zvuky konkrétních tvorů.
+> - Biodiverzita:
+> 	- **Krystalový Plížník:** Nízko rostoucí, plazivá rostlina s ostrými, sklovitými listy. Vyrůstá v okolí Krystalových stromů a funguje jako přirozená "ostnatá" obrana stromu proti býložravcům.
+> 	- **Pulzní Kořen:** Podzemní hlíza, která shromažďuje statickou elektřinu z atmosféry během dne. V noci pomalu uvolňuje slabé elektrické pulzy, které odpuzují hmyz. Pro hráče by mohla být nebezpečná při dotyku (slabý elektrický šok), ale Iško by mohl zjistit, jak ji použít jako nouzový, velmi slabý zdroj energie.
+> 	- **Gravi-Lišejník:** Vzácný lišejník rostoucí pouze v impaktních kráterech meteoritů. Dokáže absorbovat a metabolizovat exotické těžké kovy z dopadlých těles. Je extrémně hustý a těžký. Pro genetické inženýry, kteří planetu terraformují, by mohl být nesmírně cenný.
+> 	- **Kamenný Krab:** Býložravec velikosti velkého psa. Jeho exoskeleton dokonale imituje texturu a barvu místního černého kamene. Když se necítí v bezpečí, stáhne se do sebe a je téměř k nerozeznání od balvanu. Živí se tvrdými listy modrých keřů.
+> 	- **Roj Žiletek:** Hejna malého létajícího hmyzu s křídly ostrými jako břitva. Během dne se rojí kolem Krystalových stromů a seškrabávají pryskyřici. Nejsou primárně agresivní, ale průchod rojem může způsobit desítky drobných řezných ran. Jejich přítomnost by vysvětlovala, proč mají stromy tak silnou krystalovou obranu.
+> 	- **Kráterový Červ:** Mrchožrout žijící pod zemí v oblastech s čerstvými dopady meteoritů. Je slepý a orientuje se pomocí vibrací a tepla. Požírá zbytky meteoritů a jakékoliv organismy, které impakt zabije. Mohl by být hrozbou, pokud by hráči prozkoumávali čerstvý kráter.
+
+
+# Vypravěč\Zápisy\«013» Stará známost.md
+
+---
+
+---
+Game Date: 7. srpna 2025
+Space Date: 28. května 3162
+Lokace:
+  - "[[Veřejné/Místa/Lokace/Mergtara]]"
+NPCs:
+  - "[[Razz Vilgour]]"
+---
+**28. května 3162, 5:00**
+
+Poslední hlídku drží [[Domča - Tobias Flynn|Tobi]]. Hypnotizuje jej pulzující mech, ale odolá mu (Will 3). Ukáže se, že to byl jen schovaný [[Krysodýl]] (jak jej pojmenuje [[Vojta - Vikram Vox|Vikram]]. Když ale Tobi instinktivně couvne, a Plíživec, který neuspěl se také stáhne.
+
+Kolem osmé se začne rozednívat. Měli by vyrazit k vraku lodi. Posbírají provázky a další věci co našli v lodi a vyrazí směrem, kde včera viděli kouř - [[Domča - Tobias Flynn|Tobi]] Orienteering 1/1.
+
+Za nimi do atmosféry sestoupí těžce upravená nákladní frigata (pirátská loď). Má zbraňové systémy a nestandardní pohon. Skryjí se pod stromem a pozorují ji, dokud nad nimi loď neproletí a nezačne klesat směrem k místu, kam mají vyraženo. 15-20 km před vámi začne přistávat.
+
+14h Asi po 5 hodinách cesty dorazí na dohled (kilometr) od pirátské lodi, kteří začali salvagovat naváděcí modul s nouzovým majákem.
+
+Piráti je ovšem zajmou. Zdá se, že nejsou úplně nejchytřejší. Nechají se nakonec přesvědčit, aby je odvedli k výslechu, poté co jim řeknou, že jsou přeživší z lodi. Jenže piráti dostanou příkaz od svojí nadřízené - Razz, ať přeživší zastřelí. Když [[Falkon - Iskandar Mashinkar]] uslyší to jméno, vyhrkne: "*Razz Vilgour?*" (Razz je teď asi 35, má na sobě pirátskou uniformu, na obličeji kybernetické implantáty, tetování a piecingy, půl hlavy má vyholenou, na druhé půlce dlouhé červené vlasy)
+
+Ukáže se, že je to ona. Za dobu, co spolu nemluvili se dala nakariéru pirátky a vybudovala si svými znalostmi elektroniky pevnou pozici kapitánovy pravé ruky. Před posádkou hraje, že Iška nezná, ale v soukromí na kraji nákladní rampy se ho vyptá, co se děje. Ten jí vyklopí vše od pěti ztracených let, přes experimenty, až po to co se pokazilo na Mergtaře, nezdařený atentát na [[Valeria]]. 
+
+V tom do systému vstoupí malá vesmírná loď, která letí jejich směrem (kvůli tomu, že tam zaznamenali [[Subprostorový vysílač]]). Letí na jejich lokaci a piráti začnou balit zbytky trosek. Skupina jim jde pomoci, což urychlí evakuaci ([[Falkon - Iskandar Mashinkar|Iško]] naviguje jeřáb, [[Vojta - Vikram Vox|Vik]] rozděluje práci crowdu a [[Domča - Tobias Flynn|Tobi]] určuje co ještě naložit). V obzoru se vyklube asi 4-6 [[QuantumForge]] na míru vyrobený stíhač. Pirátská loď se ale dostane do vzduchu, takže jí posádka stíhače jen zasáhne projektilem připomínajícím oštěp. Pak přistanou na zemi a ukáže se, že to jsou bílé masky. A pirátský kapitán si zavolá Razz a skupiny, aby vysvětlili, proč po nich jdou takhle drazí asasíni. 
+
+Piráti budou potřebovat někde natankovat a prodat horký zboží.

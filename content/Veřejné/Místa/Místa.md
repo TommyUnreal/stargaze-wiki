@@ -18,6 +18,8 @@
       * [[Hyperion]]
       * [[Lucentia]]
   * Okrajové Systémy
+      * [[Gavrel]]
+      * [[Gloomwell]]
       * [[Tasian]]
 * Vesmírné anomálie
 * Významná vesmírná stanoviště

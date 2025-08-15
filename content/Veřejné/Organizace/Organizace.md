@@ -10,6 +10,7 @@
     * [[Naskarská obchodní gilda]]
 * Pašerácké kartely
 * Pirátské frakce
+    * [[Sirény]]
 * Technologické korporace
     * [[Aegis Defense Systems]]
     * [[Blackstar]]

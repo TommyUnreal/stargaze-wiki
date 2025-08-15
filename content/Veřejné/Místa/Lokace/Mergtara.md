@@ -12,7 +12,7 @@ _Mergtara_ je těžební měsíc obíhající kolem planety Tasian XII v systém
 | 27.     | [[Tapita Kryxová\|paní Kryxová]], [[Knarggl Sulfirx\|Knarggl]], [[Dekk Holtz\|Dekk]], [[Tetka Mal]]                 |
 | 29.     | stará šachta s [[Cuprithorax\|Cuprithoraxy]] + skupinka squaterů                                                    |
 | 33.     | *Bar Proxima* (doupě Šum)                                                                                           |
-| 40.     | *Šrotová Ulička* ([[Riley Varza\|Rileyho]] krámek)                                                                  |
+| 40.     | *Šrotová Ulička* ([[Riley Varza (†)\|Rileyho]] krámek)                                                                  |
 | 41.     | [[Billy\|Billyho]] Bistro                                                                                           |
 | 60.     | Sklad údržby [[ECM\|E.C.M.]] "*60-UP*"                                                                              |
 | 61.     | Oprava těžkých strojů + kanceláře [[ECM\|E.C.M.]], *Rosso Café*                                                     |
