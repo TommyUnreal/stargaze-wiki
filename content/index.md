@@ -31,6 +31,7 @@
           * [[Thalion Grayman]]
           * [[Valerius]]
         * Ostrov Sirén
+          * [[Orion Vane]]
           * [[Solomon Garr]]
       * Poznámky
         * [[Aktuální burza odměn]]
@@ -39,30 +40,30 @@
       * Znalosti
         * [[Navigace ve Stargaze galaxii]]
       * Zápisy
-    * Lore
-      * Historie světa
-        * [[Osidlování Stargaze Galaxie]]
-        * [[Vznik Aliance Centrálních Planet]]
-        * [[Válka s Luminari]]
-        * [[WOSP Aktivismus]]
-      * Hudba
-        * [[Deluminathor]]
-        * [[Rustwire]]
-      * Náboženství a víry
-        * [[Strážci Polaris]]
-      * Politické frakce
-        * [[Aliance Centrálních Planet]]
-        * [[WOSP]]
-      * Rasy a druhy
-        * [[Luminari]]
-        * [[Nebulaři]]
-        * [[Vortexani]]
-        * [[Zephyrové]]
-        * Významné konflikty
     * Místa
       * Kolonie
       * Lokace
         * [[Mergtara]]
+      * Lore
+        * Historie světa
+          * [[Osidlování Stargaze Galaxie]]
+          * [[Vznik Aliance Centrálních Planet]]
+          * [[Válka s Luminari]]
+          * [[WOSP Aktivismus]]
+        * Hudba
+          * [[Deluminathor]]
+          * [[Rustwire]]
+        * Náboženství a víry
+          * [[Strážci Polaris]]
+        * Politické frakce
+          * [[Aliance Centrálních Planet]]
+          * [[WOSP]]
+        * Rasy a druhy
+          * [[Luminari]]
+          * [[Nebulaři]]
+          * [[Vortexani]]
+          * [[Zephyrové]]
+          * Významné konflikty
       * Nebezpečné zóny
       * Obchodní uzly
       * Planety

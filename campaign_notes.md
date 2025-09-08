@@ -211,7 +211,7 @@ Rattus je nechutný gangster a "lowlife" z podzemního města [[Mergtara]].
 Rattus je ztělesněním bezohledného kriminálníka, který se pohybuje na okraji společnosti. Jeho vzhled, kombinující kýčovitý lesk s hrubou silou, dokonale odráží jeho postavení jako vymahače dluhů a manipulátora.
 
 
-# Veřejné\Hráčská sekce\NPCs\Mergtara\Riley Varza.md
+# Veřejné\Hráčská sekce\NPCs\Mergtara\Riley Varza (†).md
 
 ---
 
@@ -221,8 +221,11 @@ aliases:
 ---
 ![[Riley Varza.jpeg|inlL|250]]
 
-Vyzáblý, ale bystrý kybernetik a mechanik, který se specializuje na opravy a úpravy kybernetických implantátů. Riley má dílnu v Šrotové uličce na 40. patře [[Mergtara|Mergtary]]. Je zdatný v oboru, ale jeho vášeň pro hazardní hry ho často dostává do finančních problémů. Je zadlužen u místních gangsterů, což ho nutí k zoufalým krokům, aby své dluhy splatil. Navzdory svým potížím je vděčný za pomoc a dokáže být loajální, např. k [[Billy|Billymu]].
+**Zesnulý.** Zemřel [[«012» Ztroskotání|12. května 3162]]. Byl zajat společně se skupinou v bytě [[Valerius|Valeria]]. Poté, co Valerius zjistil přítomnost izotopu C-19 v tělech skupiny, chladnokrevně Rileyho popravil, aby se zbavil nepohodlného svědka.
 
+Aby splatil dluh gangsterovi [[Rattus|Rattusovi]], prodal vlastní nohy a za peníze si pořídil kolena pro nasazení špičkových závodních implantáty, které měl u sebe na *jailbreak*, s cílem vyhrát _Synthburger Marathon_. S pomocí skupiny se mu podařilo implantáty zprovoznit a závod vyhrát, ale [[Rattus]] si vzal celou výhru jako splátku dluhu i s penále. Z vděčnosti k [[Billy|Billymu]] a skupině se jim rozhodl pomoci s vloupáním do bytu [[Valerius|Valeria]].
+
+Vyzáblý, ale bystrý kybernetik a mechanik, který se specializoval na opravy a úpravy kybernetických implantátů. Riley měl dílnu v Šrotové uličce na 40. patře [[Mergtara|Mergtary]]. Byl zdatný v oboru, ale jeho vášeň pro hazardní hry ho často dostávala do finančních problémů. Byl zadlužen u místních gangsterů, což ho nutilo k zoufalým krokům, aby své dluhy splatil. Navzdory svým potížím byl vděčný za pomoc a dokázal být loajální, např. k [[Billy|Billymu]].
 
 ## GM section
 ##### Vystupování
@@ -235,6 +238,11 @@ Vyzáblý, ale bystrý kybernetik a mechanik, který se specializuje na opravy a
 ##### Popis
 
  180cm vysoký hubený muž kolem třicítky s vyhublými tvářemi a tmavými kruhy pod očima, svědčícími o nedostatku spánku. Vlasy má mastné a stažené do volného culíku. Nosí zašpiněný, ale funkční montérkový overal. Chybí mu několik zubů a na levé ruce má viditelnou jizvu od spáleniny. Jeho nově operované nohy amputované nad kolenem jsou obvázané a vypadají křehce, což naznačuje nedávný zákrok. Místo kolenou má kybernetické implantáty. Má rychlé a zručné prsty, které neustále něco upravují nebo s něčím manipulují.
+ 
+##### Affiliation
+- Dlužil laskavost [[Billy|Billymu]], který ho občas chránil před gangstery.
+- Byl zadlužen u gangstera [[Rattus|Rattuse]].
+- Spojenec skupiny ([[Falkon - Iskandar Mashinkar|Iško]], [[Domča - Tobias Flynn|Tobi]], [[Vojta - Vikram Vox|Vikram]]), která mu pomohla vyhrát závod a zbavit se dluhu.
 
 
 # Veřejné\Hráčská sekce\NPCs\Mergtara\Tapita Kryxová.md
@@ -374,7 +382,9 @@ aliases: []
 
 ---
 
-![[Razz Vilgour.jpeg|inlL|250]] Razz Vilgour je pirátka a pravá ruka kapitána na těžce upravené nákladní fregatě *Stray Dog*. Díky svým znalostem elektroniky má silnou pozici v posádce. S [[Falkon - Iskandar Mashinkar|Iskandarem]] se zná z dětství a ze studií na **Helios Institutu**, kde byli blízcí přátelé. Když ho potkala na planetě [[Gavrel V]], dělala, že ho nezná, ale později mu i skupině v soukromí pomohla.
+![[Razz Vilgour.jpeg|inlL|250]] 
+
+*Razz Vilgour* je pirátka a pravá ruka [[Kathrine|Kapitána Thaliona Graymana]]kapitána na těžce upravené nákladní fregatě *Stray Dog*. Díky svým znalostem elektroniky má silnou pozici v posádce. S [[Falkon - Iskandar Mashinkar|Iskandarem]] se zná z dětství a ze studií na **Helios Institutu**, kde byli blízcí přátelé. Když ho potkala na planetě [[Gavrel V]], dělala, že ho nezná, ale později mu i skupině v soukromí pomohla.
 
 ## GM Section
 
@@ -387,6 +397,41 @@ Razz je asi 35 let stará. Má kybernetické implantáty na obličeji, tetován�
 - **Pro posádku:** Chladná, věcná, rázná. Mluví stručně a autoritativně, aby si udržela respekt. Neprojevuje zbytečné emoce a působí jako efektivní profesionálka.
     
 - **Pro blízké (např. Iška):** Uvolněnější, přátelská, ale stále s jistým cynismem. Může se vrátit ke starým vtipům a způsobu mluvy, který spolu měli, ale zároveň dává najevo, že její pirátská kariéra ji změnila. Má silný, přímý, možná trochu sarkastický tón.
+
+
+# Veřejné\Hráčská sekce\NPCs\Ostatní\Thalion Grayman.md
+
+---
+
+---
+aliases:
+  - Kapitán Thalion Grayman
+  - Kapitán Grayman
+  - Thalion
+---
+![[Thalion Grayman.jpeg|inlL|250]] 
+
+_Kapitán Thalion Grayman_ je pragmatický a inteligentní velitel pirátské fregaty _Stray Dog_. Je to muž ve středních letech s ostrými rysy a chladným, vypočítavým pohledem, který prozrazuje léta zkušeností z nebezpečných koutů galaxie. Jeho autorita nevyplývá z hrubé síly, ale z jeho strategického myšlení a schopnosti být vždy o krok napřed. Obléká se funkčně, ale kvalitně, což podtrhuje jeho status úspěšného a nezávislého kapitána.
+
+## GM section
+
+##### Vystupování
+
+- **Jako Kapitán Grayman:**
+	- Mluví klidně, přímo a bez zbytečných emocí. Každé slovo má svůj účel.
+	- Je analytický a neustále vyhodnocuje své okolí, lidi i situace.
+	- Respekt si nevynucuje křikem, ale tichou, neochvějnou autoritou.
+        
+- **V převleku za Silase Vanea:**
+    - Hrubší, lidovější mluva. Neustále si na něco stěžuje (bolavá záda, dnešní mládež, kvalita nářadí).
+    - Působí unaveně a cynicky. Jeho kybernetické oko občas viditelně "bliká" nebo se zasekává.
+    - Schválně působí trochu nemotorně, aby podpořil svůj převlek za stárnoucího mechanika.
+
+##### Affiliation
+- Kapitán pirátské fregaty _Stray Dog_.    
+- Udržuje obchodní partnerství a komplikované přátelství s guvernérem Ostrova Sirén, Solomonem Garrem.    
+- Jeho pravou rukou a první důstojnicí je [[Razz Vilgour]].    
+- Operuje jako nezávislý pirát, který se vyhýbá přímému konfliktu s [[Aliance Centrálních Planet|Aliancí]], pokud to není nezbytně nutné.
 
 
 # Veřejné\Hráčská sekce\NPCs\Ostatní\Valerius.md
@@ -414,6 +459,42 @@ Karbon C-19. C-19 je extrémně vzácný a vysoce nestabilní izotop uhlíku, kt
 Carbon-14b (C-14b) (který je na Zemi nestabilní, ale používá se k datování), která se na Mergtaře vyskytuje ve stabilnější nebo jinak vhodnější formě, nebo je to místní označení pro izotop s hmotností 14, ale jinými jadernými vlastnostmi než pozemský C-14. Oproti běžnému pozemskému uhlíku (primárně C-12) má C-14b jedinečnou krystalickou strukturu a vysokou čistotu, což z něj činí ideální surovinu pro výrobu vysoce kvalitního karbonu a karbonových kompozitů. C-14b vytváří při zpracování dlouhé, rovné uhlíkové řetězce, které se snadno formují do vláken s extrémní pevností v tahu a nízkou hmotností.
 
 
+# Veřejné\Hráčská sekce\NPCs\Ostrov Sirén\Solomon Garr.md
+
+---
+
+---
+aliases:
+  - Garr
+  - Guvernér Ostrova Sirén
+  - Guvernér Solomon Garr
+---
+![[Solomon Garr.jpg|inlL|250]]
+
+_Solomon Garr_ je extravagantní a arogantní vládce pirátského přístavu **Ostrov Sirén**. Tento podsaditý muž ve středních letech je proslulý svou bezmeznou láskou k bohatství, okázalosti a především ke svému geneticky upravenému mazlíčkovi – zlaté koze jménem **Aurélie**. Navzdory svému nevkusnému a teatrálnímu vystupování vládne stanici železnou rukou a díky svému obchodnímu talentu a bezohlednosti si dokázal udržet moc v jednom z nejnebezpečnějších systémů v galaxii.
+
+## GM section
+
+##### Vystupování
+- Mluví **teatrálně a hlasitě**, miluje zvuk vlastního hlasu.
+- Neustále se chvástá svým bohatstvím, svými kontakty a především dokonalostí své zlaté kozy Aurélie.
+- K ostatním se chová **povýšeně a blahosklonně**, jako by byli jen figurkami v jeho hře.
+- Má **prchlivou povahu**; jakákoliv urážka jeho osoby, vkusu nebo (nedej bože) jeho kozy ho dokáže nepříčetně rozzuřit.
+
+##### Popis
+Podsaditý muž, jehož břicho se sotva vejde do drahých, ale křiklavých hedvábných rouch. Jeho prsty jsou ověšeny masivními zlatými prsteny a na krku má několik těžkých řetězů. Tvář má kulatou, věčně zpocenou a jeho úsměv je spíše samolibým úšklebkem.
+
+##### Pozadí
+*Garr* nebyl vždy pirátem. Původně byl neúspěšným finančníkem v korporátním světě na [[Emporia II]]. Po sérii špatných investic a podvodů utekl na Vnější okraj, kde zjistil, že jeho talent pro manipulaci a ekonomiku má v bezpráví mnohem větší cenu. Během několika let se mu podařilo ovládnout černý trh na *Ostrově Sirén* a vybudovat si reputaci bezohledného, ale efektivního vládce.
+
+##### Affiliation
+
+- Guvernér a de facto vlastník pirátské stanice **Ostrov Sirén**.
+- Udržuje dlouholeté, komplikované přátelství a obchodní partnerství s [[Thalion Grayman|Kapitánem Thalionem Graymanem]]. Jejich vztah je směsicí vzájemného respektu a neustálého testování hranic.
+- Má rozsáhlé kontakty v podsvětí, obchoduje s různými pašeráckými kartely a informačními brokery.
+- Je v otevřeně nepřátelském vztahu s [[Aliance Centrálních Planet|Aliancí Centrálních Planet]], která považuje jeho stanici za hnízdo zločinu.
+
+
 # Veřejné\Hráčská sekce\Poznámky\Aktuální burza odměn.md
 
 ---
@@ -424,26 +505,27 @@ Viz [[Odměna za Souboj]]
 
 | Řádek | Hod | Cena [exp] | Popis                                                              |
 | ----- | --- | ---------- | ------------------------------------------------------------------ |
-| 1     | 93  | 3          | Postřeh. **+5 AP do první akce příštího souboje.**                 |
-| 2     |     |            |                                                                    |
-| 3     | 46  | 5          | **Difficult check** (shopnost/stat nemusely být použity v souboji) |
-| 4     | 57  | 2          | +1 **Fate**                                                        |
-| 5     |     |            |                                                                    |
-| 6     | 86  | 5          | Oklepání se. Odstraň si 1 zranění obdržené v tomto souboji.        |
-| 7     |     |            |                                                                    |
-| 8     |     |            |                                                                    |
-| 9     |     |            |                                                                    |
-| 10    |     |            |                                                                    |
-| 11    | 24  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)         |
-| 12    | 53  | 2          | +1 **Fate**                                                        |
-| 13    | 34  | 5          | **Challenging check** (shopnost/stat byly použity v souboji)       |
-| 14    | 74  | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**              |
-| 15    | 74  | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**              |
-| 16    | 48  | 5          | **Difficult check** (shopnost/stat nemusely být použity v souboji) |
-| 17    | 46  | 5          | **Difficult check** (shopnost/stat nemusely být použity v souboji) |
-| 18    | 78  | 2          | Nález drobného obnosu (Vesmírné Kredity) - **d6 x 5Σ**             |
-| 19    | 44  | 3          | **Routine check** (shopnost/stat nemusely být použity v souboji)   |
-| 20    | 22  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)         |
+| 1     | 46  | 5          | **Difficult check** (shopnost/stat nemusely být použity v souboji) |
+| 2     | 78  | 2          | Nález drobného obnosu (Vesmírné Kredity) - **d6 x 5Σ**             |
+| 3     | 44  | 3          | **Routine check** (shopnost/stat nemusely být použity v souboji)   |
+| 4     | 22  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)         |
+| 5     | 6   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 6     | 4   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 7     | 6   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 8     | 9   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 9     | 12  | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 10    | 5   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 11    | 5   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 12    | 11  | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 13    | 3   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 14    | 53  | 2          | +1 **Fate**                                                        |
+| 15    | 66  | 10         | +1 **Deed**                                                        |
+| 16    | 82  | 2          | Nález munice - v hodnotě - **d6 x 5Σ**                             |
+| 17    | 9   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 18    | 63  | 2          | +1 **Persona**                                                     |
+| 19    | 10  | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
+| 20    | 97  | 5          | Nalezení klíče, přístupového čipu či karty.                        |
+
 
 ### Nejnovější
 
@@ -679,6 +761,68 @@ V posledních letech se WOSP komunita začala zajímat o více než jen zbraně.
 Alianční analytici předpovídají, že s rostoucí automatizací výroby a dostupností pokročilých 3D tiskáren bude stále těžší kontrolovat šíření WOSP designů. Některé progresivnější hlasy v parlamentu začínají navrhovat legalizaci pod přísnou regulací, argumentujíc, že prohibice pouze podporuje černý trh.
 
 
+# Veřejné\Lore\Hudba\Deluminathor.md
+
+---
+
+---
+tags:
+  - metalsynth
+sound prompt: death metal with layered synthesizers, technical heavy riffs, veiled melodic male voice mixed with brutal screams
+---
+
+
+# Veřejné\Lore\Hudba\Rustwire.md
+
+---
+
+---
+tags:
+  - steeldust
+sound prompt: cyberpunk dark country, space scifi bar music, year 3000, space harbour rock
+---
+V přeplněném hudebním vesmíru 32. století, kde korporátní jingly a alianční popové hymny dominují vysílání v systémech _Primis_, se z prachu a špíny Vnějšího okraje vynořil zvuk tak syrový a nefalšovaný, že jej nelze ignorovat. Mluvíme o kapele **Rustwire**, průkopnících steeldustového žánru. Je to zvuk oceli, pouště a drsného života v kyber-futuristickém pekle, směsice temného country a industriálního blues, která dokonale zachycuje ducha těch, kdo žijí na hraně známého vesmíru.
+
+Jejich hudba je soundtrackem pro život na místech jako jsou zapomenuté kolonie v sektoru _Expansis_. Zpívají o svobodě koupené za kredity a krev, o bouchačkách od Blackstaru, o ženách v zaprášených přístavních barech, o levné whiskey, která pálí v krku, a o chromu, který jim pulzuje v žilách místo krve. Rustwire nejsou kapelou pro obyvatele nablýskaných věží na Emporii; jsou hlasem horníků, pašeráků, žoldáků a všech ztracených existencí, pro které je každý den bojem o přežití.
+
+Jejich nejnovější album, **"Rust & Radiance"** (Rez a záře), je mistrovským dílem, které definuje jejich zvuk. Název perfektně vystihuje dualitu života na okraji – všudypřítomnou rez a rozklad ("Rust"), ale i prchavé okamžiky krásy, vzdoru a naděje ("Radiance"), které se lesknou v neonovém světle přístavních měst.
+
+#### Rozbor alba "Rust & Radiance"
+
+**1. Chrome & Whiskey** 
+Album otevírá úderný manifest. "Neon sky drips down like oil / Rust in the air blood in the soil." Hned od prvních tónů je jasné, o čem to bude. Píseň je osobní hymnou nezávislosti vylepšeného člověka. Zpěvák, jehož hlas zní jako štěrk a rez, prohlašuje, že jeho identita není definována korporátním čárovým kódem, ale chromem v jeho žilách a whiskey v jeho ruce. Je to oslava kybernetické svobody a odmítnutí být jen dalším kolečkem v alianční mašinérii.
+
+**2. Starfire Wilds** 
+Tempo se zrychluje a přenáší nás do prázdnoty mezi hvězdami. "Flyin' through the starfire wilds / No chains no bounds no trials." Tohle je píseň pro nezávislé piloty a pašeráky. Evokuje nebezpečnou svobodu hlubokého vesmíru, kde za každým asteroidem mohou číhat piráti nebo neznámé hrozby. Zrezivělé přístavy, pachuť levného alkoholu a neustálá přítomnost zbraní – to je realita života ve "hvězdné divočině".
+
+**3. Zero Gravity Rodeo** 
+Energií nabitá skladba, která zní jako soundtrack k šílenému závodu v asteroidovém poli. "Zero gravity rodeo / Ridin' the stars / Outrun the monsters." Popisuje chaotický a vzrušující život těch, kteří se pohybují v nebezpečných zónách, kde přežití závisí na rychlých reflexech a ještě rychlejší lodi. Je to adrenalinová jízda, kde svoboda chutná jako prach a oheň.
+
+**4. Hangman's Hymn** 
+Album zde zpomaluje do temné, fatalistické balady. "Raise your glass to the void tonight / Drink it down / The dark takes flight." Píseň zachycuje ponurou atmosféru přístavních barů, kde psanci a vyvrhelové zapíjejí své hříchy a čekají na nevyhnutelný konec. "Galaktický kat" je metaforou pro neúprosný osud, který čeká na každého, kdo žije za hranou zákona.
+
+**5. Neon Corsairs** 
+Klasická pirátská hymna pro 32. století. "Neon corsairs / We steal the night / No maps / No rules / Just endless flight." Oslavuje bratrství a bezpráví vesmírných barů, kde se spřádají plány na další loupeže pod svitem dvojitých měsíců. Je to óda na život bez pravidel, kde jedinou jistotou je další sklenka a loajální posádka.
+
+**6. Galactic Swagger** 
+Podobně jako "Hangman's Hymn", i tato skladba se noří do fatalismu psanců, ale s notnou dávkou arogance. Je to o předvádění se tváří v tvář jisté zkáze, o výměně života za kousky chromu a o přijetí temnoty jako společníka.
+
+**7. Polaris Lost** 
+Tady Rustwire zabrousí do politiky a konspiračních teorií. "Polaris lost Polaris gone / Secrets whispered in the corporate dawn." Píseň přímo odkazuje na ztracenou kolonizační loď [[Osidlování Stargaze Galaxie#Ztracená loď a zrození legend|Polaris]] a zpochybňuje oficiální verzi [[Aliance Centrálních Planet|Aliance]]. Mluví o lžích, korporátních dohodách a pocitu, že obyčejní lidé byli zrazeni. Je to silná balada, která rezonuje s nedůvěrou vůči autoritám, tak typickou pro Vnější okraj.
+
+**8. Rebel's Forge** 
+Nejsilnější politický manifest na albu. "WOSP in the veins we build what they fear / Blueprints of rebellion the message is clear." Píseň je otevřenou poctou hnutí [[WOSP]]. Je to hymna technologického odporu, oslava těch, kteří si v tajných dílnách "kovají" vlastní nástroje svobody a odmítají monopol korporací na zbraně. Je to silný, úderný song o síle a odhodlání utlačovaných.
+
+**9. Relentless Fight** 
+Bitevní pokřik, který jako by byl napsán přímo pro vojáky bojující ve [[Válka s Luminari|válce s Luminari]]. "Relentless fight / Endless night / Stargaze burns / We ignite." Skladba je plná hněvu a odhodlání, mluví o rozbití řetězů a boji za přežití proti silnějšímu nepříteli. Je to surový a energický track, který se bezpochyby stal neoficiální hymnou mnoha aliančních jednotek na frontě.
+
+**10. Stardust Dreams** 
+Album končí melancholickou, téměř snovou skladbou. "Galactic rum and stardust dreams / Nothing's ever what it seems." Je to zamyšlení nad prchavostí snů a štěstí v nekonečném a lhostejném vesmíru. Pirátské přísahy jsou jen lži, planety zanikají, ale písně zůstávají. Je to hořkosladký konec cesty, který posluchače zanechá s pocitem prachu na jazyku a ozvěnou hvězd v uších.
+
+#### Závěr
+"Rust & Radiance" není jen sbírka písní; je to kronika života na okraji galaxie. Rustwire dokázali zachytit esenci boje, svobody a přežití ve světě, kde chrom a ocel znamenají víc než maso a krev. Je to drsné, upřímné a nekompromisní album, které si zaslouží místo v datablocích každého, kdo chce slyšet skutečný hlas Vnějšího okraje.
+
+
 # Veřejné\Lore\Náboženství a víry\Strážci Polaris.md
 
 ---
@@ -865,7 +1009,7 @@ _Mergtara_ je těžební měsíc obíhající kolem planety Tasian XII v systém
 | 27.     | [[Tapita Kryxová\|paní Kryxová]], [[Knarggl Sulfirx\|Knarggl]], [[Dekk Holtz\|Dekk]], [[Tetka Mal]]                 |
 | 29.     | stará šachta s [[Cuprithorax\|Cuprithoraxy]] + skupinka squaterů                                                    |
 | 33.     | *Bar Proxima* (doupě Šum)                                                                                           |
-| 40.     | *Šrotová Ulička* ([[Riley Varza\|Rileyho]] krámek)                                                                  |
+| 40.     | *Šrotová Ulička* ([[Riley Varza (†)\|Rileyho]] krámek)                                                                  |
 | 41.     | [[Billy\|Billyho]] Bistro                                                                                           |
 | 60.     | Sklad údržby [[ECM\|E.C.M.]] "*60-UP*"                                                                              |
 | 61.     | Oprava těžkých strojů + kanceláře [[ECM\|E.C.M.]], *Rosso Café*                                                     |
@@ -1059,6 +1203,24 @@ _Aurora Prime_ je mimořádně stabilní hvězda s minimální sluneční aktivi
 - **Pás asteroidů**: Bohatý na minerály, obsahuje několik výzkumných stanic.
 
 
+# Veřejné\Místa\Systémy\Okrajové Systémy\Gavrel.md
+
+---
+
+Systém Gavrel, nacházející se v oblasti [[Navigace ve Stargaze galaxii#Expansis|Expansis]], je známý především díky ambicióznímu terraformačnímu projektu na páté planetě, **Gavrel V**. Ačkoliv systém samotný nenabízí žádné významné osídlení, planeta Gavrel V je fascinujícím světem v procesu přeměny, s uměle vytvořeným, avšak funkčním ekosystémem. Je charakteristická svým všudypřítomným bioluminiscenčním mechem, krystalickou flórou a pečlivě vyváženou faunou, jako je predátor [[Krysodýl|Plíživec]] a jeho kořist [[Mechokvětka]]. Kvůli své odlehlosti a absenci stálé autority je systém občas využíván piráty a dalšími skupinami jako dočasné útočiště. V systému se nenachází [[FTL prak]], ale pro potřeby terraformace je zde umístěn [[ISU Node]].
+
+
+# Veřejné\Místa\Systémy\Okrajové Systémy\Gloomwell.md
+
+---
+
+---
+aliases:
+  - Ostrov Sirén
+---
+Systém Gloomwell je zrádná a obávaná anomálie na Vnějším okraji galaxie, které se většina zkušených pilotů vyhýbá. Jeho centrum netvoří hvězda, ale gravitační peklo tvořené několika neutronovými hvězdami a černou dírou. Extrémní gravitační síly a neustálé radiové rušení činí navigaci a komunikaci téměř nemožnou, což z něj činí dokonalou past. Jediným významným bodem v systému je nechvalně proslulý pirátský přístav **Ostrov Sirén**, který slouží jako základna pro syndikát [[Sirény]] a další psance. Systém záměrně postrádá jakýkoliv oficiální [[ISU Node]] nebo [[FTL prak]], což zaručuje jeho izolaci od vlivu Aliance.
+
+
 # Veřejné\Místa\Systémy\Okrajové Systémy\Tasian.md
 
 ---
@@ -1180,6 +1342,30 @@ Současná CEO. Známá pro svou chladnokrevnou efektivitu a výrok: _„Každý
 
 ### Vztahy
 Naskarská obchodní gilda udržuje ambivalentní vztah s [[Popelavá Legie|Popelavou Legií]]. Na jednu stranu k legionářům projevují respekt, pravděpodobně z obavy před jejich silou. Na druhou stranu je možné, že s členy Legie obchodují. Jejich vztah s [[Aliance Centrálních Planet|Aliancí Centrálních Planet]] je nepřátelský, ale protože operuje mimo centrální světy je tiše tolerována.
+
+
+# Veřejné\Organizace\Pirátské frakce\Sirény.md
+
+---
+
+---
+aliases:
+  - Sirény z Gloomwellu
+---
+**Sirény** jsou nechvalně proslulý pirátský syndikát operující z jedinečně nebezpečného systému [[Gloomwell]]. Nejedná se o tradiční flotilu, ale o volnou koalici nezávislých kapitánů a posádek, které spojuje věrnost (a podíl z kořisti) guvernérovi [[Solomon Garr|Solomonu Garrovi]]. Své jméno si získali díky své zákeřné taktice, kdy využívají falešné nouzové signály a gravitační anomálie systému, aby nalákali nic netušící lodě do smrtících pastí – podobně jako mýtické sirény lákaly námořníky na útesy.
+
+## GM section
+
+##### Struktura a Velení
+Sirény postrádají formální vojenskou hierarchii. Jsou spíše obchodním syndikátem s pirátskými praktikami.
+- [[Solomon Garr|Guvernér Solomon Garr]] Je mozkem a bankéřem celé operace. Přímo nevelí v bitvách, ale jeho kontrola nad stanicí **Ostrov Sirén** – jediným bezpečným přístavem v systému – mu dává absolutní moc. Vymáhá poplatky za ochranu, palivo a opravy a bere si podíl z každé úspěšné "záchranné" operace.
+- **Nezávislí kapitáni:** Každá loď operuje autonomně. Kapitáni si sami volí své cíle, ale musí dodržovat Gairrova pravidla a platit mu desátky. Zrada se trestá vyhoštěním ze stanice, což je v systému Gloomwell prakticky rozsudek smrti. Jedním z jeho lidí je také [[Thalion Grayman|Kapitán Thalion Grayman]].
+
+##### Taktika a Operace
+Jejich hlavní metodou je **"Volání Sirén"**:
+1. **Past:** Zneužívají přirozeně chaotické prostředí systému Gloomwell. Umisťují vysílače falešných nouzových signálů poblíž gravitačních anomálií nebo polí trosek.
+2. **Vábení:** Čekají, až se objeví loď, která zachytí volání o pomoc.
+3. **Útok z úkrytu:** Jakmile se cíl dostane do nebezpečné zóny a je zmaten navigací, Sirény zaútočí z úkrytu, vyřadí jeho systémy a donutí posádku k opuštění lodi, kterou následně vyrabují. Preferují lstivost a léčky před čestným bojem. Často se zaměřují na menší nákladní lodě, nezávislé průzkumníky a příliš zvědavé alianční hlídky.
 
 
 # Veřejné\Organizace\Technologické korporace\Aegis Defense Systems.md
@@ -5221,9 +5407,8 @@ Zbraň získala přezdívku "Warlord" díky své popularity mezi regionálními 
 tags:
   - 13HC
   - Longarm
-  - wosp
 aliases:
-  - RAW 7.0
+  - Horizon
 ---
 
 ![[Turgall Horizon.jpg|inlR|250]]_Turgall Horizon_ je robustní páková puška navržená pro lovce, průzkumníky a kolonisty na okrajových světech. Je ceněna pro svou spolehlivost v extrémních podmínkách a schopnost skolit i velkou a obrněnou zvěř díky silnému náboji [[13.HC]].
@@ -7046,14 +7231,14 @@ Space Date: 9. května 3162
 Lokace:
   - "[[Veřejné/Místa/Lokace/Mergtara]]"
 NPCs:
-  - "[[Riley Varza]]"
+  - "[[Riley Varza (†)]]"
 ---
 **9. května 3162** - cca 11 hodin
 Skupina vyrazí do Proximy. Dorazí k baru na 33. někdy po 12h. Ve 13h už dostanou zpátky *Krysobota* (s novým SW, ale stále špatnou pacičkou). 
 
 Pak vyrazí na 33. za [[Tetka Mal|tetkou Mal]]. Zeptají se na stimpacky, nabídne jim kus za 120Σ, Tobi a Vik. Jedná se o pár let prošlé armádní [[Trauma Stabilizátor|Trauma Stabilizátory]] (na centrálních světech cena může být až 300Σ). Oba dva jej rovnou použijí. Je cca 14h. Někde se staví na syntetický oběd a nakoupí si jídlo na celý den ~15Σ. A zatímco žvýkají synthičinky, vydají se do  Šrotový uličky na 40. patře. Když se optají na Rileyho dílnu, místní hned vědí a pošlou je cca do poloviny ulice.
 
-[[Riley Varza]] dlužil *Rattus*ovi 10000Σ. 5000Σ mu splatil a 5000Σ slíbil, dostal ultimátum do zítřka. Riley má naštěstí plán. Má v opravě velmi dobré nožní implantáty (pro týpka jménem *Coda Boltz*, na černém trhu 30-40kΣ) a také svalové stimulátory, které by mu měli pomoci vyhrát. Po implantátech se ale už týden shání jejich majitel, dokonce poslal po Rileym gorilu, aby je z něj dostal. Ten se celý den potlouká po Šrotový uličce a krámek sleduje. [[Riley Varza|Riley]] [[Billy|Billymu]] a jeho kumpánům rád pomůže. Jen potřebuje vyřešit problém s kompatibilitou svých kolen s novými implantáty ([[Falkon - Iskandar Mashinkar|Iško]] uvidí, že implantáty má čerstvě, ukáže se, že nohy prodal kvůli závodu). Pak musí na 20. patře vyhrát orientační běh *Synthburger marathon*, vítěze čeká 6000Σ. Pak prý zaplatí Rattusovi, pokud mu tedy jeho nohy vydrží až do konce závodu. [[Falkon - Iskandar Mashinkar|Iško]] se pustí do opravy - test *Cyberimplants* 3/3 - a úspěšně všechny problémy najdou a vyřeší. 
+[[Riley Varza (†)]] dlužil *Rattus*ovi 10000Σ. 5000Σ mu splatil a 5000Σ slíbil, dostal ultimátum do zítřka. Riley má naštěstí plán. Má v opravě velmi dobré nožní implantáty (pro týpka jménem *Coda Boltz*, na černém trhu 30-40kΣ) a také svalové stimulátory, které by mu měli pomoci vyhrát. Po implantátech se ale už týden shání jejich majitel, dokonce poslal po Rileym gorilu, aby je z něj dostal. Ten se celý den potlouká po Šrotový uličce a krámek sleduje. [[Riley Varza (†)|Riley]] [[Billy|Billymu]] a jeho kumpánům rád pomůže. Jen potřebuje vyřešit problém s kompatibilitou svých kolen s novými implantáty ([[Falkon - Iskandar Mashinkar|Iško]] uvidí, že implantáty má čerstvě, ukáže se, že nohy prodal kvůli závodu). Pak musí na 20. patře vyhrát orientační běh *Synthburger marathon*, vítěze čeká 6000Σ. Pak prý zaplatí Rattusovi, pokud mu tedy jeho nohy vydrží až do konce závodu. [[Falkon - Iskandar Mashinkar|Iško]] se pustí do opravy - test *Cyberimplants* 3/3 - a úspěšně všechny problémy najdou a vyřeší. 
 
 Tobi a Vik hlídají krámek. Po chvilce si všimnou gorily, která krámek sleduje. Tobi se koukne jak je vybavený. Má na sobě těžký kabát, pod ním pravděpodobně SMGčko. Také má kybernetická ramena, která mu pravděpodobně propůjčí větší sílu (a pancíř). Chodí ven předstírat, že nohy ještě nejsou ready. 
 
@@ -7081,18 +7266,18 @@ Space Date: 9. května 3162
 Lokace:
   - "[[Veřejné/Místa/Lokace/Mergtara]]"
 NPCs:
-  - "[[Riley Varza]]"
+  - "[[Riley Varza (†)]]"
   - Juggernaut Korg
   - Profesor Aris
   - Syna
   - "[[Rattus]]"
 ---
 **9. května 3162** - cca 18hodin
-Iško prohlédne [[Riley Varza|Rileyho]] a uvidí, že jej gorila zranila jeho koleno. Než se [[Falkon - Iskandar Mashinkar|Iško]] bude moci pustit do opravy kolenního implantátu, bude to chtít chirurga. Nikoho jinýho než [[Tetka Mal|Tetku Mal]] kdo by to zvládl neznají.
+Iško prohlédne [[Riley Varza (†)|Rileyho]] a uvidí, že jej gorila zranila jeho koleno. Než se [[Falkon - Iskandar Mashinkar|Iško]] bude moci pustit do opravy kolenního implantátu, bude to chtít chirurga. Nikoho jinýho než [[Tetka Mal|Tetku Mal]] kdo by to zvládl neznají.
 
 Při přestupu mezi výtahy potkají podivného týpka v kápi a dlouhým strništěm. Ten jim slibuje pomoc a sleduje je až do 28. patra, kde se mu ztratí a odjedou za tetkou. Ránu sice zašije a popovídá si s Iškem, co je rozbitého na implantátu, ale zranění neodstraní. Takže [[Falkon - Iskandar Mashinkar|Iško]] ještě zatáhne 70Σ za [[Regenerační Aerosol]], ten už zabere a noha se zcelí dostatečně, aby Iško mohl přejít na opravu implantátu. Tetka: "*Aspoň, že jsou vaše návštěvy kratší a kratší. Nic ve zlém. Nic ve zlém.*"
 
-Vydají se tedy zpátky do [[Riley Varza|Rileyho]] dílny ve Šrotové uličce. [[Falkon - Iskandar Mashinkar|Iško]] a Riley se pustí do opravy kloubu - *Cyberimplants* 3/3 (a při tom mu rozbijí nějaké nářadí). [[Vojta - Vikram Vox|Vik]] & [[Domča - Tobias Flynn|Tobi]] se pustí do opravy zbraně a opraví jeho [[ADS M-45G 'Diplomat'|ADS M-45]] o 2 integrity na nové maximum 3 (a při tom mu rozbijí nějaké nářadí). [[Vojta - Vikram Vox|Vik]] pak opraví ještě jeden duraplastový kyrys z 1/2 -> 2/2. [[Falkon - Iskandar Mashinkar|Iško]] s pomocí [[Domča - Tobias Flynn|Tobi]] opraví svůj [[WOSP PUB 1.0|PUB 1.0]] z 1/2 -> 2/2. Je půlnoc a vezmou pár hadrů, aby přespali u Rileyho na zemi. Ráno mají vyrazit na 20. patro na start Marathonu. 
+Vydají se tedy zpátky do [[Riley Varza (†)|Rileyho]] dílny ve Šrotové uličce. [[Falkon - Iskandar Mashinkar|Iško]] a Riley se pustí do opravy kloubu - *Cyberimplants* 3/3 (a při tom mu rozbijí nějaké nářadí). [[Vojta - Vikram Vox|Vik]] & [[Domča - Tobias Flynn|Tobi]] se pustí do opravy zbraně a opraví jeho [[ADS M-45G 'Diplomat'|ADS M-45]] o 2 integrity na nové maximum 3 (a při tom mu rozbijí nějaké nářadí). [[Vojta - Vikram Vox|Vik]] pak opraví ještě jeden duraplastový kyrys z 1/2 -> 2/2. [[Falkon - Iskandar Mashinkar|Iško]] s pomocí [[Domča - Tobias Flynn|Tobi]] opraví svůj [[WOSP PUB 1.0|PUB 1.0]] z 1/2 -> 2/2. Je půlnoc a vezmou pár hadrů, aby přespali u Rileyho na zemi. Ráno mají vyrazit na 20. patro na start Marathonu. 
 
 **10. května 3162** - brzy ráno
 Po únavné cestě pomalým výtahem na 20. patro dorazili na startovní plošinu, kde už běžel živý program. Skupinu udeří do nosu omamná směsice vůní: sladkého, syntetického sirupu a přepáleného tuku. Jsou zde high-tech reklamy a hlasitá hudba přerušovaná reklamními slogany. Iško hned zařadil do fronty na "synthburger zdarma" nabízený sponzorem. Mezitím Vik proplouval davem a rychle identifikoval několik ozbrojených postav a dva [[Light Eaters|Light Eatery]], kteří si také vychutnávali své burgery. Tobi z rozhovorů zaslechl šokující zprávu: Rileyho registrace do závodu byla zrušena a zápisné 99Σ mu údajně bylo včera vráceno, což nakonec znamenalo, že celou částku bude muset za Rileyho zaplatit Iško - startovní číslo 119. Zdá se, že podobné problémy mají i ostatní běžci. Celkem jich je něco přes stovku.
@@ -7106,7 +7291,7 @@ Iško jde za Korgem - *nechá si podepsat tričko Deluminathor a varujeho před 
 **Začátek závodu**
 > *Tři... dva... jedna... START! A je to tady, přátelé! Synthburger Marathon 3162 je v plném proudu! Běžci se s řevem davu vrhají vpřed! Vidíme, jak se Juggernaut Korg s rachotem rozjíždí, drtí drobnější překážky před sebou! Blikající Syna už je jako blesk, proplétá se davem a mizí v záplavě těl! A Profesor Aris... ten si drží klidné tempo, ale už teď analyzuje trasu a vypadá to, že našel nějakou zkratku! Kdo ví, co má v rukávu!*
 
-**Syna** se zdá být na čele, její štíhlá postava se rozmazává, jak se proplétá mezi pomalejšími běžci a občasnými diváky. Těsně za ní je Korg, jak se doslova prodírá skrz startovní tlačenici. Profesor se drží zpátky. [[Riley Varza|Riley]] je zatím v první polovině. Na startu je chaos, diváci neví kam uhnout. Běžci se vzájemně strkají, blokují a občas i cíleně sabotují. Rozdělený peloton - někteří běžci si vyberou různé neprozkoumané zkratky.
+**Syna** se zdá být na čele, její štíhlá postava se rozmazává, jak se proplétá mezi pomalejšími běžci a občasnými diváky. Těsně za ní je Korg, jak se doslova prodírá skrz startovní tlačenici. Profesor se drží zpátky. [[Riley Varza (†)|Riley]] je zatím v první polovině. Na startu je chaos, diváci neví kam uhnout. Běžci se vzájemně strkají, blokují a občas i cíleně sabotují. Rozdělený peloton - někteří běžci si vyberou různé neprozkoumané zkratky.
 
 [[Vojta - Vikram Vox|Vik]] & [[Domča - Tobias Flynn|Tobi]] zkusí střílet na předek pelotonu, aby naštvali Korga a přilíkali jej k sobě pryč od závodu. - Sidearms 1/2 -> neúspěch
 
@@ -7206,11 +7391,11 @@ Jak klesají, propuká na patrech pod nehodou chaos. Lidé začínají přibíha
 
 Směrem k servisnímu výtahu běží několik mechaniků. Další mechanici přilétají na výškových plošinách. [[Kathrine]] dá strážci geologickou řídící jednotku a řekne mu, že tohle je nejdůležitější věc. Kdyby se cokoliv stalo, ať na ní nečeká a schová se, nebo s artefaktem uteče. Pak si nandá batoh zpět a vydá se za skupinou.
 
-Vyrazí k nejbližšímu výtahu, aby sjeli na 40. patro pro [[Riley Varza|Rileyho]]. Když vchází do šrotové uličky...
+Vyrazí k nejbližšímu výtahu, aby sjeli na 40. patro pro [[Riley Varza (†)|Rileyho]]. Když vchází do šrotové uličky...
 
 > Podlaha se zatřese, ozve se hluboké zakvílení trhaného kovu. Zvuk ne a ne přestat, kovové díly rezonují a vše se kolem chvěje jak muž v horečkách. Těžebnímu stroji došla energie na vznášení se a ob spadne pár pater. Z boku servisní šachty vyletí obří gejzír jisker. Kovové pláty se kroutí, potrubí praská a gejzíry páry a chladicí kapaliny stříkají do všech stran. Na patrech se začne rozsvěcet nouzové osvětlení.
 
-Vejdou do [[Riley Varza|Rileyho]] krámku. Ten se o zemětřesení nezajímá a opravuje nějaké menší zařízení. Seznámí se Kathrine. Tobi si od něj půjčí menší batoh a přendá si tam své věci. 
+Vejdou do [[Riley Varza (†)|Rileyho]] krámku. Ten se o zemětřesení nezajímá a opravuje nějaké menší zařízení. Seznámí se Kathrine. Tobi si od něj půjčí menší batoh a přendá si tam své věci. 
 
 [[Falkon - Iskandar Mashinkar|Iško]] se také podívá po šrotové uličce po batohu. Najde na prodej jeden pro elektrikáře, ale ten (i když je nošený) prodává za 300Σ. 
 
@@ -7247,10 +7432,10 @@ V Iškovo uchu se ozve Anya: "*Neznáme se...*" a zapískání jak někde odpál
 Game Date: 16. července 2025
 Space Date: 11. května 3162
 Lokace:
-  - "[[Veřejné/Místa/Lokace/Mergtara]]"
+  - Gavrel V
 NPCs:
   - "[[Valerius]]"
-  - "[[Riley Varza]]"
+  - "[[Riley Varza (†)]]"
 ---
 **11. května 3162, 21:00**
 
@@ -7273,7 +7458,7 @@ Po operaci, během které jsou skupině ošetřena zranění a pod kůži implan
 > **Lirchov:** _"Nikdo. Hned jak jsem to potvrdil, volal jsem vás. Je to příliš citlivé..."_ 
 > **Valerius:** _"Správné rozhodnutí."_
 > 
-> [[Valerius]] beze slova vytáhne svůj revolver [[Blackstar R6]] a střelí vědce do hlavy. Poté chladnokrevně popraví i spoutaného [[Riley Varza]], aby nezůstali žádní svědci. Přivolané ostraze nařídí přichystat loď se třemi [[Cryokomora|kryokomorami]] a zinscenuje [[Riley Varza|Rileyho]] jako vraha, který byl při potyčce zneškodněn.
+> [[Valerius]] beze slova vytáhne svůj revolver [[Blackstar R6]] a střelí vědce do hlavy. Poté chladnokrevně popraví i spoutaného [[Riley Varza (†)]], aby nezůstali žádní svědci. Přivolané ostraze nařídí přichystat loď se třemi [[Cryokomora|kryokomorami]] a zinscenuje [[Riley Varza (†)|Rileyho]] jako vraha, který byl při potyčce zneškodněn.
 > 
 > **Valerius:** _"Ostraha? Pošlete sem úklidovou jednotku. Jeden ze zajatců mi ukradl pistoli a zastřelil doktora Lirchova. Naštěstí se mi jej poté podařilo zneškodnit. A sežeňte mi loď se třemi kryokomorami."_
 
@@ -7339,7 +7524,7 @@ První noc se střídají na hlídce u ohně. [[Falkon - Iskandar Mashinkar|Išk
 > 	- **Kráterový Červ:** Mrchožrout žijící pod zemí v oblastech s čerstvými dopady meteoritů. Je slepý a orientuje se pomocí vibrací a tepla. Požírá zbytky meteoritů a jakékoliv organismy, které impakt zabije. Mohl by být hrozbou, pokud by hráči prozkoumávali čerstvý kráter.
 
 
-# Vypravěč\Zápisy\«013» Stará známost.md
+# Vypravěč\Zápisy\«013» Stará známá.md
 
 ---
 
@@ -7347,7 +7532,7 @@ První noc se střídají na hlídce u ohně. [[Falkon - Iskandar Mashinkar|Išk
 Game Date: 7. srpna 2025
 Space Date: 28. května 3162
 Lokace:
-  - "[[Veřejné/Místa/Lokace/Mergtara]]"
+  - Gavrel V
 NPCs:
   - "[[Razz Vilgour]]"
 ---
@@ -7359,12 +7544,111 @@ Kolem osmé se začne rozednívat. Měli by vyrazit k vraku lodi. Posbírají pr
 
 Za nimi do atmosféry sestoupí těžce upravená nákladní frigata (pirátská loď). Má zbraňové systémy a nestandardní pohon. Skryjí se pod stromem a pozorují ji, dokud nad nimi loď neproletí a nezačne klesat směrem k místu, kam mají vyraženo. 15-20 km před vámi začne přistávat.
 
-14h Asi po 5 hodinách cesty dorazí na dohled (kilometr) od pirátské lodi, kteří začali salvagovat naváděcí modul s nouzovým majákem.
+14h Asi po 5 hodinách cesty dorazí na dohled (kilometr) od pirátské lodi *Stray Dog*, a uvidí piráty, kteří začali salvagovat naváděcí modul s nouzovým majákem.
 
-Piráti je ovšem zajmou. Zdá se, že nejsou úplně nejchytřejší. Nechají se nakonec přesvědčit, aby je odvedli k výslechu, poté co jim řeknou, že jsou přeživší z lodi. Jenže piráti dostanou příkaz od svojí nadřízené - Razz, ať přeživší zastřelí. Když [[Falkon - Iskandar Mashinkar]] uslyší to jméno, vyhrkne: "*Razz Vilgour?*" (Razz je teď asi 35, má na sobě pirátskou uniformu, na obličeji kybernetické implantáty, tetování a piecingy, půl hlavy má vyholenou, na druhé půlce dlouhé červené vlasy)
+Piráti je ovšem zajmou. Zdá se, že nejsou úplně nejchytřejší. Nechají se nakonec přesvědčit, aby je odvedli k výslechu, poté co jim řeknou, že jsou přeživší z lodi. Jenže piráti dostanou příkaz od svojí nadřízené - [[Razz Vilgour|Razz]], ať přeživší zastřelí. Když [[Falkon - Iskandar Mashinkar]] uslyší to jméno, vyhrkne: "*Razz Vilgour?*" (Razz je teď asi 35, má na sobě pirátskou uniformu, na obličeji kybernetické implantáty, tetování a piecingy, půl hlavy má vyholenou, na druhé půlce dlouhé červené vlasy)
 
 Ukáže se, že je to ona. Za dobu, co spolu nemluvili se dala nakariéru pirátky a vybudovala si svými znalostmi elektroniky pevnou pozici kapitánovy pravé ruky. Před posádkou hraje, že Iška nezná, ale v soukromí na kraji nákladní rampy se ho vyptá, co se děje. Ten jí vyklopí vše od pěti ztracených let, přes experimenty, až po to co se pokazilo na Mergtaře, nezdařený atentát na [[Valeria]]. 
 
 V tom do systému vstoupí malá vesmírná loď, která letí jejich směrem (kvůli tomu, že tam zaznamenali [[Subprostorový vysílač]]). Letí na jejich lokaci a piráti začnou balit zbytky trosek. Skupina jim jde pomoci, což urychlí evakuaci ([[Falkon - Iskandar Mashinkar|Iško]] naviguje jeřáb, [[Vojta - Vikram Vox|Vik]] rozděluje práci crowdu a [[Domča - Tobias Flynn|Tobi]] určuje co ještě naložit). V obzoru se vyklube asi 4-6 [[QuantumForge]] na míru vyrobený stíhač. Pirátská loď se ale dostane do vzduchu, takže jí posádka stíhače jen zasáhne projektilem připomínajícím oštěp. Pak přistanou na zemi a ukáže se, že to jsou bílé masky. A pirátský kapitán si zavolá Razz a skupiny, aby vysvětlili, proč po nich jdou takhle drazí asasíni. 
 
 Piráti budou potřebovat někde natankovat a prodat horký zboží.
+
+
+# Vypravěč\Zápisy\«014» Zlatá koza.md
+
+---
+
+---
+Game Date: 15. srpna 2025
+Space Date: 28. května 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Razz Vilgour]]"
+  - "[[Thalion Grayman]]"
+---
+**28. května 3162, 21:00**
+
+Poté, co byla skupina zajata piráty, jsou ubytováni v kajutě na lodi _Stray Dog_. Loď následně zamíří k pirátské citadele známé jako Ostrov Sirén.
+
+**29. května 3162, 12:00**
+Ráno se u snídaně setkávají se Silasem. Razz Vilgour na ně zahraje divadlo, předstírajíc, že je nezná a že si je zavolal kapitán. Kapitán Thalion Grayman jim sdělí, že mají hodinu na přípravu, než se znovu setkají se Silasem a vydají se na misi.
+
+> Kapitánův plán je ve skutečnosti propracovaný test loajality a inteligence, zamaskovaný jako jednoduchá sabotážní mise. Oficiálním úkolem, který skupině zadal, je ponížit jeho rivala, Solomona Garra. Mají se vplížit do jeho citadely a pomocí speciální chemikálie obarvit rouno jeho ceněné zlaté kozy Aurélie na černo.
+
+> Celá tato operace je však lest. Kapitánovým skutečným cílem je zjistit, jestli jsou tři nalezenci jen bezduší poskoci, nebo jestli umí přemýšlet sami za sebe. "Chemikálie" je ve skutečnosti drahý a vzácný bioluminiscenční zvýrazňovač, který způsobí, že kozí rouno začne nádherně zářit – což je ve skutečnosti dar pro Garra, se kterým má kapitán komplikované přátelství a obchodní partnerství. Aby mohl hráče sledovat zblízka, sám se k nim připojí v převleku za mrzutého mechanika Silase Vanea. Kapitán doufá, že si hráči uvědomí absurditu riskování života kvůli obarvení kozy a místo toho najdou chytřejší způsob, jak Garra skutečně poškodit – například ho připravit o peníze nebo reputaci, čímž by dokázali, že jsou cenným přírůstkem do jeho posádky.
+
+Hledají kdo by jim opravil zbraň a za pomoc týpkům co je zajali je zavedou za jejich opravářem. *Clamp* - asi 90 dědek, který na *Stray Dogu* opravuje zbraně posádce. Ale protože ho otravují při sledování videa, takže dědek jen popálí Iška proudem a pak je odtamtud vyhodí jeden z důstojníků. Za Clapma se omluví a dá jim 15Σ na pivo. 
+
+Dorazí na Ostrov Sirén na [[Gloomwell|Gloomwellu]], což je shluk mnoha lodních vraků přivařených k asteroidu. Orientace na ostrově je zajištěna pomocí graffiti. Silas je provede přes _Rezavé Tržiště_ a kolem místa zvaného _Zpěv Sirény_, odkud jsou vysílány různé signály, jamming a hudební radiostanice pro Ostrov.
+
+Dostanou se na ochoz s výhledem na biosféru, kde je chována zlatá koza Aurélie. Vstup do biosféry je zespodu, kudy chodí obsluha. Vidí, jak obsluha v rukavičkách kozu krmí salátem s orchidejemi.
+Silas je zavede do horší čtvrti do putyky. Cestou si všimnou, že živý přenos s Aurélií je neustále vysílán na obrazovkách po celém Ostrově. Silas jim koupí drinky (Vikramovi Naškarský džus) a společně plánují, jak se dostat ke koze. Nakonec se rozhodnou, že nejlepší bude získat přístupovou kartu od některého z pirátských důstojníků.
+
+Sledují jednoho z důstojníků od hlavních dveří až do garáže se speedery, kde má tajnou schůzku s mechanikem. Vpadnou dovnitř, což piráta rozzuří, protože jednání mělo být tajné. Vikram a Silas mu úspěšně vyhrožují, nechají mu datashard, který měl u sebe, a vezmou si jeho přístupovou kartu.
+
+Bočním vchodem se dostanou do citadely. Uvnitř narazí na dva týpky, kteří se dohadují o úklidu **mini-laboratoře na syntetické drogy**. V laboratoři se vaří **Gravemint**, droga navozující pocit beztíže, a také **Cinder**, krystalky vyvolávající agresivitu.
+
+Dále narazí na mechaniky opravující vysokonapěťové vedení. Z rádia ze *Zpěvu Sirény* na plné koule hraje [[Rustwire]]. Iško jim pomůže najít vadný kondenzátor a tím opravit výtah. Za odměnu dostanou pivo. Jeden z mechaniků pozná kapitána Graymana v jeho převleku za Silase, ale Silas ho včas zarazí.
+
+Sjedou výtahem o šest pater níže. Silas je zavede k **Archivnímu trezoru**. Najdou servisní šachtu zalepenou pěnou, kterou by bylo možné rozpustit teplem. Silas je pak zavede k jinému vstupu do stejných šachet. Pomocí provázku a pásky si značí cestu, aby se neztratili. Ocitnou se ve ventilační šachtě přímo nad datovým trezorem, odkud je do trezoru přiváděn ozón.
+
+Vrátí se k výtahu s úmyslem půjčit si od mechaniků plazmovou řezačku. Cestou však narazí na dvojici strážných čekajících na madam archivářku. Ta vstoupí do archivu, provede kryptografickou operaci a nahradí jeden z datových shardů. Poté se vydá na odchod, přičemž otevření a zavření masivních dveří trezoru trvá nejméně dvě minuty. Nad ní jí z šachty sleduje [[Domča - Tobias Flynn|Tobi]] a [[Vojta - Vikram Vox|Vik]].
+
+> Madam archivářka je elegantní, asi padesátiletá žena s chladným, analytickým vystupováním, jejíž autorita je v archivu absolutní. Její nejvýraznějším prvkem je dlouhá róba z drobných, pohyblivých destiček, po které neustále proudí živá data ve formě stříbrných ornamentů, a plně kybernetické oči, připomínající clonu fotoaparátu, které zkoumají okolí bez jakýchkoliv emocí. Mluví klidným, rezonujícím hlasem a je neústupnou a nebezpečnou ochránkyní informací, které jsou pro ni cennější než život.
+
+> Archivní trezor je chladná, eliptická místnost hluboko v zabezpečené části citadely, přístupná pouze přes pomalé, těžce pancéřované dveře s biometrickou ochranou. Stěny jsou pokryty datovými maticemi a skříněmi s fyzickými nosiči dat, zatímco uprostřed stojí holo-stůl napojený na interní, od vnější sítě zcela odpojenou síť. Bezpečnost dále zajišťuje interní umělá inteligence a jediným známým slabým místem je ventilační šachta vedoucí nad místností, kudy je do trezoru vháněn ozón.
+
+
+# Vypravěč\Zápisy\«015» Pirátské loučení.md
+
+---
+
+---
+Game Date: 25. srpna 2025
+Space Date: 29. května 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Thalion Grayman]]"
+  - "[[Razz Vilgour]]"
+---
+
+**29. května 3162, 17:00**
+
+Vrátí se zpátky a [[Domča - Tobias Flynn|Tobi]] řekne *Silasovi*, že na únos archivářky nejsou dost drsný. Rozhodnou se teda vyrazit do Kuchyň a jídelna pro VIP. 
+
+**Tichý alarm v archivu:** To, že archivářka odešla, neznamená, že je vše v pořádku. Její systém mohl zaznamenat nepatrnou anomálii (např. změnu tlaku vzduchu po otevření servisní šachty) a poslal jí tiché upozornění. Právě se otáčí a vrací se zpět, aby to zkontrolovala.
+
+Cedulka Operační sál je přeškrtnutá a místo ní někdo vtipně napsal "*Údržba masa - RIZIKO BIOKONTAMINACE*". Široké dveře mají dvě okénka, přes kterou je vidět mléčná fólie - závěs. Na operačním sále se svítí.
+
+Po cestě narazí na opilýho piráta, kterej je zjevně najetej Cinderem (zvyšuje sílu a agresivitu). Ten vyžaduje po *Tobim*, aby mu zaplatil peníze, které mu dluží *Marie*. [[Vojta - Vikram Vox|Vikramovi]] se už už podaří jej uplatit zásobníkem, o kterém tvrdí, že obsahuje datashard s [[Alianční dolar|aliančními dolary]]. Jenže ostatní se k němu přiblíží moc blízko a on chytne Vikrama pod krkem a Iška s Tobim odhodí na druhou stranu, takže oba poraní, Tobiho dokonce tak, že začne krvácet (jeho krev je na stěně, kde si o nýt rozřízne ruku). Silas mu nakonec jako kapitán přikáže, ať si jde po svých. Pirát jej poslechne. Pak jde na ošetřovnu, kde se chvíli dožaduje aby jej pustili dovnitř a když se tak nestane, vrátí se výtahem.
+
+Skupina se stáhne k vstupu do servisních šachet, kde Iško ošetří zranění. Mezitím asi archivářka poslala menší skupinu zjistit, co se stalo a proč se tlak v šachtách změnil. Když je skupina uslyší přicházet, schovají se v šachtách.
+
+Slyší rozhovor piráta a technika, který je hledá. Nějaké jejich stopy zaznamenali na senzorech. Mají pohlídat vstup, než za nimi archivářka někoho pošle. Skupině se podaří potichu se odplížit. Po více než dvou hodinách plazení se dostanou až do pirátské kantýny, kde je svár na panelu prasklý a dolní cíp je ohnutý. Ucítí silný zápach tuku z kuchyně, chlastu, cigaret a potu. Projdou ven do chodby a pak na veřejné toalety, kde se pustí do křížku s nějakým vysoce postaveným důstojníkem, který jim vyhrožuje, že půjdou opravovat Citadelu zvenku bez magnetickejch bot. Když zmizí, očistí se a hlavně boty.
+
+**29. května 3162, 20:00**
+
+Zkusí nenápadně hacknout terminál do jedné z kajut, ale jen přitom shoří půjčení Silasův computer. Silas si konečně sundá oko, setře špínu a makeup a přizná, že je kapitán [[Thalion Grayman]]. Řekne, že už dost tý šaškárny, a že se vrátí zpět na *Stray Dog*, kde proberou výsledky testu. Nechá je v nákladovém prostoru ať si mohou promluvit o tom, čím si prošli a sám se dojde umýt a převléci.
+
+Kapitán je nepochválí, dá jim rating 3/10 na Rotten Pirates a na svou další misi. Nechá jim ale vybrat si drobnou odměnu a protože nebyli úúúplně k ničemu a i jej trochu pobavili a zjistil nějaké informace o [[Solomon Garr|Solomonově]] zabezpečení a co se dějě v jeho Citadele.
+
+[[Falkon - Iskandar Mashinkar|Iško]] si jako odměnu vybere datapad, [[Domča - Tobias Flynn|Tobi]] nesobecky čisté oblečení pro všechny tři a [[Vojta - Vikram Vox|Vikram]] munitions kit. [[Falkon - Iskandar Mashinkar|Iško]] řekne [[Razz Vilgour]], ať se spojí s jeho ženou [[Lina Mashinkar|Linou]] a zkusí zjistit, co se stalo a co ona ví o jeho zmizení (a aby jí neříkala, že je naživu). Ale hlavně opatrně, neví jestli jí neodposlouchávají. Hlavně chce vědět, že ona a děti jsou v pořádku. A s tím vyjdou do vlhkého nehostinného přístavu na [[Gloomwell|Ostrově Sirén]].
+
+
+# Vypravěč\Zápisy\«016».md
+
+---
+
+---
+Game Date: 2. září 2025
+Space Date: 29. května 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Thalion Grayman]]"
+  - "[[Razz Vilgour]]"
+---
+**29. května 3162, 22:00**

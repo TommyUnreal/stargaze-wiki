@@ -29,6 +29,7 @@
       * [[Thalion Grayman]]
       * [[Valerius]]
   * Ostrov Sirén
+      * [[Orion Vane]]
       * [[Solomon Garr]]
 * Poznámky
     * [[Aktuální burza odměn]]
