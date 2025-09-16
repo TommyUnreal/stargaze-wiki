@@ -459,6 +459,35 @@ Karbon C-19. C-19 je extrémně vzácný a vysoce nestabilní izotop uhlíku, kt
 Carbon-14b (C-14b) (který je na Zemi nestabilní, ale používá se k datování), která se na Mergtaře vyskytuje ve stabilnější nebo jinak vhodnější formě, nebo je to místní označení pro izotop s hmotností 14, ale jinými jadernými vlastnostmi než pozemský C-14. Oproti běžnému pozemskému uhlíku (primárně C-12) má C-14b jedinečnou krystalickou strukturu a vysokou čistotu, což z něj činí ideální surovinu pro výrobu vysoce kvalitního karbonu a karbonových kompozitů. C-14b vytváří při zpracování dlouhé, rovné uhlíkové řetězce, které se snadno formují do vláken s extrémní pevností v tahu a nízkou hmotností.
 
 
+# Veřejné\Hráčská sekce\NPCs\Ostrov Sirén\Orion Vane.md
+
+---
+
+---
+aliases:
+  - Trpaslík
+  - Ori
+  - Trpaslík Ori
+---
+![[Orion Vane.jpeg|inlL|250]]
+
+_Orion Vane_ je drsný a ostražitý majitel a barman v podniku _U Rudýho Trpaslíka_ na pirátském přístavu Ostrov Sirén. Je to muž s zjizvenou tváří a pronikavým pohledem, který pamatuje staré časy před nástupem současného guvernéra. Za jeho cynickou fasádou se skrývá zdroj informací a kontaktů na tradiční pirátské frakce, které se staví proti současnému režimu. Svou pomoc a důvěru si však nechává dobře zaplatit, často formou nebezpečných úkolů a protislužeb.
+
+## GM section
+
+##### Vystupování
+- Mluví pragmaticky, často si stěžuje na poměry, které zavedl guvernér Garr.
+- Je přirozeně nedůvěřivý a opatrný; neváhá zamknout cizince ve svém baru, dokud si neověří jejich úmysly.
+- Ačkoliv je drsný, je ochoten pomoci těm, které považuje za dostatečně zoufalé nebo užitečné.
+- Funguje jako zadavatel úkolů, který se snaží oslabit guvernérovu pozici prostřednictvím tajných operací, jako je podstrčení sledovacího krystalu.
+- Pokud jeho hlavní plán selže nebo se zdrží, je schopen improvizovat a poskytnout alternativní práci prostřednictvím svých známých.
+
+##### Affiliation
+
+- Udržuje kontakty na "staré pirátské psy" a konzervativní kapitány, kterým se nelíbí placení daní guvernérovi.
+- Aktivně se staví proti guvernéru Garrovi a snaží se ho oslabit tím, že cílí na jeho podřízené, jako je žoldnéřka Livia Volkonn.
+
+
 # Veřejné\Hráčská sekce\NPCs\Ostrov Sirén\Solomon Garr.md
 
 ---
@@ -469,7 +498,7 @@ aliases:
   - Guvernér Ostrova Sirén
   - Guvernér Solomon Garr
 ---
-![[Solomon Garr.jpg|inlL|250]]
+![[Solomon Garr.jpeg|inlL|250]]
 
 _Solomon Garr_ je extravagantní a arogantní vládce pirátského přístavu **Ostrov Sirén**. Tento podsaditý muž ve středních letech je proslulý svou bezmeznou láskou k bohatství, okázalosti a především ke svému geneticky upravenému mazlíčkovi – zlaté koze jménem **Aurélie**. Navzdory svému nevkusnému a teatrálnímu vystupování vládne stanici železnou rukou a díky svému obchodnímu talentu a bezohlednosti si dokázal udržet moc v jednom z nejnebezpečnějších systémů v galaxii.
 
@@ -616,7 +645,43 @@ Všechny registrované plavidla podléhají přísným navigačním protokolům 
 - Dodržování odstupňovaných bezpečnostních zón kolem planetárních systémů.
 
 
-# Veřejné\Lore\Historie světa\Osidlování Stargaze Galaxie.md
+# Veřejné\Místa\Lokace\Mergtara.md
+
+---
+
+_Mergtara_ je těžební měsíc obíhající kolem planety Tasian XII v systému [[Tasian]]. 
+
+##### Zajímavosti na jednotlivých úrovních
+
+| Podlaží | Popis                                                                                                               |
+| ------- | ------------------------------------------------------------------------------------------------------------------- |
+| 1.      | Kanceláře a centrála [[ECM\|E.C.M.]]                                                                                |
+| 11.     | Přistávací plošina [[Lobbur Necko\|Lobbura Necka]], Bar "*Poslední Kapka*" ([[Vantablack\|Vantablackova]] kancelář) |
+| 12.     | Největší Market                                                                                                     |
+| 13.     | IT oddělení [[ECM\|E.C.M.]]                                                                                         |
+| 23.     | Outlet s oblečením, Čistírna                                                                                        |
+| 27.     | [[Tapita Kryxová\|paní Kryxová]], [[Knarggl Sulfirx\|Knarggl]], [[Dekk Holtz\|Dekk]], [[Tetka Mal]]                 |
+| 29.     | stará šachta s [[Cuprithorax\|Cuprithoraxy]] + skupinka squaterů                                                    |
+| 33.     | *Bar Proxima* (doupě Šum)                                                                                           |
+| 40.     | *Šrotová Ulička* ([[Riley Varza (†)\|Rileyho]] krámek)                                                                  |
+| 41.     | [[Billy\|Billyho]] Bistro                                                                                           |
+| 60.     | Sklad údržby [[ECM\|E.C.M.]] "*60-UP*"                                                                              |
+| 61.     | Oprava těžkých strojů + kanceláře [[ECM\|E.C.M.]], *Rosso Café*                                                     |
+
+##### Povrch a Obyvatelé
+Podmínky na povrchu Mergtary jsou náročné. Gravitace je sice podobná zemské, ale panuje zde řídká a toxická atmosféra, která vyžaduje použití dýchacích přístrojů pro delší pobyt venku. Existence magnetického pole alespoň částečně chrání před kosmickým zářením. Tyto drsné podmínky přispěly k rozhodnutí vybudovat hlavní sídlo pod povrchem.
+
+Většina obyvatel jsou lidé, ale není problém zde narazit na zástupce [[Luminari]] či výjimečně i [[Zephyrové|Zephyra]].
+##### Popis
+Město Mergtara je pozoruhodné svou architekturou – nejedná se o rozlehlou povrchovou metropoli, ale o gigantické vertikální "silo" vybudované hluboko pod povrchem měsíce. Tato struktura se postupně rozšiřuje do hloubky a je rozdělena na desítky úrovní.
+
+Úrovně jsou číslovány od povrchu směrem dolů a panuje zde jasná hierarchie. Vyšší patra, blíže k povrchu, jsou obecně lépe udržovaná, čistší a bezpečnější. Čím hlouběji člověk sestupuje, tím více se projevuje průmyslový a těžební charakter měsíce. Na 11. patře se nachází rozsáhlý trh, kde se prodává vše od potravin po technické vybavení. Na 41. úrovni je situováno [[Billy|Billho Bistro]]. Kolem 27. úrovně začínají oblasti bývalých dolů, některé z nich jsou opuštěné a nestabilní. Většina pater zde slouží jako ubikace a přidružená výroba. Aktivní doly začínají kolem 48. patra. 
+
+##### Autonomie na okraji civilizace
+Město Mergtara funguje jako relativně autonomní zóna. Oficiální zákony a pravidla [[Aliance Centrálních Planet]] zde mají omezenou platnost a ustupují neformálním dohodám, osobním vazbám a tradicím, které se vyvinuly během více než sta let existence sídla. Tato samospráva je dědictvím po zkrachovalé korporaci [[ECM]], která původně Mergtaru vybudovala jako strategický zdroj surovin. Po jejím pádu si obyvatelé měsíce vzali správu do vlastních rukou.
+
+
+# Veřejné\Místa\Lore\Historie světa\Osidlování Stargaze Galaxie.md
 
 ---
 
@@ -654,7 +719,7 @@ S postupem času se původní osadníci rozšířili i do okolních systémů, a
 V roce 3162, je Stargaze galaxie domovem stovek milionů lidí. Z původních kolonií vyrostly prosperující světy a lidská civilizace se rozšířila do desítek či možná stovek hvězdných systémů. Přesto zůstává příběh původní kolonizace důležitou součástí kolektivní paměti lidstva, připomínající odvahu a vizi těch, kteří se vydali na cestu do neznáma, aby zajistili budoucnost našeho druhu.
 
 
-# Veřejné\Lore\Historie světa\Vznik Aliance Centrálních Planet.md
+# Veřejné\Místa\Lore\Historie světa\Vznik Aliance Centrálních Planet.md
 
 ---
 
@@ -705,7 +770,7 @@ Přestože oficiálně neexistují kasty, společnost se přirozeně stratifikov
 - Obyvatelé okrajových světů s omezeným přístupem k vyspělým technologiím
 
 
-# Veřejné\Lore\Historie světa\Válka s Luminari.md
+# Veřejné\Místa\Lore\Historie světa\Válka s Luminari.md
 
 ---
 
@@ -735,7 +800,7 @@ Válka se protáhla a obě strany utrpěly těžké ztráty. [[Luminari]] sice o
 _Luminari_ jsou přesvědčeni, že čas hraje v jejich prospěch, zatímco _Aliance Centrálních Planet_ hledá jakoukoliv výhodu, která by mohla situaci obrátit v jejich prospěch. Stejně tak dlouhou dobu probíhají také mírová jednání, jejich osud je však nejasný.
 
 
-# Veřejné\Lore\Historie světa\WOSP Aktivismus.md
+# Veřejné\Místa\Lore\Historie světa\WOSP Aktivismus.md
 
 ---
 
@@ -761,7 +826,7 @@ V posledních letech se WOSP komunita začala zajímat o více než jen zbraně.
 Alianční analytici předpovídají, že s rostoucí automatizací výroby a dostupností pokročilých 3D tiskáren bude stále těžší kontrolovat šíření WOSP designů. Některé progresivnější hlasy v parlamentu začínají navrhovat legalizaci pod přísnou regulací, argumentujíc, že prohibice pouze podporuje černý trh.
 
 
-# Veřejné\Lore\Hudba\Deluminathor.md
+# Veřejné\Místa\Lore\Hudba\Deluminathor.md
 
 ---
 
@@ -772,14 +837,14 @@ sound prompt: death metal with layered synthesizers, technical heavy riffs, veil
 ---
 
 
-# Veřejné\Lore\Hudba\Rustwire.md
+# Veřejné\Místa\Lore\Hudba\Rustwire.md
 
 ---
 
 ---
 tags:
   - steeldust
-sound prompt: cyberpunk dark country, space scifi bar music, year 3000, space harbour rock
+sound prompt: cyberpunk dark country, space scifi bar music, year 3000, space harbour rock, energetic southern rock with dark scifi twist, Gothic Americana, Gothic Country, dry synthesized old male rocker vocal
 ---
 V přeplněném hudebním vesmíru 32. století, kde korporátní jingly a alianční popové hymny dominují vysílání v systémech _Primis_, se z prachu a špíny Vnějšího okraje vynořil zvuk tak syrový a nefalšovaný, že jej nelze ignorovat. Mluvíme o kapele **Rustwire**, průkopnících steeldustového žánru. Je to zvuk oceli, pouště a drsného života v kyber-futuristickém pekle, směsice temného country a industriálního blues, která dokonale zachycuje ducha těch, kdo žijí na hraně známého vesmíru.
 
@@ -823,14 +888,14 @@ Album končí melancholickou, téměř snovou skladbou. "Galactic rum and stardu
 "Rust & Radiance" není jen sbírka písní; je to kronika života na okraji galaxie. Rustwire dokázali zachytit esenci boje, svobody a přežití ve světě, kde chrom a ocel znamenají víc než maso a krev. Je to drsné, upřímné a nekompromisní album, které si zaslouží místo v datablocích každého, kdo chce slyšet skutečný hlas Vnějšího okraje.
 
 
-# Veřejné\Lore\Náboženství a víry\Strážci Polaris.md
+# Veřejné\Místa\Lore\Náboženství a víry\Strážci Polaris.md
 
 ---
 
 TBD
 
 
-# Veřejné\Lore\Politické frakce\Aliance Centrálních Planet.md
+# Veřejné\Místa\Lore\Politické frakce\Aliance Centrálních Planet.md
 
 ---
 
@@ -866,7 +931,7 @@ Přes všechnu snahu o vytvoření utopické společnosti čelí Aliance několi
 Aliance se snaží tyto problémy řešit kombinací diplomatického úsilí, ekonomických stimulů a, v krajních případech, silového zásahu. Úspěšnost těchto snah je předmětem neustálé debaty mezi obyvateli _Aliance_.
 
 
-# Veřejné\Lore\Politické frakce\WOSP.md
+# Veřejné\Místa\Lore\Politické frakce\WOSP.md
 
 ---
 
@@ -951,7 +1016,7 @@ Pušky začínají na R-:
 atp.
 
 
-# Veřejné\Lore\Rasy a druhy\Luminari.md
+# Veřejné\Místa\Lore\Rasy a druhy\Luminari.md
 
 ---
 
@@ -960,7 +1025,7 @@ atp.
 Jejich kultura je válečnická a disciplinovaná. Výsledky jsou pro ně důležité. Částečně splněný úkol je pro ně selhání.
 
 
-# Veřejné\Lore\Rasy a druhy\Nebulaři.md
+# Veřejné\Místa\Lore\Rasy a druhy\Nebulaři.md
 
 ---
 
@@ -971,7 +1036,7 @@ Nebulaři se pohybují tiše a plynule. Jejich hlasy bývají měkké a melodick
 Kultura je mystická a hierarchická, s důrazem na rituály a posvátné texty.
 
 
-# Veřejné\Lore\Rasy a druhy\Vortexani.md
+# Veřejné\Místa\Lore\Rasy a druhy\Vortexani.md
 
 ---
 
@@ -980,7 +1045,7 @@ Kultura je mystická a hierarchická, s důrazem na rituály a posvátné texty.
 Kultura Vortexanů je vědecká a racionální, často technokratická a individualistická, s důrazem na osobní svobodu a technologický pokrok. Jejich společnost je rozdělena do klanů dle svých domovských základem, které často soutěží o zdroje. Vortexani jsou nebezpeční, protože jejich technologie je mnohem pokročilejší než ta alianční.
 
 
-# Veřejné\Lore\Rasy a druhy\Zephyrové.md
+# Veřejné\Místa\Lore\Rasy a druhy\Zephyrové.md
 
 ---
 
@@ -989,42 +1054,6 @@ Kultura Vortexanů je vědecká a racionální, často technokratická a individ
 Zephyrové se pohybují lehce a elegantně, často se vznášejí spíše než chodí, díky orgánům, které fungují k nadnášení (podobně jako u ryb ve vodě). V nižší gravitací dokáží létat pomocí lehkých, plynem naplněných křídel.
 
 Kultura je nomádská a obchodnická, s důrazem na svobodu pohybu a obchod. Jejich společnost je rozdělena do klanů, které putují mezi hvězdami. Ve Stargaze nesou nativní rasou.
-
-
-# Veřejné\Místa\Lokace\Mergtara.md
-
----
-
-_Mergtara_ je těžební měsíc obíhající kolem planety Tasian XII v systému [[Tasian]]. 
-
-##### Zajímavosti na jednotlivých úrovních
-
-| Podlaží | Popis                                                                                                               |
-| ------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1.      | Kanceláře a centrála [[ECM\|E.C.M.]]                                                                                |
-| 11.     | Přistávací plošina [[Lobbur Necko\|Lobbura Necka]], Bar "*Poslední Kapka*" ([[Vantablack\|Vantablackova]] kancelář) |
-| 12.     | Největší Market                                                                                                     |
-| 13.     | IT oddělení [[ECM\|E.C.M.]]                                                                                         |
-| 23.     | Outlet s oblečením, Čistírna                                                                                        |
-| 27.     | [[Tapita Kryxová\|paní Kryxová]], [[Knarggl Sulfirx\|Knarggl]], [[Dekk Holtz\|Dekk]], [[Tetka Mal]]                 |
-| 29.     | stará šachta s [[Cuprithorax\|Cuprithoraxy]] + skupinka squaterů                                                    |
-| 33.     | *Bar Proxima* (doupě Šum)                                                                                           |
-| 40.     | *Šrotová Ulička* ([[Riley Varza (†)\|Rileyho]] krámek)                                                                  |
-| 41.     | [[Billy\|Billyho]] Bistro                                                                                           |
-| 60.     | Sklad údržby [[ECM\|E.C.M.]] "*60-UP*"                                                                              |
-| 61.     | Oprava těžkých strojů + kanceláře [[ECM\|E.C.M.]], *Rosso Café*                                                     |
-
-##### Povrch a Obyvatelé
-Podmínky na povrchu Mergtary jsou náročné. Gravitace je sice podobná zemské, ale panuje zde řídká a toxická atmosféra, která vyžaduje použití dýchacích přístrojů pro delší pobyt venku. Existence magnetického pole alespoň částečně chrání před kosmickým zářením. Tyto drsné podmínky přispěly k rozhodnutí vybudovat hlavní sídlo pod povrchem.
-
-Většina obyvatel jsou lidé, ale není problém zde narazit na zástupce [[Luminari]] či výjimečně i [[Zephyrové|Zephyra]].
-##### Popis
-Město Mergtara je pozoruhodné svou architekturou – nejedná se o rozlehlou povrchovou metropoli, ale o gigantické vertikální "silo" vybudované hluboko pod povrchem měsíce. Tato struktura se postupně rozšiřuje do hloubky a je rozdělena na desítky úrovní.
-
-Úrovně jsou číslovány od povrchu směrem dolů a panuje zde jasná hierarchie. Vyšší patra, blíže k povrchu, jsou obecně lépe udržovaná, čistší a bezpečnější. Čím hlouběji člověk sestupuje, tím více se projevuje průmyslový a těžební charakter měsíce. Na 11. patře se nachází rozsáhlý trh, kde se prodává vše od potravin po technické vybavení. Na 41. úrovni je situováno [[Billy|Billho Bistro]]. Kolem 27. úrovně začínají oblasti bývalých dolů, některé z nich jsou opuštěné a nestabilní. Většina pater zde slouží jako ubikace a přidružená výroba. Aktivní doly začínají kolem 48. patra. 
-
-##### Autonomie na okraji civilizace
-Město Mergtara funguje jako relativně autonomní zóna. Oficiální zákony a pravidla [[Aliance Centrálních Planet]] zde mají omezenou platnost a ustupují neformálním dohodám, osobním vazbám a tradicím, které se vyvinuly během více než sta let existence sídla. Tato samospráva je dědictvím po zkrachovalé korporaci [[ECM]], která původně Mergtaru vybudovala jako strategický zdroj surovin. Po jejím pádu si obyvatelé měsíce vzali správu do vlastních rukou.
 
 
 # Veřejné\Místa\Planety\Alianční Planety\Anastasis I.md
@@ -6823,6 +6852,7 @@ Lokace:
 NPCs:
   - "[[Arthur]]"
   - "[[Lobbur Necko]]"
+next: "[[«002» Bioavataři]]"
 ---
 
 > Blikání. Jasné, ostré světlo, které se odráželo od lesklého kovu. Odlesky chirurgické lampy tančí před očima, jejich světlo se míhá v rozmazaném zorném poli. Bolest. Ne ostrá, ale hluboká, tupá, jako by se rozlévala zevnitř, z míst, kam člověk obvykle nevidí. Cinkání. Jemné, ale pronikavé zvuky nástrojů. Kov o kov, chladný a neosobní. Hlasy. Nejasné, zkreslené, jako by přicházely z velké dálky, filtrované vrstvou vaty a pískotu v uších. „Puls stabilizovaný,“ ozval se jeden hlas, klidný a profesionální. „Probouzí se,“ řekl druhý, o něco naléhavěji. „Podejte 120 miligramů Talafedrinu.“
@@ -6879,6 +6909,8 @@ NPCs:
   - "[[Billy]]"
   - "[[Tetka Mal]]"
   - "[[Dekk Holtz|Dekk]]"
+previous: "[[«001» Úplné Dno]]"
+next: "[[«003» Slepičí úlet]]"
 ---
 > Výtah vás s trhnutím vyplivne na 41. úrovni. Označení je omlácené a částečně zakryté graffiti. Chodby jsou zde o něco širší než nahoře, ale ještě špinavější. Stěny pokrývají vrstvy starých nápisů, pod nohama vám na kovových silnicích křupe prach a drobný odpad. Pohled dolů přes zábradlí vám nabídne nekonečnou propast s desítkami dalších úrovní. Občas projdete kolem otevřených dveří do malých bytů nebo dílen, odkud se line hluk, hudba nebo hádky. Vůně se mění – od přepáleného oleje z jídelen po chemický zápach a všudypřítomnou páru a odpadky. Musíte se proplétat mezi pomalu jdoucími obyvateli, někteří vás sledují s nezájmem, jiní s podezřením. Občas vás mine pomalu jedoucí speedr.
 
@@ -6944,6 +6976,8 @@ NPCs:
   - "[[Tapita Kryxová|Tapita]]"
   - "[[Esmeralda]]"
   - Starej Hex
+previous: "[[«002» Bioavataři]]"
+next: "[[«004» Úklidová četa]]"
 ---
 Na 27. podlaží jdou směrem k výtahům. Chtějí se podívat do 29. podlaží. Od výtahu uvidí velká ocelová vrata, která určitě vedou do dolů. Vydají se tím směrem a narazí na ceduli *Mergtarské doly - Vstup zakázán*. Před ocelovými vraty bivakuje pětice scavengerů a nelegálních těžařů. Vypadají apaticky, ohřívají se u improvizovaného ohniště. Jeden má starý exoskelet, jeden pažní protézu, jeden kybernetické oko. [[Domča - Tobias Flynn|Tobi]] si je prohlédne a zjistí, že jeden z nich má sekeru a jeden (ten v exoskeletu) [[WOSP HEX 2.4]]. 
 
@@ -7010,6 +7044,8 @@ NPCs:
   - Zeke Gnash
   - Curtis Cisco
   - Tudor Lorcan
+previous: "[[«003» Slepičí úlet]]"
+next: "[[«005» Setkání u kávy]]"
 ---
 **6. května 3162** - Ráno
 
@@ -7075,6 +7111,8 @@ NPCs:
   - Cole Masters
   - Ryder Rosso
   - "[[Valerius]]"
+previous: "[[«004» Úklidová četa]]"
+next: "[[«006» Synovec]]"
 ---
 **7. května 3162** - cca 8h Ráno
 
@@ -7117,6 +7155,8 @@ NPCs:
   - "[[Tetka Mal]]"
   - "[[Thay Jinroe]]"
   - "[[Dekk Holtz|Dekk]]"
+previous: "[[«005» Setkání u kávy]]"
+next: "[[«007» Velký plán]]"
 ---
 **7. května 3162** - cca 21 hodin
 
@@ -7153,6 +7193,8 @@ Space Date: 8. května 3162
 Lokace:
   - "[[Veřejné/Místa/Lokace/Mergtara]]"
 NPCs: []
+previous: "[[«006» Synovec]]"
+next: "[[«008» Kybernoha]]"
 ---
 **8. května 3162** - cca 16 hodin
 
@@ -7232,6 +7274,8 @@ Lokace:
   - "[[Veřejné/Místa/Lokace/Mergtara]]"
 NPCs:
   - "[[Riley Varza (†)]]"
+previous: "[[«007» Velký plán]]"
+next: "[[«009» Synthburger Marathon]]"
 ---
 **9. května 3162** - cca 11 hodin
 Skupina vyrazí do Proximy. Dorazí k baru na 33. někdy po 12h. Ve 13h už dostanou zpátky *Krysobota* (s novým SW, ale stále špatnou pacičkou). 
@@ -7271,6 +7315,8 @@ NPCs:
   - Profesor Aris
   - Syna
   - "[[Rattus]]"
+previous: "[[«008» Kybernoha]]"
+next: "[[«010» Strážci Polaris]]"
 ---
 **9. května 3162** - cca 18hodin
 Iško prohlédne [[Riley Varza (†)|Rileyho]] a uvidí, že jej gorila zranila jeho koleno. Než se [[Falkon - Iskandar Mashinkar|Iško]] bude moci pustit do opravy kolenního implantátu, bude to chtít chirurga. Nikoho jinýho než [[Tetka Mal|Tetku Mal]] kdo by to zvládl neznají.
@@ -7353,6 +7399,8 @@ NPCs:
   - "[[Kathrine]]"
   - "[[Vantablack]]"
   - "[[Lobbur Necko]]"
+previous: "[[«009» Synthburger Marathon]]"
+next: "[[«011» Byt číslo 61]]"
 ---
 **11. května 3162** - 5:30 ráno
 
@@ -7385,6 +7433,8 @@ Lokace:
 NPCs:
   - "[[Kathrine]]"
   - "[[Valerius]]"
+previous: "[[«010» Strážci Polaris]]"
+next: "[[«012» Ztroskotání]]"
 ---
 **11. května 3162** - 15:30
 Jak klesají, propuká na patrech pod nehodou chaos. Lidé začínají přibíhat k zábradlí a zjišťovat, co se děje. Klesají na výškové plošině (vznášedlo) a když vidí, kolik pozornosti to přitahuje, rozhodnou se přistát na 31. podlaží. [[Kathrine]]: "*Loď máme nahoře. Můžeme vás vzít pryč.*" - Tobi: "*My utéct jen tak nemůžeme.*" Rozhodnou se zaparkovat na jedné ze střech, aby vznášedlo nebylo vidět z ulice. Řídí Vikram (Ob. 2) -> úspěšně přistane na střeše. Jeden ze [[Strážci Polaris|Strážců]] je ale vyřazený (a podle Kathrine potřebuje odpočívat). Kathrine loď parkuje na 4. podlaží. Tobiho napadne, že by mohli její lodí naskenovat 1. patro a najít [[Valerius|Valeriovo]] vznášedlo od QF.
@@ -7436,6 +7486,8 @@ Lokace:
 NPCs:
   - "[[Valerius]]"
   - "[[Riley Varza (†)]]"
+previous: "[[«011» Byt číslo 61]]"
+next: "[[«013» Stará známá]]"
 ---
 **11. května 3162, 21:00**
 
@@ -7535,6 +7587,8 @@ Lokace:
   - Gavrel V
 NPCs:
   - "[[Razz Vilgour]]"
+previous: "[[«012» Ztroskotání]]"
+next: "[[«014» Zlatá koza]]"
 ---
 **28. května 3162, 5:00**
 
@@ -7567,6 +7621,8 @@ Lokace:
 NPCs:
   - "[[Razz Vilgour]]"
   - "[[Thalion Grayman]]"
+previous: "[[«013» Stará známá]]"
+next: "[[«015» Pirátské loučení]]"
 ---
 **28. května 3162, 21:00**
 
@@ -7613,6 +7669,8 @@ Lokace:
 NPCs:
   - "[[Thalion Grayman]]"
   - "[[Razz Vilgour]]"
+previous: "[[«014» Zlatá koza]]"
+next: "[[«016» Satvikův nos]]"
 ---
 
 **29. května 3162, 17:00**
@@ -7638,7 +7696,7 @@ Kapitán je nepochválí, dá jim rating 3/10 na Rotten Pirates a na svou dalš�
 [[Falkon - Iskandar Mashinkar|Iško]] si jako odměnu vybere datapad, [[Domča - Tobias Flynn|Tobi]] nesobecky čisté oblečení pro všechny tři a [[Vojta - Vikram Vox|Vikram]] munitions kit. [[Falkon - Iskandar Mashinkar|Iško]] řekne [[Razz Vilgour]], ať se spojí s jeho ženou [[Lina Mashinkar|Linou]] a zkusí zjistit, co se stalo a co ona ví o jeho zmizení (a aby jí neříkala, že je naživu). Ale hlavně opatrně, neví jestli jí neodposlouchávají. Hlavně chce vědět, že ona a děti jsou v pořádku. A s tím vyjdou do vlhkého nehostinného přístavu na [[Gloomwell|Ostrově Sirén]].
 
 
-# Vypravěč\Zápisy\«016».md
+# Vypravěč\Zápisy\«016» Satvikův nos.md
 
 ---
 
@@ -7648,7 +7706,113 @@ Space Date: 29. května 3162
 Lokace:
   - "[[Gloomwell]]"
 NPCs:
-  - "[[Thalion Grayman]]"
-  - "[[Razz Vilgour]]"
+  - Orion Vane
+  - Kael Rurik
+  - Livia Volkonn
+  - Tarthus Mippo
+previous: "[[«015» Pirátské loučení]]"
+next: "[[«017» Stará dobrá poctivá práce]]"
 ---
 **29. května 3162, 22:00**
+
+[[Domča - Tobias Flynn|Tobi]] se optá, zda by tady nemohl být někdo z [[WOSP]] organizace, protože těm by věřil více než pirátům. [[Vojta - Vikram Vox|Vikram]] si vzpomene, že tady někdo z jeho kolegů z [[Alianční úřad pro vyšetřování|ABI]] určitě něco vyšetřoval. Díky tomu si popovídají o své historii s ABI. Vikram si vzpomene, že na Ostrově Sirén je spící agent. Ale jelikož nemá, mohla by jeho aktivace být velmi riskantní.
+
+Nechtějí tam ale být se suchým krkem, tak se vydají do baru, kde byli včera se Silasem. Chtějí se nechat najmout, ale Tobi oponuje, že to není moc snadné. Přece si nenajmeš lidi, kterým nevěříš.
+
+Bar *U Rudýho Trpaslíka* bude pomalu zavírat, barman zrovna vyhazuje poslední násosky. Požádají ho o informace a on jim řekne, že jim něco řekne, když si u něj dají ještě pivko. Zamkne je v baru a sundá židličky u baru. Pak jim za 27Σ prodá 3 *Red Dwarf IPA*. Ta je hodně hořká a hlavně hodně silná. Sám si dá také. Varuje je před Silasem. Vypráví jim, jak pankové to tu bylo před Guvernérem. Poprosí ho, jestli. Ptají se ho na WOSP a on jim řekne, že guvernér má v Citadele malou továrnu, o kterou se mu stará nějakej maník, kde produkují WOSP designy, které pak vyváží mimo [[Gloomwell]]. Barman se jim představí, jmenuje *Orion Vane*. Ale někteří mu říkají *Trpaslíku*, nebo *Ori*. [[Vojta - Vikram Vox|Vikram]] se ho zeptá, jestli by pro ně neměl prácičku. Buďte rádi, že vám ten kšeft se Silasem nevyšel, prej se ten jeho kapitán s guvernérem pěkně bratříčkuje. Líbí se mu jak jsou zoufalý, takže by je mohl nechat v baru přespat, když Tobi přísahá na svou zbraň, tak to Orimu stačí. Ori má podle všeho ze starých časů kontakty na tradiční konzervativní pirátské kapitány, kterým není po chuti platit Garrovi daně. Jen tak je ale neseznámí. 
+
+Iško a Vik jsou v dobré náladě po silné ipě. Tobias políčí na opilého Vikrama pasti z chytře rozmístěného skla. Ale nakonec opilého Vikrama umístí na lavici a pak uloží i Iška. 
+
+**30. května 3162, 10:00**
+Všichni se vzbudí, Vikram s pěkným bolehlavem.  Vikram doběhne ipu vyblejt na ulici, zpět se vrátí jako novej člověk. Ori řekne: "V noci jsem trochu přemejšlel..."
+
+> Orion vám dá speciální **náramek s krystalem**, který dokáže dešifrovat zprávy. Vaším úkolem je tento krystal **tajně umístit do osobních věcí** žoldnéřky jménem **Livia Volkonn**. Tím byste mohli poškodit její reputaci a zničit její kariéru, což by Garra mohlo oslabit.
+
+Orion vás pošle za mužem jménem **Kael Rurik**, který dodává do Citadely koření (co se nedodává moc často). Jakmile se se zásilkou dostanete dovnitř, musíte si vyžádat pirátku **Livii Volkonn** (dřív to přebírala ona. Nikoho jiného. Dříve tyhle zásilky přebírala ona, ale nedávno povýšila. Budou se vydávat za nové dodavatele, které přiletěli (povolení C16-A54 - nahraje je Iškovi na datapad).
+
+Dá jim porci synthjídla k snídani. Převlečou se do čistého. Také jim dá adresu Kaela a čistírny.
+
+> Plán: 
+> - vzít si od Oriho pouzdro se šperkem a rukavicemi
+> - ukázat datapad Kaelovi (krámek na rezavým tržišti) a převzít si od něj zásilku s novým kořením, získat info
+> - dorazit hlavní branou do Citadely a vyžádat si **Livii Volkonn**
+> - prodat jí koření (nejít pod 1700Σ), strčit jí řetízek někam do oblečení nebo jí ho nějak chytře dát, aby si jej nechtěla prověřit. Nezanechat na něm DNA.
+> - Vrátit se ke Kaelovi s prachama a vrátit se za trpaslíkem.
+
+Zazvoní u Kaela na intercom (mluví protáhle). Krabička je asi 20x20x30 a váží cca 12 kg. Na černém trhu by prý měla cenu kolem 3000Σ. Je zabalená do kovové folie. Jednu si vezme do batohu. Koření je *56% Hesperium* (Hs-293). Hesperium je syntetický transuranový prvek, který je extrémně nestabilní. Izotop Hs-293 se chová jako katalyzátor. Při vystavení tlaku nebo teplu uvolňuje energii v podobě intenzivního, krátkodobého širocespektrálního záblesku. Tento efekt je tak silný, že dokáže krátkodobě vyřadit elektronické senzory.
+
+Zbraně si odloží u Oriho. S sebou mají jen [[Vojta - Vikram Vox|Vikovo]] [[WOSP HEX 2.4|HEX 2.4]].  Pak vyrazí k Citadele k hlavnímu hangáru. Tam je živo, obranní humanoidní roboti, Garrovo piráti, obchodníci se zbožím a piráti co chodí platit daně a výpalné. Jeden z robotů před vchodem je zastaví. Váš obchodní zástupce je Tarthus Mippo, kancelář č. 16. 
+
+Vikram se představí jako Shakti Satvik. To pana Mippa zaujme a po troše Soothing Platitudes zavolá Livii. Také nahraje požadavky guvernéra na výkupní pobídky. Livia dorazí, omlouvám se, že vás nepoznávám, ale máte Satiho nos. Jo, to slýchám často...
+
+Iškovo výpovědi jí dost matou. Myslela si, že bude jednat s mladým Satvikem, ale slovo o ceně a dalších náležitostech si pořád bere Iško, který o sobě ale řekne, že je technik! Ale nakonec když začnou propírat podivné osobní věci, tak jim raději nabídne 2000Σ. [[Falkon - Iskandar Mashinkar|Iško]] se jí pořád snaží vnutit svůj sběratelský artefakt s tím, že se jí bude hodit k oblečení. Tobi jí předá pouzdro a ona vyndá šperk, rukavice a pod nimi jsou schované jednorázové ubrousky - Odstraňovače DNA. Iško se to snaží prodat jako prostředky na čištění šperku. Livii se to ale moc nepozdává. "*Dobře, tak mi ten dárek dejte, ať to mám z krku, hlavně už dost těch řečí.*“. Rozloučí se a popřeje panu Satvikovi staršímu pevné zdraví a ať si připraví pár kilo zásilky. Příště můžou kontaktovat Mippa. 
+
+Vydají se ke Kaelovi. Vikram ještě ověří, zda je někdo nesleduje, ale zdá se, že nikoliv. Zajdou za Orim rozměnit si kredity. Ale ten má jen drobné, tak ho nechají ať si zkontroluje signál a jdou si rozměnit na tržiště (tam obdrží při rozměnění jednu padělanou 100Σ). Kaelovi dají 1800Σ a padělaná 100Σ jim zůstane.
+
+
+# Vypravěč\Zápisy\«017» Stará dobrá poctivá práce.md
+
+---
+
+---
+Game Date: 8. září 2025
+Space Date: 30. května 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - Orion Vane
+  - mechanik Jerry
+previous: "[[«016» Satvikův nos]]"
+next:
+---
+**30. května 3162, 13:00**
+
+Skupina se vrátí zpět do baru *U Rudýho Trpaslíka*, kde *Orion Vane* měl zatím čas ověřit, zda jeho krystal odesílá informace. Ale zatím je ticho, takže ani není jisté, že jej propašovali za správnou osobou do Citadely. To, že získali kredity za prodej *Hesperia* tomu sice napovídá, ale nepotvrzuje to nic. Kouká do datapadu a mručí si pod vousy. Tobi se zeptá, jestli se krystalu musela dotknout a Ori to nepřímo potvrdí. "*Dáte si zatím něco k pití?*" [[Falkon - Iskandar Mashinkar|Iško]] si dá light pivo - 3Σ, [[Vojta - Vikram Vox|Vik]] naškarský džus - 9Σ a [[Domča - Tobias Flynn|Tobi]] raději nic. S krystalem se nic nic neděje, takže se Ori vyptává an detaily operace. Skupina potvrdí, že to šlo bez problému a šperk jí dali jako prodejní bonus. Ptají se po práci a jediný co Oriho napadne je rozřezávání lodí na šrotišti. Prý už se se starýma pirátskýma psama jen kamarádím. Popíše jim cestu.
+
+**30. května 3162, 15:00**
+
+Šroťák na Ostrově Sirén není jen jedna hala, ale celý komplex navázaný na vnější doky a přístav, kam se kusy vyřazených lodě přitahují k demontáži. Vnější část tvoří několik ocelových plošin přivařených k asteroidu, z nichž vystupují dokovací rameny a uchycovací jeřáby. Vedle je raketoplánový hangár – odtud vyplouvají týmy řezáčů ve skafandrech, kteří lodě porcují plazmovými řezačkami a magnetickými svorkami.
+
+Před halou se baví skupinka dělníků, těžko říct, co jsou zač, možná ex-piráti bez lodi, uprchlíci, trestanci na nucené práci. "*Hej vy ste tu nový? Tak počkejte, Jago a Vag jsou taky nový. Mistr si pro vás přijde.*" Předák, napůl kyborg, jim řekne, že hledá pár lidí na pásy - 6Σ na hodinu (silný chlapy, extra prachy za speciální nálezy). Zero G - 10Σ na hodinu, kde to určí skupině. Z ramene mu pořád uchází chladící kapalina.
+
+Vybírají skafandry (rychle = s nevýhodnou):
+[[Falkon - Iskandar Mashinkar|Iško]]: repair + mending 2/2 -> č. 25 (starší, ale vypadá slušně, stav 100%)
+[[Domča - Tobias Flynn|Tobi]]: zkusí náhodný vyměnit za svůj 5/3 sleight of hands -> vymění č. 87 (stav 40%) za č. 95 a to si vezme (stav 100%)
+[[Vojta - Vikram Vox|Vik]]: investigation logic 1/3 -> č. 46 (údajně v něm nikdy neumřel, stav stav 40%)
+
+> Předák: "*Venku budete dělat tři věci: značit řezy, řezat panely, tahat bordel k jeřábu. Plazmová řezačka je jednoduchá, zmáčknete spoušť, řežete, dokud to nepřestane jiskřit. Neřežte nosný trupy, pokud nechcete, aby vám letící dva díly rozdrtili hlavu. Na trup kreslete značky značkovačem. To je jediný, co v nule drží načmáraný. Když uvidíte něco, co bliká, bzučí, nebo je příliš pěkný na to, aby to byla jenom trubka, zavolejte. Speciální nálezy jdou do muly, za to je bonus. Překontrolujte si, jestli vám magnetizujou boty. V raketoplánu už si je nepřezujete. Jo a není tam vzduch, takže se tam nesundavejte helmu, abyste se poškrabaly za uchem. Teď můžete za chlapama do přechodové komory.*"
+
+Šichta má 8 hodin plus 2 20 minutové pauzy. Jen z 5 dalších lidí se se jim představí jako Jerry. Zbytek se mu představí jako Alistar, Jo a Vik. Jerry jim řekne, že si mají připnout dva kabely, jeden k obleku a jeden na díly k odtažení. Vy nový si trochu vosahejte lítání. Na pilíři je 200+ jmen obětí této práce. Ovládání je na pravý ruce. Zero G - Ob. 1 a Driving Ob. 1. Tobi skafandr -20% -> 80%.
+
+**Untrained skill challenge**
+
+Zaseklý pancéřový panel, který drží funkční tlakování štítů. Pomůže odříznout tlakové potrubí. 3 úspěchy.
+Iško -> Shipwright 3/2 -> nalezení a identifikace potrubí. **úspěch** 
+Vik -> Cold Weapons 4/3 -> řezání tlakových trubek řezačkou, jako by to byl nůž a ne plazmová řezačka. **úspěch**
+Iško -> Repair 3/2 -> najde nejslabší místa a označkuje je. **úspěch**
+
+Jo mezitím hledá nějaké blikající drahé věcičky, ale na nic nenarazí. 
+
+Uříznou prázdnou nádrž s palivem. Krystalizují na ní zbytky uniklého paliva - které mohou snadno rozříznout skafandr.
+
+Vik -> Painting 1/2 -> Velmi opatrně naznačkuje místa k řezu. **neúspěch** Vik skafandr - 10% = 30%
+Iško -> Physics 1/2 -> chce kabelem smést většinu krystalů. **neúspěch** Iško skafandr - 10% = 90%
+Tobi -> Recon 3/2 analýza průstřelu v nádrži. **úspěch** Některé krystaly rostou směrem elektromagnetického vedení.
+Iško -> Engineering 3/2. Najít zdroj emergency contaiment fieldu a vypne jej. **úspěch** 
+Vik + Tobi help -> Physical Training 6/3 -> dokáže makat delší dobu, než ostatní makáči a prostě to odedřou. **úspěch** 
+
+Iško chce odmontovat baterii/zdroj. Doletí s Jerrym na místo. Repair 1/3 -skafandr -30% = 60%
+
+**31. května 3162, 3:00**
+
+Předák jim spočte po dani pro guvernéra odměnu 216 kreditů, plus 320 za náhradní zdroj, ale napůl s Jerrym. Celkem 376Σ. Předákovi už utekla všechna chladící kapalina, takže mu ruka bezvládně visí od ramene (má ji vypnutou, aby se nepřehřívala). Iško mu znovu nabídne opravu. Dá mu prý 50Σ, když mu to provizorně fixne. Předák souhlasí, ale řekne mu, že mu, že jestli mu ublíží, tak mu ustřelí hlavu. Iškovi se ani provizorní oprava nepodaří. „Au… Ty jsi ale fušař, Alistare. Sakra, vždyť jsem cítil, jak mi každý pohyb drásá kloub To bolí víc jak vod mojí starý.“ Ale opravu zaplatí.
+
+Protože nemají kde přespat, zkusí se toulat po ostrově hledat nějaké náhodné místo, kde by se mohli schovat. Ve skryté vybydlené kanceláři stráví pár hodin do rána, kolem 7h je někdo vyhodí. Nakoupí si nějaké čerstvé jídlo a kolem osmé jsou rozlámaní, ale ready. 
+
+Tobi se ptá Vikrama, co všechno ví o *Satvicích*. Řekne mu, že to jsou obchodníci a že ho prodali [[Popelavá Legie|Popelavý Legii]]. Jeho otec mu vždy říkával, že je to čest. Řekne mu i o padlém bratrovi a bratrovi Shaktim. Také jim řekne, že i tadé asi obchodovali. Jejich základna je jejich loď, tam se Vikram také narodil. Tobi mu řekne, že hledá blízkou osobu, kterou si vzali "Satvikové". Předpokládá, že šla dobrovolně. Sati Vikramovi něco dluží, zachráníl ho prý z prekérní situace. Sati je leader Satviků. Tobi říká, že by mohli pomoci jim všem. Vikram se zmíní, že Sati asi neví o tom, že utekl od Legie a to by se mu nemuselo líbít. Jejich loď je [[Tau-Class]] [[Křižník]], dost velká, aby zastrašila piráty. [[Vojta - Vikram Vox|Vik]] se zeptá, kdo byla ta blízká osoba. [[Domča - Tobias Flynn|Tobi]] po chvíli přemýšlení řekne, že je to jeho matka. Naposledy slyšel, že Satvikové navštívili jeho domovský systém a vzali jí s sebou. Kdysi prý byla kapitánka obchodní lidi, také uměla dobře vyjednávat, říkali jí *Hvězdná liška*.
+
+Dlouze si popovídají, takže mezitím *Ori* stihne v 11 otevřít bar. "*Vy teda vypadáte. Já taky moc nespal. Pořád jsem koukal, jestli se zaktivoval krystal a pořád nic. Tak co s Váma. Slíbil jsem Vám, že vás spojím s  nějakejma starejma psama, ale můj signál nikde.*" [[Falkon - Iskandar Mashinkar|Iško]] a [[Domča - Tobias Flynn|Tobi]] si dá light pivo - 3Σ, [[Vojta - Vikram Vox|Vik]] naškarský džus - 9Σ. Nechá je se tam opláchnout. [[Domča - Tobias Flynn|Tobi]] s Vikramovým munitions kitem opraví svůj [[Turgall Horizon|Horizon]] na 3/3 - Ob. 2. Dají si ještě jednu rundu a on jim řekne kam zajít - kontakt je jeho známý Darrun Mugrost, potřebuje nějaký vocasy, co mu to tam pomůžou vymést. Něco mu tam řere elektroniku a kabely. Dá jim Jeho adresu a gravírovanou minci se spirálou a dvěma kruhy.
+
+Nejdřív ale vyrazí na tržiště. Cena za [[Trauma Stabilizátor]] je kolem 300Σ. Koupí si za 40Σ krabičku 20ks [[13.HC]] nábojů.
+
+**31. května 3162, 15:00**

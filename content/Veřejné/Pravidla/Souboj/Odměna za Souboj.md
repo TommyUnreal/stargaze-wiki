@@ -4,12 +4,12 @@ Podle délky a obtížnosti souboje obdrží hráči určité množství zkušen
 
 | Hod   | Cena [exp] | Popis                                                                         |
 | ----- | ---------- | ----------------------------------------------------------------------------- |
-| 1-16  | 1          | **Routine check** (shopnost/stat byly použity v souboji)                      |
-| 16-29 | 3          | **Difficult check** (shopnost/stat byly použity v souboji)                    |
-| 30-39 | 5          | **Challenging check** (shopnost/stat byly použity v souboji)                  |
-| 40-45 | 3          | **Routine check** (shopnost/stat nemusely být použity v souboji)              |
-| 46-49 | 5          | **Difficult check** (shopnost/stat nemusely být použity v souboji)            |
-| 50-52 | 8          | **Challenging check** (shopnost/stat nemusely být použity v souboji)          |
+| 1-16  | 1          | **Routine check** (schopnost/stat byly použity v souboji)                     |
+| 16-29 | 3          | **Difficult check** (schopnost/stat byly použity v souboji)                   |
+| 30-39 | 5          | **Challenging check** (schopnost/stat byly použity v souboji)                 |
+| 40-45 | 3          | **Routine check** (schopnost/stat nemusely být použity v souboji)             |
+| 46-49 | 5          | **Difficult check** (schopnost/stat nemusely být použity v souboji)           |
+| 50-52 | 8          | **Challenging check** (schopnost/stat nemusely být použity v souboji)         |
 | 53-58 | 2          | +1 **Fate**                                                                   |
 | 59-64 | 2          | +1 **Persona**                                                                |
 | 65-66 | 10         | +1 **Deed**                                                                   |

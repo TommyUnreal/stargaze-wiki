@@ -46,3 +46,6 @@ Hlavní designérka, jejíž návrhy jsou zaměřené na snadnou produkci a níz
 
 ##### Longarms (Pušky)
 - útočká puška [[Blackstar AR5]]
+
+##### Special Weapons (Speciálky)
+- ruční plamenomet [[Blackstar Flame++]]

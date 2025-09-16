@@ -1,6 +1,7 @@
 * Zbraňové perky
     * [[Close Spread]]
     * [[Dávka]]
+    * [[Flamethrower]]
     * [[Flare Gun]]
     * [[Fragile]]
     * [[Hip Shot]]

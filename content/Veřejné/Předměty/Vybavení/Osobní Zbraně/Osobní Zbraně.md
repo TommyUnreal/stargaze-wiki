@@ -42,4 +42,5 @@
     * [[WOSP HUB 3.0]]
 * Special Weapons
     * [[Beacon 2 by Stellar]]
+    * [[Blackstar Flame++]]
     * [[TX-12]]

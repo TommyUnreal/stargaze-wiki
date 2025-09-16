@@ -1,0 +1,1 @@
+Zbraň způsobuje zranění ohněm a zraní všechny postavy v 45° kuželu (není-li kužel definován jinak). 

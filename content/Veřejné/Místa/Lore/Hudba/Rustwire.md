@@ -1,7 +1,7 @@
 ---
 tags:
   - steeldust
-sound prompt: cyberpunk dark country, space scifi bar music, year 3000, space harbour rock
+sound prompt: cyberpunk dark country, space scifi bar music, year 3000, space harbour rock, energetic southern rock with dark scifi twist, Gothic Americana, Gothic Country, dry synthesized old male rocker vocal
 ---
 V přeplněném hudebním vesmíru 32. století, kde korporátní jingly a alianční popové hymny dominují vysílání v systémech _Primis_, se z prachu a špíny Vnějšího okraje vynořil zvuk tak syrový a nefalšovaný, že jej nelze ignorovat. Mluvíme o kapele **Rustwire**, průkopnících steeldustového žánru. Je to zvuk oceli, pouště a drsného života v kyber-futuristickém pekle, směsice temného country a industriálního blues, která dokonale zachycuje ducha těch, kdo žijí na hraně známého vesmíru.
 
