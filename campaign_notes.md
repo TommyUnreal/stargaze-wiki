@@ -459,6 +459,28 @@ Karbon C-19. C-19 je extrémně vzácný a vysoce nestabilní izotop uhlíku, kt
 Carbon-14b (C-14b) (který je na Zemi nestabilní, ale používá se k datování), která se na Mergtaře vyskytuje ve stabilnější nebo jinak vhodnější formě, nebo je to místní označení pro izotop s hmotností 14, ale jinými jadernými vlastnostmi než pozemský C-14. Oproti běžnému pozemskému uhlíku (primárně C-12) má C-14b jedinečnou krystalickou strukturu a vysokou čistotu, což z něj činí ideální surovinu pro výrobu vysoce kvalitního karbonu a karbonových kompozitů. C-14b vytváří při zpracování dlouhé, rovné uhlíkové řetězce, které se snadno formují do vláken s extrémní pevností v tahu a nízkou hmotností.
 
 
+# Veřejné\Hráčská sekce\NPCs\Ostrov Sirén\Darrun Mugrost.md
+
+---
+
+---
+aliases:
+---
+![[Darrun Mugrost.jpeg|inlL|250]]
+
+_Darrun Mugrost_ je bývalý vesmírný pirát, který provozuje malou živnost na Ostrovu Sirén v systému [[Gloomwell]]. Dobře se zná s [[Orion Vane|trpaslíkem Orim]]. Jejich společný identifikátor je stříbrní mice se spirálou a dvěma kruhy.
+
+## GM section
+
+##### Vystupování
+- Mluví syčivým starým hlasem. Je podezřívavý a nemorální.
+
+##### Affiliation
+
+- Kamarád a kolega z crew [[Orion Vane|Oriona Vana]].
+- Udržuje kontakty na "staré pirátské psy" a konzervativní kapitány, kterým se nelíbí placení daní guvernérovi.
+
+
 # Veřejné\Hráčská sekce\NPCs\Ostrov Sirén\Orion Vane.md
 
 ---
@@ -486,6 +508,39 @@ _Orion Vane_ je drsný a ostražitý majitel a barman v podniku _U Rudýho Trpas
 
 - Udržuje kontakty na "staré pirátské psy" a konzervativní kapitány, kterým se nelíbí placení daní guvernérovi.
 - Aktivně se staví proti guvernéru Garrovi a snaží se ho oslabit tím, že cílí na jeho podřízené, jako je žoldnéřka Livia Volkonn.
+
+
+# Veřejné\Hráčská sekce\NPCs\Ostrov Sirén\Paradox.md
+
+---
+
+---
+aliases:
+---
+![[Paradox.jpeg|inlL|250]]
+_Paradox_ je tajemný a samotářský inženýr a šroťák působící na Ostrově Sirén v systému [[Gloomwell]]. Pracuje přímo pro [[Solomon Garr|Guvernéra Garra]] a stará se o nejcitlivější systémy v Citadele a také produkci [[WOSP]] zbraní. Málokdo zná jeho tvář a ještě méně lidí ví, kde se nachází jeho dílna.
+
+## GM section
+
+##### Vystupování
+- **Technický a rychlý projev:** Mluví rychle, často v technických metaforách a zkratkách. Je netrpělivý, když mu ostatní nerozumí, a má tendenci přeskakovat k závěrům, protože jeho mysl pracuje rychleji než jeho slova.
+- **Paranoidní pragmatik, skrytý idealista:** Navének působí cynicky a ostražitě, což je důsledek let strávených na Ostrově Sirén. Neustále skenuje okolí a vyhodnocuje hrozby. V jádru je ale idealista, který pevně věří v poslání [[WOSP|WOSPu]] a demokratizaci technologií.
+- **Neustále v práci:** Téměř nikdy není v klidu. Pokud zrovna nemluví, jeho ruce (jedna z nich protetická) neustále něco rozebírají, pájí nebo čistí. Často přitom mumlá pro sebe.
+
+##### Popis
+Muž neurčitého středního věku s unavenou, ale inteligentní tváří. Většinou je oblečen do záplatovaného a upraveného ochranného obleku, který je poset kapsami s nářadím a kabely. Jeho levé oko je nahrazeno komplexním kybernetickým senzorem, který tiše bzučí a zaostřuje. Pravá ruka od lokte dolů je precizní protetická náhrada s výsuvnými jemnými nástroji. Je cítit ozónem, pájkou a strojním olejem.
+
+##### Pozadí
+*Paradox* je geniální inženýr, pravděpodobně s minulostí v jedné z velkých technologických korporací. Znechucen korupcí a zneužíváním technologií pro kontrolu a zisk se přidal k hnutí [[WOSP|WOSP]], kde se rychle stal jednou z klíčových postav. Ostrov Sirén si vybral jako své útočiště z dvou důvodů: poskytuje mu přístup k nekonečnému zdroji vzácných a rozmanitých technologií ze ztroskotaných lodí a zároveň je to místo, kde ho [[Aliance Centrálních Planet|Aliance]] nikdy nebude hledat.
+
+Uzavřel pragmatickou dohodu s guvernérem [[Solomon Garr|Garrem]]: Paradox využívá své geniální schopnosti k údržbě komplexních a často nestandardních systémů Citadely, za což mu Garr poskytuje ochranu a neomezený přístup ke vrakovišti. Ačkoliv guvernérem a jeho metodami pohrdá, tato symbióza mu umožňuje v tajnosti pracovat na svém životním díle: projektu **L.I.F.T.** (Liberated Interstellar Flight Technology) – vývoji open-source FTL pohonu.
+
+Nález skupiny, a především tváře, kterou identifikoval jako [[Falkon - Iskandar Mashinkar|Iskandara Mashinkara]], vnímá jako osudovou příležitost, která by mohla jeho projekt posunout o celé roky dopředu.
+
+##### Affiliation
+- **[[WOSP]]**: Klíčový člen a vedoucí tajného projektu L.I.F.T.
+- **[[Solomon Garr]]**: Pracuje pro něj jako nezávislý technik. Jejich vztah je čistě profesionální a založený na vzájemné potřebě.
+- **Skupina**: Zachránce a opatrný spojenec. V "Iskandarovi" vidí klíčový zdroj informací pro svůj projekt.
 
 
 # Veřejné\Hráčská sekce\NPCs\Ostrov Sirén\Solomon Garr.md
@@ -532,28 +587,29 @@ Viz [[Odměna za Souboj]]
 
 ### Nejstarší
 
-| Řádek | Hod | Cena [exp] | Popis                                                              |
-| ----- | --- | ---------- | ------------------------------------------------------------------ |
-| 1     | 46  | 5          | **Difficult check** (shopnost/stat nemusely být použity v souboji) |
-| 2     | 78  | 2          | Nález drobného obnosu (Vesmírné Kredity) - **d6 x 5Σ**             |
-| 3     | 44  | 3          | **Routine check** (shopnost/stat nemusely být použity v souboji)   |
-| 4     | 22  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)         |
-| 5     | 6   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 6     | 4   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 7     | 6   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 8     | 9   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 9     | 12  | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 10    | 5   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 11    | 5   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 12    | 11  | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 13    | 3   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 14    | 53  | 2          | +1 **Fate**                                                        |
-| 15    | 66  | 10         | +1 **Deed**                                                        |
-| 16    | 82  | 2          | Nález munice - v hodnotě - **d6 x 5Σ**                             |
-| 17    | 9   | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 18    | 63  | 2          | +1 **Persona**                                                     |
-| 19    | 10  | 1          | **Routine check** (shopnost/stat byly použity v souboji)           |
-| 20    | 97  | 5          | Nalezení klíče, přístupového čipu či karty.                        |
+| Řádek | Hod | Cena [exp] | Popis                                                                |
+| ----- | --- | ---------- | -------------------------------------------------------------------- |
+| 1     | 7   | 1          | **Routine check** (shopnost/stat byly použity v souboji)             |
+| 2     | 61  | 2          | +1 **Persona**                                                       |
+| 3     | 72  | 1          | +1 zaznamenaná **Persona** (k vybrané schopnosti)                    |
+| 4     | 30  | 5          | **Challenging check** (shopnost/stat byly použity v souboji)         |
+| 5     | 82  | 2          | Nález munice - v hodnotě - **d6 x 5Σ**                               |
+| 6     | 71  | 1          | +1 zaznamenaná **Persona** (k vybrané schopnosti)                    |
+| 7     | 71  | 1          | +1 zaznamenaná **Persona** (k vybrané schopnosti)                    |
+| 8     | 77  | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**                |
+| 9     | 42  | 3          | **Routine check** (shopnost/stat nemusely být použity v souboji)     |
+| 10    | 95  | 3          | Postřeh. **+5 AP do první akce příštího souboje.**                   |
+| 11    | 75  | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**                |
+| 12    | 19  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)           |
+| 13    | 52  | 8          | **Challenging check** (shopnost/stat nemusely být použity v souboji) |
+| 14    | 91  | 5          | Nález zásob. **Obnov nedávno ztracený kit.**                         |
+| 15    | 22  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)           |
+| 16    | 14  | 1          | **Routine check** (shopnost/stat byly použity v souboji)             |
+| 17    | 51  | 8          | **Challenging check** (shopnost/stat nemusely být použity v souboji) |
+| 18    | 64  | 2          | +1 **Persona**                                                       |
+| 19    | 85  | 5          | Oklepání se. Odstraň si 1 zranění obdržené v tomto souboji.          |
+| 20    | 97  | 5          | Nalezení klíče, přístupového čipu či karty.                          |
+
 
 
 ### Nejnovější
@@ -1496,6 +1552,9 @@ Hlavní designérka, jejíž návrhy jsou zaměřené na snadnou produkci a níz
 ##### Longarms (Pušky)
 - útočká puška [[Blackstar AR5]]
 
+##### Special Weapons (Speciálky)
+- ruční plamenomet [[Blackstar Flame++]]
+
 
 # Veřejné\Organizace\Technologické korporace\N.A.S.E..md
 
@@ -1738,6 +1797,13 @@ Pokud střelec vystřelí ze zbraně na vzdálenost 3 metry a méně, získá +1
 ---
 
 Střelec vystřelí ze zbraně a spotřebuje 3 náboje namísto jednoho, získá +1🎲 k útoku. Cena útoku je dražší o 1 [[Action Points (AP)|AP]].
+
+
+# Veřejné\Pravidla\Perky\Zbraňové perky\Flamethrower.md
+
+---
+
+Zbraň způsobuje zranění ohněm a zraní všechny postavy v 45° kuželu (není-li kužel definován jinak).
 
 
 # Veřejné\Pravidla\Perky\Zbraňové perky\Flare Gun.md
@@ -2910,12 +2976,12 @@ Podle délky a obtížnosti souboje obdrží hráči určité množství zkušen
 
 | Hod   | Cena [exp] | Popis                                                                         |
 | ----- | ---------- | ----------------------------------------------------------------------------- |
-| 1-16  | 1          | **Routine check** (shopnost/stat byly použity v souboji)                      |
-| 16-29 | 3          | **Difficult check** (shopnost/stat byly použity v souboji)                    |
-| 30-39 | 5          | **Challenging check** (shopnost/stat byly použity v souboji)                  |
-| 40-45 | 3          | **Routine check** (shopnost/stat nemusely být použity v souboji)              |
-| 46-49 | 5          | **Difficult check** (shopnost/stat nemusely být použity v souboji)            |
-| 50-52 | 8          | **Challenging check** (shopnost/stat nemusely být použity v souboji)          |
+| 1-16  | 1          | **Routine check** (schopnost/stat byly použity v souboji)                     |
+| 16-29 | 3          | **Difficult check** (schopnost/stat byly použity v souboji)                   |
+| 30-39 | 5          | **Challenging check** (schopnost/stat byly použity v souboji)                 |
+| 40-45 | 3          | **Routine check** (schopnost/stat nemusely být použity v souboji)             |
+| 46-49 | 5          | **Difficult check** (schopnost/stat nemusely být použity v souboji)           |
+| 50-52 | 8          | **Challenging check** (schopnost/stat nemusely být použity v souboji)         |
 | 53-58 | 2          | +1 **Fate**                                                                   |
 | 59-64 | 2          | +1 **Persona**                                                                |
 | 65-66 | 10         | +1 **Deed**                                                                   |
@@ -6375,6 +6441,41 @@ Kromě své primární signalizační funkce může být Beacon 2 nouzově použ
 Stellar Beacon 2 slouží primárně jako nouzové signalizační zařízení, schopné vystřelit světlice, které jsou viditelné na obrovské vzdálenosti, a to i v drsných atmosférách nebo ve vakuu.
 
 
+# Veřejné\Předměty\Vybavení\Osobní Zbraně\Special Weapons\Blackstar Flame++.md
+
+---
+
+---
+tags:
+  - blackstar
+  - plamenomet
+aliases:
+  - Flame++
+---
+![[Blackstar Flame++.jpeg|inlR|250]]_Blackstar Flame++_ je kompaktní ruční plamenomet, který se stal nechvalně proslulým na černém trhu díky své brutální účinnosti v boji v uzavřených prostorech. I přes to, že je klasifikován jako nelegální zbraň pro civilní použití, je často vyhledáván piráty, gangstery a žoldáckými skupinami na okrajových světech jako sekundární zbraň.
+
+Plamenomet byl vyvinut společností [[Blackstar]] jako zbraň určená pro bojové operace v nepřátelském prostředí, kde je nutné rychle neutralizovat hrozbu s minimálním rizikem a na malou vzdálenost. Používá speciální proprietární kanystry s plazmovou municí (Flame++ C) a generuje krátkodobý, ale extrémně silný a horký plamen, který dokáže způsobit těžké zranění na malou vzdálenost. Výhoda kanystru je, že v sobě nese i speciální oxidant, takže jej lze používat i mimo kyslíkovou atmosféru.
+
+I přes svůj silný účinek má zbraň řadu nevýhod. Například je velmi náchylná k přehřívání, což může vést k jejímu selhání, a také má velmi omezenou kapacitu munice, která je navíc extrémně drahá.
+
+|          Výrobce          |             [[Blackstar]]              |
+|:-------------------------:|:--------------------------------------:|
+|           Skill           |            Special Weapons             |
+|          Obrana           |            Barriers / Cover            |
+|          Kvalita          | <font color="#00b050">+0</font> (oheň) |
+|         Integrita         |                  2/2                   |
+|          Dostřel          |     2 -> 3 -> 3<br>(regulovatelné)     |
+|     Počet ran/nábojů      |                  15/1                  |
+|        Typ munice         |     proprietární kanystr<br>*F+C*      |
+|          Výstřel          |                  5 AP                  |
+| Nabíjení z rychlého slotu |              výměna 7 AP               |
+|           Perk            |            [[Flamethrower]]            |
+|           MSRP            |                  300Σ                  |
+
+## Fun facts
+Vzhledem k vysoké ceně a nedostupnosti munice si ale [[WOSP]] komunita začala vyrábět vlastní kanystry s municí, dokonce také zveřejnili návod na vyrobení improvizované plničky originálních kanistrů. Ty jsou ale méně spolehlivé a mohou způsobit vážná zranění, pokud se přehřejí.
+
+
 # Veřejné\Předměty\Vybavení\Osobní Zbraně\Special Weapons\TX-12.md
 
 ---
@@ -7621,6 +7722,7 @@ Lokace:
 NPCs:
   - "[[Razz Vilgour]]"
   - "[[Thalion Grayman]]"
+  - "[[Orion Vane]]"
 previous: "[[«013» Stará známá]]"
 next: "[[«015» Pirátské loučení]]"
 ---
@@ -7640,7 +7742,7 @@ Hledají kdo by jim opravil zbraň a za pomoc týpkům co je zajali je zavedou z
 Dorazí na Ostrov Sirén na [[Gloomwell|Gloomwellu]], což je shluk mnoha lodních vraků přivařených k asteroidu. Orientace na ostrově je zajištěna pomocí graffiti. Silas je provede přes _Rezavé Tržiště_ a kolem místa zvaného _Zpěv Sirény_, odkud jsou vysílány různé signály, jamming a hudební radiostanice pro Ostrov.
 
 Dostanou se na ochoz s výhledem na biosféru, kde je chována zlatá koza Aurélie. Vstup do biosféry je zespodu, kudy chodí obsluha. Vidí, jak obsluha v rukavičkách kozu krmí salátem s orchidejemi.
-Silas je zavede do horší čtvrti do putyky. Cestou si všimnou, že živý přenos s Aurélií je neustále vysílán na obrazovkách po celém Ostrově. Silas jim koupí drinky (Vikramovi Naškarský džus) a společně plánují, jak se dostat ke koze. Nakonec se rozhodnou, že nejlepší bude získat přístupovou kartu od některého z pirátských důstojníků.
+Silas je zavede do horší čtvrti do putyky *Red Dwarf*, který vede barman [[Orion Vane|Ori]]. Cestou si všimnou, že živý přenos s Aurélií je neustále vysílán na obrazovkách po celém Ostrově. Silas jim koupí drinky (Vikramovi Naškarský džus) a společně plánují, jak se dostat ke koze. Nakonec se rozhodnou, že nejlepší bude získat přístupovou kartu od některého z pirátských důstojníků.
 
 Sledují jednoho z důstojníků od hlavních dveří až do garáže se speedery, kde má tajnou schůzku s mechanikem. Vpadnou dovnitř, což piráta rozzuří, protože jednání mělo být tajné. Vikram a Silas mu úspěšně vyhrožují, nechají mu datashard, který měl u sebe, a vezmou si jeho přístupovou kartu.
 
@@ -7706,10 +7808,10 @@ Space Date: 29. května 3162
 Lokace:
   - "[[Gloomwell]]"
 NPCs:
-  - Orion Vane
   - Kael Rurik
   - Livia Volkonn
   - Tarthus Mippo
+  - "[[Orion Vane]]"
 previous: "[[«015» Pirátské loučení]]"
 next: "[[«017» Stará dobrá poctivá práce]]"
 ---
@@ -7760,10 +7862,10 @@ Space Date: 30. května 3162
 Lokace:
   - "[[Gloomwell]]"
 NPCs:
-  - Orion Vane
   - mechanik Jerry
+  - "[[Orion Vane]]"
 previous: "[[«016» Satvikův nos]]"
-next:
+next: "[[«018» Kvalitní káva]]"
 ---
 **30. května 3162, 13:00**
 
@@ -7811,8 +7913,294 @@ Protože nemají kde přespat, zkusí se toulat po ostrově hledat nějaké náh
 
 Tobi se ptá Vikrama, co všechno ví o *Satvicích*. Řekne mu, že to jsou obchodníci a že ho prodali [[Popelavá Legie|Popelavý Legii]]. Jeho otec mu vždy říkával, že je to čest. Řekne mu i o padlém bratrovi a bratrovi Shaktim. Také jim řekne, že i tadé asi obchodovali. Jejich základna je jejich loď, tam se Vikram také narodil. Tobi mu řekne, že hledá blízkou osobu, kterou si vzali "Satvikové". Předpokládá, že šla dobrovolně. Sati Vikramovi něco dluží, zachráníl ho prý z prekérní situace. Sati je leader Satviků. Tobi říká, že by mohli pomoci jim všem. Vikram se zmíní, že Sati asi neví o tom, že utekl od Legie a to by se mu nemuselo líbít. Jejich loď je [[Tau-Class]] [[Křižník]], dost velká, aby zastrašila piráty. [[Vojta - Vikram Vox|Vik]] se zeptá, kdo byla ta blízká osoba. [[Domča - Tobias Flynn|Tobi]] po chvíli přemýšlení řekne, že je to jeho matka. Naposledy slyšel, že Satvikové navštívili jeho domovský systém a vzali jí s sebou. Kdysi prý byla kapitánka obchodní lidi, také uměla dobře vyjednávat, říkali jí *Hvězdná liška*.
 
-Dlouze si popovídají, takže mezitím *Ori* stihne v 11 otevřít bar. "*Vy teda vypadáte. Já taky moc nespal. Pořád jsem koukal, jestli se zaktivoval krystal a pořád nic. Tak co s Váma. Slíbil jsem Vám, že vás spojím s  nějakejma starejma psama, ale můj signál nikde.*" [[Falkon - Iskandar Mashinkar|Iško]] a [[Domča - Tobias Flynn|Tobi]] si dá light pivo - 3Σ, [[Vojta - Vikram Vox|Vik]] naškarský džus - 9Σ. Nechá je se tam opláchnout. [[Domča - Tobias Flynn|Tobi]] s Vikramovým munitions kitem opraví svůj [[Turgall Horizon|Horizon]] na 3/3 - Ob. 2. Dají si ještě jednu rundu a on jim řekne kam zajít - kontakt je jeho známý Darrun Mugrost, potřebuje nějaký vocasy, co mu to tam pomůžou vymést. Něco mu tam řere elektroniku a kabely. Dá jim Jeho adresu a gravírovanou minci se spirálou a dvěma kruhy.
+Dlouze si popovídají, takže mezitím *Ori* stihne v 11 otevřít bar. "*Vy teda vypadáte. Já taky moc nespal. Pořád jsem koukal, jestli se zaktivoval krystal a pořád nic. Tak co s Váma. Slíbil jsem Vám, že vás spojím s  nějakejma starejma psama, ale můj signál nikde.*" [[Falkon - Iskandar Mashinkar|Iško]] a [[Domča - Tobias Flynn|Tobi]] si dá light pivo - 3Σ, [[Vojta - Vikram Vox|Vik]] naškarský džus - 9Σ. Nechá je se tam opláchnout. [[Domča - Tobias Flynn|Tobi]] s Vikramovým munitions kitem opraví svůj [[Turgall Horizon|Horizon]] na 3/3 - Ob. 2. Dají si ještě jednu rundu a on jim řekne kam zajít - kontakt je jeho známý Darrun Mugrost, potřebuje nějaký vocasy, co mu to tam pomůžou vymést. Něco mu tam žere elektroniku a kabely. Dá jim Jeho adresu a gravírovanou minci se spirálou a dvěma kruhy.
 
 Nejdřív ale vyrazí na tržiště. Cena za [[Trauma Stabilizátor]] je kolem 300Σ. Koupí si za 40Σ krabičku 20ks [[13.HC]] nábojů.
 
 **31. května 3162, 15:00**
+
+
+# Vypravěč\Zápisy\«018» Kvalitní káva.md
+
+---
+
+---
+Game Date: 16. září 2025
+Space Date: 31. května 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Darrun Mugrost]]"
+previous: "[[«017» Stará dobrá poctivá práce]]"
+next: "[[«019» Vynést odpadky]]"
+---
+**31. května 3162, 15:00**
+
+Vyrazí z tržiště za Darrunem Mugrostem. Jeho dům je podivná chatrč z panelů vesmírných lodí, ale vevnitř je to celkem útulné. I když většina nábytku je asi kradená. Zamává na ně upravenou [[ADS R-60]], ale když mu ukáží minci, pustí je dovnitř.
+
+Darrun jim vevnitř dá dávno ukradené pivo, poté co jim nabídne nědo k pití. Pivu nic není, je opravdu kvalitní, jen staré.
+
+Skupině dá 3x [[Blackstar Flame++|Flame++]] plus jeden kanystr plynu navíc Iškovi, Vikramovi svítilnu a Iškovi kávovar jako návnadu. Zatímco si dají vařit kafe, najde Vikram kus čerstvého slizu. Iško si včas uvědomí, že nepřítel je na stropě. Uskočí stranou a ze stropu spadne slizák, kterého zlikvidují plamenomety. Vikram zjistí, že po plamenem nepřítel i jeho sliz vyschne v hydrogel.
+
+Tobi vypije asi litr kvalitní pirátské kávy (později mu přidává AP).
+
+Otevřou dveře mechanickou pojistkou a silou, jen aby viděli že uvnitř místnosti je hromada slizáků. Ti se do nich pustí. Slizáci se pohybují pomalu, dokud pod sebou nevytvoří sliz. Navíc se kombinují do většího, silnějšího ale pomalejšího slizáka.
+
+Nakonec zůstane stát slizák složený z osmi malých, proti poraněnému [[Falkon - Iskandar Mashinkar|Iškovi]], [[Vojta - Vikram Vox|Vikovi]] a [[Domča - Tobias Flynn|Tobimu]]. Iško po velké ráně padne (vůle žít úspěch), poté Vikram a nakonec i Tobi. Ani jeden z nich neobdrží zranění, které by je zabilo, ale slizík s posledním HP si začne cpát Vikrama do huby. Vikram z posledních sil vytáhne mačetu a když uvidí slizákovi orgány, tne do nich. Slizák se sesune k zemi a skupina také.
+
+
+# Vypravěč\Zápisy\«019» Vynést odpadky.md
+
+---
+
+---
+Game Date: 22. září 2025
+Space Date: 31. května 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Darrun Mugrost]]"
+  - "[[Paradox]]"
+previous: "[[«018» Kvalitní káva]]"
+next: "[[«020»]]"
+---
+**31. května 3162, 19:00**
+
+Skupina leží na chladné kovové podlaze [[Darrun Mugrost|Darrunova]] sklepa. Vítězství je hořké, téměř k nerozeznání od porážky. Ale přežili jste. O jeden Vikramův odvážný čin. Každý nádech pálí v plicích, každý pohyb je agónií. Kolem vás pomalu schne a tvrdne sliz poražených monster, jeho organický zápach se mísí s pachem spáleného paliva z plamenometů a krve. Jste na pokraji sil, sotva schopni zvednout hlavu. Ticho, které následuje po chaosu boje přehlušuje krev pulzující v uších. Čekáte. Na Darruna, na pomoc, na cokoli. Nic se neděje. Absolutní bezmoc.
+
+Vikramova svítilna, jediný zdroj světla v místnosti, několikrát slabě zabliká, její paprsek slábne, až nakonec úplně zhasne. Obklopí vás naprostá tma. V té temnotě, kde jediným zvukem je váš vlastní namáhavý dech a tlukot srdce, se začnou vynořovat vzpomínky.
+
+
+> **[[Falkon - Iskandar Mashinkar|Iskandar Mashinkar]]** = Julian Creed
+> Chladný kov pod zády se mění v drsný, zrezivělý plech. Otevřeš oči a klečíš před masivním, sotva fungujícím zavlažovacím čerpadlem. Fialové světlo hydroponických lamp odhaluje spleť trubek a vadnoucích rostlin.
+> **Viky:** (přistoupí k tobě, v ruce drží hrnek se slabým čajem) _„Juliane? Zlato? Pojď si na chvíli odpočinout. Dřeš se na tom už celý den.“_
+> **Julian (Iško):** (může odpovědět, vzít si čaj)
+> **Viky:** (povzdechne si a ukáže na vadnoucí sazenice) _„Tlak je skoro na nule. Sazenice na konci skleníků jsou úplně suché, bez vody do zítra nepřežijí.“_ (posadí se se svým čajem vedle něj) _„Víš, jak jsem byla včera ve městě pro zásoby… mluvil se mnou jeden pán. Velice slušný. Říkal, že jeho společnost hledá lidi jako ty. Prý by pro tebe měl nějakou nabídku… nechal tu vizitku.“_ (ukáže malou, kovovou kartičku s nápisem Genesis Solutions)
+> 
+> Julian se zvedne a pustí se do opravy. Po krátké diagnostice zjistí, že hlavní napájecí cívka je spálená. Náhradní díly nejsou. **Repair / Engineering**. Mohl by ale použít supravodiví kabel ze světel, výměníku vzduchu nebo z topení domu. *(Pokusí se improvizovat a přemostit cívku kabelem z jiného systému. Je to riskantní, ale jediná možnost. Ať už se rozhodne obětovat osvětlení, recyklátor vzduchu, nebo topení, po chvíli usilovné práce se mu to podaří.)*
+> 
+> **Viky:** _(s úlevou ho obejme)_ "Dokázal jsi to! Ty vždycky všechno dokážeš!"
+>
+> (V tom se ale ozve zapraskání a z jiné části stroje vyšlehne jiskra. Tlak opět klesne na nulu. Je konec. Julian se poraženě opře o studený kov. V tu chvíli se ozve zvonek u dveří.)
+>
+> **Elias Vancock:** (muž v dokonale čistém obleku) *"Pane Creede? Jmenuji se Elias Vancock, Genesis Solutions."* odkašle si a upraví sako *"Vidím, že se tady je práce jak ve vesmírném doku* (rozhlédne se). *O to se staráte sám? Působivé. Vaše dovednosti jsou nesporné. Moje společnost vám může poskytnou skvělou příležitost, jak zaopatřit vaši rodinu, Vaše milované. Nabízíme vám nový začátek. Aby vaše rodina nemusela už nikdy strádat."*
+
+> **[[Domča - Tobias Flynn]]** = Kaito Ishikawa
+> Tma se rozplývá ve světle zářivek kuchyně. Místo smradu cítíš vůni zázvoru a sečuánského pepře. Stojíš ve své kuchyni na palubě nákladní lodi. Na nářadí i hrncích je vyražený reliéf s názvem lodi, _Tidal's Reach_. Za tebou se ozvá známý hlas. *Kenji*, napadne Tě. Jen nevíš proč.
+> **Kenji:** (mladý navigátor vběhne dovnitř, oči mu září) _"Kaito! Teda tady to voní. Kapitán bude čumět. Už jsme ho zavolali a všichni se už schází v jídelně! Máš dort? Teda, vypadá dobře."_ řekne mladík, zatímco kouká do lednice.
+> 
+> Před tebou stojí kotel vývaru. Právě se chystáš přidat do vroucího vývaru tu nejvzácnější ingredienci – plátky lunární houby, které musí být orestovány na přesně 182 stupních. Pak už jen stačí zakápnout pravým sezamovým olejem.
+> 
+> Když se mu to podaří, donese s Kenjim vývar do jídelny, kde sedí dalších 11 členů posádky. Kenji nese tác s nudlemi, houbami, zeleninou. Všichni začnou tleskat. Nakonec přijde sám kapitán. Zamáčkne slzu: *To jste nemuseli.* (zaspívají happy birthday to you, captain Sato) sotva kapitán přichne k vývaru, ozve se rána a loď se otřese. *Všichni v klidu! Kenji, okamžitě prověř nákladový prostor! Přišlo mi, že to byla rána zespodu.*
+> 
+> Z chodby se ozve výstřel. Kenji zakřičí. Do jídelny vtrhnou dva piráti. Jsi pro ně jen překážka. Snadno tě odzbrojí a srazí k zemi. Ležíš bezmocně mezi rozlitým vývarem a zničenými sny. Piráti začnou střílet. Většina posádky nemá šanci. Když ve vzduchu zůstane jen smrad střelného prachu, jeden z pirátů se nakloní přes stůl na vzácný vývar. _Tak to mi poser. Ty si nakládali držky. Hádám, že tahle loď bude napakovaná kreditama až pod střechu..._
+> 
+> Podlaha se pod tebou propadne. Sedíš na tvrdé kovové židli v uprchlickém centru. Tvoje vesmírná rodina je pryč. Citíš uvnitř strašné svíravé pocity. Tiskneš si k sobě kolena, až máš klouby úplně bílé. Vedle si přisedne pohledná, dobře upravená žena v černém kostýmku. _"Pane Ishikawo, slyšela jsem, co se stalo. Hrozné, opravdu hrozné. Ta bezmoc, kterou jste prožil... Ale také vím, jak pro vás nemalý plat na Tidal's Reach byl důležitý. Ztratil jste svou posádku, svou rodinu ve vesmíru. Ale vaše pravá rodina Vás stále potřebuje. Jejich léčba je nákladná, vím. Ale my můžeme pomoci. Nejenom, že vám za spolupráci můžeme dobře zaplatit, ale také bychom mohli vám i vašim rodičům zařídit léčbu. Nákladnou a dlouhou, pravda,  ale funkční. Měl byste chvíli, abychom probrali detaily? Jmenuji se Byllara Twainová, Genesis Solutions."_ odkašle si a upraví sako.
+
+> **[[Vojta - Vikram Vox]]** = Morbin Wexler
+> Skřípění kovu se mění v pískot zpětné vazby. Jsi v zákulisí baru _Neon Drift_, vzduch je plný napětí a je slyšet šum ze sálu. Hubená blondýna, oblečený ve vyzývavém černorůžovém kombiné. 
+> 
+> **Wayleen:** (tvoje zpěvačka, na tebe křičí) _"Ten zesilovač zase chrčí! Dala jsem ti všechny peníze na novej a ty přineseš tenhle šmejd z bazaru! Kde je zbytek peněz, Morbine? Zas si je prochlastal?_
+> 
+> hádají se
+> 
+> **Wayleen:** _"Tahle sračka z bazaru co si koupil je k ničemu! Jestli se ti se mnou vystupovat nelíbí, můžeš si celý set odzpívat sám!"_
+> 
+> Show musí pokračovat. Ať už hraješ sám nebo s naštvanou Wayleen, je to katastrofa. Ta si bude chtít vzít většinu výplaty, protože jí dlužíš za zesilovač. Po "koncertě" tě v temné uličce obstoupí tři postavy.
+> 
+> **gangster:** _(ušklíbne se)_ "Morbine, Morbine. Pěkná písnička. Ale nájem nezaplatí. A ani tvůj dluh."
+> 
+> (Pokusíš se je ukecat, ale marně. Dva tě chytí a drží.)
+> 
+> **gangster:** _"Umělec potřebuje prsty, že? Pár ti jich nechám, abys měl čím drnkat. Ale taky abys pochopil, že to myslíme vážně."_ (Ozve se odporné křupnutí. Bolest je oslepující.
+> 
+> 
+> O pár dní později stojíš v chodbě před svým bytem. Věci v pytlích opřené o dveře, zámek vyměněný, noha v ortéze. Smutně vezmeš svoje věci a vyjdeš před dům. Na ulici čeká elegantní muž v drahém kabátě s odznakem) _"Pane Wexlere? Tady! Pane Wexlere, koukám, že máte těžké časy. Pojďte se na chvíli posadit._ Otevře mu dveře speederu. "*Jmenuji se Elias Vancock, Genesis Solutions.*" odkašle si a upraví sako. *"Víte, byl jsem na vašem koncertě, v hale Event Horizon. Málokdo z nezávislé scény se tam podívá, byť jen jako host. Dobrá řeč, mimochodem. A měl bych pro Vás obchodní nabídku. Společnost Genesis Solutions, kterou zastupuji, by vám mohla velmi pomoci. Už nebudete muset žít ve strachu. Víme o vaší dceři v sirotčinci na Aethelu. Ty peníze, co jste jí posílal... budou jí chybět. Vaše dcera bude zaopatřená. Vy dostanete... nový začátek. Daleko od tohohle všeho. Tahle špína je sice pro umělce inspirativní, ale vy máte na víc."*
+
+**1. června 3162, 1:00**
+
+Skupina leží vyčerpaná a těžce zraněná ve sklepě Darruna Mugrosta po boji se slizáky. Očekávají pomoc nebo cokoliv. Konečně se rozsvítí silná světla, o kterých Darrun mluvil. Prudké světlo pálí do očí. Otupuje smysly. Ta svíravá bolest. Ale zakřičet nelze. Kéž by byla znovu tma. Ozve se pravidelné klapání, jak starý pirát jde dolu ze schodů.  *"No doprdele. Tady to vypadá. Zkurvený slizníci. Ale zdá se, že je po nich."* Opatrně projde kolem, prohlédnout místnosti. Pak zkontroluje Tobiho tep. *"Kurva. Asi je i po makáčích. U kapitánovo kamený prdele. Prej to zvládnou levou zadní. Pako ten Ori. Kurva. Vyčistili mi sklep, to se musí nechat. No nic. Jak se říká, co je lepší než dobře odvedená práce? Dobře odvedená práce za kterou nebudu platit."* Uvidí malého slizníka jak ožužlává Vikramovu baterku. Prohledá jim kapsy a dá nějaké vybavení stranou, najde jeden z plamenometů [[Blackstar Flame++|Flame++]] a slizníka sesmahne. Pak na chvíli zmízí za rohem. Darrun něco nakliká do terminálu, a přistaví vedle nich plechový kontejner. *Achjo. Achjo. Tak pojďte vy paka.* Problumlává si při tom. Pak je malou elektrickou ještěrkou nabere a hodí do kontejneru. Dvířka se ze zasyčením zavřou a je cítit, jak se kontejner pohybuje. Ten asi deset minut stojí na místě, než se dá do pohybu. Tma, zápach, zvuk klouzajícího kovu, dunivé nárazy a dezorientace. Konejner se najednou otočí a vy padáte do temnoty. Pád končí tvrdým dopadem do hromady vlhkého, páchnoucího odpadu.
+
+Všude kolem jsou hory odpadků, zbytky jídla, rozbitá elektronika a neidentifikovatelný sliz. V dálce slyší skřípění lisů a vidí blikající varovná světla. Jsou na absolutním fyzickém i psychickém dně. Vyčerpání je ale silnější než odhodlání se pokusit se ke světlům dostat.
+
+**...**
+
+Skupina si vymění pár vět aby ověřili, že žijí. Vymanit se s odpadků je prakticky nemožné. Pravděpodobně je tady čeká smrt. Po mnoha hodinách čekání uslyší speeder a uvidí světlo. "*Zastav. Támhle ty cívky. Budou se hodit jako vyrovnávače napětí.* "*A co je to vedle?*" ...
+
+*U háku z majáku, slyšels to, jak kdyby tu někdo volal?* Skupina prohledávačů odpadků dorazí ke skupině. Objeví se postava v improvizovaném ochranném obleku. Inženýr [[Paradox]] si jich zprvu nevšímá, považuje je za další trosky. Pak se ale jeho pohled zastaví na Iškově tváři. Strhne si dýchací masku. *"Svatá Matko všech obvodů... ta mrtvola vypadá jak Iskandar Mashinkar ze Stellaru?"* ... *"Co tady, u všech čertů, děláš? V síti kolovala zpráva, že ho po tom fiasku se Stellarem sebrali agenti z ABI. Říkalo se, že jsi zmizel."* [[WOSP]] inženýr je zná (nebo alespoň Iška) z pověsti. Má důvod jim pomoci. Pravý Iško byl pro WOSP cenným zdrojem informací (i když neúmyslným), takže jeho "záchrana" má pro komunitu hodnotu. Skupina má cestu ven z odpadků. Inženýr zná tajné cesty a má skrýš.
+
+[[Paradox]], jak si inženýr nechá říkat, je veskrze dobrý, i když zvláštní člověk. Šok z nálezu "Iskandara Mashinkara" rychle přebije jeho profesionální instinkt. S pomocí svých dvou mlčenlivých pomocníků vás opatrně naloží na malý nákladní vznášedlový vozík a přikryje plachtou. Cesta je zmatená a dezorientující; projíždíte zapomenutými servisními tunely, starými nákladovými šachtami a místy, která evidentně nejsou na žádné oficiální mapě Ostrova Sirén. Po zhruba dvaceti minutách jízdy se zastavíte před zdánlivě pevnou stěnou, která je k nerozeznání od okolního zrezivělého kovu. Paradox přiloží ruku na skrytý panel a dveře se s tichým syknutím odsunou stranou.
+
+Není to byt, ale spíše rozlehlá, zapomenutá dílna v jedné z nejstarších sekcí stanice. Prostor je překvapivě čistý a organizovaný, i když působí chaoticky. Jeho spolupracovníci se tiše rozloučí, vyloží náklad a odletí.
+
+Dominuje zde velký pracovní stůl, nad kterým se ve vzduchu vznášejí holografické nákresy a rovnice. Nástroje visí na magnetických lištách v dokonalém pořádku. Všude jsou roztříděné boxy s nápisy jako "Yttriové Cívky (Poškozené)", "Kvantové Stabilizátory" a "Repulzory ke kalibraci". V rohu místnosti je jednoduchá houpací síť, malý hydroponický záhon, ze kterého se line vůně čerstvých bylin (luxus, o kterém se většině obyvatel stanice ani nesní), a terminál napojený na filtrovanou vodu a dávkovač nutriční pasty. Zadní stěnu dílny tvoří masivní, kruhové tlakové dveře, jaké se používají v hangárech pro velké lodě. Jsou hermeticky uzavřené a zjevně nepatří do takto malé dílny. Vedou k nim tlusté energetické kabely. Pokud se zeptáte, Paradox jen mávne rukou: _"Tam nechoďte. Tlakování je tam nespolehlivé. Staré harampádí."_ Za velkými tlakovými dveřmi se skutečně nachází malý, upravený hangár. Paradox ho během let vyčistil a zprovoznil. V něm stojí jeho životní dílo: malá, ošklivá, ale funkční loď jménem _The Free Will_. Je to hybrid sestavený z desítek různých vraků. Původně nebyla schopná FTL letu, ale Paradox do ní zabudoval první funkční, i když extrémně nestabilní, prototyp pohonu **L.I.F.T.** Je to jeho jediná cesta pryč z Ostrova Sirén a zároveň největší tajemství, které se bojí komukoli odhalit. neví o něm ani jeho spolupracovníci.
+
+**5. června 3162, 18:00**
+
+Regenerace +3
+
+Iško 3 HP, Tobi 3HP, Vik 2HP
+
+> Paradox vás uloží na provizorní lůžka a bez ptaní se pustí do práce. Použije automatický med-kit, který aplikuje na vaše zranění desinfekční pěnu a synth-kůži. Jeho pohyby jsou rychlé a efektivní.
+> 
+> **Paradox:** (zatímco ošetřuje Iška) *"Jezte. Pijte. Musíte se zotavit. Těla máte v hrozném stavu. Tohle... tohle je na mě. Nemůžu vás nechat umřít. Zvlášť ne... vás."*
+> 
+> *"Musím se prostě zeptat. Omlouvám se, jestli je to nevhod, ale... ta zpráva o vašem zmizení byla pro projekt L.I.F.T. katastrofa. Myslel jsem si, že je konec. Ale teď jste tady. Musím vědět..."*
+> 
+> A pak to začne. Jeho potlačované nadšení a léta izolace se provalí v nezastavitelném proudu otázek. Nebude čekat na odpovědi, bude spíše přemýšlet nahlas a ověřovat si své teorie na někom, koho považuje za mistra svého oboru.
+> 
+> Technobabble: *Jak jste na Poutníku vyřešili přemostění paliva na tak malém prostoru?Já zkoušel plazmový injektor, ale přehříval se. Musel to být nějaký speciální ventil, nebo snad dezintegrace paliva přímo v komoře? Dělal jsem nějaké výpočty a myslím, že je to možné. Určitě dezintegrace, je to tak? Co ten Flux Core? Unikli nějaké plány, ale není to uplné. To je jen marketing, nebo jste opravdu dokázali stabilizovat kvantovou pěnu pro napájení FTL? Já to věděl. Použili jste na Poutníku standardní slitinu Yttria pro warpové cívky? Nebo je pravda, co se šuškalo o kompozitu s příměsí z vortexanských slitin, které jste našli? To by vysvětlovalo tu neuvěřitelnou efektivitu! Jak jste kalibrovali navigační matici pro skok v gravitační studni? Všechny moje simulace tam kolabují. Museli jste použít prediktivní AI, která modelovala tisíce variant v reálném čase, že ano? Neskutečný. Na to tu nemám hardware. Musel bych se nějak napíchnout na počítač v archivu. A chlazení! Proboha, to chlazení. Subprostorové chladiče strašně velké! Museli jste použít nějakou formu fázového přechodu chladiva, že? Něco, co se v subprostoru vypaří a při výstupu okamžitě kondenzuje? Jak zabráníte kaskádovému selhání, když dojde k protržení warpové bubliny? Při tak nízkém koeficientu odporu magnetické pole samo o sobě nestačí, je tam nějaký kinetický tlumič, který absorbuje tu energii? Museli jste optimalizovat geometrii warpového pole, že? Zploštit ho, aby mělo menší odpor v subprostoru?*
+
+[[Falkon - Iskandar Mashinkar|Iško]] se ptá kdy zmizel? únor - březen 3161. 
+Iško zodpovídá Paradoxovi jeho technické otázky.
+
+**6. června 3162, 8:00**
+
+Druhý den už jsou schopní zvednout se z lůžka. Osprchují se. Paradox v dílně není, nechá je tam bez dozoru. Iško jim řekne, že [[Paradox]] je pravděpodobně někdo, kdo zná jeho manželku, rozhodně ví o spoustu věcí leaknutých ze [[Stellar|Stellaru]]. 
+
+Vypráví si svoje vzpomínky.
+
+>[[Vojta - Vikram Vox|Vikrama]] napadne, že pokud nějaká shady organizace chtěla zvednout svůj vliv ve vesmíru, hodilo by se mít lidi z [[Alianční úřad pro vyšetřování|ABI]], [[Alianční Armáda|AA]] a [[Stellar|Stellaru]]. 
+
+ Přemýšlí co se stalo? Možná nedokončený experiment. Sloučené skilly a vzpomínky v každém z nich? Těžko říci. 
+
+**6. června 3162, 15:00**
+
+ Když se [[Paradox]] vrátí, Virkam se zeptá kde jsou. Paradox odpoví, že jsou v útrobách starého freigheteru, do kterého tečou splašky a odpadky z celého [[Gloomwell|Ostrova Sirén]]. 
+ 
+ Zprávy ve WOSP designech.
+ 
+ > *HHracer_IX* se od 24.2. 3161 neukázal na žádném závodním fóru.
+ > 
+ > Lidi tu mizí. Stellar čistka. Sledujte kanály.
+ > 
+ > *HHracer_IX* šel příliš hluboko do systémů firmy a narazil na zakázané projekty. Přecednictvo se o něj postaralo. Poutník přesunut do jiného týmu.
+ > 
+ > *HHracer_IX* byl zabit na průzkumné misi, aby zakryli, že ho ve skutečnosti „odklidila“ ABI.
+
+
+# Vypravěč\Zápisy\«020».md
+
+---
+
+---
+Game Date: 20. září 2025
+Space Date: 6. června 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Paradox]]"
+previous: "[[«019» Vynést odpadky]]"
+next:
+---
+**31. května 3162, 19:00**
+
+Skupina leží na chladné kovové podlaze [[Darrun Mugrost|Darrunova]] sklepa. Vítězství je hořké, téměř k nerozeznání od porážky. Ale přežili jste. O jeden Vikramův odvážný čin. Každý nádech pálí v plicích, každý pohyb je agónií. Kolem vás pomalu schne a tvrdne sliz poražených monster, jeho organický zápach se mísí s pachem spáleného paliva z plamenometů a krve. Jste na pokraji sil, sotva schopni zvednout hlavu. Ticho, které následuje po chaosu boje přehlušuje krev pulzující v uších. Čekáte. Na Darruna, na pomoc, na cokoli. Nic se neděje. Absolutní bezmoc.
+
+Vikramova svítilna, jediný zdroj světla v místnosti, několikrát slabě zabliká, její paprsek slábne, až nakonec úplně zhasne. Obklopí vás naprostá tma. V té temnotě, kde jediným zvukem je váš vlastní namáhavý dech a tlukot srdce, se začnou vynořovat vzpomínky.
+
+
+> **[[Falkon - Iskandar Mashinkar|Iskandar Mashinkar]]** = Julian Creed
+> Chladný kov pod zády se mění v drsný, zrezivělý plech. Otevřeš oči a klečíš před masivním, sotva fungujícím zavlažovacím čerpadlem. Fialové světlo hydroponických lamp odhaluje spleť trubek a vadnoucích rostlin.
+> **Viky:** (přistoupí k tobě, v ruce drží hrnek se slabým čajem) _„Juliane? Zlato? Pojď si na chvíli odpočinout. Dřeš se na tom už celý den.“_
+> **Julian (Iško):** (může odpovědět, vzít si čaj)
+> **Viky:** (povzdechne si a ukáže na vadnoucí sazenice) _„Tlak je skoro na nule. Sazenice na konci skleníků jsou úplně suché, bez vody do zítra nepřežijí.“_ (posadí se se svým čajem vedle něj) _„Víš, jak jsem byla včera ve městě pro zásoby… mluvil se mnou jeden pán. Velice slušný. Říkal, že jeho společnost hledá lidi jako ty. Prý by pro tebe měl nějakou nabídku… nechal tu vizitku.“_ (ukáže malou, kovovou kartičku s nápisem Genesis Solutions)
+> 
+> Julian se zvedne a pustí se do opravy. Po krátké diagnostice zjistí, že hlavní napájecí cívka je spálená. Náhradní díly nejsou. **Repair / Engineering**. Mohl by ale použít supravodiví kabel ze světel, výměníku vzduchu nebo z topení domu. *(Pokusí se improvizovat a přemostit cívku kabelem z jiného systému. Je to riskantní, ale jediná možnost. Ať už se rozhodne obětovat osvětlení, recyklátor vzduchu, nebo topení, po chvíli usilovné práce se mu to podaří.)*
+> 
+> **Viky:** _(s úlevou ho obejme)_ "Dokázal jsi to! Ty vždycky všechno dokážeš!"
+>
+> (V tom se ale ozve zapraskání a z jiné části stroje vyšlehne jiskra. Tlak opět klesne na nulu. Je konec. Julian se poraženě opře o studený kov. V tu chvíli se ozve zvonek u dveří.)
+>
+> **Elias Vancock:** (muž v dokonale čistém obleku) *"Pane Creede? Jmenuji se Elias Vancock, Genesis Solutions."* odkašle si a upraví sako *"Vidím, že se tady je práce jak ve vesmírném doku* (rozhlédne se). *O to se staráte sám? Působivé. Vaše dovednosti jsou nesporné. Moje společnost vám může poskytnou skvělou příležitost, jak zaopatřit vaši rodinu, Vaše milované. Nabízíme vám nový začátek. Aby vaše rodina nemusela už nikdy strádat."*
+
+> **[[Domča - Tobias Flynn]]** = Kaito Ishikawa
+> Tma se rozplývá ve světle zářivek kuchyně. Místo smradu cítíš vůni zázvoru a sečuánského pepře. Stojíš ve své kuchyni na palubě nákladní lodi. Na nářadí i hrncích je vyražený reliéf s názvem lodi, _Tidal's Reach_. Za tebou se ozvá známý hlas. *Kenji*, napadne Tě. Jen nevíš proč.
+> **Kenji:** (mladý navigátor vběhne dovnitř, oči mu září) _"Kaito! Teda tady to voní. Kapitán bude čumět. Už jsme ho zavolali a všichni se už schází v jídelně! Máš dort? Teda, vypadá dobře."_ řekne mladík, zatímco kouká do lednice.
+> 
+> Před tebou stojí kotel vývaru. Právě se chystáš přidat do vroucího vývaru tu nejvzácnější ingredienci – plátky lunární houby, které musí být orestovány na přesně 182 stupních. Pak už jen stačí zakápnout pravým sezamovým olejem.
+> 
+> Když se mu to podaří, donese s Kenjim vývar do jídelny, kde sedí dalších 11 členů posádky. Kenji nese tác s nudlemi, houbami, zeleninou. Všichni začnou tleskat. Nakonec přijde sám kapitán. Zamáčkne slzu: *To jste nemuseli.* (zaspívají happy birthday to you, captain Sato) sotva kapitán přichne k vývaru, ozve se rána a loď se otřese. *Všichni v klidu! Kenji, okamžitě prověř nákladový prostor! Přišlo mi, že to byla rána zespodu.*
+> 
+> Z chodby se ozve výstřel. Kenji zakřičí. Do jídelny vtrhnou dva piráti. Jsi pro ně jen překážka. Snadno tě odzbrojí a srazí k zemi. Ležíš bezmocně mezi rozlitým vývarem a zničenými sny. Piráti začnou střílet. Většina posádky nemá šanci. Když ve vzduchu zůstane jen smrad střelného prachu, jeden z pirátů se nakloní přes stůl na vzácný vývar. _Tak to mi poser. Ty si nakládali držky. Hádám, že tahle loď bude napakovaná kreditama až pod střechu..._
+> 
+> Podlaha se pod tebou propadne. Sedíš na tvrdé kovové židli v uprchlickém centru. Tvoje vesmírná rodina je pryč. Citíš uvnitř strašné svíravé pocity. Tiskneš si k sobě kolena, až máš klouby úplně bílé. Vedle si přisedne pohledná, dobře upravená žena v černém kostýmku. _"Pane Ishikawo, slyšela jsem, co se stalo. Hrozné, opravdu hrozné. Ta bezmoc, kterou jste prožil... Ale také vím, jak pro vás nemalý plat na Tidal's Reach byl důležitý. Ztratil jste svou posádku, svou rodinu ve vesmíru. Ale vaše pravá rodina Vás stále potřebuje. Jejich léčba je nákladná, vím. Ale my můžeme pomoci. Nejenom, že vám za spolupráci můžeme dobře zaplatit, ale také bychom mohli vám i vašim rodičům zařídit léčbu. Nákladnou a dlouhou, pravda,  ale funkční. Měl byste chvíli, abychom probrali detaily? Jmenuji se Byllara Twainová, Genesis Solutions."_ odkašle si a upraví sako.
+
+> **[[Vojta - Vikram Vox]]** = Morbin Wexler
+> Skřípění kovu se mění v pískot zpětné vazby. Jsi v zákulisí baru _Neon Drift_, vzduch je plný napětí a je slyšet šum ze sálu. Hubená blondýna, oblečený ve vyzývavém černorůžovém kombiné. 
+> 
+> **Wayleen:** (tvoje zpěvačka, na tebe křičí) _"Ten zesilovač zase chrčí! Dala jsem ti všechny peníze na novej a ty přineseš tenhle šmejd z bazaru! Kde je zbytek peněz, Morbine? Zas si je prochlastal?_
+> 
+> hádají se
+> 
+> **Wayleen:** _"Tahle sračka z bazaru co si koupil je k ničemu! Jestli se ti se mnou vystupovat nelíbí, můžeš si celý set odzpívat sám!"_
+> 
+> Show musí pokračovat. Ať už hraješ sám nebo s naštvanou Wayleen, je to katastrofa. Ta si bude chtít vzít většinu výplaty, protože jí dlužíš za zesilovač. Po "koncertě" tě v temné uličce obstoupí tři postavy.
+> 
+> **gangster:** _(ušklíbne se)_ "Morbine, Morbine. Pěkná písnička. Ale nájem nezaplatí. A ani tvůj dluh."
+> 
+> (Pokusíš se je ukecat, ale marně. Dva tě chytí a drží.)
+> 
+> **gangster:** _"Umělec potřebuje prsty, že? Pár ti jich nechám, abys měl čím drnkat. Ale taky abys pochopil, že to myslíme vážně."_ (Ozve se odporné křupnutí. Bolest je oslepující.
+> 
+> 
+> O pár dní později stojíš v chodbě před svým bytem. Věci v pytlích opřené o dveře, zámek vyměněný, noha v ortéze. Smutně vezmeš svoje věci a vyjdeš před dům. Na ulici čeká elegantní muž v drahém kabátě s odznakem) _"Pane Wexlere? Tady! Pane Wexlere, koukám, že máte těžké časy. Pojďte se na chvíli posadit._ Otevře mu dveře speederu. "*Jmenuji se Elias Vancock, Genesis Solutions.*" odkašle si a upraví sako. *"Víte, byl jsem na vašem koncertě, v hale Event Horizon. Málokdo z nezávislé scény se tam podívá, byť jen jako host. Dobrá řeč, mimochodem. A měl bych pro Vás obchodní nabídku. Společnost Genesis Solutions, kterou zastupuji, by vám mohla velmi pomoci. Už nebudete muset žít ve strachu. Víme o vaší dceři v sirotčinci na Aethelu. Ty peníze, co jste jí posílal... budou jí chybět. Vaše dcera bude zaopatřená. Vy dostanete... nový začátek. Daleko od tohohle všeho. Tahle špína je sice pro umělce inspirativní, ale vy máte na víc."*
+
+**1. června 3162, 1:00**
+
+Skupina leží vyčerpaná a těžce zraněná ve sklepě Darruna Mugrosta po boji se slizáky. Očekávají pomoc nebo cokoliv. Konečně se rozsvítí silná světla, o kterých Darrun mluvil. Prudké světlo pálí do očí. Otupuje smysly. Ta svíravá bolest. Ale zakřičet nelze. Kéž by byla znovu tma. Ozve se pravidelné klapání, jak starý pirát jde dolu ze schodů.  *"No doprdele. Tady to vypadá. Zkurvený slizníci. Ale zdá se, že je po nich."* Opatrně projde kolem, prohlédnout místnosti. Pak zkontroluje Tobiho tep. *"Kurva. Asi je i po makáčích. U kapitánovo kamený prdele. Prej to zvládnou levou zadní. Pako ten Ori. Kurva. Vyčistili mi sklep, to se musí nechat. No nic. Jak se říká, co je lepší než dobře odvedená práce? Dobře odvedená práce za kterou nebudu platit."* Uvidí malého slizníka jak ožužlává Vikramovu baterku. Prohledá jim kapsy a dá nějaké vybavení stranou, najde jeden z plamenometů [[Blackstar Flame++|Flame++]] a slizníka sesmahne. Pak na chvíli zmízí za rohem. Darrun něco nakliká do terminálu, a přistaví vedle nich plechový kontejner. *Achjo. Achjo. Tak pojďte vy paka.* Problumlává si při tom. Pak je malou elektrickou ještěrkou nabere a hodí do kontejneru. Dvířka se ze zasyčením zavřou a je cítit, jak se kontejner pohybuje. Ten asi deset minut stojí na místě, než se dá do pohybu. Tma, zápach, zvuk klouzajícího kovu, dunivé nárazy a dezorientace. Konejner se najednou otočí a vy padáte do temnoty. Pád končí tvrdým dopadem do hromady vlhkého, páchnoucího odpadu.
+
+Všude kolem jsou hory odpadků, zbytky jídla, rozbitá elektronika a neidentifikovatelný sliz. V dálce slyší skřípění lisů a vidí blikající varovná světla. Jsou na absolutním fyzickém i psychickém dně. Vyčerpání je ale silnější než odhodlání se pokusit se ke světlům dostat.
+
+**...**
+
+Skupina si vymění pár vět aby ověřili, že žijí. Vymanit se s odpadků je prakticky nemožné. Pravděpodobně je tady čeká smrt. Po mnoha hodinách čekání uslyší speeder a uvidí světlo. "*Zastav. Támhle ty cívky. Budou se hodit jako vyrovnávače napětí.* "*A co je to vedle?*" ...
+
+*U háku z majáku, slyšels to, jak kdyby tu někdo volal?* Skupina prohledávačů odpadků dorazí ke skupině. Objeví se postava v improvizovaném ochranném obleku. Inženýr [[Paradox]] si jich zprvu nevšímá, považuje je za další trosky. Pak se ale jeho pohled zastaví na Iškově tváři. Strhne si dýchací masku. *"Svatá Matko všech obvodů... ta mrtvola vypadá jak Iskandar Mashinkar ze Stellaru?"* ... *"Co tady, u všech čertů, děláš? V síti kolovala zpráva, že ho po tom fiasku se Stellarem sebrali agenti z ABI. Říkalo se, že jsi zmizel."* [[WOSP]] inženýr je zná (nebo alespoň Iška) z pověsti. Má důvod jim pomoci. Pravý Iško byl pro WOSP cenným zdrojem informací (i když neúmyslným), takže jeho "záchrana" má pro komunitu hodnotu. Skupina má cestu ven z odpadků. Inženýr zná tajné cesty a má skrýš.
+
+[[Paradox]], jak si inženýr nechá říkat, je veskrze dobrý, i když zvláštní člověk. Šok z nálezu "Iskandara Mashinkara" rychle přebije jeho profesionální instinkt. S pomocí svých dvou mlčenlivých pomocníků vás opatrně naloží na malý nákladní vznášedlový vozík a přikryje plachtou. Cesta je zmatená a dezorientující; projíždíte zapomenutými servisními tunely, starými nákladovými šachtami a místy, která evidentně nejsou na žádné oficiální mapě Ostrova Sirén. Po zhruba dvaceti minutách jízdy se zastavíte před zdánlivě pevnou stěnou, která je k nerozeznání od okolního zrezivělého kovu. Paradox přiloží ruku na skrytý panel a dveře se s tichým syknutím odsunou stranou.
+
+Není to byt, ale spíše rozlehlá, zapomenutá dílna v jedné z nejstarších sekcí stanice. Prostor je překvapivě čistý a organizovaný, i když působí chaoticky. Jeho spolupracovníci se tiše rozloučí, vyloží náklad a odletí.
+
+Dominuje zde velký pracovní stůl, nad kterým se ve vzduchu vznášejí holografické nákresy a rovnice. Nástroje visí na magnetických lištách v dokonalém pořádku. Všude jsou roztříděné boxy s nápisy jako "Yttriové Cívky (Poškozené)", "Kvantové Stabilizátory" a "Repulzory ke kalibraci". V rohu místnosti je jednoduchá houpací síť, malý hydroponický záhon, ze kterého se line vůně čerstvých bylin (luxus, o kterém se většině obyvatel stanice ani nesní), a terminál napojený na filtrovanou vodu a dávkovač nutriční pasty. Zadní stěnu dílny tvoří masivní, kruhové tlakové dveře, jaké se používají v hangárech pro velké lodě. Jsou hermeticky uzavřené a zjevně nepatří do takto malé dílny. Vedou k nim tlusté energetické kabely. Pokud se zeptáte, Paradox jen mávne rukou: _"Tam nechoďte. Tlakování je tam nespolehlivé. Staré harampádí."_ Za velkými tlakovými dveřmi se skutečně nachází malý, upravený hangár. Paradox ho během let vyčistil a zprovoznil. V něm stojí jeho životní dílo: malá, ošklivá, ale funkční loď jménem _The Free Will_. Je to hybrid sestavený z desítek různých vraků. Původně nebyla schopná FTL letu, ale Paradox do ní zabudoval první funkční, i když extrémně nestabilní, prototyp pohonu **L.I.F.T.** Je to jeho jediná cesta pryč z Ostrova Sirén a zároveň největší tajemství, které se bojí komukoli odhalit. neví o něm ani jeho spolupracovníci.
+
+**5. června 3162, 18:00**
+
+Regenerace +3
+
+Iško 3 HP, Tobi 3HP, Vik 2HP
+
+> Paradox vás uloží na provizorní lůžka a bez ptaní se pustí do práce. Použije automatický med-kit, který aplikuje na vaše zranění desinfekční pěnu a synth-kůži. Jeho pohyby jsou rychlé a efektivní.
+> 
+> **Paradox:** (zatímco ošetřuje Iška) *"Jezte. Pijte. Musíte se zotavit. Těla máte v hrozném stavu. Tohle... tohle je na mě. Nemůžu vás nechat umřít. Zvlášť ne... vás."*
+> 
+> *"Musím se prostě zeptat. Omlouvám se, jestli je to nevhod, ale... ta zpráva o vašem zmizení byla pro projekt L.I.F.T. katastrofa. Myslel jsem si, že je konec. Ale teď jste tady. Musím vědět..."*
+> 
+> A pak to začne. Jeho potlačované nadšení a léta izolace se provalí v nezastavitelném proudu otázek. Nebude čekat na odpovědi, bude spíše přemýšlet nahlas a ověřovat si své teorie na někom, koho považuje za mistra svého oboru.
+> 
+> Technobabble: *Jak jste na Poutníku vyřešili přemostění paliva na tak malém prostoru?Já zkoušel plazmový injektor, ale přehříval se. Musel to být nějaký speciální ventil, nebo snad dezintegrace paliva přímo v komoře? Dělal jsem nějaké výpočty a myslím, že je to možné. Určitě dezintegrace, je to tak? Co ten Flux Core? Unikli nějaké plány, ale není to uplné. To je jen marketing, nebo jste opravdu dokázali stabilizovat kvantovou pěnu pro napájení FTL? Já to věděl. Použili jste na Poutníku standardní slitinu Yttria pro warpové cívky? Nebo je pravda, co se šuškalo o kompozitu s příměsí z vortexanských slitin, které jste našli? To by vysvětlovalo tu neuvěřitelnou efektivitu! Jak jste kalibrovali navigační matici pro skok v gravitační studni? Všechny moje simulace tam kolabují. Museli jste použít prediktivní AI, která modelovala tisíce variant v reálném čase, že ano? Neskutečný. Na to tu nemám hardware. Musel bych se nějak napíchnout na počítač v archivu. A chlazení! Proboha, to chlazení. Subprostorové chladiče strašně velké! Museli jste použít nějakou formu fázového přechodu chladiva, že? Něco, co se v subprostoru vypaří a při výstupu okamžitě kondenzuje? Jak zabráníte kaskádovému selhání, když dojde k protržení warpové bubliny? Při tak nízkém koeficientu odporu magnetické pole samo o sobě nestačí, je tam nějaký kinetický tlumič, který absorbuje tu energii? Museli jste optimalizovat geometrii warpového pole, že? Zploštit ho, aby mělo menší odpor v subprostoru?*
+
+[[Falkon - Iskandar Mashinkar|Iško]] se ptá kdy zmizel? únor - březen 3161. 
+Iško zodpovídá Paradoxovi jeho technické otázky.
+
+**6. června 3162, 8:00**
+
+Druhý den už jsou schopní zvednout se z lůžka. Osprchují se. Paradox v dílně není, nechá je tam bez dozoru. Iško jim řekne, že [[Paradox]] je pravděpodobně někdo, kdo zná jeho manželku, rozhodně ví o spoustu věcí leaknutých ze [[Stellar|Stellaru]]. 
+
+Vypráví si svoje vzpomínky.
+
+>[[Vojta - Vikram Vox|Vikrama]] napadne, že pokud nějaká shady organizace chtěla zvednout svůj vliv ve vesmíru, hodilo by se mít lidi z [[Alianční úřad pro vyšetřování|ABI]], [[Alianční Armáda|AA]] a [[Stellar|Stellaru]]. 
+
+ Přemýšlí co se stalo? Možná nedokončený experiment. Sloučené skilly a vzpomínky v každém z nich? Těžko říci. 
+ 
+ Když se [[Paradox]] vrátí, Virkam se zeptá kde jsou. Paradox odpoví, že jsou v útrobách starého freigheteru, do kterého tečou splašky a odpadky z celého [[Gloomwell|Ostrova Sirén]]. 
+ 
+ Zprávy ve WOSP designech.
+ 
+ > *HHracer_IX* se od 24.2. 3161 neukázal na žádném závodním fóru.
+ > 
+ > Lidi tu mizí. Stellar čistka. Sledujte kanály.
+ > 
+ > *HHracer_IX* šel příliš hluboko do systémů firmy a narazil na zakázané projekty. Přecednictvo se o něj postaralo. Poutník přesunut do jiného týmu.
+ > 
+ > *HHracer_IX* byl zabit na průzkumné misi, aby zakryli, že ho ve skutečnosti „odklidila“ ABI.

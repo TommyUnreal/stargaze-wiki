@@ -29,7 +29,9 @@
       * [[Thalion Grayman]]
       * [[Valerius]]
   * Ostrov Sirén
+      * [[Darrun Mugrost]]
       * [[Orion Vane]]
+      * [[Paradox]]
       * [[Solomon Garr]]
 * Poznámky
     * [[Aktuální burza odměn]]
@@ -38,3 +40,4 @@
 * Znalosti
     * [[Navigace ve Stargaze galaxii]]
 * Zápisy
+    * [[!001 Záhadný případ]]

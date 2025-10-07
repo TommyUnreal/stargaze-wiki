@@ -20,5 +20,7 @@
     * [[Thalion Grayman]]
     * [[Valerius]]
 * Ostrov Sirén
+    * [[Darrun Mugrost]]
     * [[Orion Vane]]
+    * [[Paradox]]
     * [[Solomon Garr]]

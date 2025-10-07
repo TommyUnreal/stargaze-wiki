@@ -13,7 +13,7 @@ Viz [[Odměna za Souboj]]
 | 7     | 71  | 1          | +1 zaznamenaná **Persona** (k vybrané schopnosti)                    |
 | 8     | 77  | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**                |
 | 9     | 42  | 3          | **Routine check** (shopnost/stat nemusely být použity v souboji)     |
-| 10    | 95  | 2          | Postřeh. **+5 AP do první akce příštího souboje.**                   |
+| 10    | 95  | 3          | Postřeh. **+5 AP do první akce příštího souboje.**                   |
 | 11    | 75  | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**                |
 | 12    | 19  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)           |
 | 13    | 52  | 8          | **Challenging check** (shopnost/stat nemusely být použity v souboji) |
