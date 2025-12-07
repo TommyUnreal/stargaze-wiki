@@ -5,7 +5,13 @@ Navigační systém Stargaze galaxie využívá modifikované karteziánské sou
 - **Rovina X-Y** je definována polohou tří ze čtyř centrálních světů ([[Lucentia]], [[Emporia]] a [[Hyperion]]).
 - **Osa Z** je kolmá na rovinu X-Y, s pozitivními hodnotami směřujícími k systému [[Anastasis]].
 
-Každý hvězdný systém má jedinečnou trojici souřadnic udávaných v _světelných letech_ (ly) od počátku. Pro praktické účely se běžně používá zkrácený zápis ve formátu _LUC-X/Y/Z_, kde první tři písmena označují nejbližší referenční bod (zpravidla právě počátek souřadnic, systém [[Lucentia]]).
+Každý hvězdný systém má jedinečnou trojici souřadnic udávaných v _světelných letech_ (ly) od počátku. Pro praktické účely se běžně používá zkrácený zápis ve formátu `LUC-aXbYcZ`, který se skládá z následujících částí:
+
+- **LUC:** Prefix označující nejbližší referenční bod (zpravidla právě počátek souřadnic, systém [[Lucentia]]).
+- **a, b, c:** Jednopísmenný kód pro osu, který určuje znaménko. **P** se používá pro pozitivní hodnotu (nebo nulu) a **N** pro negativní hodnotu.
+- **X, Y, Z:** Číselná hodnota souřadnice na dané ose.
+
+Příkladem zápisu je **LUC-P1P3P7** (pro systém se souřadnicemi X=1, Y=3, Z=7) nebo **LUC-P70.35N90.998P35.168** (pro systém X=71.35, Y=-90.998, Z=35.168).
 
 ## Sférická organizace prostoru
 Stargaze galaxie je pro administrativní, navigační a bezpečnostní účely rozdělena do čtyř koncentrických sfér se středem v [[Lucentia|Lucentii]].

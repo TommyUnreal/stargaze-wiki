@@ -11,5 +11,7 @@ Původ  *"Creds"* či *"Sigmáčů"* sahá do počátků kolonií na vnějším 
 
 ## Forma
 Kredity jsou velmi dobře chráněné proti padělání a na jejich konstrukci se podílí největší organizované skupiny v podsvětí. Na druhou stranu, *mince* samotné *nejsou nijak číslované či značené* a proto preferovanou formou platby mezi pašeráky, piráty, gangstery a všemi, kdo s nimi i třeba nepřímo obchodují.
+
+Koluje urban-legend, že u kreditů lze ověřit jeho pravost skrytým hashem. Není však známo, jak toto číslování funguje.
 ## Stabilita
 Vesmírné kredity nemají žádnou formu centrálního řízení. Jejich hodnota je udržována především *čilým obchodem a výměnou ovládanou překupníky* na širokém území. Ti vyvažují výkyvy v nabídce a poptávce a udržují měnu v oběhu. Přesto na centrálních světech mají kredity často nezaslouženou pověst volatilní a nestabilní měny, což má být důsledek nedostatku regulace a transparentnosti v transakcích. Je ovšem pravdou, že směnné kurzy jsou vždy přibližné a obchodní transakce leckdy pochybné.

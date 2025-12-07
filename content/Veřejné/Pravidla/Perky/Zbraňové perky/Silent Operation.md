@@ -1,0 +1,1 @@
+Tato vibrozbraň používá neslyšitelné frekvence a je vhodné pro stealth útoky.

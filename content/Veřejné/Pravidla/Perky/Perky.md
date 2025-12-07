@@ -11,6 +11,7 @@
     * [[Ochromující střela]]
     * [[Paralyzer]]
     * [[Shaky But Loud]]
+    * [[Silent Operation]]
     * [[Spitfire]]
     * [[Trigger & Pray]]
     * [[Ultrasonic Cut]]

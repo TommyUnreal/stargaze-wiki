@@ -587,28 +587,28 @@ Viz [[Odměna za Souboj]]
 
 ### Nejstarší
 
-| Řádek | Hod | Cena [exp] | Popis                                                                |
-| ----- | --- | ---------- | -------------------------------------------------------------------- |
-| 1     | 7   | 1          | **Routine check** (shopnost/stat byly použity v souboji)             |
-| 2     | 61  | 2          | +1 **Persona**                                                       |
-| 3     | 72  | 1          | +1 zaznamenaná **Persona** (k vybrané schopnosti)                    |
-| 4     | 30  | 5          | **Challenging check** (shopnost/stat byly použity v souboji)         |
-| 5     | 82  | 2          | Nález munice - v hodnotě - **d6 x 5Σ**                               |
-| 6     | 71  | 1          | +1 zaznamenaná **Persona** (k vybrané schopnosti)                    |
-| 7     | 71  | 1          | +1 zaznamenaná **Persona** (k vybrané schopnosti)                    |
-| 8     | 77  | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**                |
-| 9     | 42  | 3          | **Routine check** (shopnost/stat nemusely být použity v souboji)     |
-| 10    | 95  | 3          | Postřeh. **+5 AP do první akce příštího souboje.**                   |
-| 11    | 75  | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**                |
-| 12    | 19  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)           |
-| 13    | 52  | 8          | **Challenging check** (shopnost/stat nemusely být použity v souboji) |
-| 14    | 91  | 5          | Nález zásob. **Obnov nedávno ztracený kit.**                         |
-| 15    | 22  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)           |
-| 16    | 14  | 1          | **Routine check** (shopnost/stat byly použity v souboji)             |
-| 17    | 51  | 8          | **Challenging check** (shopnost/stat nemusely být použity v souboji) |
-| 18    | 64  | 2          | +1 **Persona**                                                       |
-| 19    | 85  | 5          | Oklepání se. Odstraň si 1 zranění obdržené v tomto souboji.          |
-| 20    | 97  | 5          | Nalezení klíče, přístupového čipu či karty.                          |
+| Řádek | Hod | Cena [exp] | Popis                                                                   |
+| ----- | --- | ---------- | ----------------------------------------------------------------------- |
+| 1     | 75  | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**                   |
+| 2     | 52  | 8          | **Challenging check** (shopnost/stat nemusely být použity v souboji)    |
+| 3     | 91  | 5          | Nález zásob. **Obnov nedávno ztracený kit.**                            |
+| 4     | 22  | 3          | **Difficult check** (shopnost/stat byly použity v souboji)              |
+| 5     | 51  | 8          | **Challenging check** (shopnost/stat nemusely být použity v souboji)    |
+| 6     | 64  | 2          | +1 **Persona**                                                          |
+| 7     | 85  | 5          | Oklepání se. Odstraň si 1 zranění obdržené v tomto souboji.             |
+| 8     | 97  | 5          | Nalezení klíče, přístupového čipu či karty.                             |
+| 9     | 47  | 5          | **Difficult check** (schopnost/stat nemusely být použity v souboji)     |
+| 10    | 97  | 5          | Nalezení klíče, přístupového čipu či karty.                             |
+| 11    | 99  | 1          | Stopy. **+2🎲 na sledování stop z místa boje.**                         |
+| 12    | 35  | 5          | **Challenging check** (schopnost/stat byly použity v souboji)           |
+| 13    | 49  | 5          | **Difficult check** (schopnost/stat nemusely být použity v souboji)     |
+| 14    | 19  | 3          | **Difficult check** (schopnost/stat byly použity v souboji)             |
+| 15    | 21  | 3          | **Difficult check** (schopnost/stat byly použity v souboji)             |
+| 16    | 30  | 5          | **Challenging check** (schopnost/stat byly použity v souboji)           |
+| 17    | 18  | 3          | **Difficult check** (schopnost/stat byly použity v souboji)             |
+| 18    | 29  | 3          | **Difficult check** (schopnost/stat byly použity v souboji)             |
+| 19    | 89  | 2          | Náhradní součástky. **Oprav 1 Integrity vybavení poškozeného v bitvě.** |
+| 20    | 1   | 1          | **Routine check** (schopnost/stat byly použity v souboji)               |
 
 
 
@@ -662,7 +662,13 @@ Navigační systém Stargaze galaxie využívá modifikované karteziánské sou
 - **Rovina X-Y** je definována polohou tří ze čtyř centrálních světů ([[Lucentia]], [[Emporia]] a [[Hyperion]]).
 - **Osa Z** je kolmá na rovinu X-Y, s pozitivními hodnotami směřujícími k systému [[Anastasis]].
 
-Každý hvězdný systém má jedinečnou trojici souřadnic udávaných v _světelných letech_ (ly) od počátku. Pro praktické účely se běžně používá zkrácený zápis ve formátu _LUC-X/Y/Z_, kde první tři písmena označují nejbližší referenční bod (zpravidla právě počátek souřadnic, systém [[Lucentia]]).
+Každý hvězdný systém má jedinečnou trojici souřadnic udávaných v _světelných letech_ (ly) od počátku. Pro praktické účely se běžně používá zkrácený zápis ve formátu `LUC-aXbYcZ`, který se skládá z následujících částí:
+
+- **LUC:** Prefix označující nejbližší referenční bod (zpravidla právě počátek souřadnic, systém [[Lucentia]]).
+- **a, b, c:** Jednopísmenný kód pro osu, který určuje znaménko. **P** se používá pro pozitivní hodnotu (nebo nulu) a **N** pro negativní hodnotu.
+- **X, Y, Z:** Číselná hodnota souřadnice na dané ose.
+
+Příkladem zápisu je **LUC-P1P3P7** (pro systém se souřadnicemi X=1, Y=3, Z=7) nebo **LUC-P70.35N90.998P35.168** (pro systém X=71.35, Y=-90.998, Z=35.168).
 
 ## Sférická organizace prostoru
 Stargaze galaxie je pro administrativní, navigační a bezpečnostní účely rozdělena do čtyř koncentrických sfér se středem v [[Lucentia|Lucentii]].
@@ -699,6 +705,32 @@ Všechny registrované plavidla podléhají přísným navigačním protokolům 
 - Využívání předepsaných "vesmírných koridorů" v blízkosti obydlených světů.
 - Pravidelná synchronizace navigačních počítačů s centrální databází.
 - Dodržování odstupňovaných bezpečnostních zón kolem planetárních systémů.
+
+
+# Veřejné\Hráčská sekce\Zápisy\!001 Záhadný případ.md
+
+---
+
+---
+Game Date: 3. října 2025
+Space Date: x.x xxxx
+Lokace:
+  - "[[Emporia II]]"
+---
+
+> Soukromí vyšetřovatelé z okraje společnosti, zvyklí na špinavou práci dostanou na stůl nový případ. Zdánlivě jednoduchý. Je to případ pohřešované sedmnáctileté dívky, myslíte si, že to bude rutina. Ztracených dětí v poslední době přibylo, není na tom nic zvláštního, bude stačit obejít pár informátorů. Omyl. Zapeklitý případ vás vrhne přímo do žumpy korporátních lží a konspirací těch nejmocnějších skupin v galaxii.
+> 
+> Očitý svědek vás pošle do starého hangáru Terrace QQ-19, kam dívku údajně odvlekl muž v rudém kabátě. Co ale začne jako rutinní obchůzka, se rychle zvrtne v boj o přežití. To vše v kulisách Emporie II – nablýskaného klenotu Aliance, kde se v deštivých ulicích pod stíny orbitálních výtahů obchoduje s tajemstvími a kde jediný chybný krok může znamenat pád z nejvyššího patra korporátní věže až na samé dno.
+
+![[Kaelen Thorne.jpeg|inlR|250]]![[Corbin Jin.jpg|inlR|250]]![[Kaelen Varro.jpeg|inlR|250]]![[Kenji Roric.jpeg|inlR|250]]
+
+V prachu a ozvěnách opuštěného hangáru Terrace QQ-19. Vzduch je těžký pachem starého oleje a deště bubnujícího na zrezivělou střechu. Tým – **Corbin "Patch" Jin**, **Kaelen "Exabyte" Thorne**, **Kenji "Ricochet" Roric** a **Kaelen "Glitch" Varro** – má v hrsti třesoucího se správce hangáru. Po nátlaku jim odevzdá Maiin tablet. Do hangáru bez varování vtrhne úklidová četa Projektu Chiméra – dvě postavy v černém taktickém vybavení, jejich tváře skryté za helmami. Ty nakonec porazí a opustí hangár i s kamerovými záznamy.
+
+Rozšifrovaná zpráva je zavede do chudinské čtvrti na adrese DW-71. Ukáže se, že zde na Maiu čekají [[Strážci Polaris]], které vede [[Kathrine]]. Od nich se dozvídají pravdu. Maia má schopnosti navigátorky. [[Aliance Centrálních Planet|Aliance]] by jí zkoumala a pravděpodobně rozpytvala její mozek na malé kousky v rámci krutých experimentů. Maia jí ale chce odvézt s ostatními [[Strážci Polaris|strážci]] a její talent rozvíjet. Jeden z vojáků Chiméry však strážce kontaktoval, protože jej dohnalo svědomí. Kathrine je pošle zpět do centra získat informaci, kde se dívka nachází. Tým dorazí do Neon Blood. Bar je plný pochybných existencí, ale tým má chvíli čas vydechnout. Voják chiméry jim předá informaci, že dívku drží v laboratoři *LAB-F6* na 114. podlaží hlavní budovy [[QuantumForge]].
+
+Konečně dorazí do "Srdce Chiméry". Laboratoř je velká, sterilní a chladná. Na konci místnosti je Maia a  **Agent Kapitán Rhian Veles** jí míří na hlavu velkým revolverem: _"Udělali jste spoustu rámusu. Ale teď je čas složit zbraně. Dohodneme se. Aliance vás dobře odmění. Já si nemůžu dovolit tenhle asset ztratit."_ Tyhle slova jsou přesně pro Kenjiho uši. Jeho velké dluhy by záplatu potřebovali. Zradí svůj tým a přidá se k muži s rudým kabátem, hlavě Chiméry. Tajné organizace pod [[Alianční úřad pro vyšetřování|ABI]]. 
+
+Nakonec skupina uspěje. S Maiou v náručí začíná zběsilý únik. Alarmy řvou, celá budova je v pohotovosti. Probíjejí si cestu k servisnímu výtahu, který je přivede na únikovou plošinu o několik desítek pater níže. O stovky bloků dál už čeká Kathrine s neoznačeným letounem. Předají jí otřesenou Maiu. Kredity cinknou na jejich účtech. Mise je splněna. Vtom se na jejich komunikátoru ozve **Kaelen Varro**. Zůstal pozadu. _"Odlákám je. Dám vám náskok."_ Ostatní protestují, ale je pozdě. _"Byl to dobrej run,"_ řekne klidně. V dálce, směrem k centru města, se jejich stará kancelář promění v ohnivou kouli, která osvětlí noční oblohu. Výbuch s sebou vezme několik vznášedel ABI, která je pronásledovala. **Corbin Jin** opustí planetu společne se [[Strážci Polaris]], i když mu slíbí jen tvrdou práci...
 
 
 # Veřejné\Místa\Lokace\Mergtara.md
@@ -1691,6 +1723,13 @@ Konstruktér a minoritní vlastník. Je vnukem Jasona Turgalla a konstruktérem 
 
 ## Sídla
 - Centrála na [[Lucentia IV]].
+
+
+# Veřejné\Organizace\Žoldnéřské skupiny\Deathfaces.md
+
+---
+
+*(Empty file)*
 
 
 # Veřejné\Organizace\Žoldnéřské skupiny\Popelavá Legie.md
@@ -2974,30 +3013,30 @@ Odměnou pro hráče a jejich postavy za dokončený souboj je tzv. burza odměn
 
 Podle délky a obtížnosti souboje obdrží hráči určité množství zkušeností. Za tyto zkušenosti si mohou nakupovat nabídky z burzy. Každá koupená nabídka je po nákupu nahrazena novou nabídkou z tabulky níže. Po každém souboji je 5 nejstarších nabídek z burzy odstraněno a přibude 5 nových.
 
-| Hod   | Cena [exp] | Popis                                                                         |
-| ----- | ---------- | ----------------------------------------------------------------------------- |
-| 1-16  | 1          | **Routine check** (schopnost/stat byly použity v souboji)                     |
-| 16-29 | 3          | **Difficult check** (schopnost/stat byly použity v souboji)                   |
-| 30-39 | 5          | **Challenging check** (schopnost/stat byly použity v souboji)                 |
-| 40-45 | 3          | **Routine check** (schopnost/stat nemusely být použity v souboji)             |
-| 46-49 | 5          | **Difficult check** (schopnost/stat nemusely být použity v souboji)           |
-| 50-52 | 8          | **Challenging check** (schopnost/stat nemusely být použity v souboji)         |
-| 53-58 | 2          | +1 **Fate**                                                                   |
-| 59-64 | 2          | +1 **Persona**                                                                |
-| 65-66 | 10         | +1 **Deed**                                                                   |
-| 67-69 | 1          | +1 zaznamenaný **Fate** (k vybrané schopnosti)                                |
-| 70-72 | 1          | +1 zaznamenaná **Persona** (k vybrané schopnosti)                             |
-| 73    | 5          | +1 zaznamenaný **Deed** (k vybrané schopnosti)                                |
-| 74-77 | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**                         |
-| 78-81 | 2          | Nález drobného obnosu (Vesmírné Kredity) - **d6 x 5Σ**                        |
-| 82-84 | 2          | Nález munice - v hodnotě - **d6 x 5Σ**                                        |
-| 85-87 | 5          | Oklepání se. Odstraň si 1 zranění obdržené v tomto souboji.                   |
-| 88-90 | 2          | Náhradní součástky. **Oprav 1 Integrity vybavení poškozeného v bitvě.**       |
-| 91-92 | 5          | Nález zásob. **Obnov nedávno ztracený kit.**                                  |
-| 93-95 | 3          | Postřeh. **+5 AP do první akce příštího souboje.**                            |
-| 96-97 | 5          | Nalezení klíče, přístupového čipu či karty.                                   |
-| 98-99 | 2          | Stopy. **+2🎲 na sledování stop z místa boje.**                               |
-| 100   | 1          | +2🎲 na příští [[Duel of Wits]] *volej* kde vytáhneš tento boj jako argument. |
+| Hod   | Cena [exp] | Popis                                                                          |
+| ----- | ---------- | ------------------------------------------------------------------------------ |
+| 1-16  | 1          | **Routine check** (schopnost/stat byly použity v souboji)                      |
+| 16-29 | 3          | **Difficult check** (schopnost/stat byly použity v souboji)                    |
+| 30-39 | 5          | **Challenging check** (schopnost/stat byly použity v souboji)                  |
+| 40-45 | 3          | **Routine check** (schopnost/stat nemusely být použity v souboji)              |
+| 46-49 | 5          | **Difficult check** (schopnost/stat nemusely být použity v souboji)            |
+| 50-52 | 8          | **Challenging check** (schopnost/stat nemusely být použity v souboji)          |
+| 53-58 | 2          | +1 **Fate**                                                                    |
+| 59-64 | 2          | +1 **Persona**                                                                 |
+| 65-66 | 10         | +1 **Deed**                                                                    |
+| 67-69 | 1          | +1 zaznamenaný **Fate** (k vybrané schopnosti)                                 |
+| 70-72 | 1          | +1 zaznamenaná **Persona** (k vybrané schopnosti)                              |
+| 73    | 5          | +1 zaznamenaný **Deed** (k vybrané schopnosti)                                 |
+| 74-77 | 2          | Nález drobného obnosu (Alianční Dolar) - **d6 x 10₳**, +d6 za každý další exp  |
+| 78-81 | 2          | Nález drobného obnosu (Vesmírné Kredity) - **d6 x 5Σ**, +d6 za každý další exp |
+| 82-84 | 2          | Nález munice - v hodnotě - **d6 x 5Σ**, +d6 za každý další exp                 |
+| 85-87 | 5          | Oklepání se. Odstraň si 1 zranění obdržené v tomto souboji.                    |
+| 88-90 | 2          | Náhradní součástky. **Oprav 1 Integrity vybavení poškozeného v bitvě.**        |
+| 91-92 | 5          | Nález zásob. **Obnov nedávno ztracený kit.**                                   |
+| 93-95 | 3          | Postřeh. **+5 AP do první akce příštího souboje.**                             |
+| 96-97 | 5          | Nalezení klíče, přístupového čipu či karty.                                    |
+| 98-99 | 1          | Stopy. **+2🎲 na sledování stop z místa boje.**                                |
+| 100   | 1          | +2🎲 na příští [[Duel of Wits]] *volej* kde vytáhneš tento boj jako argument.  |
 
 
 # Veřejné\Pravidla\Souboj\Regenerace.md
@@ -3788,6 +3827,8 @@ Původ  *"Creds"* či *"Sigmáčů"* sahá do počátků kolonií na vnějším 
 
 ## Forma
 Kredity jsou velmi dobře chráněné proti padělání a na jejich konstrukci se podílí největší organizované skupiny v podsvětí. Na druhou stranu, *mince* samotné *nejsou nijak číslované či značené* a proto preferovanou formou platby mezi pašeráky, piráty, gangstery a všemi, kdo s nimi i třeba nepřímo obchodují.
+
+Koluje urban-legend, že u kreditů lze ověřit jeho pravost skrytým hashem. Není však známo, jak toto číslování funguje.
 ## Stabilita
 Vesmírné kredity nemají žádnou formu centrálního řízení. Jejich hodnota je udržována především *čilým obchodem a výměnou ovládanou překupníky* na širokém území. Ti vyvažují výkyvy v nabídce a poptávce a udržují měnu v oběhu. Přesto na centrálních světech mají kredity často nezaslouženou pověst volatilní a nestabilní měny, což má být důsledek nedostatku regulace a transparentnosti v transakcích. Je ovšem pravdou, že směnné kurzy jsou vždy přibližné a obchodní transakce leckdy pochybné.
 
@@ -7560,7 +7601,7 @@ Kathrine se musí prokázat u dvou bezpečáků a pak jí dveře pustí dovnitř
 
 Kathrine je pustí do lodi a zeptá se jich, co hledají. Musí hledat rychle, aby je systémy [[Mergtara|Mergtary]] nezaznamenali jako šmíraly. [[Falkon - Iskandar Mashinkar|Iško]] s [[Kathrine]] skenují a podaří se jim celkem rychle identifikovat místo, kde je vznášedlo přesně zaparkované. Je to byt (č.61 - což už ví od [[Thay Jinroe|Thaye]]) na prvním podlaží s vlastní plošinou.
 
-Plán je, že Kathrine poletí pryč z měsíce a po cestě je vysadí na Valeriově plošině. [[Vojta - Vikram Vox|Vikram]] se jde ještě pobavit s [[Kathrine]], protože se chce potkat s Navigátorem a jeho řádem. Proto mu nechá souřadnice napsané na papírku!
+Plán je, že Kathrine poletí pryč z měsíce a po cestě je vysadí na Valeriově plošině. [[Vojta - Vikram Vox|Vikram]] se jde ještě pobavit s [[Kathrine]], protože se chce potkat s Navigátorem a jeho řádem. Proto mu nechá souřadnice do systému *Thaoni* napsané na papírku!
 
 > "*Letová kontrolo, tady je Stellar Lodestar, volací znak Polárka. Stojíme na plošině Gama-7. Žádám o povolení a přidělení letového koridoru pro odlet.*"
 > „*Polárko, tady věž. Vaše žádost je zamítnuta. Opakuji, povolení k odletu je zamítnuto. Vzdušný prostor Mergtary je do odvolání uzavřen pro všechny neprioritní lety z důvodu probíhající bezpečnostní operace.*“
@@ -7962,7 +8003,7 @@ NPCs:
   - "[[Darrun Mugrost]]"
   - "[[Paradox]]"
 previous: "[[«018» Kvalitní káva]]"
-next: "[[«020»]]"
+next: "[[«020» Svobodná Vůle]]"
 ---
 **31. května 3162, 19:00**
 
@@ -8068,7 +8109,7 @@ Vypráví si svoje vzpomínky.
 
  Když se [[Paradox]] vrátí, Virkam se zeptá kde jsou. Paradox odpoví, že jsou v útrobách starého freigheteru, do kterého tečou splašky a odpadky z celého [[Gloomwell|Ostrova Sirén]]. 
  
- Zprávy ve WOSP designech.
+Zprávy ve WOSP designech.
  
  > *HHracer_IX* se od 24.2. 3161 neukázal na žádném závodním fóru.
  > 
@@ -8079,128 +8120,454 @@ Vypráví si svoje vzpomínky.
  > *HHracer_IX* byl zabit na průzkumné misi, aby zakryli, že ho ve skutečnosti „odklidila“ ABI.
 
 
-# Vypravěč\Zápisy\«020».md
+# Vypravěč\Zápisy\«020» Svobodná Vůle.md
 
 ---
 
 ---
-Game Date: 20. září 2025
+Game Date: 7. října 2025
 Space Date: 6. června 3162
 Lokace:
   - "[[Gloomwell]]"
 NPCs:
   - "[[Paradox]]"
 previous: "[[«019» Vynést odpadky]]"
+next: "[[«021» Víno, filtr a pár explozí]]"
+---
+**6. června 3162, 15:00**
+[[Paradox]] pokračuje v doplňování svých informací o projektu *Poutník*. Samozřejmě nebezpečí je, že po nich nadále jdou *Dead Faces*. Stále na sobě mají funkční oblečení [[ECM]]. [[Domča - Tobias Flynn|Toby]] se domnívá, že hledají jejich mrtvá těla a nedají si pokoj, dokud nenajdou izotop *C-19*. [[Falkon - Iskandar Mashinkar|Iško]] zase spekuluje, jak moc jsou jejich mozky biologické. [[Paradox|Paradoxovi]] lidí o skupině ví, pravděpodobně všichni, což je potenciálně nebezpečné jak pro skupinu tak pro ně.
+
+> **Co se s odpadem děje?** Vytřídí se, zrecyklují kovy, zachrání vodu a plyny, zfermentují organický odpad na metan a zbytek slisují a vystřelí do vesmíru. 
+
+Postavy mají čas na to něco trénovat:
+
+[[Falkon - Iskandar Mashinkar|Iško]]: Fusion Dynamics (Routine 11 dní)
+[[Vojta - Vikram Vox|Vikram]]: Armorer (Routine 11 dní - s postihem za to, že nemá učitele, ale dřív to uměl)
+[[Domča - Tobias Flynn|Tobi]]: Munitions (Routine 8 dní)
+
+Asi po pěti dnech Iško zjistí zajímavou věc. [[Paradox]] nestaví jenom [[FTL]] pohon. Iško narazí na plány integrace pohonu do lodi. A není to standardní loď, zdá se, že je to loď vlastní výroby. Plány projektu se jmenují *Free Will*. Paradox jim ukáže loď. Má jí zaparkovanou v hangáru za dveřmi. Kromě toho jsou tam manipulátory, jeřáb a mnoho materiálu. Hangár je poháněný jádrem [[Solomon Garr|guvernérovi]] Citadely. Kromě pár dodělávek chybí především [[Navigační počítač]]. 
+
+[[Paradox]] pro gurevernéra vyrábí a navrhuje zbraně s nakradených součástek. On a jeho tým je pro něj montuje a [[Solomon Garr|Guvernér Solomon Garr]] je pak ve velkém prodává. [[Paradox]] má strach, že až guvernér zjistí, že má funkční loď, a navíc že je schopen vyrobit [[FTL]], nenechal by jej odejít a viděl by snadnou vidinu zisku. Za pět let ale našetřil dost peněz, aby jej mohl koupit z černého trhu. Musí to ale být nenápadně, aby jej nikdo z Garrovo lidí nepodezříval. Ideální by bylo jednat z jeho oponenty. Ale ani to není bez rizika.
+
+> Odhadovaná cena 7místného raketoplánu s FTL pohonem na černém trhu by se pohybovala mezi **11 až 15 miliony Σ (Vesmírných kreditů)**. Z toho by samotný 
+> - *FTL capable* [[Navigační počítač]] stál přibližně **1 milion Σ**
+> - [[FTL]] pohon cca **4-6 milionů Σ**
+> - [[Hlavní Reaktor]] cca **3-5 milionů Σ**
+
+Iško ví, že jakmile začnou venku shánět počítač, budou mít jen pár dní na to zmizet. A pak je tu ještě jedna otázka a to je **jaká je bezpečná destinace** (souřadnice, které dala [[Vojta - Vikram Vox|Vikramovi]] [[Kathrine]]). Jediná šance, jak se ozvat některým z jeho kontaktů je propašovat jí přes [[ISU]] na jedné z lodí, která odtud létá do registrovaných systémů. 
+
+Vikram se snaží vybavit si souřadnice od [[Kathrine]] (Perception 8 nebo Investigative Logic 4/4 - **Success**!). 
+
+**16. června 3162, 8:00**
+[[Regenerace]]:
+- Vikram 7 dní nechá jen na rekonvalescenci, +3 HP, další regenerace za 9 dní
+- Tobi 7 dní nechá jen na rekonvalescenci, +2 HP, další regenerace za 8 dní
+- Iško 3 dny nechá jen na rekonvalescenci, +3 HP, další regenerace za 9 dní, další regenerace za 7 dní
+
+Práce na projektu zbývá: **29 dní**
+
+**25. června 3162, 8:00**
+[[Regenerace]]:
+- Iško 3 dny nechá jen na rekonvalescenci, +2 HP, další regenerace za 9 dní, další regenerace za 7 dní
+
+Práce na projektu zbývá: **19 dní**
+
+**26. června 3162, 8:00**
+[[Regenerace]]:
+- Tobi 7 dní nechá jen na rekonvalescenci, +3 HP, další regenerace za 9 dní
+
+**27. června 3162, 8:00**
+[[Regenerace]]:
+- Vikram 7 dní nechá jen na rekonvalescenci, +1 HP, další regenerace za 8 dní
+
+> Na Ostrově přistáli *Death Faces* na menší lodi. Vydali se jednat s guvernérem. Poté zahájí hledání skupiny.
+
+[[Paradox]] se o tom zmíní druhý den, mezi řečí. [[Falkon - Iskandar Mashinkar|Iško]] mu řekne, že musí zmizet, protože určitě pracují pro *ABI*. Paradox mávne rukou. Pravděpodobně hledají někoho, co nasral guvernéra, nebo podobného pirátského gaunera. ABI operuje jinak. Iško řekne, že je pronásledovali z [[Mergtara|Mergtary]] až na [[Gavrel]]. Prohledali i jejich ztracenou loď. 
+
+Fabrication zbraní (+1 kit, +1 fork Munitions, +1 pečlivě, +1 [[Paradox]]) - díly na 5 zbraní
+V mezičase si [[Vojta - Vikram Vox|Vikram]] vyrábí:
+- [[WOSP HEX 2.4|HEX 2.4]] "*Helena*" Fabrication Ob. 1 - **úspěch**
+- [[WOSP HEX 2.4|HEX 2.4]] Fabrication Ob. 1 - **úspěch**
+- [[WOSP PAT 2.1|PAT 2.1]] Fabrication Ob. 2 - **úspěch**
+- [[WOSP RAW 7.0|RAW 7.0]] "*Ráďa*" Fabrication Ob. 2 - **úspěch**
+- lepší sidearma - Fabrication Ob. 2 - **neúspěch**
+- +1x zničené nářadí
+
+**29. června 3162, 8:00**
+Paradox jim sdělí, že je nebezpečné na sebe teď jakkoliv upozorňovat. *Death Faces* si najali skupinu a prohledávají skládku. Pravděpodobně s guvernérovým svolením.
+
+Práce na projektu zbývá: **11 dní**
+
+Jaké senzory jsou na skládce:
+- spektrální analyzátory na drahé kovy, radiace, výbušné plyny, ale bohužel i několik kamer
+- chtělo by to získat záznamy z kamer dříve než *Death Faces*, měly by být uložené po dobu 3 měsíců
+- Sežene jim převleky, Id karty a čísla kamer, které je třeba smazat, dostane je dovnitř do Citadely
+	- Skill challenge - 4 úspěchy!
+	- **1. Cíl: Dostat se do security centra & Předstírat, jako že tam patříte & Nenechat za sebou stopu**
+		- Tobi + Iško: *Infiltration* kolem checkpointu 4/3 ✅ úspěch 
+		- Tobi + Vikram: *Inconspicuous* mezi guardy 4/2 ✅ úspěch
+	- **2. Cíl: Olákat security**
+		- Falkon + Vikram: *Falsehood* (fork *Command*) 6/3 ✅ úspěch
+	- **3. Cíl: Smazat data & Nenechat za sebou stopu & Zmizet nepozorovaně**
+		- Vikram: *Forgery* nahradí soubory s jejich nahrávkou a nahradí je soubory, kde o nich není záznam. 3/2 ✅ úspěchy
+
+> Navíc ze záznamů zjistí, že jsou na ostrově minimálně 3 asasíni. Navíc najdou **Master ID kartu k lowerdecks**.
+
+**2. července 3162, 8:00**
+[[Regenerace]]:
+- Iško 1 dny nechá jen na rekonvalescenci, +0 HP, další regenerace za 9 dní, další regenerace za 9 dní
+
+Práce na projektu zbývá: **7 dní**
+
+> Asasíni přestali prohledávat skládku.
+
+**5. července 3162, 8:00**
+[[Regenerace]]:
+- Tobi 7 dní nechá jen na rekonvalescenci, +3 HP, další regenerace za 7 dní
+- Vikram - 5 dní nechá jen na rekonvalescenci, +1 HP, další regenerace za 9 dní
+
+Práce na projektu zbývá: **1 dní**
+
+
+# Vypravěč\Zápisy\«021» Víno, filtr a pár explozí.md
+
+---
+
+---
+Game Date: 21. října 2025
+Space Date: 5. července 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Paradox]]"
+previous: "[[«020» Svobodná Vůle]]"
+next: "[[«022» Špatnej Deal]]"
+---
+**5. července 3162, 8:00**
+
+> Skupina musí rychle najít důvěryhodného prodejce a zprostředkovatele pro nákup **FTL-schopného navigačního počítače**. K tomu potřebují získat podporu alespoň **tří z pěti** frakcí, které stojí v opozici vůči guvernérovi Garrovi. Paradox má na nákup dostatek kreditů, ale bez doporučení od vlivné frakce mu nikdo tak citlivé zařízení neprodá.
+
+> [[Paradox]]: *Pohon je teoreticky připraven na integraci. Ale bez navigačního počítače je to jen nejdražší kus šrotu v tomhle sektoru. A teď to nejdůležitější: Mám na něj kredity. Víc než dost. Problém není cena, ale důvěra. Nikdo na černém trhu vám neprodá FTL-schopný navigační počítač jen tak z ulice. Potřebujeme doporučení, garanci od někoho, kdo má na Ostrově Sirén váhu. A to nás přivádí k nim.*
+
+> Frakce:
+> **Stará Garda**
+> - **Popis:** Konzervativní piráti, kteří touží po návratu starých časů bezpráví a svobody. Pohrdají Garrovou snahou udělat z pirátského doupěte "legitimní" obchodní přístav s daněmi.
+> - **Co chtějí:** Důkaz síly a pohrdání Garrovou autoritou. Chtějí vidět akci, ne slyšet plány.
+> - **Kontakt:** Zmíní se o stříbrné minci. Kontakt je vyhazovač v bojovém klubu _"Aréna"_ v nejnižších patrech stanice. Minci je třeba ukázat beze slov.
+> 
+> **SNOG - Syndikát Nezávislých Obchodníků Gloomwell**
+> - **Popis:** Sdružení pašeráků, přepravců a majitelů malých podniků, které Garr systematicky likviduje svými monopoly a poplatky.
+> - **Co chtějí:** Finanční poškození Garra nebo jeho spojenců. Zisk a oslabení konkurence je jejich jazyk.
+> - **Kontakt:** **Mark Poorgill**, majitel nákladní společnosti _T-T-Transports_, operuje z malé kanceláře v doku D-4. Heslo: _"Vezu zásilku ze systému Aethel."_
+>   
+>  **Šroťáci:**
+> - **Popis:** Neoficiální odbory dělníků, mechaniků a techniků ze šrotišť. Jsou páteří Ostrova, ale zachází se s nimi jako s odpadem. Jsou organizovaní a odhodlaní.
+> - **Co chtějí:** Solidaritu. Chtějí vidět, že vám záleží na obyčejných lidech a jste ochotni pro ně riskovat, ne jen pro svůj zisk.
+> - **Kontakt:** **"Mistr" Kaelen**, předák na hlavním šrotišti. Je třeba si ho vyžádat u směnového mistra a prokázat, že nejste Garrovi špehové.
+>   
+>   **Pavučina:**
+> - **Popis:** Tajemná síť informačních brokerů a hackerů. Věří, že informace mají být volné, a bojují proti Garrově snaze kontrolovat každý datový tok na stanici. Jsou pragmatičtí a nedůvěřiví.
+> - **Co chtějí:** Vzácná a cenná data. Něco, co nemohou získat sami. Jejich podpora se kupuje informacemi.
+> - **Kontakt:** Anonymní terminál v opuštěné sekci "Stará Komunikační Věž". Kontakt je znám jako **Sirri Halen**, přezdívaná **"Vdova"**.
+>   
+>   **Synové Nezávislosti:**
+> - **Popis:** Nová, idealistická frakce. Jsou to političtí disidenti, bývalí alianční úředníci a intelektuálové, kteří sní o tom, že se Ostrov Sirén stane skutečně nezávislým a respektovaným přístavem, ne jen Garrovým soukromým panstvím. Plánují politický převrat. 
+> - **Co chtějí:** Politickou výhodu. Chtějí někoho, kdo jim pomůže zdiskreditovat Garrovy klíčové lidi a získat podporu nerozhodnutých.
+> - **Kontakt:** **Elara Finch**, bývalá alianční diplomatka. Schází se v jediné knihovně na stanici, _"Archivátor"_. Je třeba ji oslovit s knihou "Vzestup a pád Aliance" v ruce.
+
+**Možné nabídky frakcím:**
+- **Data od guvernéra:** Paradox je může ukrást jako platbu pro jednu frakci (ideálně pro **Pavučinu**).
+- **Kredity:** Nabídnout zaplacení podílu nebo plné ceny za zprostředkování (**Syndikát**, **Šroťáci**).
+- **Spolupráce s WOSP:** Nabídnout přístup k Paradoxovým znalostem a síti WOSP (**Šroťáci**, **Synové Nezávislosti**).
+- **Průzkumná data z L.I.F.T.:** Velmi riskantní. Nabídnout exkluzivní data z prvních letů, která mohou odhalit nové trasy nebo zdroje. To by mohlo zajímat **Syndikát** nebo **Syny Nezávislosti**.
+
+**5. července 3162, 16:00**
+
+Paradox se vrátí zpět s informacemi od svého informátora. Tobiasovi se plán nelíbí.
+
+Iško se postará o Šroťáky. Vyjedná s nimi odkup počítače.
+Paradox si vezme na starost Pavučinu. Uplatí je guvernérovo daty.
+Tobi si vezme na starost SNOG - přecijen to jsou nejmíň piráti ze všech pirátů. 
+Vikram si vezme na starost Starou Gardu. Angle na ně zatím nemá.
+
+Dá jim pláště, brýle s earpiecy na domlouvání (mohou být odposlouchávané).
+
+Kódová slova: 
+> Navcomp = Průvodce
+> Paradox = Boss
+> Vikram = Naškar
+> Tobi = Jojo
+> Iško = Racer
+
+Cover story: Pro někoho z WOSPu Paradox shání nav computer na reverse-engineering. Pro WOSP dává smysl, že to nechtějí udělat na centrálních světech. 
+
+**6. července 3162, 9:00**
+
+Do akce! 
+
+[[Vojta - Vikram Vox|Vikram]] - kyborg *Joerich* před *Arénou* se jej vyptává, kdo je poslal. Vik mu řekne, že to mu tak zrovna poví. Kyborg řekne, že to je správná odpověď a pustí jej ke stolu.
+- Po dvaceti minutách mu pirát přinese pivo. Podá Vikramovi ruku a představí se jako Hoyrich. Tyhle mince se tu jen tak neválí, takže si můžeme zčeknout čí je. Pravděpodobně jsi jí zčořil někomu, koho zaměstnal trpaslík Ori. Tyhle mince mají mít jen členové kapitánovo posádky anebo Ti, komu kapitán může věřit. Tohle je *70g trhaviny R-46*. 
+- Někdy po desáté dorazí do doku a uvidí jak tři dělníci svařují ohyzdnou sochu kozy Aurélie ze scrapmetalu. Zčekne kamery a přijde mu, že tam nejsou. Vikram čeká než půjdou na oběd... Vik se přiblíží - Inconspicuos 0/2 - je podezřelý, ale baví se s týpkama. Pak se pokusí tajné přilepit nálož a zespoda na tablet. Jenže nálož je magnetická a tablet ne. Takže nálož upadne na zem. Zkusí ještě ugly truth, ale dělník nechápe, takže utíká a uskočí před výbuchem. Dělníci ale také štěstí neměli. 
+
+[[Falkon - Iskandar Mashinkar|Iško]] - přemluví ženu v intercomu, ať jej pustí za předákem. Ten Iška pozná, ale nevěří mu. 
+- předák Kaelena řekne, že ho značně trápí zdraví dělníků a řekne mu, že potřebuje v rozvodně vzduchu vyměnit filtry na vzduch. Rozvodna je plně automatická a schodou okolností žene vzduch i do guvernérovi laboratoře. A tam prý filtry mění často. Dá mu plazmovou řezačku.
+- Iško si najde místo na ulici, odkud sestřelí kameru. Kameru trefí, ale na displayi se rozsvítí "*Locked, Inspection Required*". Na ulici nikdo není, tak Iško vytáhne plazmový řezák a zničí display, pak začne pracovat na dveřích. Repair 4/2, Iško si prořízne průlez ve tvaru kozí hlavy.
+- Iško jej zkusí manuálně vypnout. Engineering 2/2, Snaží se vytáhnout nový filtr z výměníku nahoru, ale ten má asi 1,5x1m a váží dobrých 40 kilo.
+- Když cpe nový filtr nahoru, vyruší ho zmatený inspektor, který přišel na inspekci. Inženýr se snaží situaci pochopit, ale když mu Iško řekne pár informací, inženýr si to chce ověřit se sekuriťákama. V tom jej Iško trefí do zad a pak jej zastřelí pár ranami. 
+
+[[Domča - Tobias Flynn|Tobi]] - vejde do kanceláře. Jeřáb 7 v doku B12, zásilka Elysijského vína, řekne administrátor logistiky Mark Poorgill. 
+- Tobi se vrátí, že robot mu má ukázat jeřáb, ale nesmí opustit kancelář. Robot se zasekne, pak ale plánek vyskáldá s kalíšků od kafe - a splní KPI, navýší jej na 99,53%
+- V doku B12 je 8 vykládacích jeřábů. U sedmičky je zaparkovaná nějaké loď, která se vykládá. Muž, který zásilku vykládá se zazubí a představí se: "*Já jsem Patrik Lange! Já tu pracuju!*" chová se přátelsky, dá Tobimu dokonce ochutnat kousek pravé čokolády (prý 120 let pracovali genetičtí inženýři na tom, aby kakaovník plodil na Emporii).
+- Tobi konečně řekne heslo. Patrik mu řekne, že cena je 1,5 milionu, ale jedná se o novou součástku od [[QuantumForge]]. 300 tisíc je bude stát vyplatit ostatní kapitány. Podá hlášení do vysílačky, Paradoxovi to přijde moc, max může dát 1,1 milionu.
+
+
+# Vypravěč\Zápisy\«022» Špatnej Deal.md
+
+---
+
+---
+Game Date: 30. října 2025
+Space Date: 5. července 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Paradox]]"
+previous: "[[«021» Víno, filtr a pár explozí]]"
+next: "[[«023» Pohled do Mrtvé tváře]]"
+---
+**6. července 3162, 12:30**
+
+[[Vojta - Vikram Vox|Vikram]] - *V docích je po výbuchu celkem zmatek.* Celkem rychle se tam hrnou piráti i obyvatelé zjistit, co se stalo. Vikram se vyplíží pryč směrem k Citadele. Při úniku vrazí do technika, který má skenovat oblast na trhaviny. Na jeho displayi se objeví *Trace amount of R-46 detected!* Vikram zahraje překvapeného, a když spektrální analýza začne identifikovat jeho, dá se na útěk s tím, že je má strach. Na technika to zabere a Vik unikne.
+Kyborg *Joerich* je stále před *Arénou*. Pustí Vikrama dovnitř a koupí mu na baru Naškarskej džus. Tři piráti dorazí k jejich stolu. *Vladan Herzog, kapitán*. Představí se. Líbí se mu přeydívka Naškar a prohodí i vtip o tom, že [[Naskarská obchodní gilda]] jsou taky jen piráti. Kapitán chce kořist hned. Vikram mu prodá Secret Agenta [[Alianční úřad pro vyšetřování|ABI]] a potenciálně jeho equip. Stačí vyvěsit inzerát o prodeji sběratelských kartiček vesmírných NASSHIPů. Ještě kapitána požádá o nové hadry. Ten se tomu zasměje a jeden z pirátů mu dá svojí bundu.
+
+[[Falkon - Iskandar Mashinkar|Iško]] - *Iško zastřelil inženýra. Záznamy jsou na kamerách.* Ukradne mu kartu, vrátí pojistku do rozvodné skříně a logne se do počítače. Zkoukne log plný errorů a zauktivuje automatickou výměnu filtrů. To proběhne bez problémů, takže do továren vede nový filtr. Vydá se oklikou zpátky do továrny.
+Přes trh uslyší šeptandu, o výbuchu v docích. Ženská přes buzzer ho pustí dovnitř. Sleduje žlutou čáru až dorazí za předákem Kaelenem. "*Kapitán Lawan si o tom rád poslechne. Raketoplán tě za ním zaveze. Na jeho loď.*" Chlapy co servisujou obleky Loď Master's Torch. Mladý 14 letý kluk ho naloží do raketoplánu a letí pryč z ostrova. *Wichian Lawan a.k.a. "Mistr Lawan"* . Jako cover story si koupí 13.500 tun šrotové duraoceli. Prodej proběhne na lodi. Dá Iškovi podepsat smlouvu. Cena na ní 979.440 Σ. Jednotka je funkční, ale vymontovaná z [[Aliance Centrálních Planet|Aliančního cruiseru]]. Kopii smlouvy mu dá na [[Datablock|datashardu]]. 
+
+[[Domča - Tobias Flynn|Tobi]] - *Uslyšel výbuch ještě během jednání, ale Patrik Lange jej varuje, že bude lepší nereagovat. Po krátkém dialogu, až po Patrikovi opustí dok.* Vydá se směrem k Citadele. Archiv je přístupný z velké auly. Po cestě jej zastaví jeden z guvernérových robotů. "*Vizuální identifikace selhala. Udejte důvod návštěvy."* Pro vstup do Centrálního archivu musí mít zaměstnaneckou, nebo návštěvnickou kartu. Projede bezpečnostním rámem, odloží Sidearmu a ptá se Tarthusovi Mippovi - Oddělení Správy Majetku a Infrastruktury (OSMI) - další sekce Výbor pro Soulad a Vymáhání (VSV) a Úřad pro Správu Cel a Doků (ÚSCD), Oddělení Speciálních Projektů (OSP). 
+Po 14 minutách se rozsvítí, že má jít do kanceláře č. 2. Tobi se představí jako Jo. Tarthus za to očekává úplatek, ale ten mu Tobi nemůže nabídnout.
+Tobi se spojí s Paradoxem ohledně plánu v Archivu. [[Paradox]] mu řekne, ať se zastaví do doupěte pro terminál a ID kartu do archivu. Tam najde Vikrama, jak si holí hlavu a plnovous. Vezme si terminál a kartu, vrátí si do archivu, kde si půjčí *Vzestup a pád Aliance*. Na volání přijde guvernérova vrchní archivářka Elara Finch.
+
+Na jejím světě se přá říká rčení "*Abys někoho poznal, musíš jej potkat dvakrát.*"
+
+Její plán je, aby zaplatili jejíma falešenýma kreditami a svedli to na jiného pirátského kapitána. Chce vědět, kdo je jejich kontakt uvnitř citadeli. Odsouhlasí to a [[Domča - Tobias Flynn|Tobi]] řekne, že je to [[Paradox]]. 
+
+**6. července 3162, 17:30**
+
+Sejdou se zpět v doupěti, poslední přijde [[Paradox]], už se souřadnicemi mrtvé schránky. 
+
+Paradoxovi se podaří přesvědčit, že plán Archivářky je riskantní, a že v něm hrají jen loutky. Dohodnou se tedy, že zaplatí (max 100k) **SNOGu**, aby nejenom odsouhlasili jejich trade se **Šroťáky**, ale aby také zprostředkovali celou transakci na svém "území".
+
+
+# Vypravěč\Zápisy\«023» Pohled do Mrtvé tváře.md
+
+---
+
+---
+Game Date: 6. listopadu 2025
+Space Date: 6. července 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Paradox]]"
+previous: "[[«022» Špatnej Deal]]"
 next:
 ---
-**31. května 3162, 19:00**
+**6. července 3162, 18:30**
 
-Skupina leží na chladné kovové podlaze [[Darrun Mugrost|Darrunova]] sklepa. Vítězství je hořké, téměř k nerozeznání od porážky. Ale přežili jste. O jeden Vikramův odvážný čin. Každý nádech pálí v plicích, každý pohyb je agónií. Kolem vás pomalu schne a tvrdne sliz poražených monster, jeho organický zápach se mísí s pachem spáleného paliva z plamenometů a krve. Jste na pokraji sil, sotva schopni zvednout hlavu. Ticho, které následuje po chaosu boje přehlušuje krev pulzující v uších. Čekáte. Na Darruna, na pomoc, na cokoli. Nic se neděje. Absolutní bezmoc.
+Jejich současný, domluvený plán je využít získané kontakty příměji:
 
-Vikramova svítilna, jediný zdroj světla v místnosti, několikrát slabě zabliká, její paprsek slábne, až nakonec úplně zhasne. Obklopí vás naprostá tma. V té temnotě, kde jediným zvukem je váš vlastní namáhavý dech a tlukot srdce, se začnou vynořovat vzpomínky.
+1. Zaplatí frakci **SNOG** (obchodníkům) poplatek (až 100 000 Σ).
+2. Za tento poplatek má SNOG oficiálně **zprostředkovat a "posvětit" obchod** mezi nimi (zastoupenými Paradoxem) a frakcí **Šroťáků** (konkrétně kapitánem Lawanem, od kterého Iško kupuje počítač).
+3. Cílem je, aby celá transakce proběhla bezpečně na "území" SNOGu, čímž se vyhnou jak Garrově pozornosti, tak rizikům spojeným s plánem Elary Finch.
+
+[[Falkon - Iskandar Mashinkar|Iško]] s [[Domča - Tobias Flynn|Tobim]] dorazí do doků.
+
+**Mark Poorgill**, majitel nákladní společnosti _T-T-Transports_, operuje z malé kanceláře v doku D-4. Heslo: _"Vezu zásilku ze systému Aethel."_ Tentokrát vyplní "jen" do 100.000. Kavárna "Black Hole Klub, 21:00, čaj matcha."
+
+Úspěšně setřesou nějaké piráty co je chtěli okrást. Pirát strčil do [[Falkon - Iskandar Mashinkar|Iška]], chtěl vyvolat potyčku a přivolat posily. 
+
+Klub je klidné místo. Jsou tam japonské stolky, polštáře, koberce. Klub je trochu inspirovanán starojaponskou kulturou (obsazeno je 3 z 8 stolů). Schůzka je s Konciliérem Jael Korvath (což neví). Po stěně s přírodního obsidiánu stéká voda.
+
+Objednají si Sencha "Black Hole" s vůni vesmírných orchidejí, 3x Sladká kapsle Fuji (drobný koláček plněný pastou z rudých fazolí). V Tobim japonské pochoutky (= Kaito Ishikawu) probudí hluboké emoce. Něco mezi stezkem a radostí, jako když se po dlouhé době vrátíš domů. Flashback: *Stojí na tichém můstku Tidal's Reach a podával šálek horkého čaje Kenjimu, mladému navigátorovi vyčerpanému ze složitých výpočtů gravitačních anomálií. Kenji se vděčně usmál, přirovnal navigaci k vaření a nechal Kaita, aby pod jeho vedením sám pomohl analyzovat vektory pro jejich další skoky. V tu chvíli, obklopen teplem a tichou září konzolí, cítil Kaito zodpovědnost za celou posádku a poprvé mu ta stará loď připadala jako domov.* Naučil se Navigation.
+
+Výborně, sejdeme se ve 3.00 v doku B12. Provize pro SNOG bude 12%. cca 117500Σ
+
+**7. července 3162, 3:00**
+
+Schůzka o předání [[Navigační počítač|navigačního počítače]] je domluvena v doku B12, na území **SNOGu**. [[Falkon - Iskandar Mashinkar|Iško]], [[Domča - Tobias Flynn|Tobi]] a [[Vojta - Vikram Vox|Vikram]] dorazí na místo s kufříkem kreditů od [[Paradox|Paradoxe]]. Čeká tam na ně **Patrik Lange** se svými lidmi. Krátce po nich dorazí i **Kyborg Joerich** od Staré Gardy.
+
+> **Joerich:** _"Jen dohlížím, aby obchod proběhl hladce. Kapitán Herzog posílá pozdravy a chce mít jistotu, že jeho... investice... do vás nebyla zbytečná."_ (Hecuje je, ale je jasné, že je tam jako dohled).
+
+Všichni vstupují do velkého nákladového hangáru. Uvnitř už čeká konciliér SNOGu, **Jael Korvath**. Požádá o kufřík, aby ověřil kredity. Skupina kontaktuje [[Paradox|Paradoxe]] (krycí jméno "Boss"), který jim posílá kód. Jael potvrzuje, že kredity jsou pravé.
+
+Chvíli po nich dorazí **Mistr Lawan** (Šroťáci) s deseti svými lidmi, kteří na paleťáku tlačí těžkou, pancéřovanou bednu. Nastává zdlouhavá technická kontrola. Jael Korvath připojí svůj terminál k bedně a spouští diagnostiku. Po téměř čtyřiceti minutách napjatého ticha se ozve:
+
+> **Jael Korvath:** _"Pánové, máme tu drobný problém. Jádro má takt pouze 97,944 %. To neodpovídá specifikaci. Požaduji slevu 17 500 kreditů."_ **Mistr Lawan:** (Zjevně podrážděný) _"Děláš si srandu? To je v toleranci! Nemám na tohle čas..."_ (Po krátkém dohadování nakonec mávne rukou.) _"Fajn! Ať je po tvým, jen ať už to máme z krku!"_
+
+V okamžiku, kdy má dojít k finálnímu přesunu peněz, v celém hangáru zhasne hlavní napájení a naskočí jen nouzové červené osvětlení.
+
+Patrik Lange okamžitě posílá dva své lidi zkontrolovat hlavní rozvodnou skříň u vchodu do hangáru. Po chvíli ticha se ozve praskání, je vidět elektrický oblouk a jeden z mužů s křikem padá k zemi.
+
+Lange rozhodne, že situaci musí prověřit velitelé. K rozvaděči se vydá on, Mistr Lawan, Joerich a [[Domča - Tobias Flynn|Tobi]]. Lange zkontroluje svého muže – je mrtvý, usmažený. Lawan zatím zkoumá rozvody. Je to jasná past; někdo zkratoval skříň, a když se voják pokusil nahradit pojistku, zabilo ho vysoké napětí.
+
+[[Domča - Tobias Flynn|Tobi]] mezitím pátrá po druhém vojákovi. Nachází ho o kus dál... přivázaného lankem k nakládacímu rameni jeřábu, evidentně jako návnadu. Když na něj posvítí, za ramenem se na zlomek vteřiny objeví postava – [[Deathfaces|Deathface asasín]]. Postava "glitchne", zneviditelní se a zmizí.
+
+Tobi stačí varovat ostatní, ozve se výbuch. O pár minut později asasín vystřelí nálož na bednu s navigačním počítačem. Exploze odhodí bednu stranou a zraní pět Šroťáků. Vzápětí ze stínů u stropu hangáru vylétne skrytý nákladní dron, vystřelí lanko s navijákem, zachytí bednu a začne ji přitahovat k sobě do přední části hangáru.
+
+[[Vojta - Vikram Vox|Vikram]], který hlídal peníze s [[Falkon - Iskandar Mashinkar|Iškem]], se bez váhání rozběhne a skočí na letící bednu. Dron ho táhne vzduchem pryč od skupiny.
+
+**Mistr Lawan** mezitím dokáže nahodit hlavní přívod energie a hangár se pomalu rozsvěcuje. To odhalí asasína, který se právě zhmotnil u zbytku skupiny. Pohybuje se s děsivou přesností – sekne jednoho vojáka SNOGu, dvakrát vystřelí do druhého. Oba padají mrtví. Pak další. A další. Asasín se zaměří na [[Falkon - Iskandar Mashinkar|Iška]], který hlídá kufřík s penězi.
+
+Boj probíhá na dvou frontách:
+
+1. **U bedny:** [[Vojta - Vikram Vox|Vikram]] střílí zblízka po dronu. [[Domča - Tobias Flynn|Tobi]] ho podporuje palbou ze své nové pušky [[WOSP RAW 7.0|RAW 7.0]]. Dvě Tobiho přesné střely prorazí pancíř dronu a vyřadí jeho motory. Kyborg Joerich sice vystřelí mohutný plazmový výboj, ale mine a střela se neškodně rozprskne o zeď. Dron s bednou (a Vikramem) padá k zemi. Počítač je zachráněn.
+    
+2. **U peněz:** Death Face se zhmotní přímo před [[Falkon - Iskandar Mashinkar|Iškem]] a sahá po kufříku. Jeden ze zbývajících vojáků po něm vystřelí, ale asasín se střele vyhne. Namíří pistoli na Iška, ale v tu chvíli **Jael Korvath** (konciliér SNOGu) udělá nečekaný tah – vrazí asasínovi do dlaně tužku (stylus) od svého tabletu. Asasín zařve bolestí, krev skápne na podlahu. Okamžitě se opět zneviditelní a dává se na útěk.
+
+Kapitáni Lange a Lawan, rozzuření útokem, rychle dokončí transakci. Jsou ohromeni schopnostmi skupiny.
+
+Dají [[Domča - Tobias Flynn|Tobimu]] polovinu usmlouvané slevy (8 750 Σ) jako bonus. Přidělí jim dva vojáky jako eskortu a půjčí jim speeder, aby i s drahocenným navigačním počítačem okamžitě zmizeli. Lange mezitím spouští poplach a posílá všechny dostupné senzory a lodě pátrat po uprchlém asasínovi. Při odchodu si [[Vojta - Vikram Vox|Vikram]] a Joerich dají uznale "brofist".
+
+Skupina bezpečně dopraví navigační počítač do [[Paradox|Paradoxova]] doupěte. Všichni se shodují, že je musela zradit a prodat [[Deathfaces|Death Faces]] **Elara Finch** (Synové Nezávislosti).
 
 
-> **[[Falkon - Iskandar Mashinkar|Iskandar Mashinkar]]** = Julian Creed
-> Chladný kov pod zády se mění v drsný, zrezivělý plech. Otevřeš oči a klečíš před masivním, sotva fungujícím zavlažovacím čerpadlem. Fialové světlo hydroponických lamp odhaluje spleť trubek a vadnoucích rostlin.
-> **Viky:** (přistoupí k tobě, v ruce drží hrnek se slabým čajem) _„Juliane? Zlato? Pojď si na chvíli odpočinout. Dřeš se na tom už celý den.“_
-> **Julian (Iško):** (může odpovědět, vzít si čaj)
-> **Viky:** (povzdechne si a ukáže na vadnoucí sazenice) _„Tlak je skoro na nule. Sazenice na konci skleníků jsou úplně suché, bez vody do zítra nepřežijí.“_ (posadí se se svým čajem vedle něj) _„Víš, jak jsem byla včera ve městě pro zásoby… mluvil se mnou jeden pán. Velice slušný. Říkal, že jeho společnost hledá lidi jako ty. Prý by pro tebe měl nějakou nabídku… nechal tu vizitku.“_ (ukáže malou, kovovou kartičku s nápisem Genesis Solutions)
+# Vypravěč\Zápisy\«024» Sbohem piráti!.md
+
+---
+
+---
+Game Date: 6. listopadu 2025
+Space Date: 6. července 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Paradox]]"
+previous: "[[«023» Pohled do Mrtvé tváře]]"
+next:
+---
+**7. července 3162, 5:00**
+
+**Paradox:** _"Dokázali jste to. Vy... vy jste to fakt dokázali. Jste šílení. Jste neuvěřitelní! Víte, co to znamená? Nainstalovat počítač a můžeme letět. S Iškem se do toho musí pustit hned. Vikram a Tobi mezitím naloží loď."_
+
+[[Domča - Tobias Flynn|Tobi]] řekne, že by bylo dobré odpíchnout [[Paradox|Paradoxovou]] kartou tak, aby to vypadalo, že je v práci. Tím získají trochu času. Ti si mohou dát krátký tříhodinový spánek. [[Falkon - Iskandar Mashinkar|Iško]] ale musí dělat na integraci, takže dostane jenom mix stimulantů do synthkávy. 
+
+Integrace bude trvat 17 - 12 hodin (6 úspěchů na Engineering)., tedy jen 5 hodin... bude hotovo kolem 10h. 
+
+Na 9h [[Vojta - Vikram Vox|Vik]] a [[Domča - Tobias Flynn|Tobi]] vyrazí do Citadely.  Projdou hlavním vchodem. Jakmile pípnou kartou, upozorní to skupinu robotů, kteří se snaží zatknout Paradoxe. 
+
+Dva roboti jsou na cestě k Paradoxovi do doupěte. Dolů 8 pater po schodišti do kyselého vlhka se jim nechce. [[Domča - Tobias Flynn|Tobi]] jim nabízí, že se tam podívá za ně, ale nepodaří se jim je přesvědčit. Takže se vydají dolů po schodech. Vikram jim zalže, že dole je silně korozivní sliz. Roboti si vymyslí lež, že úkryt Paradoxe je opuštěný a prázdný. 
+
+V tu dobu se Paradoxovi a Iškovi podaří nahodit loď a všechny systémy jsou zelené! 
+
+**7. července 3162, 10:00**
+Všichni jdou nakládat. Naloženo je asi za 1,5 hodiny. 
+
+Paradox chce letět někam, kde bude moci zaregistrovat nelegální loď. Nedaleko je prý obchodní stanice, kde pašeráci mohou nainstalovat vypínatelnou [[ISU]]. [[Vojta - Vikram Vox|Vikram]] mu to ale rozmluví a předá mu souřadnice ke [[Kathrine]].
+
+**Paradox:** _"Dobře. Je to ale hodně dalekej skok. Doufám, že jsi si stoprocentně jistej, že na druhý straně jsou lidi, kteří nám můžou... ne můžou, kteří nám pomohou."_
+
+Kývne na Iškandara. "*Ready?*" a podá mu [[Crusix rozhraní]] rozhraní. Když se připojí, ozve se ženský hlas. Představí se jako **Will**. Umělá inteligence, kterou prý dva roky nazpět [[Paradox]] nainstaloval do The Free Will (*Will* inteligence říká lodi, svému tělu "*Free*"). Když to Paradox popře, Will řekne, že se bojí co se s ní chystá udělat a že nechápe, proč by to popřel. Navrhne Iškovi, aby o ní před Paradoxem nemluvil. Will nemá také přístup k několika systémů, může loď volně monitorovat, ale komunikovat má pouze přes Crusix (Paradox jej zapomněl zablokovat). 
+
+Iško s Tobim spočítají navigační skoky pro [[FTL]]. 
+Vikram rozdělí kajuty (Iško + Paradox & Vikram + Tobias). 
+
+**Paradox:** _"Dobře. Je to ale hodně dalekej skok. Doufám, že jsi si stoprocentně jistej, že na druhý straně jsou lidi, kteří nám můžou... ne můžou, kteří nám pomohou."_
+
+Loď Iškovi přijde v FTL extrémně rychlá na to jak je malá. 
+Will prý neví nic o svém původu, začala vnímat až když jí Paradox nahrál do mainframu. Upozorní, že palivové ventily jsou špatně zkalibrované.
+
+Paradox má osobní zbraně. O munici se může podělit. Ptá se co jsou zač ty Vikramovo přátelé. A pěkně si od srdce popovídají, Paradox poděkuje za jejich pomoc. Dohodnou se, že by si měli odpočnout, dát si dobrou večeři a pobavit se o tom, jaká bude jeho budoucnost, až nahraje informace o L.I.F.T.u přes [[ISU]] pro [[WOSP]] komunitu.
+
+Společně se baví o tom, co je Will a co udělat. Přemýšlí, zda jí do systému Paradox nenahrál s jiným systémem. Will samozřejmě slyší každé slovo, co na palubě padne. [[Domča - Tobias Flynn|Tobi]] by rád, kdyby to řekl narovinu Paradoxovi. 
+
+Orazí si, umejou se v sonické sprše a [[Domča - Tobias Flynn|Tobi]] uvaří lepenici s uzeným (Cooking 1/2)... no asi jim po jídle bude těžko. 
+
+Paradox je proti AI. Chce jí co nejdříve smazat. Nechá pustit deepscan na mainframu. Chce jí izolovat a smazat, ale Iško odmítne spolupracovat. Považuje to za chybu. Na jeho straně je i Vikram. Tobi souhlasí s Paradoxem. nelíbí se mu, že neznají Willin původ.
+
+
+# Vypravěč\Zápisy\«025» První kontakt.md
+
+---
+
+---
+Game Date: 23. listopadu 2025
+Space Date: 6. července 3162
+Lokace:
+  - "[[Gloomwell]]"
+NPCs:
+  - "[[Paradox]]"
+previous: "[[«023» Pohled do Mrtvé tváře]]"
+next:
+---
+**11. července 3162, 22:00**
+
+Cesta trvá 4 a půl dne a vyžaduje 36 skoků. To je obrovská zátěž na piloty i loď. Paradox využije tento čas k pokusu odstranit Will, kterou považuje za bezpečnostní riziko.
+
+Paradox je nervózní, pořád chodí kontrolovat mainframe, jestli jeho rutina už našla a izolovala. Will prosí Iška, ať jí dá přístup mimo mainframe. Jinak, že jí Paradox najde. Domluví se, že jí dá přístup k senzorům a comům (aby mohla mluvit s lidmi na palubě). To se mu sice podaří a Paradox nepřijde na to, že to Iško udělal. 
+
+Systém *Thaoni* je tichý. Žádný [[ISU Node]], žádný civilní provoz. Jen jedna hvězda a pusté planety. Musí provést **Sensors** nebo **Navigation** test, aby v Lagrangeově bodě (L4 nebo L5 plynného obra) zachytil slabou, maskovanou signaturu. Je to pasivní signál, který reaguje pouze na specifické frekvence. Signál vychází z kamenné planety. Menší gravitace než Země, nedýchatelná atmosféra.
+
+Na místě je landing pad trčící ze skály. Tobi a Vikram jdou do skafandru. Skafandrů je na lodi 6. Vyberou dva opticky nejlepší a vylezou na "střechu lodi". Když jsou 3 metry spustí se sken. 
+
+> INICIALIZACE SKENU
 > 
-> Julian se zvedne a pustí se do opravy. Po krátké diagnostice zjistí, že hlavní napájecí cívka je spálená. Náhradní díly nejsou. **Repair / Engineering**. Mohl by ale použít supravodiví kabel ze světel, výměníku vzduchu nebo z topení domu. *(Pokusí se improvizovat a přemostit cívku kabelem z jiného systému. Je to riskantní, ale jediná možnost. Ať už se rozhodne obětovat osvětlení, recyklátor vzduchu, nebo topení, po chvíli usilovné práce se mu to podaří.)*
+> SUBJEKT 1 (HUMANOID): POZITIVNÍ
+> SUBJEKT 2 (HUMANOID): POZITIVNÍ
 > 
-> **Viky:** _(s úlevou ho obejme)_ "Dokázal jsi to! Ty vždycky všechno dokážeš!"
->
-> (V tom se ale ozve zapraskání a z jiné části stroje vyšlehne jiskra. Tlak opět klesne na nulu. Je konec. Julian se poraženě opře o studený kov. V tu chvíli se ozve zvonek u dveří.)
->
-> **Elias Vancock:** (muž v dokonale čistém obleku) *"Pane Creede? Jmenuji se Elias Vancock, Genesis Solutions."* odkašle si a upraví sako *"Vidím, že se tady je práce jak ve vesmírném doku* (rozhlédne se). *O to se staráte sám? Působivé. Vaše dovednosti jsou nesporné. Moje společnost vám může poskytnou skvělou příležitost, jak zaopatřit vaši rodinu, Vaše milované. Nabízíme vám nový začátek. Aby vaše rodina nemusela už nikdy strádat."*
-
-> **[[Domča - Tobias Flynn]]** = Kaito Ishikawa
-> Tma se rozplývá ve světle zářivek kuchyně. Místo smradu cítíš vůni zázvoru a sečuánského pepře. Stojíš ve své kuchyni na palubě nákladní lodi. Na nářadí i hrncích je vyražený reliéf s názvem lodi, _Tidal's Reach_. Za tebou se ozvá známý hlas. *Kenji*, napadne Tě. Jen nevíš proč.
-> **Kenji:** (mladý navigátor vběhne dovnitř, oči mu září) _"Kaito! Teda tady to voní. Kapitán bude čumět. Už jsme ho zavolali a všichni se už schází v jídelně! Máš dort? Teda, vypadá dobře."_ řekne mladík, zatímco kouká do lednice.
+> ANALÝZA BIOMARKERŮ: VYSOKÁ
 > 
-> Před tebou stojí kotel vývaru. Právě se chystáš přidat do vroucího vývaru tu nejvzácnější ingredienci – plátky lunární houby, které musí být orestovány na přesně 182 stupních. Pak už jen stačí zakápnout pravým sezamovým olejem.
+> OVĚŘENÍ IDENTITY: NEGATIVNÍ
+> SUBJEKT 1 (HUMANOID): NEZNÁMÝ
+> SUBJEKT 2 (HUMANOID): NEZNÁMÝ
 > 
-> Když se mu to podaří, donese s Kenjim vývar do jídelny, kde sedí dalších 11 členů posádky. Kenji nese tác s nudlemi, houbami, zeleninou. Všichni začnou tleskat. Nakonec přijde sám kapitán. Zamáčkne slzu: *To jste nemuseli.* (zaspívají happy birthday to you, captain Sato) sotva kapitán přichne k vývaru, ozve se rána a loď se otřese. *Všichni v klidu! Kenji, okamžitě prověř nákladový prostor! Přišlo mi, že to byla rána zespodu.*
-> 
-> Z chodby se ozve výstřel. Kenji zakřičí. Do jídelny vtrhnou dva piráti. Jsi pro ně jen překážka. Snadno tě odzbrojí a srazí k zemi. Ležíš bezmocně mezi rozlitým vývarem a zničenými sny. Piráti začnou střílet. Většina posádky nemá šanci. Když ve vzduchu zůstane jen smrad střelného prachu, jeden z pirátů se nakloní přes stůl na vzácný vývar. _Tak to mi poser. Ty si nakládali držky. Hádám, že tahle loď bude napakovaná kreditama až pod střechu..._
-> 
-> Podlaha se pod tebou propadne. Sedíš na tvrdé kovové židli v uprchlickém centru. Tvoje vesmírná rodina je pryč. Citíš uvnitř strašné svíravé pocity. Tiskneš si k sobě kolena, až máš klouby úplně bílé. Vedle si přisedne pohledná, dobře upravená žena v černém kostýmku. _"Pane Ishikawo, slyšela jsem, co se stalo. Hrozné, opravdu hrozné. Ta bezmoc, kterou jste prožil... Ale také vím, jak pro vás nemalý plat na Tidal's Reach byl důležitý. Ztratil jste svou posádku, svou rodinu ve vesmíru. Ale vaše pravá rodina Vás stále potřebuje. Jejich léčba je nákladná, vím. Ale my můžeme pomoci. Nejenom, že vám za spolupráci můžeme dobře zaplatit, ale také bychom mohli vám i vašim rodičům zařídit léčbu. Nákladnou a dlouhou, pravda,  ale funkční. Měl byste chvíli, abychom probrali detaily? Jmenuji se Byllara Twainová, Genesis Solutions."_ odkašle si a upraví sako.
+> STATUS PŘÍSTUPU: OMEZENÝ
+> OPRÁVNĚNÍ: HOST
 
-> **[[Vojta - Vikram Vox]]** = Morbin Wexler
-> Skřípění kovu se mění v pískot zpětné vazby. Jsi v zákulisí baru _Neon Drift_, vzduch je plný napětí a je slyšet šum ze sálu. Hubená blondýna, oblečený ve vyzývavém černorůžovém kombiné. 
-> 
-> **Wayleen:** (tvoje zpěvačka, na tebe křičí) _"Ten zesilovač zase chrčí! Dala jsem ti všechny peníze na novej a ty přineseš tenhle šmejd z bazaru! Kde je zbytek peněz, Morbine? Zas si je prochlastal?_
-> 
-> hádají se
-> 
-> **Wayleen:** _"Tahle sračka z bazaru co si koupil je k ničemu! Jestli se ti se mnou vystupovat nelíbí, můžeš si celý set odzpívat sám!"_
-> 
-> Show musí pokračovat. Ať už hraješ sám nebo s naštvanou Wayleen, je to katastrofa. Ta si bude chtít vzít většinu výplaty, protože jí dlužíš za zesilovač. Po "koncertě" tě v temné uličce obstoupí tři postavy.
-> 
-> **gangster:** _(ušklíbne se)_ "Morbine, Morbine. Pěkná písnička. Ale nájem nezaplatí. A ani tvůj dluh."
-> 
-> (Pokusíš se je ukecat, ale marně. Dva tě chytí a drží.)
-> 
-> **gangster:** _"Umělec potřebuje prsty, že? Pár ti jich nechám, abys měl čím drnkat. Ale taky abys pochopil, že to myslíme vážně."_ (Ozve se odporné křupnutí. Bolest je oslepující.
-> 
-> 
-> O pár dní později stojíš v chodbě před svým bytem. Věci v pytlích opřené o dveře, zámek vyměněný, noha v ortéze. Smutně vezmeš svoje věci a vyjdeš před dům. Na ulici čeká elegantní muž v drahém kabátě s odznakem) _"Pane Wexlere? Tady! Pane Wexlere, koukám, že máte těžké časy. Pojďte se na chvíli posadit._ Otevře mu dveře speederu. "*Jmenuji se Elias Vancock, Genesis Solutions.*" odkašle si a upraví sako. *"Víte, byl jsem na vašem koncertě, v hale Event Horizon. Málokdo z nezávislé scény se tam podívá, byť jen jako host. Dobrá řeč, mimochodem. A měl bych pro Vás obchodní nabídku. Společnost Genesis Solutions, kterou zastupuji, by vám mohla velmi pomoci. Už nebudete muset žít ve strachu. Víme o vaší dceři v sirotčinci na Aethelu. Ty peníze, co jste jí posílal... budou jí chybět. Vaše dcera bude zaopatřená. Vy dostanete... nový začátek. Daleko od tohohle všeho. Tahle špína je sice pro umělce inspirativní, ale vy máte na víc."*
+Pustí je do přetlakové místnosti, kde je omyje tryska a vedou do velké místnosti. Signál bezdrátových vysílaček přes skálu a ocel trochu vypadává.
 
-**1. června 3162, 1:00**
+Vysoká místnost. Osvětlená shora (bodovkami) a na strop skoro není vidět. Stěny jsou z hladkého materiálu, vypadající jako vyleštěná tekoucí láva. Podlaha je dokonale rovná, z černého materiálu.
 
-Skupina leží vyčerpaná a těžce zraněná ve sklepě Darruna Mugrosta po boji se slizáky. Očekávají pomoc nebo cokoliv. Konečně se rozsvítí silná světla, o kterých Darrun mluvil. Prudké světlo pálí do očí. Otupuje smysly. Ta svíravá bolest. Ale zakřičet nelze. Kéž by byla znovu tma. Ozve se pravidelné klapání, jak starý pirát jde dolu ze schodů.  *"No doprdele. Tady to vypadá. Zkurvený slizníci. Ale zdá se, že je po nich."* Opatrně projde kolem, prohlédnout místnosti. Pak zkontroluje Tobiho tep. *"Kurva. Asi je i po makáčích. U kapitánovo kamený prdele. Prej to zvládnou levou zadní. Pako ten Ori. Kurva. Vyčistili mi sklep, to se musí nechat. No nic. Jak se říká, co je lepší než dobře odvedená práce? Dobře odvedená práce za kterou nebudu platit."* Uvidí malého slizníka jak ožužlává Vikramovu baterku. Prohledá jim kapsy a dá nějaké vybavení stranou, najde jeden z plamenometů [[Blackstar Flame++|Flame++]] a slizníka sesmahne. Pak na chvíli zmízí za rohem. Darrun něco nakliká do terminálu, a přistaví vedle nich plechový kontejner. *Achjo. Achjo. Tak pojďte vy paka.* Problumlává si při tom. Pak je malou elektrickou ještěrkou nabere a hodí do kontejneru. Dvířka se ze zasyčením zavřou a je cítit, jak se kontejner pohybuje. Ten asi deset minut stojí na místě, než se dá do pohybu. Tma, zápach, zvuk klouzajícího kovu, dunivé nárazy a dezorientace. Konejner se najednou otočí a vy padáte do temnoty. Pád končí tvrdým dopadem do hromady vlhkého, páchnoucího odpadu.
+Uprostřed je stolek s několika křesílky. Najdou tam vylitý čaj na koberci, je ještě teplý. Ve vzduchu je cítit sladké koření, něco jako skořice a badyán. Za jedním s křesílek je deka opuštěná ve spěchu. [[Vojta - Vikram Vox|Vikram]] se uloží na koberec.
 
-Všude kolem jsou hory odpadků, zbytky jídla, rozbitá elektronika a neidentifikovatelný sliz. V dálce slyší skřípění lisů a vidí blikající varovná světla. Jsou na absolutním fyzickém i psychickém dně. Vyčerpání je ale silnější než odhodlání se pokusit se ke světlům dostat.
+Tobi zakřičí: "*Hledáme Kathrine!*" Pak si sedne na stůl a čeká. 
 
-**...**
+[[Vojta - Vikram Vox|Vikram]] a [[Domča - Tobias Flynn|Tobi]] uslyší hlas. Ne z reproduktorů, ale rezonuje prostorem. Je to mužský hlas, klidný, hluboký a rezonující, s tónem starého učitele, který právě přistihl žáky při něčem nekalém. *"Hledat je jedna věc. Být pozván je věc druhá. Vstaň z toho koberce, chlapče. Není tkaný pro boty potřísněné pirátským prachem."* Na vyvýšeném balkóně v šeru, který byl doteď neviditelný (nebo tam doteď nebyl?), se objeví dvě postavy.
 
-Skupina si vymění pár vět aby ověřili, že žijí. Vymanit se s odpadků je prakticky nemožné. Pravděpodobně je tady čeká smrt. Po mnoha hodinách čekání uslyší speeder a uvidí světlo. "*Zastav. Támhle ty cívky. Budou se hodit jako vyrovnávače napětí.* "*A co je to vedle?*" ...
+>- **Muž (Luther "Médium"):** Starší, prošedivělý padesátník v jednoduchém volném oděvu. Opírá se o zábradlí a prohlíží si vás s analytickým klidem. Nemá zbraň, ale jeho pohled je těžší než hlaveň pušky.
+    
+- **Dívka (Maia Vance):** Stojí o krok za ním. Je mladá, sotva devatenáct. Má na sobě těsnější, funkční kombinézu s prvky, které připomínají pilotní gear. Její postoj je napjatý, ruce má sevřené v pěst a kolem prstů jí přeskakují drobné, sotva viditelné jiskry – poruchy reality. Vypadá vyděšeně, ale o to nebezpečněji.
 
-*U háku z majáku, slyšels to, jak kdyby tu někdo volal?* Skupina prohledávačů odpadků dorazí ke skupině. Objeví se postava v improvizovaném ochranném obleku. Inženýr [[Paradox]] si jich zprvu nevšímá, považuje je za další trosky. Pak se ale jeho pohled zastaví na Iškově tváři. Strhne si dýchací masku. *"Svatá Matko všech obvodů... ta mrtvola vypadá jak Iskandar Mashinkar ze Stellaru?"* ... *"Co tady, u všech čertů, děláš? V síti kolovala zpráva, že ho po tom fiasku se Stellarem sebrali agenti z ABI. Říkalo se, že jsi zmizel."* [[WOSP]] inženýr je zná (nebo alespoň Iška) z pověsti. Má důvod jim pomoci. Pravý Iško byl pro WOSP cenným zdrojem informací (i když neúmyslným), takže jeho "záchrana" má pro komunitu hodnotu. Skupina má cestu ven z odpadků. Inženýr zná tajné cesty a má skrýš.
+Maia: *"Jak znáte to jméno? Kdo vám dal souřadnice? Mluvte, nebo vás pošlu na oběžnou dráhu."*
 
-[[Paradox]], jak si inženýr nechá říkat, je veskrze dobrý, i když zvláštní člověk. Šok z nálezu "Iskandara Mashinkara" rychle přebije jeho profesionální instinkt. S pomocí svých dvou mlčenlivých pomocníků vás opatrně naloží na malý nákladní vznášedlový vozík a přikryje plachtou. Cesta je zmatená a dezorientující; projíždíte zapomenutými servisními tunely, starými nákladovými šachtami a místy, která evidentně nejsou na žádné oficiální mapě Ostrova Sirén. Po zhruba dvaceti minutách jízdy se zastavíte před zdánlivě pevnou stěnou, která je k nerozeznání od okolního zrezivělého kovu. Paradox přiloží ruku na skrytý panel a dveře se s tichým syknutím odsunou stranou.
+[[Vojta - Vikram Vox|Vikram]] Kathrine říkala, že máme silnou auru.
 
-Není to byt, ale spíše rozlehlá, zapomenutá dílna v jedné z nejstarších sekcí stanice. Prostor je překvapivě čistý a organizovaný, i když působí chaoticky. Jeho spolupracovníci se tiše rozloučí, vyloží náklad a odletí.
+"Cítím ve vás... ozvěnu. Je silná, ale chaotická. Hlučná. Jako rozladěný nástroj.
 
-Dominuje zde velký pracovní stůl, nad kterým se ve vzduchu vznášejí holografické nákresy a rovnice. Nástroje visí na magnetických lištách v dokonalém pořádku. Všude jsou roztříděné boxy s nápisy jako "Yttriové Cívky (Poškozené)", "Kvantové Stabilizátory" a "Repulzory ke kalibraci". V rohu místnosti je jednoduchá houpací síť, malý hydroponický záhon, ze kterého se line vůně čerstvých bylin (luxus, o kterém se většině obyvatel stanice ani nesní), a terminál napojený na filtrovanou vodu a dávkovač nutriční pasty. Zadní stěnu dílny tvoří masivní, kruhové tlakové dveře, jaké se používají v hangárech pro velké lodě. Jsou hermeticky uzavřené a zjevně nepatří do takto malé dílny. Vedou k nim tlusté energetické kabely. Pokud se zeptáte, Paradox jen mávne rukou: _"Tam nechoďte. Tlakování je tam nespolehlivé. Staré harampádí."_ Za velkými tlakovými dveřmi se skutečně nachází malý, upravený hangár. Paradox ho během let vyčistil a zprovoznil. V něm stojí jeho životní dílo: malá, ošklivá, ale funkční loď jménem _The Free Will_. Je to hybrid sestavený z desítek různých vraků. Původně nebyla schopná FTL letu, ale Paradox do ní zabudoval první funkční, i když extrémně nestabilní, prototyp pohonu **L.I.F.T.** Je to jeho jediná cesta pryč z Ostrova Sirén a zároveň největší tajemství, které se bojí komukoli odhalit. neví o něm ani jeho spolupracovníci.
+_"Na to se neptám, Luthere. Ptám se na Kathrine. Nikdo, koho znám, by cizincům nedal naše souřadnice. Ledaže..."_ (Její hlas ztvrdne obavou) _"...ledaže byste je z ní dostali násilím."_
 
-**5. června 3162, 18:00**
+Nakonec jim ale dokáží, že Kathrine pomohli. Maia jim řekne trochu o své historii, že jí zachrání Katrine z Emporie. Ukáže jim, kde je sprcha a jídlo. Natáhnou se do hamaky. Paradox pořád breptá, že není možný, aby Maia uměla létat FTL bez FTL pohonu. Luther jim nabídne, že jim může voperovat biomplantát na vnímání _aury_. Souhlasí. Umyjí se, nají se, odpočinou si. 
 
-Regenerace +3
+**12. července 3162, 8:00**
+Potkají se ráno v hlavní místnosti. Luther řekne, že ošetřovna je připravená. První si na lůžko ulehne [[Falkon - Iskandar Mashinkar|Iško]]. "*Operace může být lehce nepříjemná. Ale protože část implantátu je v mozku, nelze provést v celkové narkóze.*"
 
-Iško 3 HP, Tobi 3HP, Vik 2HP
+Druhý jde na řadu [[Vojta - Vikram Vox|Vikram]]. Luther: *Tento implantát není kus kovu, je to... symbiotická tkáň. Musí se napojit na váš zrakový nerv a splynout s vaším nervovým systémem.*
 
-> Paradox vás uloží na provizorní lůžka a bez ptaní se pustí do práce. Použije automatický med-kit, který aplikuje na vaše zranění desinfekční pěnu a synth-kůži. Jeho pohyby jsou rychlé a efektivní.
-> 
-> **Paradox:** (zatímco ošetřuje Iška) *"Jezte. Pijte. Musíte se zotavit. Těla máte v hrozném stavu. Tohle... tohle je na mě. Nemůžu vás nechat umřít. Zvlášť ne... vás."*
-> 
-> *"Musím se prostě zeptat. Omlouvám se, jestli je to nevhod, ale... ta zpráva o vašem zmizení byla pro projekt L.I.F.T. katastrofa. Myslel jsem si, že je konec. Ale teď jste tady. Musím vědět..."*
-> 
-> A pak to začne. Jeho potlačované nadšení a léta izolace se provalí v nezastavitelném proudu otázek. Nebude čekat na odpovědi, bude spíše přemýšlet nahlas a ověřovat si své teorie na někom, koho považuje za mistra svého oboru.
-> 
-> Technobabble: *Jak jste na Poutníku vyřešili přemostění paliva na tak malém prostoru?Já zkoušel plazmový injektor, ale přehříval se. Musel to být nějaký speciální ventil, nebo snad dezintegrace paliva přímo v komoře? Dělal jsem nějaké výpočty a myslím, že je to možné. Určitě dezintegrace, je to tak? Co ten Flux Core? Unikli nějaké plány, ale není to uplné. To je jen marketing, nebo jste opravdu dokázali stabilizovat kvantovou pěnu pro napájení FTL? Já to věděl. Použili jste na Poutníku standardní slitinu Yttria pro warpové cívky? Nebo je pravda, co se šuškalo o kompozitu s příměsí z vortexanských slitin, které jste našli? To by vysvětlovalo tu neuvěřitelnou efektivitu! Jak jste kalibrovali navigační matici pro skok v gravitační studni? Všechny moje simulace tam kolabují. Museli jste použít prediktivní AI, která modelovala tisíce variant v reálném čase, že ano? Neskutečný. Na to tu nemám hardware. Musel bych se nějak napíchnout na počítač v archivu. A chlazení! Proboha, to chlazení. Subprostorové chladiče strašně velké! Museli jste použít nějakou formu fázového přechodu chladiva, že? Něco, co se v subprostoru vypaří a při výstupu okamžitě kondenzuje? Jak zabráníte kaskádovému selhání, když dojde k protržení warpové bubliny? Při tak nízkém koeficientu odporu magnetické pole samo o sobě nestačí, je tam nějaký kinetický tlumič, který absorbuje tu energii? Museli jste optimalizovat geometrii warpového pole, že? Zploštit ho, aby mělo menší odpor v subprostoru?*
+Vaše těla... nejsou zraněná. Jsou přepsaná. Vidím stovky, tisíce mikrochirurgických zásahů. Kosti byly zbroušeny a znovu nastaveny. Svalové úpony přesunuty. Dokonce i vaše tváře... kůže byla stažena a znovu vytvarována. Kdo by si dal tolik práce, aby vás změnil? Děje se tady nějaká černota. Nevím, proč z vás někdo vysochal ty, kdo jste, ale měli byste si po zákroku odpočinout.
 
-[[Falkon - Iskandar Mashinkar|Iško]] se ptá kdy zmizel? únor - březen 3161. 
-Iško zodpovídá Paradoxovi jeho technické otázky.
+Maia má auru silnější, ale ještě celkem divokou. [[Paradox]] šel mezitím opravovat The Free Will. 
 
-**6. června 3162, 8:00**
+[[Falkon - Iskandar Mashinkar|Iško]] si vzpomene na to, že [[Valerius]] taky někde zmizel a pak se objevil jako velký korporátní zvíře. Co když má podobnou úpravu a prošel stejným experimentem? Možná by stálo za to jej ještě navštívit. 
 
-Druhý den už jsou schopní zvednout se z lůžka. Osprchují se. Paradox v dílně není, nechá je tam bez dozoru. Iško jim řekne, že [[Paradox]] je pravděpodobně někdo, kdo zná jeho manželku, rozhodně ví o spoustu věcí leaknutých ze [[Stellar|Stellaru]]. 
+Po té, co si odpočinou, tak je navštíví Maia.  
 
-Vypráví si svoje vzpomínky.
+*Iško, to nedává smysl. Fyzikálně. Ona tvrdí, že 'ohýbá prostor myslí'. To je... to je urážka inženýrství! Kde má emitor? Kde má chlazení? Člověk nemůže mít příkon gigawattového reaktoru!*
 
->[[Vojta - Vikram Vox|Vikrama]] napadne, že pokud nějaká shady organizace chtěla zvednout svůj vliv ve vesmíru, hodilo by se mít lidi z [[Alianční úřad pro vyšetřování|ABI]], [[Alianční Armáda|AA]] a [[Stellar|Stellaru]]. 
+Paradox se naštrve a jde do sprchy. Nelíbí se mu, že Strážci jsou samá hádanka a žádná odpověď. [[Vojta - Vikram Vox|Vikram]] přemlouvá Maiu, aby pomohla Paradoxovi s opravami Free Will. "*S tou kraksnou? No tak jooo.*"
 
- Přemýšlí co se stalo? Možná nedokončený experiment. Sloučené skilly a vzpomínky v každém z nich? Těžko říci. 
- 
- Když se [[Paradox]] vrátí, Virkam se zeptá kde jsou. Paradox odpoví, že jsou v útrobách starého freigheteru, do kterého tečou splašky a odpadky z celého [[Gloomwell|Ostrova Sirén]]. 
- 
- Zprávy ve WOSP designech.
- 
- > *HHracer_IX* se od 24.2. 3161 neukázal na žádném závodním fóru.
- > 
- > Lidi tu mizí. Stellar čistka. Sledujte kanály.
- > 
- > *HHracer_IX* šel příliš hluboko do systémů firmy a narazil na zakázané projekty. Přecednictvo se o něj postaralo. Poutník přesunut do jiného týmu.
- > 
- > *HHracer_IX* byl zabit na průzkumné misi, aby zakryli, že ho ve skutečnosti „odklidila“ ABI.
+
+**12. července 3162, 16:00**
+[[Vojta - Vikram Vox|Vikram]] & [[Domča - Tobias Flynn|Tobi]] tři dny odpočívají a regenerují. [[Paradox]], [[Falkon - Iskandar Mashinkar|Iško]] a Maia opraví [[ABS]], [[Dálkové skenery]] a [[Blízké senzory]], [[Trup|Hull]] a [[Bateriové záložní systémy]]. 
+
+Odpoledne na oběžnou dráhu přiletí [[Kathrine]] s její lodí _Polárka_. 
+
+Na nedalekém systému mám známého v nedalekém systému Heckseol, který jim sežene falešnou identitu a loď jim zaregistruje.

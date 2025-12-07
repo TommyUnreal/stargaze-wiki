@@ -20,6 +20,8 @@
     * [[Stellar]]
     * [[Synthetix]]
     * [[Turgall Company]]
+    * [[Vector Systems]]
 * Žoldnéřské skupiny
+    * [[Deathfaces]]
     * [[Popelavá Legie]]
     * [[Rudí jestřáby]]

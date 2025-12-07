@@ -111,7 +111,9 @@
       * [[Stellar]]
       * [[Synthetix]]
       * [[Turgall Company]]
+      * [[Vector Systems]]
   * Žoldnéřské skupiny
+      * [[Deathfaces]]
       * [[Popelavá Legie]]
       * [[Rudí jestřáby]]
 * Pravidla
@@ -129,6 +131,7 @@
         * [[Ochromující střela]]
         * [[Paralyzer]]
         * [[Shaky But Loud]]
+        * [[Silent Operation]]
         * [[Spitfire]]
         * [[Trigger & Pray]]
         * [[Ultrasonic Cut]]
@@ -291,10 +294,20 @@
       * Cold weapons
           * [[Blackstar Blood Razor]]
           * [[Pouliční Vibronůž]]
+          * [[Vector VS-22]]
+          * [[Vector VS-32]]
+          * [[Vector VS-68]]
       * Energy Weapons
+          * [[ADS T-10]]
+          * [[ADS T-11]]
+          * [[ADS T-50]]
           * [[Blackstar P2]]
           * [[WOSP PAT 2.1]]
           * [[WOSP PUB 1.0]]
+      * Explosives
+          * [[ADS E-1]]
+          * [[ADS E-9]]
+          * [[Vector TE R-46]]
       * Longarms
           * [[Blackstar AR5]]
           * [[Turgall Horizon]]
